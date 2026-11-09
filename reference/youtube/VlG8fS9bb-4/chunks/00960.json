@@ -1,0 +1,175 @@
+{
+ "start": 960,
+ "events": [
+  {
+   "t": 960.0,
+   "type": "music",
+   "what": "Upbeat, lo-fi hip hop music starts, instrumental with a steady beat."
+  },
+  {
+   "t": 960.0,
+   "type": "voiceover",
+   "what": "Creator begins speaking in Vietnamese over b-roll of a Shanghai street."
+  },
+  {
+   "t": 967.5,
+   "type": "cut",
+   "what": "Cut to interior of 'Déjà Vu' recycle store."
+  },
+  {
+   "t": 976.0,
+   "type": "text",
+   "what": "'@ Déjà Vu' in yellow font, top right corner."
+  },
+  {
+   "t": 981.5,
+   "type": "broll",
+   "what": "Creator looking at books in the store."
+  },
+  {
+   "t": 992.0,
+   "type": "speed",
+   "what": "Fast-forwarding through flipping pages of a book."
+  },
+  {
+   "t": 1012.5,
+   "type": "broll",
+   "what": "Stairs with luxury brand names printed on each step."
+  },
+  {
+   "t": 1029.0,
+   "type": "talk_to_camera",
+   "what": "Creator talks to camera via a mirror reflection while trying on bags."
+  },
+  {
+   "t": 1066.5,
+   "type": "talk_to_camera",
+   "what": "Creator talks directly to camera while walking down stairs."
+  },
+  {
+   "t": 1077.5,
+   "type": "text",
+   "what": "'Wechat' and 'Alipay' appear as white text on screen to emphasize spoken points."
+  },
+  {
+   "t": 1096.5,
+   "type": "cut",
+   "what": "Cut to a sign explaining the store is a recycle store."
+  },
+  {
+   "t": 1107.5,
+   "type": "text",
+   "what": "'@ Brandy Melville' in yellow font, top right corner."
+  },
+  {
+   "t": 1116.0,
+   "type": "talk_to_camera",
+   "what": "Mirror shots of the creator trying on clothes in Brandy Melville."
+  },
+  {
+   "t": 1130.0,
+   "type": "text",
+   "what": "'@ HARMAY' in yellow font, top right corner."
+  },
+  {
+   "t": 1134.0,
+   "type": "voiceover",
+   "what": "Voiceover resumes over b-roll of cosmetics in Harmay."
+  },
+  {
+   "t": 1166.5,
+   "type": "talk_to_camera",
+   "what": "Creator talks to camera while walking on the street."
+  },
+  {
+   "t": 1174.0,
+   "type": "talk_to_camera",
+   "what": "Creator in front of 'iapm' mall entrance."
+  },
+  {
+   "t": 1179.5,
+   "type": "text",
+   "what": "'Wander through the park' in white serif font, center screen."
+  },
+  {
+   "t": 1185.0,
+   "type": "text",
+   "what": "'@ Gentle Monster' in yellow font, top right corner."
+  },
+  {
+   "t": 1185.0,
+   "type": "talk_to_camera",
+   "what": "Creator trying on various sunglasses in Gentle Monster."
+  },
+  {
+   "t": 1197.5,
+   "type": "talk_to_camera",
+   "what": "Creator talks to camera while sitting on a rental bike."
+  },
+  {
+   "t": 1205.0,
+   "type": "broll",
+   "what": "POV shot from the bike handlebars while riding."
+  },
+  {
+   "t": 1213.5,
+   "type": "text",
+   "what": "'@ BIRDHUT' in yellow font, top right corner."
+  },
+  {
+   "t": 1226.0,
+   "type": "talk_to_camera",
+   "what": "Creator talks to camera while eating roasted goose/duck."
+  },
+  {
+   "t": 1242.5,
+   "type": "cut",
+   "what": "Transition to evening/night shots of the city."
+  },
+  {
+   "t": 1250.5,
+   "type": "broll",
+   "what": "Nighttime POV bike riding."
+  },
+  {
+   "t": 1259.5,
+   "type": "talk_to_camera",
+   "what": "Creator talks to camera while riding the bike at night."
+  },
+  {
+   "t": 1265.0,
+   "type": "talk_to_camera",
+   "what": "Creator in hotel room, talking to camera while removing makeup with a cotton pad."
+  },
+  {
+   "t": 1275.5,
+   "type": "text",
+   "what": "'ZZER Hongqiao Tiandi' appears as white text."
+  },
+  {
+   "t": 1293.5,
+   "type": "photo",
+   "what": "Creator shows photos of bags on her phone screen to the camera."
+  },
+  {
+   "t": 1346.5,
+   "type": "text",
+   "what": "'Hongqiao Comprehensive Transportation Hub' appears as white text."
+  },
+  {
+   "t": 1382.5,
+   "type": "broll",
+   "what": "Close-up of a translation app on the phone."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a day of shopping and dining in Shanghai. It starts with visits to 'Déjà Vu' (recycle store), 'Brandy Melville', and 'Harmay' (cosmetics). It then transitions to 'Gentle Monster' for sunglasses, followed by a bike ride to dinner at 'Birdhut'. The final segment is a 'get ready for bed' style talk-to-camera in a hotel room where she reflects on the day and shows photos of items she saw.",
+  "pacing": "Fast-paced with frequent cuts (every 2-4 seconds) during b-roll sequences. Pacing slows down significantly during talk-to-camera segments, allowing the creator to tell stories.",
+  "music": "Consistent lo-fi hip hop track throughout. It provides a relaxed, trendy atmosphere suitable for a lifestyle vlog. The volume is ducked whenever there is speech.",
+  "voice": "The creator uses a mix of live talk-to-camera (often handheld or mirror shots) and voiceover. The tone is casual, friendly, and informative, typical of a personal vlog.",
+  "sound_design": "Minimal sound design beyond the music and ambient noise from the streets and stores. Natural sounds like the bike rattling or restaurant chatter are kept low.",
+  "text_style": "Uses a signature yellow font in the top right corner to identify locations ('@ Store Name'). Occasional white text appears in the center or near the creator to emphasize specific words or names.",
+  "visual_style": "Handheld, slightly shaky camera work gives an authentic 'day in the life' feel. Includes many mirror selfies and POV shots. The color grade is natural with warm tones.",
+  "signature_moves": "Identifying every location with a consistent text overlay style; showing phone screens to share photos or apps; talking to the camera while performing a mundane task (removing makeup)."
+ }
+}

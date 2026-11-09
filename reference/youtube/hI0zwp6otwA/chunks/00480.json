@@ -1,0 +1,190 @@
+{
+ "start": 480,
+ "events": [
+  {
+   "t": 480.0,
+   "type": "ambient",
+   "what": "Natural sounds of water splashing and birds chirping as the group washes their faces."
+  },
+  {
+   "t": 482.0,
+   "type": "talk_to_camera",
+   "what": "Elena talks to the camera about the cold night and the upcoming sun exposure."
+  },
+  {
+   "t": 489.0,
+   "type": "broll",
+   "what": "Close-up shots of a hearty breakfast being served: eggs, toast, bacon, and fruit."
+  },
+  {
+   "t": 493.0,
+   "type": "talk_to_camera",
+   "what": "Elena and her friends in the dining tent, joking about the quality of the food."
+  },
+  {
+   "t": 502.0,
+   "type": "music",
+   "what": "Upbeat, rhythmic acoustic guitar music begins, setting an adventurous tone."
+  },
+  {
+   "t": 502.0,
+   "type": "broll",
+   "what": "Montage of the group hiking through a lush, mossy forest."
+  },
+  {
+   "t": 517.0,
+   "type": "talk_to_camera",
+   "what": "Elena pauses in the forest to give a quick update on Day 2."
+  },
+  {
+   "t": 523.0,
+   "type": "broll",
+   "what": "Shots of porters carrying heavy loads and the group continuing their ascent."
+  },
+  {
+   "t": 532.0,
+   "type": "talk_to_camera",
+   "what": "Elena talks about the heat and removing layers as they climb higher."
+  },
+  {
+   "t": 544.0,
+   "type": "talk_to_camera",
+   "what": "The guide shows the group 'African Wormwood' and explains its use as a natural deodorant."
+  },
+  {
+   "t": 561.0,
+   "type": "photo",
+   "what": "A brief screenshot of a previous video titled 'this is what Jordan is really like' is shown for context."
+  },
+  {
+   "t": 564.0,
+   "type": "broll",
+   "what": "Wide shots of the trail and the distant mountain peaks."
+  },
+  {
+   "t": 573.0,
+   "type": "talk_to_camera",
+   "what": "Elena talks about the amazing support from the Kili Warriors team during lunch."
+  },
+  {
+   "t": 595.0,
+   "type": "broll",
+   "what": "Close-up of hiking boots on the rocky trail."
+  },
+  {
+   "t": 602.0,
+   "type": "talk_to_camera",
+   "what": "Elena introduces Kilongo, one of the porters, to the camera."
+  },
+  {
+   "t": 608.0,
+   "type": "broll",
+   "what": "Cinematic shots of the changing landscape and Elena sitting on a rock overlooking the valley."
+  },
+  {
+   "t": 628.0,
+   "type": "talk_to_camera",
+   "what": "Elena points out Mount Kilimanjaro in the distance."
+  },
+  {
+   "t": 632.0,
+   "type": "broll",
+   "what": "The group arrives at Shira Camp; shots of the camp sign and tents."
+  },
+  {
+   "t": 641.0,
+   "type": "talk_to_camera",
+   "what": "Elena shows the view from the camp as the sun begins to set."
+  },
+  {
+   "t": 654.0,
+   "type": "broll",
+   "what": "Dinner is served in the tent; Elena eats soup and bread."
+  },
+  {
+   "t": 667.0,
+   "type": "talk_to_camera",
+   "what": "Elena records a vlog from inside her sleeping bag, shivering and talking about the extreme cold."
+  },
+  {
+   "t": 707.0,
+   "type": "title",
+   "what": "Graphic overlay: 'SHIRA CAMP DAY 3' with altitude and progress stats."
+  },
+  {
+   "t": 710.0,
+   "type": "talk_to_camera",
+   "what": "Elena wakes up in the tent, talking about the frost outside."
+  },
+  {
+   "t": 741.0,
+   "type": "talk_to_camera",
+   "what": "Elena brushes her teeth and prepares for the day outside her tent."
+  },
+  {
+   "t": 748.0,
+   "type": "talk_to_camera",
+   "what": "The group uses metal plates as makeshift mirrors while getting ready."
+  },
+  {
+   "t": 759.0,
+   "type": "text",
+   "what": "Elena gets her oxygen levels checked. Text: 'oxygen level slay' appears on screen."
+  },
+  {
+   "t": 770.0,
+   "type": "talk_to_camera",
+   "what": "Elena stands in front of the mountain, ready to start the day's hike."
+  },
+  {
+   "t": 779.0,
+   "type": "music",
+   "what": "Music shifts to a more driving, rhythmic beat."
+  },
+  {
+   "t": 779.0,
+   "type": "broll",
+   "what": "Extensive hiking montage through rocky, volcanic terrain and past stone cairns."
+  },
+  {
+   "t": 811.0,
+   "type": "talk_to_camera",
+   "what": "The group takes a break in a small cave; Elena jokes about it being her new home."
+  },
+  {
+   "t": 824.0,
+   "type": "talk_to_camera",
+   "what": "Elena sits alone on a rock journaling, sharing an emotional reflection on pushing her limits."
+  },
+  {
+   "t": 881.0,
+   "type": "broll",
+   "what": "Sweeping drone-like shots of the mountain and the camp."
+  },
+  {
+   "t": 890.0,
+   "type": "title",
+   "what": "Graphic overlay: 'MOIR HUT DAY 4' with altitude stats."
+  },
+  {
+   "t": 901.0,
+   "type": "talk_to_camera",
+   "what": "Elena performs her morning skincare/washing routine outside her tent."
+  },
+  {
+   "t": 922.0,
+   "type": "broll",
+   "what": "Final hiking montage of the day through a desolate, high-altitude landscape."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a chronological progression of a multi-day hike up Kilimanjaro, covering parts of Day 2, Day 3, and the start of Day 4. Each day follows a pattern: morning routine/skincare, hiking montage, and camp reflections.",
+  "pacing": "The pacing is dynamic, alternating between fast-cut hiking montages synced to rhythmic music and slower, intimate talk-to-camera segments where the creator shares her thoughts and feelings.",
+  "music": "The music is primarily acoustic indie-folk, featuring rhythmic guitar and percussion that builds momentum during hiking scenes and softens during reflective moments.",
+  "voice": "Elena's tone is personal, enthusiastic, and occasionally vulnerable. She speaks directly to the camera as if talking to a friend, mixing practical information with emotional insights.",
+  "sound_design": "Natural ambient sounds like wind, footsteps on gravel, and water splashing are layered with the music to ground the viewer in the environment.",
+  "text_style": "Minimalist sans-serif fonts are used for location titles. Playful, lower-case captions (e.g., 'oxygen level slay') add a modern, relatable vlog touch.",
+  "visual_style": "The visual style combines handheld 'vlog-style' footage with cinematic wide shots and drone-like vistas of the mountain landscape. The color grade is natural but vibrant, emphasizing the earth tones of the trail.",
+  "signature_moves": "Signature moves include the 'hand-to-lens' transition to start/end segments, pointing at landmarks, and the use of a circular graphic overlay to track altitude and progress."
+ }
+}

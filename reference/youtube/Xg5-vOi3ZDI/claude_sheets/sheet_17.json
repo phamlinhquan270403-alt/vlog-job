@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#222 09:26.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in black top walking on snowy rocky mountain trail",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, blue sky with clouds, slightly warm grade"
+  },
+  {
+   "label": "#223 09:32.2",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman with ponytail and sunglasses looking left, backpack straps visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shallow depth, rocky background with snow patches"
+  },
+  {
+   "label": "#224 09:38.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Smiling woman in sunglasses holding trekking pole, talking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing, mountain slope behind, natural light"
+  },
+  {
+   "label": "#224 09:43.9",
+   "shot": "other",
+   "camera": "handheld",
+   "subject": "Woman with trekking pole hiking, text overlay across frame",
+   "text_on_screen": "LOOK WHAT I'VE DONE THIS ... (partially legible overlay)",
+   "text_style": "Yellow, bold sans-serif with outline, small, centre-upper area",
+   "notes": "Caption appears mid-shot, likely a playful joke caption; verify exact wording on source"
+  },
+  {
+   "label": "#225 09:47.1",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Wooden trail signpost with many direction arrows in front of rocky peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static establishing shot, bright, slightly hazy distant mountains"
+  },
+  {
+   "label": "#226 09:48.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Small figure walking on wide rocky path below cliff face",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Landscape, cloudy sky, stone wall on left"
+  },
+  {
+   "label": "#227 09:49.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman walking with pole on path, mountain hut in background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Blue sky with clouds, low angle"
+  },
+  {
+   "label": "#228 09:50.6",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in black walking uphill toward white mountain hut",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Follow shot from behind, people on path in distance"
+  },
+  {
+   "label": "#229 09:51.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two hikers with poles and woman with backpack near hut",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, cloudy sky"
+  },
+  {
+   "label": "#230 09:53.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Dramatic jagged dolomite peaks above snowy valley",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overcast, muted colours"
+  },
+  {
+   "label": "#231 09:54.3",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Aerial view over cliff edge toward green valley and peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Vivid blue and green, saturated grade"
+  },
+  {
+   "label": "#232 09:55.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Wooden mountain restaurant facade with terrace and guests",
+   "text_on_screen": "Rifugio sign (small, partly legible, not transcribed)",
+   "text_style": "Small white serif on wood sign, centre",
+   "notes": "Establishing shot of building"
+  },
+  {
+   "label": "#233 09:58.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in sunglasses and white jacket raising hand, talking at terrace",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle selfie distortion, restaurant behind"
+  },
+  {
+   "label": "#234 10:01.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in sunglasses touching her glasses, talking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setting as previous, centred framing"
+  },
+  {
+   "label": "#235 10:05.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in sunglasses gesturing with hand while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same terrace setting, jump-cut candidate with previous"
+  },
+  {
+   "label": "#236 10:10.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in sunglasses and white jacket speaking on restaurant terrace",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Right-side framing, outdoor tables behind"
+  }
+ ]
+}

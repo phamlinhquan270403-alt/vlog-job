@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#151 06:26.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Hiker walking down forest trail under tall trees, small figure in distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, slightly green-warm grade, wide establishing feel"
+  },
+  {
+   "label": "#152 06:29.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Dirt path winding through dense green vegetation",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Pathway leads into frame, empty trail as transition-friendly establishing shot"
+  },
+  {
+   "label": "#153 06:30.6",
+   "shot": "other",
+   "camera": "handheld",
+   "subject": "Black-and-white colobus monkeys sitting in tree branches",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wildlife insert, tilted upward angle, natural light filtering through leaves"
+  },
+  {
+   "label": "#154 06:32.0",
+   "shot": "other",
+   "camera": "handheld",
+   "subject": "Colobus monkey climbing among leafy branches overhead",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of wildlife sequence, bright backlit canopy"
+  },
+  {
+   "label": "#155 06:33.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Gnarled tree trunk beside path with foliage in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static-feeling framing, leaves in foreground for depth"
+  },
+  {
+   "label": "#156 06:34.5",
+   "shot": "other",
+   "camera": "handheld",
+   "subject": "Kilimanjaro National Park entrance sign with route information",
+   "text_on_screen": "KILIMANJARO NATIONAL PARK TANZANIA; MTI MKUBWA CAMP ELEVATION 2650M; SIMBA CAMP; BARANCO CAMP; BARAFU CAMP; MWEKA CAMP",
+   "text_style": "Serif-style white-on-dark-brown carved sign text, small size, centred on sign board",
+   "notes": "Informational signage insert, tents blurred behind sign"
+  },
+  {
+   "label": "#157 06:35.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with dark hair and blue backpack looking sideways near teal tent",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Over-shoulder profile framing, natural daylight, talking-head candid style"
+  },
+  {
+   "label": "#158 06:37.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman gesturing with hand near chin while speaking, hiker passing behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie-style close framing, shallow depth of field, bright greenery background"
+  },
+  {
+   "label": "#159 06:38.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with hand behind head smiling at camera, camp in background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Arm-extended selfie angle, tilted frame, blurred campsite background"
+  },
+  {
+   "label": "#160 06:40.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman smiling and talking to camera with hand on chest, hikers behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie vlog framing, warm natural grade, cut-friendly talking segment"
+  },
+  {
+   "label": "#161 06:40.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman making fist gesture while speaking to camera outdoors",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight selfie framing, quick cut from previous talking shot"
+  },
+  {
+   "label": "#162 06:41.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in cap and backpack sitting at camp table writing in notebook",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Candid observational shot, red gas canister in foreground, teal tent behind"
+  },
+  {
+   "label": "#163 06:43.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in cap and backpack gesturing with hands beside red gas canister",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-ish framing at camp table, teal tents in background, natural light"
+  },
+  {
+   "label": "#164 06:47.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Hiker in shorts walking past pink-red tent in forest campsite",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Walking-past transitional shot, tree trunk at right edge"
+  },
+  {
+   "label": "#165 06:53.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman inside red tent looking down, backpacks beside her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Strong red colour cast from tent interior, moody warm grade, low light"
+  },
+  {
+   "label": "#165 06:59.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman inside red tent speaking to camera, hands together",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same red-tent setting as previous shot, talking-to-camera wrap-up, label duplicates #165 as shown"
+  }
+ ]
+}

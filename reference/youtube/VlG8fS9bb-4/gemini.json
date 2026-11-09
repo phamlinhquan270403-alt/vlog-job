@@ -1,0 +1,1177 @@
+[
+ {
+  "start": 0,
+  "events": [
+   {
+    "t": 0.0,
+    "type": "music",
+    "what": "Upbeat, jazzy instrumental music starts, setting an energetic tone for the intro."
+   },
+   {
+    "t": 0.0,
+    "type": "title",
+    "what": "Title text 'Solo in Shanghai' appears in a stylized font."
+   },
+   {
+    "t": 0.0,
+    "type": "broll",
+    "what": "Fast-paced montage of Shanghai cityscapes, food, and the creator."
+   },
+   {
+    "t": 1.0,
+    "type": "text",
+    "what": "Text '2026' appears at the bottom left."
+   },
+   {
+    "t": 3.0,
+    "type": "text",
+    "what": "Social media handle '@apinvy' appears at the bottom right."
+   },
+   {
+    "t": 17.5,
+    "type": "music",
+    "what": "Music transitions to a chill, lo-fi beat."
+   },
+   {
+    "t": 17.5,
+    "type": "text",
+    "what": "Text 'ngày một' (day one) appears over a shot of an airplane window."
+   },
+   {
+    "t": 18.8,
+    "type": "talk_to_camera",
+    "what": "Creator speaks to the camera while seated on the plane, showing her t-shirt."
+   },
+   {
+    "t": 19.8,
+    "type": "text",
+    "what": "Text 'album nghe trên chuyến bay hôm nay' (album listened to on today's flight) as she shows her phone screen."
+   },
+   {
+    "t": 23.7,
+    "type": "ambient",
+    "what": "Sound of the pilot's announcement over the plane's intercom."
+   },
+   {
+    "t": 28.1,
+    "type": "talk_to_camera",
+    "what": "Creator walks through Pudong Airport, talking to the camera about her arrival."
+   },
+   {
+    "t": 29.0,
+    "type": "text",
+    "what": "Location tag '@ Pudong Airport' in yellow text."
+   },
+   {
+    "t": 41.8,
+    "type": "text",
+    "what": "Text 'Amap' appears as she shows the navigation app on her phone."
+   },
+   {
+    "t": 49.2,
+    "type": "talk_to_camera",
+    "what": "Creator continues walking, discussing transportation options like the Maglev."
+   },
+   {
+    "t": 50.0,
+    "type": "text",
+    "what": "Translation text 'maglev = tàu đệm từ'."
+   },
+   {
+    "t": 68.0,
+    "type": "talk_to_camera",
+    "what": "Creator is now on the metro, talking about the empty train."
+   },
+   {
+    "t": 69.8,
+    "type": "sfx",
+    "what": "Exaggerated gulping sound effect as she drinks water."
+   },
+   {
+    "t": 84.0,
+    "type": "text",
+    "what": "Contextual text 'Vy đang cố scan cái mã QR này...' (Vy is trying to scan this QR code...)."
+   },
+   {
+    "t": 88.0,
+    "type": "talk_to_camera",
+    "what": "Creator walks on the street, explaining issues with the bike-sharing app."
+   },
+   {
+    "t": 92.0,
+    "type": "text",
+    "what": "Translation text 'verify = xác thực danh tính'."
+   },
+   {
+    "t": 126.0,
+    "type": "text",
+    "what": "Location tag '@ Lailai Xiaolong' in yellow text."
+   },
+   {
+    "t": 128.6,
+    "type": "talk_to_camera",
+    "what": "Creator sits at a restaurant table, talking about the food prices and her trip."
+   },
+   {
+    "t": 169.5,
+    "type": "sfx",
+    "what": "Natural eating and slurping sounds are emphasized during the food montage."
+   },
+   {
+    "t": 192.0,
+    "type": "text",
+    "what": "Text 'he he được check in rồi' (he he, checked in) as she walks down the hotel hallway."
+   },
+   {
+    "t": 194.0,
+    "type": "talk_to_camera",
+    "what": "Creator walks to her room, expressing excitement about an upgrade."
+   },
+   {
+    "t": 215.0,
+    "type": "other",
+    "what": "Mirror selfie shot showing the room's vanity and lighting."
+   },
+   {
+    "t": 219.5,
+    "type": "talk_to_camera",
+    "what": "Creator sits in the room, showing the booking details on her phone."
+   },
+   {
+    "t": 236.5,
+    "type": "text",
+    "what": "Location tag '@ The Treasury NOA Jing'an Temple' in yellow text."
+   },
+   {
+    "t": 259.8,
+    "type": "talk_to_camera",
+    "what": "Creator sits on the bed, reflecting on the trip and sharing travel tips."
+   },
+   {
+    "t": 311.8,
+    "type": "text",
+    "what": "Translation text 'navigate = xoay sở'."
+   },
+   {
+    "t": 346.5,
+    "type": "text",
+    "what": "Contextual text '(app Translate có sẵn trong iphone)' as she demonstrates the app."
+   },
+   {
+    "t": 412.0,
+    "type": "sfx",
+    "what": "Standard iPhone alarm sound effect."
+   },
+   {
+    "t": 413.0,
+    "type": "talk_to_camera",
+    "what": "Creator gets ready for the evening, applying makeup while talking to the camera."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows the creator's first day in Shanghai. It opens with a high-energy montage (0:00-0:17), followed by the flight and arrival at the airport (0:17-1:18). She then navigates the city to find food (1:18-3:12), checks into her hotel and gives a room tour (3:12-4:18), shares travel reflections and app tips (4:18-6:52), and finally prepares for an evening out (6:52-end).",
+   "pacing": "The pacing is very fast during the intro montage with rapid cuts. Once the vlog begins, it settles into a medium pace, alternating between direct address to the camera and illustrative b-roll or phone screen recordings.",
+   "music": "Starts with upbeat jazz for the intro, then switches to a consistent, laid-back lo-fi beat that runs throughout the vlog, ducked appropriately under the creator's speech.",
+   "voice": "The creator uses a friendly, conversational, and slightly humorous tone. She speaks directly to the camera for the majority of the clip, providing a personal and informative narrative of her experiences.",
+   "sound_design": "Includes natural ambient sounds from the airport and metro, as well as emphasized eating sounds. Specific sound effects like a gulping sound and an iPhone alarm are used for emphasis and transition.",
+   "text_style": "Uses a clean, sans-serif font. Location tags and translations are typically in yellow, while other contextual information is in white. Text is often placed in the lower thirds or near relevant objects.",
+   "visual_style": "The visual style is typical of a high-quality travel vlog: handheld but stable shots, a mix of wide cityscapes and close-up details (especially of food and phone screens), and a bright, natural color grade.",
+   "signature_moves": "Key signature moves include showing phone screens to explain specific apps or bookings, frequent mirror selfies to show outfits or room features, and providing on-screen translations for English terms used."
+  }
+ },
+ {
+  "start": 480,
+  "events": [
+   {
+    "t": 480.0,
+    "type": "talk_to_camera",
+    "what": "The creator talks to the camera while applying makeup in a hotel room."
+   },
+   {
+    "t": 486.0,
+    "type": "text",
+    "what": "Text overlay: \"navigate = xoay sở\"."
+   },
+   {
+    "t": 489.0,
+    "type": "cut",
+    "what": "Cut to a close-up of the creator showing a Rilakkuma keychain on her bag."
+   },
+   {
+    "t": 500.0,
+    "type": "talk_to_camera",
+    "what": "The creator continues talking to the camera while getting dressed."
+   },
+   {
+    "t": 524.0,
+    "type": "zoom",
+    "what": "Punch-in zoom for emphasis during her talk-to-camera."
+   },
+   {
+    "t": 537.0,
+    "type": "cut",
+    "what": "Cut to the interior of a taxi at night."
+   },
+   {
+    "t": 538.0,
+    "type": "text",
+    "what": "Text overlay: \"lộn server :)))))\"."
+   },
+   {
+    "t": 541.0,
+    "type": "text",
+    "what": "Text overlay: \"nhờ coi vlog Hà Thi tui đã là người đi taxi Trung chuyên nghiệp\"."
+   },
+   {
+    "t": 548.0,
+    "type": "cut",
+    "what": "Close-up of a phone screen using a translation app to communicate with the driver."
+   },
+   {
+    "t": 566.0,
+    "type": "music",
+    "what": "Upbeat lo-fi pop music with vocals starts, ducked under ambient sound."
+   },
+   {
+    "t": 568.0,
+    "type": "broll",
+    "what": "Montage of the Shanghai skyline at night (The Bund)."
+   },
+   {
+    "t": 568.0,
+    "type": "text",
+    "what": "Location tag: \"@ The Bund\"."
+   },
+   {
+    "t": 573.0,
+    "type": "broll",
+    "what": "The creator dances in front of the illuminated skyline."
+   },
+   {
+    "t": 577.0,
+    "type": "text",
+    "what": "Text overlay: \"lần đầu được thấy con đường đã thấy trên mạng bấy lâu nay\"."
+   },
+   {
+    "t": 599.0,
+    "type": "voiceover",
+    "what": "Voiceover begins as the creator browses a store full of plush keychains."
+   },
+   {
+    "t": 604.0,
+    "type": "text",
+    "what": "Text overlay: \"khúc này nhìu store cute lắm\"."
+   },
+   {
+    "t": 636.0,
+    "type": "broll",
+    "what": "POV shots of the creator riding a rental bike through Shanghai streets at night."
+   },
+   {
+    "t": 653.0,
+    "type": "talk_to_camera",
+    "what": "The creator talks to the camera while riding the bike, mixed with live ambient noise."
+   },
+   {
+    "t": 676.0,
+    "type": "talk_to_camera",
+    "what": "Back in the hotel room, the creator shows her shopping haul."
+   },
+   {
+    "t": 709.0,
+    "type": "speed",
+    "what": "Fast-forward speed ramp as she opens a Pop Mart blind box."
+   },
+   {
+    "t": 709.0,
+    "type": "sfx",
+    "what": "Exaggerated crinkling and fast-motion sound effects."
+   },
+   {
+    "t": 724.0,
+    "type": "title",
+    "what": "Title card: \"ngày hai\" (Day two)."
+   },
+   {
+    "t": 725.0,
+    "type": "broll",
+    "what": "Quick shots of breakfast: dim sum and coffee."
+   },
+   {
+    "t": 742.0,
+    "type": "talk_to_camera",
+    "what": "The creator walks through the French Concession area, talking to the camera."
+   },
+   {
+    "t": 752.0,
+    "type": "text",
+    "what": "Text overlay: \"French Concession = Khu tổ giới Pháp\"."
+   },
+   {
+    "t": 802.0,
+    "type": "text",
+    "what": "Location tag: \"@ T12 Lab\"."
+   },
+   {
+    "t": 803.0,
+    "type": "broll",
+    "what": "Close-ups of coffee and a scone at a cafe."
+   },
+   {
+    "t": 848.0,
+    "type": "music",
+    "what": "Music changes to a softer, acoustic guitar-driven track."
+   },
+   {
+    "t": 848.0,
+    "type": "text",
+    "what": "Location tag: \"@ Anfu Road\"."
+   },
+   {
+    "t": 853.0,
+    "type": "broll",
+    "what": "Montage of boutique shops and unique displays on Anfu Road."
+   },
+   {
+    "t": 876.0,
+    "type": "text",
+    "what": "Text overlay: \"dọc đường này rất nhiều tiệm xinh\"."
+   },
+   {
+    "t": 883.0,
+    "type": "text",
+    "what": "Location tag: \"@ LOOKNOW & FLOW\"."
+   },
+   {
+    "t": 918.0,
+    "type": "talk_to_camera",
+    "what": "The creator concludes the segment while walking down a tree-lined street."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a travel itinerary over two days. Day 1 (Night) includes getting ready, a taxi ride using a translation app, visiting The Bund, shopping for plushies, biking, and a hotel unboxing. Day 2 features breakfast, exploring the French Concession, a cafe visit, and boutique shopping on Anfu Road.",
+   "pacing": "The pacing is dynamic, alternating between steady talk-to-camera segments and fast-paced b-roll montages. Speed ramps are used effectively during repetitive actions like unboxing.",
+   "music": "Two distinct tracks are used: an upbeat lo-fi pop track for the night-time city exploration and a more relaxed acoustic guitar track for the daytime shopping and cafe segments.",
+   "voice": "The creator maintains a casual, high-energy, and relatable tone. She speaks directly to the camera in Vietnamese, often sharing personal thoughts and humorous observations.",
+   "sound_design": "Sound design relies heavily on ambient city noise (traffic, bike bells) and natural foley (makeup brushes, bag zippers). Exaggerated sound effects are used during the fast-forward unboxing sequence.",
+   "text_style": "Simple, clean sans-serif font is used for location tags, translations of terms, and humorous side-commentary. Location tags often include an '@' symbol.",
+   "visual_style": "The visual style is classic handheld vlog, featuring a mix of wide-angle POV shots (especially while biking), medium talk-to-camera shots, and extreme close-ups of food and products.",
+   "signature_moves": "Key signature moves include showing off bag keychains in close-up, filming the use of translation apps to navigate foreign environments, and high-angle POV biking shots."
+  }
+ },
+ {
+  "start": 960,
+  "events": [
+   {
+    "t": 960.0,
+    "type": "music",
+    "what": "Upbeat, lo-fi hip hop music starts, instrumental with a steady beat."
+   },
+   {
+    "t": 960.0,
+    "type": "voiceover",
+    "what": "Creator begins speaking in Vietnamese over b-roll of a Shanghai street."
+   },
+   {
+    "t": 967.5,
+    "type": "cut",
+    "what": "Cut to interior of 'Déjà Vu' recycle store."
+   },
+   {
+    "t": 976.0,
+    "type": "text",
+    "what": "'@ Déjà Vu' in yellow font, top right corner."
+   },
+   {
+    "t": 981.5,
+    "type": "broll",
+    "what": "Creator looking at books in the store."
+   },
+   {
+    "t": 992.0,
+    "type": "speed",
+    "what": "Fast-forwarding through flipping pages of a book."
+   },
+   {
+    "t": 1012.5,
+    "type": "broll",
+    "what": "Stairs with luxury brand names printed on each step."
+   },
+   {
+    "t": 1029.0,
+    "type": "talk_to_camera",
+    "what": "Creator talks to camera via a mirror reflection while trying on bags."
+   },
+   {
+    "t": 1066.5,
+    "type": "talk_to_camera",
+    "what": "Creator talks directly to camera while walking down stairs."
+   },
+   {
+    "t": 1077.5,
+    "type": "text",
+    "what": "'Wechat' and 'Alipay' appear as white text on screen to emphasize spoken points."
+   },
+   {
+    "t": 1096.5,
+    "type": "cut",
+    "what": "Cut to a sign explaining the store is a recycle store."
+   },
+   {
+    "t": 1107.5,
+    "type": "text",
+    "what": "'@ Brandy Melville' in yellow font, top right corner."
+   },
+   {
+    "t": 1116.0,
+    "type": "talk_to_camera",
+    "what": "Mirror shots of the creator trying on clothes in Brandy Melville."
+   },
+   {
+    "t": 1130.0,
+    "type": "text",
+    "what": "'@ HARMAY' in yellow font, top right corner."
+   },
+   {
+    "t": 1134.0,
+    "type": "voiceover",
+    "what": "Voiceover resumes over b-roll of cosmetics in Harmay."
+   },
+   {
+    "t": 1166.5,
+    "type": "talk_to_camera",
+    "what": "Creator talks to camera while walking on the street."
+   },
+   {
+    "t": 1174.0,
+    "type": "talk_to_camera",
+    "what": "Creator in front of 'iapm' mall entrance."
+   },
+   {
+    "t": 1179.5,
+    "type": "text",
+    "what": "'Wander through the park' in white serif font, center screen."
+   },
+   {
+    "t": 1185.0,
+    "type": "text",
+    "what": "'@ Gentle Monster' in yellow font, top right corner."
+   },
+   {
+    "t": 1185.0,
+    "type": "talk_to_camera",
+    "what": "Creator trying on various sunglasses in Gentle Monster."
+   },
+   {
+    "t": 1197.5,
+    "type": "talk_to_camera",
+    "what": "Creator talks to camera while sitting on a rental bike."
+   },
+   {
+    "t": 1205.0,
+    "type": "broll",
+    "what": "POV shot from the bike handlebars while riding."
+   },
+   {
+    "t": 1213.5,
+    "type": "text",
+    "what": "'@ BIRDHUT' in yellow font, top right corner."
+   },
+   {
+    "t": 1226.0,
+    "type": "talk_to_camera",
+    "what": "Creator talks to camera while eating roasted goose/duck."
+   },
+   {
+    "t": 1242.5,
+    "type": "cut",
+    "what": "Transition to evening/night shots of the city."
+   },
+   {
+    "t": 1250.5,
+    "type": "broll",
+    "what": "Nighttime POV bike riding."
+   },
+   {
+    "t": 1259.5,
+    "type": "talk_to_camera",
+    "what": "Creator talks to camera while riding the bike at night."
+   },
+   {
+    "t": 1265.0,
+    "type": "talk_to_camera",
+    "what": "Creator in hotel room, talking to camera while removing makeup with a cotton pad."
+   },
+   {
+    "t": 1275.5,
+    "type": "text",
+    "what": "'ZZER Hongqiao Tiandi' appears as white text."
+   },
+   {
+    "t": 1293.5,
+    "type": "photo",
+    "what": "Creator shows photos of bags on her phone screen to the camera."
+   },
+   {
+    "t": 1346.5,
+    "type": "text",
+    "what": "'Hongqiao Comprehensive Transportation Hub' appears as white text."
+   },
+   {
+    "t": 1382.5,
+    "type": "broll",
+    "what": "Close-up of a translation app on the phone."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a day of shopping and dining in Shanghai. It starts with visits to 'Déjà Vu' (recycle store), 'Brandy Melville', and 'Harmay' (cosmetics). It then transitions to 'Gentle Monster' for sunglasses, followed by a bike ride to dinner at 'Birdhut'. The final segment is a 'get ready for bed' style talk-to-camera in a hotel room where she reflects on the day and shows photos of items she saw.",
+   "pacing": "Fast-paced with frequent cuts (every 2-4 seconds) during b-roll sequences. Pacing slows down significantly during talk-to-camera segments, allowing the creator to tell stories.",
+   "music": "Consistent lo-fi hip hop track throughout. It provides a relaxed, trendy atmosphere suitable for a lifestyle vlog. The volume is ducked whenever there is speech.",
+   "voice": "The creator uses a mix of live talk-to-camera (often handheld or mirror shots) and voiceover. The tone is casual, friendly, and informative, typical of a personal vlog.",
+   "sound_design": "Minimal sound design beyond the music and ambient noise from the streets and stores. Natural sounds like the bike rattling or restaurant chatter are kept low.",
+   "text_style": "Uses a signature yellow font in the top right corner to identify locations ('@ Store Name'). Occasional white text appears in the center or near the creator to emphasize specific words or names.",
+   "visual_style": "Handheld, slightly shaky camera work gives an authentic 'day in the life' feel. Includes many mirror selfies and POV shots. The color grade is natural with warm tones.",
+   "signature_moves": "Identifying every location with a consistent text overlay style; showing phone screens to share photos or apps; talking to the camera while performing a mundane task (removing makeup)."
+  }
+ },
+ {
+  "start": 1440,
+  "events": [
+   {
+    "t": 1440.0,
+    "type": "talk_to_camera",
+    "what": "Vy talks about the complexity of Tokyo's metro system compared to Shanghai while doing her skincare routine in her hotel room."
+   },
+   {
+    "t": 1475.0,
+    "type": "text",
+    "what": "White sans-serif text: 'Hongqiao Comprehensive Transportation Hub' at the bottom center."
+   },
+   {
+    "t": 1500.0,
+    "type": "text",
+    "what": "White sans-serif text: 'Songmont' at the top center."
+   },
+   {
+    "t": 1523.0,
+    "type": "text",
+    "what": "White sans-serif text: 'lattice = lưới' at the top center."
+   },
+   {
+    "t": 1527.0,
+    "type": "text",
+    "what": "White sans-serif text: 'weave = dệt da' at the top center."
+   },
+   {
+    "t": 1531.0,
+    "type": "music",
+    "what": "Upbeat, rhythmic lo-fi pop music starts."
+   },
+   {
+    "t": 1531.0,
+    "type": "cut",
+    "what": "Hard cut to a title card for the next day."
+   },
+   {
+    "t": 1532.0,
+    "type": "text",
+    "what": "White sans-serif text: 'ngày ba' (day three) in the center."
+   },
+   {
+    "t": 1532.0,
+    "type": "talk_to_camera",
+    "what": "Vy gets ready for the day, showing her outfit and talking about feeling anxious and listening to Emma Chamberlain's podcast."
+   },
+   {
+    "t": 1588.0,
+    "type": "text",
+    "what": "White sans-serif text: 'Anything goes của Emma Chamberlain' at the bottom center."
+   },
+   {
+    "t": 1603.0,
+    "type": "text",
+    "what": "Brand tags '@into.eight' and '@miaritta.hn' appear on the left."
+   },
+   {
+    "t": 1606.0,
+    "type": "text",
+    "what": "Brand tag '@coach' appears on the left."
+   },
+   {
+    "t": 1609.0,
+    "type": "text",
+    "what": "Brand tag '@charleskeithofficial' appears on the right."
+   },
+   {
+    "t": 1633.0,
+    "type": "text",
+    "what": "Brand tag '@uniqlovnam' appears on the right."
+   },
+   {
+    "t": 1650.0,
+    "type": "text",
+    "what": "White sans-serif text: 'tortoiseshell = họa tiết đồi mồi' center-right."
+   },
+   {
+    "t": 1656.0,
+    "type": "text",
+    "what": "White sans-serif text: 'rớt con mèo tui huhu' (dropped my cat [charm] huhu) in the center."
+   },
+   {
+    "t": 1668.0,
+    "type": "music",
+    "what": "Music changes to a mellow, acoustic folk-pop track with male vocals."
+   },
+   {
+    "t": 1668.0,
+    "type": "broll",
+    "what": "Montage of Vy getting a rental bike and cycling through the streets of Shanghai."
+   },
+   {
+    "t": 1674.0,
+    "type": "talk_to_camera",
+    "what": "Vy talks to the camera while cycling, commenting on the scenery."
+   },
+   {
+    "t": 1692.0,
+    "type": "text",
+    "what": "Yellow sans-serif text: '@ Zhen Shan Tea Valley' location tag on the right."
+   },
+   {
+    "t": 1708.0,
+    "type": "talk_to_camera",
+    "what": "Vy at the tea shop, explaining the WeChat ordering process to the audience."
+   },
+   {
+    "t": 1726.0,
+    "type": "broll",
+    "what": "Close-up of Vy's phone screen demonstrating how to use the translation feature in WeChat."
+   },
+   {
+    "t": 1753.0,
+    "type": "text",
+    "what": "White sans-serif text: '5 múi giờ' (5 time zones) note."
+   },
+   {
+    "t": 1757.0,
+    "type": "text",
+    "what": "White sans-serif text: '6 múi giờ (nếu tính cả 50 bang)' note."
+   },
+   {
+    "t": 1801.0,
+    "type": "text",
+    "what": "Yellow sans-serif text: '@ Basement FG' location tag on the right."
+   },
+   {
+    "t": 1813.0,
+    "type": "text",
+    "what": "Yellow sans-serif text: '@ Polette' location tag on the right."
+   },
+   {
+    "t": 1825.0,
+    "type": "talk_to_camera",
+    "what": "Vy at a metro station, showing the multiple escalators and heading to a park."
+   },
+   {
+    "t": 1844.0,
+    "type": "text",
+    "what": "White sans-serif text: 'Qiantan Leisure Park' appears over a phone screen shot."
+   },
+   {
+    "t": 1863.0,
+    "type": "text",
+    "what": "Yellow sans-serif text: '@ Qiantan Leisure Park' location tag on the right."
+   },
+   {
+    "t": 1868.0,
+    "type": "talk_to_camera",
+    "what": "Vy cycles through the park, enjoying the greenery and the river view."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a day in the life of a vlogger in Shanghai. It begins with a late-night reflection on metro systems (0:00-1:31), moves to a morning routine and outfit check (1:32-3:48), then transitions to outdoor activities including cycling to a tea shop (3:48-5:58), shopping (5:58-6:25), and finally cycling through a scenic park (6:25-7:59).",
+   "pacing": "The pacing is relaxed and conversational during the talk-to-camera segments, interspersed with faster-paced b-roll montages that use rhythmic cuts to match the music.",
+   "music": "Two distinct tracks are used: an upbeat lo-fi pop track for the indoor morning routine and a mellow, acoustic folk-pop song with vocals for the outdoor cycling and exploration segments. The music is ducked under speech but remains audible.",
+   "voice": "The creator uses a very personal, intimate tone, sharing her struggles with anxiety alongside practical travel tips. She speaks directly to the camera as if talking to a friend.",
+   "sound_design": "Minimal sound design; the focus is on the creator's voice and the background music. Natural ambient sounds from the city and park are kept at a low level.",
+   "text_style": "Simple, clean sans-serif fonts. White text is used for translations, notes, and brand tags, while yellow text is consistently used for location markers.",
+   "visual_style": "A classic handheld vlog aesthetic using natural lighting. The framing is mostly medium shots for talking segments and wide shots for b-roll. Color grading is bright and natural.",
+   "signature_moves": "Key signature moves include holding the camera while cycling, showing the phone screen to explain local apps/services, and providing detailed on-screen brand tags for her outfits."
+  }
+ },
+ {
+  "start": 1920,
+  "events": [
+   {
+    "t": 1920.0,
+    "type": "talk_to_camera",
+    "what": "Picture-in-picture selfie window of creator speaking over wide shot of Expo Culture Park Greenhouse Garden."
+   },
+   {
+    "t": 1922.8,
+    "type": "cut",
+    "what": "Cut to creator outdoors checking phone screen showing the botanical greenhouse listing."
+   },
+   {
+    "t": 1929.8,
+    "type": "cut",
+    "what": "Cut to POV cycling view riding along winding park path; natural bicycle rolling sounds."
+   },
+   {
+    "t": 1934.2,
+    "type": "music",
+    "what": "Soft indie acoustic folk song with male vocals begins playing gently in background."
+   },
+   {
+    "t": 1935.0,
+    "type": "cut",
+    "what": "Static wide shot of wooden deck near willow trees as creator walks toward lake edge."
+   },
+   {
+    "t": 1935.5,
+    "type": "text",
+    "what": "Lower-center subtitle in simple white sans-serif: 'chỗ nào đẹp Vy cũng dừng lại hết'."
+   },
+   {
+    "t": 1939.8,
+    "type": "cut",
+    "what": "Static shot of couple resting on wooden deck under trees beside the pond."
+   },
+   {
+    "t": 1941.0,
+    "type": "cut",
+    "what": "Close-up b-roll of lily pads and tree reflections on pond surface."
+   },
+   {
+    "t": 1942.7,
+    "type": "cut",
+    "what": "Wide shot of creator taking photos on phone at the edge of the dock."
+   },
+   {
+    "t": 1944.7,
+    "type": "cut",
+    "what": "Scenic pan across tranquil green lake lined with dense trees."
+   },
+   {
+    "t": 1946.7,
+    "type": "cut",
+    "what": "Downward POV shot of hands on handlebars pedaling blue shared city bike."
+   },
+   {
+    "t": 1949.0,
+    "type": "cut",
+    "what": "Forward POV smooth cycling tracking shot along quiet tree-lined parkway."
+   },
+   {
+    "t": 1952.0,
+    "type": "cut",
+    "what": "Forward POV shot riding along red paved trail between tall reed grasses."
+   },
+   {
+    "t": 1953.8,
+    "type": "cut",
+    "what": "Static long shot of creator cycling down shaded tree tunnel towards camera; subtitle: 'mỗi khúc cây cối một khác thích lắm'."
+   },
+   {
+    "t": 1958.8,
+    "type": "cut",
+    "what": "POV riding up curved pedestrian/bike bridge path."
+   },
+   {
+    "t": 1959.8,
+    "type": "talk_to_camera",
+    "what": "Selfie angle while riding across bridge, speaking to camera breathlessly about the distance to Oriental Pearl Tower."
+   },
+   {
+    "t": 1969.8,
+    "type": "cut",
+    "what": "POV cycling along landscaped pathway lined with low hedges."
+   },
+   {
+    "t": 1973.9,
+    "type": "cut",
+    "what": "Selfie angle cycling around bend laughing, subtitle: 'Cười vậy chứ vẫn mệt nha ba'."
+   },
+   {
+    "t": 1978.7,
+    "type": "cut",
+    "what": "Third-person tracking shot following creator cycling up white ramp under massive red suspension bridge."
+   },
+   {
+    "t": 1988.8,
+    "type": "cut",
+    "what": "Wide shot parked by outdoor vending machine buying bottled electrolyte drink."
+   },
+   {
+    "t": 1991.8,
+    "type": "cut",
+    "what": "Low-angle shot sitting on park bench showing chilled purple-capped bottle to camera and taking a big sip."
+   },
+   {
+    "t": 1996.9,
+    "type": "cut",
+    "what": "Selfie tracking shot cycling through Pudong skyscraper district, looking up in awe at tall towers."
+   },
+   {
+    "t": 2001.2,
+    "type": "cut",
+    "what": "Low-angle tilt up framing Jin Mao Tower and Oriental Pearl Tower piercing cloudy sky."
+   },
+   {
+    "t": 2003.0,
+    "type": "talk_to_camera",
+    "what": "Creator stops by bushes, exhausted and talking to camera about finishing the 15+ km bike ride."
+   },
+   {
+    "t": 2006.5,
+    "type": "cut",
+    "what": "Selfie cycling shots celebrating reaching directly beneath the Oriental Pearl Tower."
+   },
+   {
+    "t": 2014.9,
+    "type": "broll",
+    "what": "Low angle showing Chinese national flags hung along street beneath the tower."
+   },
+   {
+    "t": 2030.8,
+    "type": "cut",
+    "what": "Close-up of phone screen ending the shared bike ride session."
+   },
+   {
+    "t": 2037.6,
+    "type": "talk_to_camera",
+    "what": "Creator happily shows bike rental app screen showing 2h 12m ride costing 9.5 yuan."
+   },
+   {
+    "t": 2040.0,
+    "type": "cut",
+    "what": "Quick shot chugging water with subtitle 'khát kinh khủng'."
+   },
+   {
+    "t": 2043.2,
+    "type": "talk_to_camera",
+    "what": "Walking along sidewalk talking to camera reviewing cycling in Shanghai and heading to eat peanut noodles."
+   },
+   {
+    "t": 2069.0,
+    "type": "cut",
+    "what": "Phone screen tracking app display: '15.7 km' new personal record."
+   },
+   {
+    "t": 2074.0,
+    "type": "cut",
+    "what": "Exterior window of Shaanxi noodle shop 'Ziwu Road Zhangji' with chefs prepping food."
+   },
+   {
+    "t": 2076.2,
+    "type": "broll",
+    "what": "Chef slicing braised pork and staff serving hot noodle bowls."
+   },
+   {
+    "t": 2079.0,
+    "type": "broll",
+    "what": "Close-up overhead of green spinach noodles topped with diced potatoes, beans, and chili flakes."
+   },
+   {
+    "t": 2086.0,
+    "type": "talk_to_camera",
+    "what": "Sitting inside restaurant with large bowl, explaining why she picked this noodle dish."
+   },
+   {
+    "t": 2098.2,
+    "type": "broll",
+    "what": "Fast-paced clips eating spicy green noodles; subtitle: 'Lúc này đói chóng mặt lun r :))'."
+   },
+   {
+    "t": 2106.8,
+    "type": "cut",
+    "what": "Night exterior intersection view; subtitle: 'tới hiệu ứng starburst của camera iphone'."
+   },
+   {
+    "t": 2108.8,
+    "type": "broll",
+    "what": "Crowded bustling Nanjing East Road pedestrian street at night; yellow location pin '@ Nanjing East Road'."
+   },
+   {
+    "t": 2110.0,
+    "type": "cut",
+    "what": "Hands browsing plush doll keychains and blind boxes inside Top Toy store."
+   },
+   {
+    "t": 2123.0,
+    "type": "talk_to_camera",
+    "what": "Walking at night on Nanjing East Road pointing up excitedly at Miniso Land illuminated signage."
+   },
+   {
+    "t": 2129.8,
+    "type": "talk_to_camera",
+    "what": "Inside Miniso holding a black dog plush toy, then finding Pompompurin merchandise."
+   },
+   {
+    "t": 2145.0,
+    "type": "broll",
+    "what": "B-roll montage holding Pompompurin plush against night city lights, The Bund riverside promenade, and illuminated skyline."
+   },
+   {
+    "t": 2163.8,
+    "type": "cut",
+    "what": "Profile shot resting on street ledge editing TikTok on phone; subtitle: 'ngồi nghỉ post vid tic tóc'."
+   },
+   {
+    "t": 2166.8,
+    "type": "talk_to_camera",
+    "what": "Hotel room unboxing haul: showing off new black woven Songmont shoulder bag."
+   },
+   {
+    "t": 2182.0,
+    "type": "broll",
+    "what": "Mirror selfie in hotel bathroom modeling outfit and new black bag; handwritten font overlay 'you look good'."
+   },
+   {
+    "t": 2194.0,
+    "type": "cut",
+    "what": "Floor shot of scattered blind box toys and souvenirs bought for her brother and friends."
+   },
+   {
+    "t": 2196.0,
+    "type": "talk_to_camera",
+    "what": "Sitting on hotel floor detailing anime blind boxes (Bocchi the Rock plushies and figurines, Hatsune Miku, Monchhichi)."
+   },
+   {
+    "t": 2294.0,
+    "type": "transition",
+    "what": "Black card title transition with gentle chime SFX: text 'ngày bốn' (Day 4) over bright morning hotel window view."
+   },
+   {
+    "t": 2299.0,
+    "type": "broll",
+    "what": "Bathroom mirror fit check waving goodbye ('ngày bốn')."
+   },
+   {
+    "t": 2300.5,
+    "type": "broll",
+    "what": "Street exterior shot walking along sunlit European architecture sidewalk."
+   },
+   {
+    "t": 2309.2,
+    "type": "photo",
+    "what": "Street fashion photoshoot against illustrated storefront; onscreen tags '@ miaritta.hn' and '@ libeworkshop'."
+   },
+   {
+    "t": 2316.9,
+    "type": "talk_to_camera",
+    "what": "Walking along sidewalk fixing hair in wind, talking playfully about solo photoshoots in public."
+   },
+   {
+    "t": 2327.8,
+    "type": "broll",
+    "what": "Shaded sidewalk street scene with bicycles and green leafy plane trees."
+   },
+   {
+    "t": 2330.0,
+    "type": "broll",
+    "what": "Unlocking blue shared bicycle from glass booth reflection."
+   },
+   {
+    "t": 2333.0,
+    "type": "broll",
+    "what": "POV cycling along scenic tree-shaded urban street."
+   },
+   {
+    "t": 2336.0,
+    "type": "cut",
+    "what": "Ordering at coffee counter; location tag '@ Saturnbird Into The Force'."
+   },
+   {
+    "t": 2339.0,
+    "type": "broll",
+    "what": "Barista preparing pour-over coffee behind stylish wooden/stainless counter."
+   },
+   {
+    "t": 2341.0,
+    "type": "broll",
+    "what": "Interior wide pan of modern multi-level wood-paneled cafe space."
+   },
+   {
+    "t": 2344.8,
+    "type": "broll",
+    "what": "Iced oat latte on wooden windowsill next to black woven handbag."
+   },
+   {
+    "t": 2348.0,
+    "type": "talk_to_camera",
+    "what": "Creator sitting at cafe table drinking iced oat latte, talking to camera with earphones on about Shanghai 'citywalk' culture and sharing an important street safety advisory for female solo travelers."
+   }
+  ],
+  "summary": {
+   "structure": "The video follows a solo trip to Shanghai. Part 1 (0:00-2:33): 15.7 km shared bicycle ride across parks, bridges, and city streets up to the Oriental Pearl Tower. Part 2 (2:34-3:06): Eating Shaanxi noodles at Ziwu Road Zhangji. Part 3 (3:07-4:06): Night walk on Nanjing East Road and shopping at Top Toy / Miniso Land. Part 4 (4:07-6:13): Hotel room unboxing haul showing a Songmont bag and anime blind boxes. Part 5 (6:14-8:00): Day 4 morning routine, street outfit photos, and visiting Saturnbird Into The Force cafe while sharing solo travel safety advice.",
+   "pacing": "Dynamic mix of rhythmic montage cutting set to acoustic music during transit/cycling sequences (1-3 second shots) balanced with longer, candid handheld sit-down vlog chats (5-20+ seconds) during dining, unboxing, and cafe storytelling.",
+   "music": "Warm, mellow acoustic indie folk and gentle instrumental background tracks under cycling montages and b-roll, ducked down or paused during direct-to-camera storytelling and haul presentations.",
+   "voice": "Casual, bubbly, and candid Vietnamese travel vlog voiceover and live to-camera dialogue; witty self-deprecating remarks about exhaustion, hunger, and impulse shopping, shifting to an earnest, helpful advisory tone when warning female viewers about street harassment.",
+   "sound_design": "Clean atmospheric audio captures including bicycle rolling noise, outdoor park ambiance, cafe acoustics, slumping/unboxing packaging sounds, and a subtle transition chime between travel days.",
+   "text_style": "Minimalist white and yellow sans-serif text overlays for subtitles and casual commentary, lowercase italicized aesthetic captions ('you look good', 'ngày bốn'), and yellow location/brand tags ('@ Nanjing East Road', '@ Saturnbird Into The Force').",
+   "visual_style": "Warm natural color grade, heavy use of ultra-wide front-facing POV and handheld selfie sticks while in motion, low-angle skyscraper perspectives, and lifestyle framing emphasizing streetscapes, food close-ups, and merchandise detail.",
+   "signature_moves": "Showing exact rental bike app screens and receipts to document route and costs, showcasing plushies posed against iconic tourist landmarks, and seamlessly transitioning between energetic travel montage and intimate bedroom haul chat."
+  }
+ },
+ {
+  "start": 2400,
+  "events": [
+   {
+    "t": 2400.0,
+    "type": "talk_to_camera",
+    "what": "The creator talks directly to the camera in a cafe, sharing a personal story. No background music, just ambient cafe noise."
+   },
+   {
+    "t": 2466.0,
+    "type": "cut",
+    "what": "Cut to a wider angle of the creator in the cafe, still talking to the camera."
+   },
+   {
+    "t": 2477.0,
+    "type": "cut",
+    "what": "Cut to a close-up of her coffee and bag on the wooden table by a window."
+   },
+   {
+    "t": 2483.8,
+    "type": "speed",
+    "what": "Short timelapse of the creator sitting at the table, looking at her phone."
+   },
+   {
+    "t": 2483.8,
+    "type": "text",
+    "what": "Text overlay: \"(edit video 1 xiu)\" in a simple white sans-serif font."
+   },
+   {
+    "t": 2487.0,
+    "type": "talk_to_camera",
+    "what": "The creator is now walking outside on a city street, talking to the camera in a selfie-style shot."
+   },
+   {
+    "t": 2509.0,
+    "type": "cut",
+    "what": "Cut to a different angle of her walking and talking, showing more of the street behind her."
+   },
+   {
+    "t": 2518.5,
+    "type": "cut",
+    "what": "B-roll shot of a street sign: \"Yuyuan Rd.\""
+   },
+   {
+    "t": 2523.8,
+    "type": "cut",
+    "what": "B-roll shot of another street sign: \"Fenggang Rd.\""
+   },
+   {
+    "t": 2526.8,
+    "type": "cut",
+    "what": "B-roll shot of a neighborhood map on a wall."
+   },
+   {
+    "t": 2533.8,
+    "type": "music",
+    "what": "Soft, melodic acoustic guitar and piano music begins. It is upbeat and gentle."
+   },
+   {
+    "t": 2533.8,
+    "type": "text",
+    "what": "Location tag overlay: \"@ Yuyuan Road\" in white text with a slight shadow."
+   },
+   {
+    "t": 2533.8,
+    "type": "cut",
+    "what": "B-roll montage of the street: trees, buildings, and shop fronts."
+   },
+   {
+    "t": 2541.0,
+    "type": "voiceover",
+    "what": "The creator's voiceover starts over b-roll of laundry hanging on a balcony."
+   },
+   {
+    "t": 2541.0,
+    "type": "text",
+    "what": "Text overlay: \"Vy rất thích đi bộ ngắm đường ngắm phố\""
+   },
+   {
+    "t": 2543.0,
+    "type": "text",
+    "what": "Text overlay: \"nên nguyên vlog cũng có từng đó hahahah\""
+   },
+   {
+    "t": 2544.8,
+    "type": "talk_to_camera",
+    "what": "Returns to a selfie-style shot of her talking while walking."
+   },
+   {
+    "t": 2551.8,
+    "type": "cut",
+    "what": "Shot of her taking a photo of herself in a mirror decorated with stuffed animals."
+   },
+   {
+    "t": 2558.5,
+    "type": "cut",
+    "what": "Interior shots of a toy shop filled with plushies."
+   },
+   {
+    "t": 2561.8,
+    "type": "text",
+    "what": "Humorous text overlay: \"chiikawa nổi bên này kinh khủng :))\""
+   },
+   {
+    "t": 2568.0,
+    "type": "talk_to_camera",
+    "what": "The creator continues her walk, talking to the camera about the shops."
+   },
+   {
+    "t": 2579.5,
+    "type": "voiceover",
+    "what": "Voiceover returns as she shows various plush toys in a shop."
+   },
+   {
+    "t": 2590.5,
+    "type": "text",
+    "what": "Text overlay: \"mn nhìn cái áo nó kìa :)))))\" over a shot of a dog in a sweater."
+   },
+   {
+    "t": 2601.5,
+    "type": "text",
+    "what": "Location tag: \"@ Yaojin Yuyuan Branch\""
+   },
+   {
+    "t": 2604.8,
+    "type": "talk_to_camera",
+    "what": "The creator is inside a restaurant, talking to the camera while eating a large bowl of noodles."
+   },
+   {
+    "t": 2625.5,
+    "type": "cut",
+    "what": "Back outside, walking and talking as the sun begins to set."
+   },
+   {
+    "t": 2629.5,
+    "type": "text",
+    "what": "Text overlay: \"lá bắt đầu chuyển màu cho thứ\" over shots of trees."
+   },
+   {
+    "t": 2635.5,
+    "type": "cut",
+    "what": "View from a car window showing the city skyline at sunset."
+   },
+   {
+    "t": 2641.0,
+    "type": "transition",
+    "what": "Fade to black."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a classic vlog structure: an introductory long-form talk-to-camera segment in a cafe (0:00-1:27), followed by an exploratory walk through a specific neighborhood (Yuyuan Road) featuring a mix of live talk and b-roll montages (1:27-3:21), a food segment (3:21-3:45), and a concluding travel transition (3:45-4:01).",
+   "pacing": "The pacing is variable. It starts very slow with a long, single-shot conversation, then accelerates during the street exploration with faster cuts and a music-driven montage, before slowing down again for the meal.",
+   "music": "Music is used selectively. The first half is silent (ambient only) to focus on the story. A gentle, acoustic instrumental track is introduced at 2:13 to provide energy and a cohesive feel to the b-roll montage and voiceover segments.",
+   "voice": "The creator uses a very personal, conversational tone. She alternates between direct address (selfie-style) and voiceover, often sharing internal thoughts or humorous asides.",
+   "sound_design": "Sound design is minimal, relying on high-quality ambient recordings of the cafe, street, and restaurant to ground the viewer in the location.",
+   "text_style": "Text is used for three main purposes: location tagging (bottom right), translating/summarizing spoken points, and adding personality through humorous commentary (often with emojis or 'hahaha'). The font is a clean, white sans-serif.",
+   "visual_style": "The visual style is 'elevated handheld.' It feels authentic and spontaneous but uses well-composed shots, close-ups of details (toys, food, signs), and natural lighting to create a pleasing aesthetic.",
+   "signature_moves": "A key signature move is the use of long, uninterrupted 'storytime' segments at the beginning to build a connection with the audience before moving into more traditional travel b-roll."
+  }
+ }
+]

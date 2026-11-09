@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#265 11:39.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with ponytail and backpack smiling at camera on rocky mountain path",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle selfie arm framing, grey rocky trail and cliff behind, natural daylight"
+  },
+  {
+   "label": "#266 11:41.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same woman grinning, cliff face behind her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight selfie framing, slight head tilt, continuous with previous shot"
+  },
+  {
+   "label": "#267 11:42.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman talking to camera, holding small item, gravel path",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Right-side framing, cut mid-speech, continuous selfie sequence"
+  },
+  {
+   "label": "#268 11:43.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in ponytail looking out over alpine valley and peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Over-shoulder view, reveal shot, bright daylight with blue sky"
+  },
+  {
+   "label": "#269 11:46.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hiker in green shirt walking ahead on gravel trail, selfie woman at right edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Split framing with selfie insert at right, follow-cam feel"
+  },
+  {
+   "label": "#270 11:47.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman close to camera at right, hiker walking on trail in distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight right-edge framing, subject leaning into lens"
+  },
+  {
+   "label": "#271 11:47.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in profile looking left toward cliff, hiker walking below",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Profile side framing, quick cut from previous"
+  },
+  {
+   "label": "#272 11:50.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in profile looking over green valley and town below",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Establishing reveal, soft warm light, cloudy sky"
+  },
+  {
+   "label": "#273 11:54.6",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Wide view down a green valley toward a town among dolomite peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth forward drone move, bright clear sky, natural grade"
+  },
+  {
+   "label": "#274 11:56.6",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Dramatic rocky peak wrapped in clouds above green alpine meadows",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slow drone reveal, moody overcast light, saturated greens"
+  },
+  {
+   "label": "#275 11:58.5",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Steep rocky mountain face with a winding trail and grassy slopes",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low forward drone pass, warm light on rock"
+  },
+  {
+   "label": "#276 12:01.1",
+   "shot": "split_screen",
+   "camera": "tripod",
+   "subject": "Left: white chalet with terrace. Right: two wine glasses against glowing mountains",
+   "text_on_screen": "I finally arrived at the rifugio an hour later",
+   "text_style": "Italic serif font, pale yellow-white, small, centred lower frame over the image",
+   "notes": "Side-by-side split with black divider, hard cut, warm sunset grade on right panel"
+  },
+  {
+   "label": "#277 12:04.1",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Sunlit jagged peaks over a valley at golden hour",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm golden-hour grade, slow drone movement"
+  },
+  {
+   "label": "#278 12:06.3",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Rocky spires above forested valley with distant snowy ridge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Gentle forward drone glide, soft evening haze"
+  },
+  {
+   "label": "#279 12:09.4",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Pink-lit dusk sky over dark dolomite silhouettes",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Timelapse-style static shot, blue to pink gradient, possible fade out"
+  },
+  {
+   "label": "#279 12:13.8",
+   "shot": "closeup",
+   "camera": "tripod",
+   "subject": "Woman with long dark hair talking to camera in wooden room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Indoor interview-style framing, warm wood interior, natural light from window"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#368 19:12.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Hooded person in grey rain jacket sitting on rock, pulling on black rain pants; hikers behind in fog",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Misty overcast daylight, muted desaturated colour grade, slightly cool tones"
+  },
+  {
+   "label": "#368 19:17.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Hooded person in black rain gear sitting on boulder adjusting pant leg; orange bag and hikers in background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Foggy outdoor setting, muted colours"
+  },
+  {
+   "label": "#369 19:20.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Person in black rain gear standing, another in teal poncho at left, pulling on rain trousers",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Fog, desaturated grade"
+  },
+  {
+   "label": "#370 19:23.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Person holding out teal poncho/tarp spread open on a foggy hillside with hikers behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wider framing, bushes and dirt terrain, misty background"
+  },
+  {
+   "label": "#370 19:28.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Two hikers in teal and grey rain ponchos stand on misty moorland, one using trekking pole",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Soft fog, muted green-grey palette"
+  },
+  {
+   "label": "#370 19:33.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Teal-poncho hiker walking away with two others in dark jackets and a green backpack in fog",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Fog, desaturated tones"
+  },
+  {
+   "label": "#371 19:39.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Person in black puffer jacket and cap adjusting a snack in hands, hikers blurred at sides",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Foggy background, muted colours"
+  },
+  {
+   "label": "#372 19:42.9",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Close-up of cap and grey puffer jacket with teal item in foreground, pack straps visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Extreme close framing, fog background"
+  },
+  {
+   "label": "#373 19:44.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Smiling man in cap and black puffer jacket facing camera, teal fabric in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Foggy desert-like terrain, muted grade"
+  },
+  {
+   "label": "#374 19:47.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Hiker in teal poncho and another with trekking poles walking across foggy barren ground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide framing, fog"
+  },
+  {
+   "label": "#374 19:51.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Group holding Kiliwarrior banner at summit-style stone sign, tents behind in fog",
+   "text_on_screen": "Kiliwarrior",
+   "text_style": "Bold sans-serif, red and black lettering on white banner, banner-printed not overlay",
+   "notes": "Misty, desaturated grade"
+  },
+  {
+   "label": "#374 19:56.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Group holding Kiliwarrior banner at wooden summit sign, tent and hiker at right",
+   "text_on_screen": "Kiliwarrior",
+   "text_style": "Bold sans-serif, red and black lettering on white banner, banner-printed not overlay",
+   "notes": "Fog, muted tones"
+  },
+  {
+   "label": "#375 19:58.4",
+   "shot": "black",
+   "camera": "handheld",
+   "subject": "Mostly blank warm orange-beige frame, likely lens cover or overexposed view",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm flat tone, possible transition frame"
+  },
+  {
+   "label": "#376 20:00.2",
+   "shot": "title_card",
+   "camera": "drone",
+   "subject": "Tent in foreground with snowy mountain above and day title overlay",
+   "text_on_screen": "4,800 M 15,600 FT SCHOOL HUT DAY 6",
+   "text_style": "Orange-yellow sans-serif, large centre-left title 'SCHOOL HUT' with small 'DAY 6' beneath; small altitude gauge graphic top-left",
+   "notes": "Clear blue sky with mountain, graphic overlay treatment"
+  },
+  {
+   "label": "#377 20:05.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two hikers in orange and blue jackets beside a dome tent in a campsite",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, natural colours"
+  },
+  {
+   "label": "#378 20:09.9",
+   "shot": "aerial",
+   "camera": "unknown",
+   "subject": "Snow-capped mountain with cloud cap over dry highland plain, red object at bottom edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Clear blue sky, vivid natural colour, establishing shot"
+  }
+ ]
+}

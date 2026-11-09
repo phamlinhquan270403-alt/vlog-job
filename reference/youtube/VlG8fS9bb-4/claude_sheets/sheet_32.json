@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#359 26:13.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in white keyhole blouse gesturing at camera, phone in hand, hallway",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm beige striped walls, vertical wood panels, natural light, medium-wide framing"
+  },
+  {
+   "label": "#359 26:17.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in white blouse with hands raised mid-explanation, dark door behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slightly tilted framing, warm grade"
+  },
+  {
+   "label": "#359 26:21.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman talking with hands up, corridor with striped walls and dark door",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Frame drifts, subject small in frame"
+  },
+  {
+   "label": "#359 26:25.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with hand on head, arm stretched toward lens, black shoulder bag",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Arm reaching into frame, casual energy, possible whip transition"
+  },
+  {
+   "label": "#359 26:29.6",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Cropped view of white blouse and bag, arm extended holding phone",
+   "text_on_screen": "Anything Goes with Emma Chamberlain",
+   "text_style": "small white sans-serif, centre-left, low on frame",
+   "notes": "Credit-style caption; crop cuts off head; overlay appears as attribution"
+  },
+  {
+   "label": "#360 26:33.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white blouse with hands together, talking, dark door behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Mid-frame, slight drift"
+  },
+  {
+   "label": "#360 26:38.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with hand behind head, black bag on shoulder, talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Casual pose, warm grade"
+  },
+  {
+   "label": "#360 26:43.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman standing with hand on hip, black shorts, striped corridor",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Full-body framing, static pose"
+  },
+  {
+   "label": "#360 26:47.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking, black bag, small white Coach logo on wall at left",
+   "text_on_screen": "coach",
+   "text_style": "tiny white sans-serif, left-middle, low contrast",
+   "notes": "Brand tag seen on wall signage"
+  },
+  {
+   "label": "#361 26:53.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman holding black bag up toward camera, blouse visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Product showcase move, bag fills right side"
+  },
+  {
+   "label": "#361 26:59.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman pulling black bag on shoulder, white plush toy visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Mid-frame, hand interaction with bag"
+  },
+  {
+   "label": "#362 27:02.8",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Black leather bag interior close-up with white plush toy, blouse at right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight crop, product detail"
+  },
+  {
+   "label": "#363 27:05.7",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman holding glasses and phone, bag strap on shoulder, blouse",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand-focused framing, motion blur on hand"
+  },
+  {
+   "label": "#363 27:10.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with hand shading eyes, glasses on face, looking up",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Dark door background, warm grade"
+  },
+  {
+   "label": "#364 27:14.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in glasses standing with hands on hips, striped wall behind",
+   "text_on_screen": "@uniqlo_ynam",
+   "text_style": "small white sans-serif, upper-right area of wall",
+   "notes": "Creator handle overlay, low prominence"
+  },
+  {
+   "label": "#364 27:18.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in glasses and white blouse talking, bag on shoulder",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Ends sequence on talking-head, consistent warm grade"
+  }
+ ]
+}

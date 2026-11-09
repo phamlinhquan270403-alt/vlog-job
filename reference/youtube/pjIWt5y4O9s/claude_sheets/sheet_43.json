@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#425 40:18.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Two people eating from white bowls, smiling, street background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright outdoor daylight, slight overexposure, wide-angle selfie framing"
+  },
+  {
+   "label": "#426 40:24.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man and woman with spoons and bowls, woman talking to camera",
+   "text_on_screen": "small subtitle-like text near bottom centre, not legible",
+   "text_style": "small white text, low position",
+   "notes": "Wide selfie angle, warm bright tones"
+  },
+  {
+   "label": "#426 40:29.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man laughing beside woman holding white bowl",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight selfie framing, slight tilt"
+  },
+  {
+   "label": "#427 40:32.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in glasses and black hood smiling, hand holding bowl",
+   "text_on_screen": "small text near bottom right, not legible",
+   "text_style": "small white text",
+   "notes": "Close selfie, hand enters frame from right"
+  },
+  {
+   "label": "#428 40:35.6",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Spoon scooping rice porridge in white bowl, blue tray behind",
+   "text_on_screen": "small caption at bottom centre, Vietnamese",
+   "text_style": "small white text, bottom centre",
+   "notes": "Overhead POV close-up of food"
+  },
+  {
+   "label": "#429 40:40.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man and woman eating porridge, woman speaking",
+   "text_on_screen": "small caption near bottom, not legible",
+   "text_style": "small white text",
+   "notes": "Selfie angle, similar to previous selfie shots"
+  },
+  {
+   "label": "#430 40:43.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man smiling, woman with glasses eating with spoon, bowl in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Mid-wide selfie framing"
+  },
+  {
+   "label": "#431 40:46.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in hood and glasses eating dessert with spoon, street stall behind",
+   "text_on_screen": "Vietnamese caption at bottom, not fully legible",
+   "text_style": "small white text, bottom left",
+   "notes": "Street setting with blue stools and food cabinet, natural daylight"
+  },
+  {
+   "label": "#432 40:48.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman eating flan-like dessert, talking to camera",
+   "text_on_screen": "Vietnamese caption at bottom left",
+   "text_style": "small white text, bottom left",
+   "notes": "Blue stools and street background, slightly warm grade"
+  },
+  {
+   "label": "#433 40:49.9",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman spooning caramel flan in white bowl",
+   "text_on_screen": "small caption near bottom, not legible",
+   "text_style": "small white text",
+   "notes": "Tight close-up following food"
+  },
+  {
+   "label": "#434 40:52.8",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in glasses talking while holding spoon over flan",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing, shallow background"
+  },
+  {
+   "label": "#434 40:57.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in hood walking past street food stall with red-clad person behind",
+   "text_on_screen": "Vietnamese sign text on stall, not legible",
+   "text_style": "small text on shop sign",
+   "notes": "Wide street scene, muted colours, stall signage visible"
+  },
+  {
+   "label": "#435 41:01.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man smiling and woman pointing upward, red flags behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low-angle selfie with red flag background"
+  },
+  {
+   "label": "#435 41:06.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man and woman with bowl, woman talking",
+   "text_on_screen": "small caption at bottom, not legible",
+   "text_style": "small white text",
+   "notes": "Selfie framing, red flags visible"
+  },
+  {
+   "label": "#435 41:10.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man gesturing with hand, woman in hood eating",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie with hand gesture, red flags in background"
+  },
+  {
+   "label": "#435 41:14.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in glasses smiling and gesturing toward camera",
+   "text_on_screen": "small caption at bottom right, not legible",
+   "text_style": "small white text",
+   "notes": "Low selfie angle, red flags and building behind"
+  }
+ ]
+}

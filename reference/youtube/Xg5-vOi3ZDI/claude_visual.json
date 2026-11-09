@@ -1,0 +1,3656 @@
+[
+ {
+  "label": "#1 00:01.8",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Mountain slope with title card reading The Italian Dolomites over rocky terrain",
+  "text_on_screen": "THE ITALIAN DOLOMITES (small line above and fine print below, partly illegible)",
+  "text_style": "White serif-style capitals, large centered-left title, small white caption text beneath, light and semi-transparent",
+  "notes": "Cinematic grade, soft desaturated greens and greys, title overlaid on landscape"
+ },
+ {
+  "label": "#2 00:03.9",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Misty green valley with village and cliffs at sunrise",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm morning haze, soft clouds in valley, pale golden light"
+ },
+ {
+  "label": "#3 00:04.6",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "White daisies in meadow with jagged rock peaks behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field on foreground flowers, bright natural colours"
+ },
+ {
+  "label": "#4 00:05.6",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Dramatic rocky cliffs and scree slope with clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slow forward drone move, warm muted grade"
+ },
+ {
+  "label": "#5 00:06.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with backpack walking away through yellow flower meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rear view, follows subject down path, bright saturated greens and yellows"
+ },
+ {
+  "label": "#6 00:07.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Hiker with poles on dirt path, grazing cows, mountain range",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Pastoral alpine scene, blue sky with clouds"
+ },
+ {
+  "label": "#7 00:08.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Small figure hiking across rocky boulder field toward cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot, muted earthy grade"
+ },
+ {
+  "label": "#8 00:09.2",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Rocky ridge overlooking valley and distant snowy peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Forward drone glide, clear blue sky, cool tones"
+ },
+ {
+  "label": "#9 00:09.9",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Two hikers with backpacks on gravel path toward mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, lush green foreground, tracking shot"
+ },
+ {
+  "label": "#10 00:10.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Man with large backpack seen from behind, looking at peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder rear view, cool blue-green grade"
+ },
+ {
+  "label": "#11 00:11.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Two palomino horses grazing near small pond in meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Calm pastoral scene, natural colours"
+ },
+ {
+  "label": "#12 00:11.8",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Palomino horse close up beside water with rocks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus, warm golden tones, partial frame at right edge"
+ },
+ {
+  "label": "#13 00:12.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Horses and cattle near stream with mossy rocks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Green natural palette, rustic feel"
+ },
+ {
+  "label": "#14 00:13.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Person walking on grassy slope past grazing cows",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mid-distance, stream and rocks in foreground"
+ },
+ {
+  "label": "#15 00:13.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in black outfit crossing stream on stones, horse behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking shot, green meadow, bright daylight"
+ },
+ {
+  "label": "#16 00:14.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Smiling woman with backpack and poles beside alpine village",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject glances off-frame, mountain and forest background, warm grade"
+ },
+ {
+  "label": "#17 00:15.4",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Alpine meadow with grazing cows below jagged peaks, dirt path winding through",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright saturated greens, daytime, landscape establishing shot"
+ },
+ {
+  "label": "#18 00:16.0",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Dolomite massif wreathed in cloud above green rolling pastures and conifer forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial pull-back or forward drift, soft overcast light"
+ },
+ {
+  "label": "#19 00:16.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Hiker walking a steep forest trail with snowy peaks in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking follow shot from behind, muted cool grade"
+ },
+ {
+  "label": "#20 00:17.5",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Green valley with village and rocky spires viewed from high ridge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Forward-moving drone reveal, warm sunlit grade"
+ },
+ {
+  "label": "#21 00:18.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Hiker with trekking poles crossing rocky scree beside a snow patch",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Walking toward camera, small figure in frame, neutral grade"
+ },
+ {
+  "label": "#22 00:19.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Lone hiker climbing rubble slope beneath tall rust-coloured rock wall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Distant subject, scale emphasis, cloudy sky"
+ },
+ {
+  "label": "#23 00:20.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Smiling woman with sunglasses and backpack on rocky plateau with snow patches",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Direct-to-camera vlog talk shot, slight wind, bright daylight"
+ },
+ {
+  "label": "#24 00:20.9",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Man in dark jacket and hat looking over cliff edge at mountain panorama",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Back-to-camera, blue sky with clouds, high contrast"
+ },
+ {
+  "label": "#25 00:21.6",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Jagged pale dolomite peaks above green valley with winding road and cloud",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slow lateral drone movement, saturated greens"
+ },
+ {
+  "label": "#26 00:22.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Hiker descending pale rocky slope toward small turquoise alpine lake",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Downward tilt following hiker, natural daylight"
+ },
+ {
+  "label": "#27 00:22.9",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in profile gazing over misty mountain valley, hair with sunglasses on head",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Contemplative reaction shot, shallow depth of field"
+ },
+ {
+  "label": "#28 00:23.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Black-and-white spotted cow lying in green grass with ear tags",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low-angle close framing, humorous cutaway, soft background blur"
+ },
+ {
+  "label": "#29 00:24.6",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Two people sitting on grass beside turquoise lake under rocky cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rest-stop scene, foreground grass blur, cool tones"
+ },
+ {
+  "label": "#30 00:26.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with ponytail looking toward sunlit peaks, pine branches in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side profile, warm golden-hour grade"
+ },
+ {
+  "label": "#31 00:28.0",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Sharp dolomite spires emerging from low cloud layer at dawn",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slow forward drift over cloud sea, soft pink-blue palette"
+ },
+ {
+  "label": "#32 00:30.0",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Black frame with glowing golden X-shaped ornamental graphic on left",
+  "text_on_screen": "",
+  "text_style": "Gold glowing decorative graphic, no legible text, dark background",
+  "notes": "Likely end card or transition; fades to black"
+ },
+ {
+  "label": "#33 00:33.0",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt gesturing with arms crossed, talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Plain light grey studio backdrop, soft even lighting, static framing"
+ },
+ {
+  "label": "#33 00:37.2",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt talking to camera, hands out of frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same static studio setup, slight framing shift"
+ },
+ {
+  "label": "#33 00:41.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt speaking with mouth open, hands gesturing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static studio framing, neutral grey background"
+ },
+ {
+  "label": "#33 00:45.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt with hands raised near chest, explaining",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static studio framing"
+ },
+ {
+  "label": "#33 00:49.9",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt leaning slightly, talking with hands low",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static studio framing"
+ },
+ {
+  "label": "#33 00:54.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt, head tilted, hands clasped at waist",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static studio framing, cut to tighter-feeling crop"
+ },
+ {
+  "label": "#34 00:59.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two women on mountain trail with green slopes and rocky peaks behind, one waving",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Outdoor landscape, hazy natural light, desaturated sky; B-roll insert"
+ },
+ {
+  "label": "#35 01:05.6",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt talking to camera, hands at waist",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Return to studio interview, grey backdrop"
+ },
+ {
+  "label": "#35 01:09.9",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt smiling and talking, hair falling forward",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Studio interview, static framing"
+ },
+ {
+  "label": "#35 01:14.2",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt speaking, hands low near lap",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Studio interview, static framing"
+ },
+ {
+  "label": "#35 01:18.5",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt with open hand raised, gesturing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Studio interview, static framing"
+ },
+ {
+  "label": "#35 01:22.8",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt talking with expressive face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Studio interview, static framing"
+ },
+ {
+  "label": "#35 01:27.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt pointing to the left while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Studio interview, static framing"
+ },
+ {
+  "label": "#35 01:31.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in striped shirt with both hands spread out, explaining",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Studio interview, static framing"
+ },
+ {
+  "label": "#36 01:33.8",
+  "shot": "black",
+  "camera": "unknown",
+  "subject": "Solid black frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Transition or fade-to-black between segments"
+ },
+ {
+  "label": "#37 01:34.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Steep grey rock face under pale sky with green vegetation at base",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mountain landscape B-roll, cool muted colour grade, possibly tilted upward angle"
+ },
+ {
+  "label": "#38 01:35.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Winding mountain road beside rocky cliff, guardrail, grey sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shot from moving vehicle window, slightly desaturated, cool grey tones"
+ },
+ {
+  "label": "#39 01:37.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Green alpine slopes with a white building and rocky peaks above road",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shot from moving vehicle, overcast sky, cool grade"
+ },
+ {
+  "label": "#40 01:38.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two people on bus making a ring-showing gesture, smiling at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bus interior, arm-length selfie, wide-angle distortion, natural daylight"
+ },
+ {
+  "label": "#41 01:38.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Man and woman smiling together on bus seats, selfie framing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight two-shot selfie, warm skin tones"
+ },
+ {
+  "label": "#42 01:40.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man looking left and woman smiling beside him on bus",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid two-shot inside bus, shallow depth, bright window light"
+ },
+ {
+  "label": "#43 01:44.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman turning to man on bus, hand raised near her face",
+  "text_on_screen": "SAN CASSIANO\n46.3…N 11.9…E\n…m",
+  "text_style": "Serif gold/yellow caps title with small coordinate and elevation lines, bottom-centre over dark lower-third bar",
+  "notes": "Location caption lower-third with GPS-style coordinates"
+ },
+ {
+  "label": "#44 01:48.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman laughing in bus seat next to man looking left",
+  "text_on_screen": "CAPANNA ALPINA\nla mountain top restaurant near the trailhead",
+  "text_style": "Serif gold/yellow caps title with smaller italic-style English subtitle line, bottom-centre, dark gradient behind",
+  "notes": "Location caption lower-third, second in sequence"
+ },
+ {
+  "label": "#45 01:51.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man smiling at camera, woman looking out bus window",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bus interior, warm tone, closing shot of the bus segment"
+ },
+ {
+  "label": "#46 01:53.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Green valley with misty clouds over forested hills and village",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape establishing shot, soft diffused light, muted greens"
+ },
+ {
+  "label": "#47 01:54.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Pine trees framing jagged pale rock mountain face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground trees used as framing device, overcast"
+ },
+ {
+  "label": "#48 01:56.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man standing in alpine village street near stone fountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Walking-in shot, wet pavement, muted colour"
+ },
+ {
+  "label": "#49 01:59.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand filling white water bottle at a street fountain tap",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close detail insert, cut on action of filling bottle"
+ },
+ {
+  "label": "#50 02:03.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Young man with backpack standing on gravel path in forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Full-body shot, bright green foliage, natural daylight"
+ },
+ {
+  "label": "#51 02:09.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Young man with backpack walking through forest, looking to side",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind-side, shallow depth of field"
+ },
+ {
+  "label": "#52 02:14.4",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Feet walking on gravel path, first-person perspective",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low POV walking shot, action cam look, wide angle"
+ },
+ {
+  "label": "#53 02:15.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dirt forest path lined with tall conifers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Ends the sequence, leading lines toward vanishing point, bright greens"
+ },
+ {
+  "label": "#54 02:17.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cream cap and black jacket adjusting cap in forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie arm framing, green forest background, natural daylight"
+ },
+ {
+  "label": "#55 02:21.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap walking on gravel forest path, looking at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie, path leading into trees"
+ },
+ {
+  "label": "#56 02:25.4",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Woman in black jacket walking on grassy gravel trail, looking down",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side-angle handheld follow shot, backpack visible"
+ },
+ {
+  "label": "#57 02:27.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap talking to camera on grassy forest trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie with wide lens distortion, bright green grade"
+ },
+ {
+  "label": "#58 02:29.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap looking left on forest trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie framing, conifers behind, cut on gaze direction"
+ },
+ {
+  "label": "#59 02:32.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap speaking, pointing toward parked car and path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie, path and car in background"
+ },
+ {
+  "label": "#59 02:36.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap at Rifugio Lavarella location title",
+  "text_on_screen": "RIFUGIO LAVARELLA 46.611253 12.006905 2045 m",
+  "text_style": "Serif gold/yellow caps for name, smaller white-ish coordinates and altitude below, centered lower third",
+  "notes": "Location caption overlay on forest scene"
+ },
+ {
+  "label": "#60 02:40.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap talking, wooden fence and path behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie, wide angle, fence and building in background"
+ },
+ {
+  "label": "#61 02:44.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap speaking, forest clearing with path behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie framing, cloudy sky, muted colours"
+ },
+ {
+  "label": "#61 02:49.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap raising finger while talking, forest and road behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie, finger gesture emphasis point"
+ },
+ {
+  "label": "#62 02:52.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker on rocky mountain trail with railing, misty peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide landscape, low cloud, dramatic scale"
+ },
+ {
+  "label": "#63 02:54.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Rocky peak above conifer forest with clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape establishing shot, misty grade"
+ },
+ {
+  "label": "#64 02:55.4",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Forested valley with misty mountain peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial-style landscape, cool green-grey grade"
+ },
+ {
+  "label": "#65 02:56.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Wooden railing along rocky cliff with mountain views",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape walking shot, clouds in valley"
+ },
+ {
+  "label": "#66 02:59.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Misty mountain slope with pine trees and rock face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Atmospheric landscape, fog emphasis"
+ },
+ {
+  "label": "#67 03:03.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with backpack standing on stone steps looking at mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Full-body framing, rocky wall and greenery, smooth movement"
+ },
+ {
+  "label": "#68 03:05.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in purple shirt with backpack walking down rocky mountain path past pine shrubs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slightly off-center framing, natural daylight, green-toned foliage"
+ },
+ {
+  "label": "#69 03:07.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Narrow rocky gorge trail with stone steps, hikers ahead in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Strong vertical rock walls framing the path, muted overcast colour"
+ },
+ {
+  "label": "#70 03:09.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Misty mountain peak above dense conifer forest with cliff edge on right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low-angle landscape reveal, cloudy grey sky, cool grade"
+ },
+ {
+  "label": "#71 03:09.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Cliff face wrapped in low cloud above forested valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of previous reveal, pans right, fog and muted greens"
+ },
+ {
+  "label": "#72 03:10.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Wooden railing fence along grassy path climbing toward misty peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Leading lines from fence, overcast sky, distant hiker"
+ },
+ {
+  "label": "#73 03:11.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Wooden gate on stone path with hiker approaching in mist",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Leading lines toward gate, fog in background"
+ },
+ {
+  "label": "#74 03:12.4",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Man in purple shirt peeking over weathered wooden gate in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground fence blur, misty mountains behind"
+ },
+ {
+  "label": "#75 03:14.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Smiling man in purple shirt with backpack gesturing right on mountain trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close, energetic framing, cloud-covered peaks in background, likely a reaction or direction cue"
+ },
+ {
+  "label": "#76 03:15.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Misty peak over forested valley with cliff on right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar to earlier landscape reveal, cool desaturated grade"
+ },
+ {
+  "label": "#77 03:16.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in cap and backpack walking on gravel path through green alpine meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Distant hikers ahead, stream and pine shrubs, bright overcast light"
+ },
+ {
+  "label": "#78 03:18.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Fog-draped jagged mountain range above green valley and shrubs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static landscape, cloud drifting across peaks"
+ },
+ {
+  "label": "#79 03:19.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with black backpack walking away on dirt trail through yellow flower meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rear follow shot, centered subject, warm yellow flowers contrast with green"
+ },
+ {
+  "label": "#80 03:21.2",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Small figure walking on dirt path through yellow wildflower valley with mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial-style rise, wide valley, soft overcast light"
+ },
+ {
+  "label": "#81 03:22.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in white cap and light jacket facing camera on gravel trail in meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Frontal walking shot, centered, bright natural light, likely intro or talking segment"
+ },
+ {
+  "label": "#82 03:24.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Rocky peak above shallow stream running through grassy alpine meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Stable landscape, cloud-covered sky, cool grade"
+ },
+ {
+  "label": "#83 03:25.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Dirt trail curving toward rocky mountain peak under cloudy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Forward movement along path, ends sequence, muted greens"
+ },
+ {
+  "label": "#84 03:26.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Green alpine valley with a cow grazing and a winding dirt path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright natural daylight, slightly soft, green-dominant grade"
+ },
+ {
+  "label": "#85 03:27.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Misty mountain ridge above green slopes and scrubby bushes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overcast sky, muted cool grade, sweeping landscape reveal"
+ },
+ {
+  "label": "#86 03:29.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cream cap and black jacket, excited, pointing up, cow behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie arm framing, bright exposure"
+ },
+ {
+  "label": "#87 03:31.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cream cap smiling close to camera with pine trees behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight selfie framing, slight wide-angle distortion"
+ },
+ {
+  "label": "#88 03:33.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap and black jacket talking to camera, larch trees and hills behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie framing, bright natural light"
+ },
+ {
+  "label": "#89 03:37.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap speaking to camera, cow and mountains in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie framing, wide-angle, mountain backdrop"
+ },
+ {
+  "label": "#90 03:41.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two cows grazing on green meadow with rocks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural light, cows near camera, slightly shaky"
+ },
+ {
+  "label": "#91 03:43.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Jagged grey dolomite peaks above a path winding through green valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth gimbal move, landscape establishing shot"
+ },
+ {
+  "label": "#92 03:45.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two brown cows lying down on green grass with white flowers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Calm, low-angle, warm natural colours"
+ },
+ {
+  "label": "#93 03:47.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Green valley with stream and mountain slope under grey sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth forward movement, cool muted grade"
+ },
+ {
+  "label": "#94 03:48.9",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Woman in black walking away on gravel trail with cows on hillside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, tracking the subject down the path"
+ },
+ {
+  "label": "#95 03:50.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Gravel trail with cows and a distant hiker on green hillside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Stable tracking shot, bright daylight"
+ },
+ {
+  "label": "#96 03:51.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in black crossing a stream with cows grazing behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side-on walking shot, natural light"
+ },
+ {
+  "label": "#97 03:53.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in cap and black top balancing on rocks over a stream",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject crosses frame, cow in distance, natural grade"
+ },
+ {
+  "label": "#98 03:56.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Pond with grazing horses and cows below rocky dolomite cliffs and larch forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Calm establishing shot, muted greens and greys"
+ },
+ {
+  "label": "#99 03:59.6",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Pond with horses and cows drinking, mountain cliffs behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Closing landscape shot, slightly overcast tone"
+ },
+ {
+  "label": "#100 04:01.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in black jacket walking through alpine meadow with cows",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, green grass, slightly soft grade"
+ },
+ {
+  "label": "#101 04:02.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman walking toward camera past dark and brown cows on meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mountain ridge in background, tree line"
+ },
+ {
+  "label": "#102 04:04.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in black walking among grazing cows and horses near pond",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot, rocky mountains above"
+ },
+ {
+  "label": "#103 04:05.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two palomino horses grazing beside a small pond",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, bright green grass, calm water"
+ },
+ {
+  "label": "#104 04:07.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dark cows and brown horses by a stream in green meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground shrubs framing, overcast light"
+ },
+ {
+  "label": "#105 04:09.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Horse and black cows on dirt path below jagged peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Pine trees, rocky foreground"
+ },
+ {
+  "label": "#106 04:10.6",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Dirt path winding down valley toward dolomite peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial forward movement, cloudy sky"
+ },
+ {
+  "label": "#107 04:11.8",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Small figure walking on gravel trail with mountains behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Moody overcast grade, drone glide"
+ },
+ {
+  "label": "#108 04:12.8",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Turquoise alpine lake surrounded by green slopes and pale cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Vivid saturated water colour, top-down descent"
+ },
+ {
+  "label": "#109 04:13.8",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Same turquoise alpine lake from a closer angle",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of lake sequence, similar grade"
+ },
+ {
+  "label": "#110 04:14.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker with backpack and yellow jacket looking at mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Back to camera, forest valley below"
+ },
+ {
+  "label": "#111 04:16.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Rock spire emerging from thick fog and clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Desaturated grey mood, misty atmosphere"
+ },
+ {
+  "label": "#112 04:18.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Wooden trail signposts pointing to Rif. Lavarella and another refuge",
+  "text_on_screen": "Rif. Lavarella",
+  "text_style": "Hand-painted serif-like lettering, red and white on weathered wood, placed left-centre",
+  "notes": "Forest background, shallow depth of field"
+ },
+ {
+  "label": "#113 04:20.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Mountain meadow with small wooden huts and stream",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Flat green grade, hut distant"
+ },
+ {
+  "label": "#114 04:22.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Wooden footbridge with log railing over stream toward chalet",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Leading lines from bridge, green meadow"
+ },
+ {
+  "label": "#115 04:23.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Stream over rocks with small white hut and jagged peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle over water, cloudy sky"
+ },
+ {
+  "label": "#116 04:24.3",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Alpine hut 'Malga Lavarella' with mountain backdrop and grass",
+  "text_on_screen": "MALGA LAVARELLA",
+  "text_style": "white serif sign lettering on wooden facade, small, upper-middle of hut",
+  "notes": "Static establishing shot, daylight, slightly overcast sky, natural colour"
+ },
+ {
+  "label": "#117 04:26.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two hikers in a wooden boot room hanging gear on hooks, one bending over a bench",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid observational framing, warm indoor light, slight handheld movement"
+ },
+ {
+  "label": "#118 04:29.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dim wooden bedroom with bunk bed and window showing daylight",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm brown grade, low-key interior, window provides backlight"
+ },
+ {
+  "label": "#119 04:31.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "View through a window frame onto green alpine meadow with small huts",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Window frame used as foreground framing device, bright exterior contrasts with interior"
+ },
+ {
+  "label": "#120 04:33.4",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Green alpine valley with small huts and rocky peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape establishing shot, natural colour, slow pan likely"
+ },
+ {
+  "label": "#121 04:34.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman photographing herself in a mirror in a wooden hallway",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mirror-framed composition, warm wood tones"
+ },
+ {
+  "label": "#122 04:35.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Restaurant table with chequered board and small chalkboard sign reading Tiroler, diners behind",
+  "text_on_screen": "Tiroler",
+  "text_style": "white chalk-style handwriting on black chalkboard, small, centre of frame",
+  "notes": "Shallow depth of field, warm restaurant tones"
+ },
+ {
+  "label": "#123 04:36.4",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand turning pages of an open menu at a wooden table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus on menu text, warm tones, hand enters from right"
+ },
+ {
+  "label": "#124 04:39.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman and man seated at a bar-side table in a wooden restaurant, smiling",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Two-shot interview-style candid, warm amber grade, shelves with bottles behind"
+ },
+ {
+  "label": "#125 04:41.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Wooden restaurant interior seen through a glass partition with diners",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground window mullions as framing, warm amber grade, shallow depth"
+ },
+ {
+  "label": "#126 04:42.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of diners at wooden tables under pendant lamps",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm grade, figures partly obscured by foreground edge"
+ },
+ {
+  "label": "#127 04:43.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Two green dumplings on red sauce on a white plate",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overhead close-up food shot, saturated colours, shallow depth"
+ },
+ {
+  "label": "#128 04:43.8",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Fried egg with ham and fried potatoes on a plate",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close food shot at table level, warm tones, shallow focus"
+ },
+ {
+  "label": "#129 04:44.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand serving a dumpling with meat sauce from a plate",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm brown grade, over-the-shoulder food shot, shallow depth"
+ },
+ {
+  "label": "#130 04:47.2",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Presenter standing in front of alpine valley with huts and mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Presenter to-camera piece, natural daylight, bright outdoor colour"
+ },
+ {
+  "label": "#130 04:51.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Same presenter with hands on hips in front of alpine valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup as previous frame, later take, likely a jump cut continuation"
+ },
+ {
+  "label": "#130 04:56.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black jacket gesturing while speaking to camera in alpine meadow with mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, green meadow and wooden huts in background, slightly soft grade"
+ },
+ {
+  "label": "#130 05:00.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black jacket with arms spread, presenting the valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup as previous, presenter talking to camera"
+ },
+ {
+  "label": "#130 05:05.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman and man in black jackets standing together, looking at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Two-person framing introduced, same location"
+ },
+ {
+  "label": "#130 05:09.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman gesturing toward village while man stands beside her smiling",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static two-shot, cut on gesture"
+ },
+ {
+  "label": "#130 05:14.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman gestures to side while man stands with hands in pockets",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wider framing with valley and huts visible"
+ },
+ {
+  "label": "#130 05:18.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman and man face each other, conversing in meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side-angle conversational shot"
+ },
+ {
+  "label": "#131 05:21.8",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Wooden alpine hut on green slope with fence and conifers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone reveal, slow forward move, bright natural colour"
+ },
+ {
+  "label": "#132 05:23.4",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Valley with mountain ridges, small huts and dirt road",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Soft haze, muted greens, sloping drone move"
+ },
+ {
+  "label": "#133 05:24.6",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Rifugio building beside winding road and river in mountain valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "High drone angle, descending motion"
+ },
+ {
+  "label": "#134 05:26.0",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Horse standing in meadow near wooden fence with mountains behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static wide, calm pacing"
+ },
+ {
+  "label": "#135 05:27.7",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Forest and rocky slopes with a small figure walking through meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low forward drone flight over trees"
+ },
+ {
+  "label": "#136 05:29.0",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Green meadow edge with fence, conifers and two distant hikers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone pan, continuing from previous aerial"
+ },
+ {
+  "label": "#137 05:30.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Sunlit peak above forested slope with grazing cows in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm golden light on rock, cooler shadows, slow push"
+ },
+ {
+  "label": "#138 05:33.2",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in black standing in larch forest looking toward mountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm sunset grade, shallow depth of field"
+ },
+ {
+  "label": "#139 05:35.7",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Woman in black swinging wooden walking stick, mountain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Action movement, slight motion blur, warm highlights"
+ },
+ {
+  "label": "#140 05:39.4",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman holding wooden stick and looking down, mountain backdrop",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Matches previous action, warm golden grade"
+ },
+ {
+  "label": "#140 05:44.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black jacket holding wooden walking stick before mountain ridge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm sunset light, trees framing top left, shallow depth of field"
+ },
+ {
+  "label": "#141 05:48.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Pink-lit rocky mountain ridge with pine branches in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Golden hour grade, slow push or pan across peaks"
+ },
+ {
+  "label": "#142 05:50.2",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Green alpine meadow with grazing cows and mountain peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial establishing shot, warm saturated grade"
+ },
+ {
+  "label": "#143 05:51.4",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Dolomite peaks above forested valley at sunrise",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone rising or drifting forward, warm highlights"
+ },
+ {
+  "label": "#144 05:52.6",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Jagged mountain peaks emerging above low clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Misty cool blue tones, pink sunlit peaks, likely fly-over transition"
+ },
+ {
+  "label": "#145 05:54.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Diners seated at wooden tables in rustic warm restaurant",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior lighting, wood paneling, slow walk-in feel"
+ },
+ {
+  "label": "#146 05:56.0",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in dark top raising glass across wooden table, man seated opposite",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm grade, red cushions, candid dining moment"
+ },
+ {
+  "label": "#147 05:58.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two women seated on red bench in wood-panelled restaurant, one raising glass",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm grade, shelves of bottles in background"
+ },
+ {
+  "label": "#148 05:60.0",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman at restaurant table with wine glass, shelves of bottles behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same dining scene continuing, warm tones"
+ },
+ {
+  "label": "#149 06:02.2",
+  "shot": "black",
+  "camera": "unknown",
+  "subject": "Dark frame with faint hand and table shapes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Fade to black transition, low-key lighting"
+ },
+ {
+  "label": "#150 06:04.9",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Mountain aerial background with day title card",
+  "text_on_screen": "DAY 2 / RIFUGIO LAVARELLA >>> RIFUGIO LAGAZUOI >>> RIFUGIO POMEDES",
+  "text_style": "Large bold yellow sans-serif 'DAY 2' centered, small yellow caps route line below, dark translucent background image",
+  "notes": "Chapter title card, likely dissolve in and out"
+ },
+ {
+  "label": "#151 06:06.8",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hand opening wooden window onto green alpine valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural light, warm wood frame, bright exterior contrast"
+ },
+ {
+  "label": "#152 06:08.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Alpine village with wooden chalets on green meadow below rocky peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, saturated greens and blue sky"
+ },
+ {
+  "label": "#153 06:09.1",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Sponsor announcement on black background",
+  "text_on_screen": "BEFORE WE HIKE LET'S HEAR FROM TODAY'S SONSOR",
+  "text_style": "Thin light-yellow/orange sans-serif caps, centered, two lines, small size, black background",
+  "notes": "Typo 'SONSOR' appears in original; simple fade transition"
+ },
+ {
+  "label": "#154 06:11.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with hands clasped under chin speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Front-facing talking head, plain light wall background, soft daylight"
+ },
+ {
+  "label": "#154 06:16.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman gesturing with both hands while talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head continuation, same framing as previous, jump cut likely"
+ },
+ {
+  "label": "#154 06:20.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with long dark hair, head tilted, pursed lips, talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright neutral grey wall backdrop, soft even daylight, white tank top"
+ },
+ {
+  "label": "#155 06:24.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman mid-sentence gesturing with raised hand at edge of frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same grey backdrop, soft natural light, hand partially cropped at left and right edges"
+ },
+ {
+  "label": "#155 06:28.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with eyes half closed, mouth open mid-speech, slight head tilt",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Neutral grey backdrop, soft daylight, tight head-and-shoulders framing"
+ },
+ {
+  "label": "#155 06:33.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling and speaking, hands low at bottom of frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Grey wall, soft even light, slightly off-centre framing"
+ },
+ {
+  "label": "#155 06:37.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman speaking with hands clasped near chest, centred",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Grey backdrop, soft daylight, head-and-shoulders framing"
+ },
+ {
+  "label": "#155 06:41.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman speaking directly to camera, centred, neutral expression",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Grey backdrop, soft daylight, head-and-shoulders framing"
+ },
+ {
+  "label": "#155 06:45.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman squinting and speaking, head turned slightly to one side",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Grey backdrop, soft daylight, tight framing"
+ },
+ {
+  "label": "#155 06:49.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with eyes closed mid-expression, head tilted right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Grey backdrop, soft daylight, tight framing"
+ },
+ {
+  "label": "#155 06:54.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman winking while talking, hands together at bottom",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Grey backdrop, soft daylight"
+ },
+ {
+  "label": "#155 06:58.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman speaking with head tilted, hair falling across shoulder",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Grey backdrop, soft daylight"
+ },
+ {
+  "label": "#155 07:02.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling broadly, hand gesture at right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Grey backdrop, soft daylight, hand partially visible at right"
+ },
+ {
+  "label": "#155 07:06.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling, hand raised at left edge of frame",
+  "text_on_screen": "USE BETTERHELP.COM/ELENATABER FOR 10% OFF YOUR FIRST MONTH",
+  "text_style": "Thin white sans-serif all caps, small, centred near bottom third",
+  "notes": "Sponsor lower-third overlay, grey backdrop"
+ },
+ {
+  "label": "#155 07:11.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with both hands spread open, gesturing while speaking",
+  "text_on_screen": "USE BETTERHELP.COM/ELENATABER FOR 10% OFF YOUR FIRST MONTH",
+  "text_style": "Thin white sans-serif all caps, small, centred near bottom",
+  "notes": "Sponsor overlay persists from previous shot, grey backdrop"
+ },
+ {
+  "label": "#155 07:15.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman speaking to camera, centred, hands out of frame",
+  "text_on_screen": "USE BETTERHELP.COM/ELENATABER FOR 10% OFF YOUR FIRST MONTH",
+  "text_style": "Thin white sans-serif all caps, small, centred near bottom",
+  "notes": "Sponsor overlay continues, grey backdrop"
+ },
+ {
+  "label": "#156 07:17.5",
+  "shot": "other",
+  "camera": "unknown",
+  "subject": "Warm sunlit glowing shot of woman smiling, arm extended toward camera",
+  "text_on_screen": "USE BETTERHELP.COM/ELENATABER FOR 10% OFF YOUR FIRST MONTH",
+  "text_style": "Thin white sans-serif all caps, small, centred near bottom",
+  "notes": "Warm orange flare and soft overexposed grade, contrasts with neutral talking-head shots; sponsor overlay still visible"
+ },
+ {
+  "label": "#157 07:17.8",
+  "shot": "black",
+  "camera": "unknown",
+  "subject": "Solid black frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Fade to black ending the segment"
+ },
+ {
+  "label": "#158 07:18.4",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Breakfast table with bread, boiled eggs, cup of food, knife, top-down view",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm orange wooden table, slightly overexposed highlights, top-down angle"
+ },
+ {
+  "label": "#159 07:18.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Same breakfast plate with bread, eggs and a bowl of chocolate-topped food",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of previous top-down breakfast shot, slight push-in, warm grade"
+ },
+ {
+  "label": "#160 07:19.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in teal t-shirt seated at wooden bench outside mountain hut, gesturing while eating",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, mountain hut and terrace behind, bright sunny look"
+ },
+ {
+  "label": "#161 07:21.0",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Alpine meadow with wooden chalet, stone building and grazing brown cows",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot, saturated green grass, pine trees on hillside"
+ },
+ {
+  "label": "#162 07:22.1",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Jagged dolomite peaks above green valley with small wooden hut",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape establishing shot, clear blue sky, bright highlights"
+ },
+ {
+  "label": "#163 07:23.5",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Hiker with backpack crossing rocky stream bed near wooden hut and forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide shot, subject small in frame, forested slope behind"
+ },
+ {
+  "label": "#164 07:25.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Small waterfall cascading over mossy rocks beside a large white boulder",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close detail shot, lush greenery, water motion good for transition"
+ },
+ {
+  "label": "#165 07:28.2",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman with trekking poles on gravel path, grazing cows and mountain range",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide shot, path leads diagonally into frame, bright blue sky"
+ },
+ {
+  "label": "#166 07:31.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Spotted black-and-white cow lying in green meadow with rocks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, mountains behind, soft sunlight"
+ },
+ {
+  "label": "#167 07:32.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in teal jacket with backpack petting spotted cow lying in meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-the-shoulder style interaction, shallow depth of field"
+ },
+ {
+  "label": "#168 07:34.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with backpack crouching beside spotted cow on grassy slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mountain backdrop, bright daylight, slight handheld movement"
+ },
+ {
+  "label": "#169 07:36.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with backpack stroking spotted cow's head in meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar setup to previous shot, different framing, mountains behind"
+ },
+ {
+  "label": "#170 07:37.8",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Steep green valley with rocky mountain peaks under cloudy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial-style landscape, dramatic clouds, slow forward movement"
+ },
+ {
+  "label": "#171 07:39.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers with poles walking gravel trail through alpine meadow with mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground grass blur, trail leads into distance"
+ },
+ {
+  "label": "#172 07:41.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers walking on trail below rocky dolomite cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Green meadow foreground, bright sky, mid-length tracking shot"
+ },
+ {
+  "label": "#173 07:43.2",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Grazing horses and cows in green alpine meadow below rocky peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide closing-style landscape, pine trees, bright natural colour grade"
+ },
+ {
+  "label": "#174 07:44.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker with backpack petting a palomino horse on grassy meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Daytime, natural green grade, horse close to frame edge"
+ },
+ {
+  "label": "#175 07:46.8",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hiker's face close to palomino horse's muzzle, backpack in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight framing, warm tones, backpack blurred in foreground"
+ },
+ {
+  "label": "#176 07:48.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Horses grazing in flowering meadow beside wooden fence and conifer forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot, bright greens"
+ },
+ {
+  "label": "#177 07:49.8",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Man with backpack walking away from camera toward rocky mountain valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-the-shoulder follow shot, blue sky, cut from horse scenes"
+ },
+ {
+  "label": "#178 07:51.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dolomite rock faces and dirt trail across green valley floor",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Clear blue sky, saturated color, landscape establishing"
+ },
+ {
+  "label": "#179 07:52.9",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "White daisy-like flowers in foreground with mountain peaks behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, flower macro transition"
+ },
+ {
+  "label": "#180 07:54.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Mountain peaks and yellow flower meadow in valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar framing to shot 178, possible jump-cut pairing"
+ },
+ {
+  "label": "#181 07:55.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Steep grassy slope descending to distant valley and snowy peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Elevated viewpoint, hazy distance"
+ },
+ {
+  "label": "#182 07:57.5",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Tiny hiker on trail below pale scree slopes and green meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone shot, slightly desaturated grade"
+ },
+ {
+  "label": "#183 07:59.2",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Two small hikers walking on trail below scree mountain face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone follows trail, similar to shot 182"
+ },
+ {
+  "label": "#184 08:01.1",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Rocky peak and forested ridge with snowy mountains in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone pulling back or rising, bright sky"
+ },
+ {
+  "label": "#185 08:02.8",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Rocky peak above forested valley with distant snow-capped range",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continues drone movement from 184"
+ },
+ {
+  "label": "#186 08:04.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in black jacket walking across rocky terrain toward cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, dramatic clouds, subject small in frame"
+ },
+ {
+  "label": "#187 08:06.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Massive layered rock tower with blue sky and clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Vertical rock face, strong contrast"
+ },
+ {
+  "label": "#188 08:07.9",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Rocky ridge above green valley with snowy peaks beyond",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone glide over ridge"
+ },
+ {
+  "label": "#189 08:10.0",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hand pointing toward a dirt path on a rocky hillside",
+  "text_on_screen": "ourse come pili fa...",
+  "text_style": "Small white sans-serif subtitle-like text, centered near lower middle, partially illegible; faint overlay",
+  "notes": "Pointing gesture suggests direction cue for next segment"
+ },
+ {
+  "label": "#190 08:13.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker on grassy rocky trail pointing ahead, mountain slopes behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand enters frame from lower left pointing; natural daylight, slightly warm grade"
+ },
+ {
+  "label": "#191 08:19.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman with sunglasses on head, black top, grassy alpine valley behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Arm-length selfie with wide lens distortion; bright saturated greens"
+ },
+ {
+  "label": "#192 08:23.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with trekking pole crossing boulder field under blue sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide landscape behind subject; bright high-contrast daylight"
+ },
+ {
+  "label": "#193 08:25.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker with backpack walking across rocky slope beside snow patches",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Distant subject in scree; snow strips give strong white contrast"
+ },
+ {
+  "label": "#194 08:25.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in dark jacket walking down rocky slope with snow patches",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Short clip; cut on movement from previous shot"
+ },
+ {
+  "label": "#195 08:26.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker descending scree slope with snow streaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar framing to previous, slight zoom; likely jump-cut continuity"
+ },
+ {
+  "label": "#196 08:27.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses and black top smiling, rocky mountain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close arm-length selfie, wide angle; hand visible at right edge"
+ },
+ {
+  "label": "#197 08:28.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses with earbud talking to camera, valley behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head style selfie; backpack strap visible; bright daylight"
+ },
+ {
+  "label": "#198 08:30.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Wide mountain valley view with large rock tower and snow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing landscape shot; no subject visible"
+ },
+ {
+  "label": "#199 08:32.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Lone hiker walking through boulder field below tall rock face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject small in frame; grey desaturated tones"
+ },
+ {
+  "label": "#200 08:34.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black outfit walking on snowfield toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright snow foreground; cloudy blue sky background"
+ },
+ {
+  "label": "#201 08:37.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Small hiker walking down snowy slope between rock walls",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject in distance right; snow foreground leads eye"
+ },
+ {
+  "label": "#202 08:39.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Rocky path climbing between cliffs toward distant hiker",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle; cliff framing left, sky opening upper right"
+ },
+ {
+  "label": "#203 08:41.0",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Person in sun hat and dark jacket walking away on rocky trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Steady follow shot from behind; orange cliffs frame both sides"
+ },
+ {
+  "label": "#204 08:42.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Narrow rock gap opening onto snowy mountain plateau",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Symmetrical framing through rock gap; possible reveal transition"
+ },
+ {
+  "label": "#205 08:44.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in cap walking down rocky slope, lake and valley below",
+  "text_on_screen": "Lorem ipsum dolor sit amet",
+  "text_style": "Small italic white script-style font, centered near lower middle, low contrast",
+  "notes": "Caption overlay on footage; warm rock tones, slight sun flare"
+ },
+ {
+  "label": "#206 08:46.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker small on rocky scree slope below tall cliff face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, muted earthy grade, hazy mountain tones"
+ },
+ {
+  "label": "#207 08:48.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Looking up a narrow rock gully toward a small alpine lake below",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Framed by rock walls on both sides, lake visible in distance"
+ },
+ {
+  "label": "#208 08:50.5",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Grey limestone scree field with tiny figure at lower left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "High-angle view, flat overcast-looking light, low contrast"
+ },
+ {
+  "label": "#209 08:52.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker with poles on rocky path beside turquoise alpine lake",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rock wall framing on right, lake on upper right"
+ },
+ {
+  "label": "#210 08:55.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in cap and backpack on steep gravel trail overlooking valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide valley panorama behind subject, bright sky at top"
+ },
+ {
+  "label": "#211 08:56.8",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Aerial view of winding mountain road through green valley with peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Saturated blue sky and green tones, vivid grade"
+ },
+ {
+  "label": "#212 09:00.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two people sitting by green alpine lake, one lying on grass with arm raised",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Snowfield and cliffs in background, bright natural light"
+ },
+ {
+  "label": "#213 09:03.7",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Small hiker walking on trail toward large rock face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Blue sky with white clouds at upper right, slightly high angle"
+ },
+ {
+  "label": "#214 09:07.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Arm extended pointing forward across rocky plateau toward mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Pointing gesture guides viewer, bright sky, possible match cut candidate"
+ },
+ {
+  "label": "#215 09:12.1",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hand gesturing outward over rocky valley with snow patches",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same pointing gesture continuing from previous shot, sequence transition"
+ },
+ {
+  "label": "#216 09:14.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person in green shirt with arms raised on rocky terrain below cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cliff wall backdrop, neutral grey tones"
+ },
+ {
+  "label": "#217 09:15.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker with backpack walking across rocky plateau toward cliff",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Blue sky with clouds, cliff at upper left"
+ },
+ {
+  "label": "#218 09:17.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker on rocky path beside snow patch below cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Blue sky with clouds, tilted low angle"
+ },
+ {
+  "label": "#219 09:18.8",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with backpack and trekking pole walking away on snowy rock",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, steady movement, muted grey terrain"
+ },
+ {
+  "label": "#220 09:21.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Wide rocky highland with distant valley and hazy mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cloudy blue sky, open landscape, establishing feel"
+ },
+ {
+  "label": "#221 09:23.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Rocky mountain slope with snow patches under big clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, bright sky, possible end-of-sequence wide shot"
+ },
+ {
+  "label": "#222 09:26.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in black top walking on snowy rocky mountain trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, blue sky with clouds, slightly warm grade"
+ },
+ {
+  "label": "#223 09:32.2",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with ponytail and sunglasses looking left, backpack straps visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth, rocky background with snow patches"
+ },
+ {
+  "label": "#224 09:38.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman in sunglasses holding trekking pole, talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close framing, mountain slope behind, natural light"
+ },
+ {
+  "label": "#224 09:43.9",
+  "shot": "other",
+  "camera": "handheld",
+  "subject": "Woman with trekking pole hiking, text overlay across frame",
+  "text_on_screen": "LOOK WHAT I'VE DONE THIS ... (partially legible overlay)",
+  "text_style": "Yellow, bold sans-serif with outline, small, centre-upper area",
+  "notes": "Caption appears mid-shot, likely a playful joke caption; verify exact wording on source"
+ },
+ {
+  "label": "#225 09:47.1",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Wooden trail signpost with many direction arrows in front of rocky peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static establishing shot, bright, slightly hazy distant mountains"
+ },
+ {
+  "label": "#226 09:48.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Small figure walking on wide rocky path below cliff face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape, cloudy sky, stone wall on left"
+ },
+ {
+  "label": "#227 09:49.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman walking with pole on path, mountain hut in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Blue sky with clouds, low angle"
+ },
+ {
+  "label": "#228 09:50.6",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in black walking uphill toward white mountain hut",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, people on path in distance"
+ },
+ {
+  "label": "#229 09:51.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two hikers with poles and woman with backpack near hut",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, cloudy sky"
+ },
+ {
+  "label": "#230 09:53.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dramatic jagged dolomite peaks above snowy valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overcast, muted colours"
+ },
+ {
+  "label": "#231 09:54.3",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Aerial view over cliff edge toward green valley and peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Vivid blue and green, saturated grade"
+ },
+ {
+  "label": "#232 09:55.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Wooden mountain restaurant facade with terrace and guests",
+  "text_on_screen": "Rifugio sign (small, partly legible, not transcribed)",
+  "text_style": "Small white serif on wood sign, centre",
+  "notes": "Establishing shot of building"
+ },
+ {
+  "label": "#233 09:58.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses and white jacket raising hand, talking at terrace",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie distortion, restaurant behind"
+ },
+ {
+  "label": "#234 10:01.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses touching her glasses, talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setting as previous, centred framing"
+ },
+ {
+  "label": "#235 10:05.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses gesturing with hand while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same terrace setting, jump-cut candidate with previous"
+ },
+ {
+  "label": "#236 10:10.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses and white jacket speaking on restaurant terrace",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Right-side framing, outdoor tables behind"
+ },
+ {
+  "label": "#236 10:15.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses and white jacket at mountain restaurant terrace, wooden tables behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, natural colour, slightly wide selfie framing"
+ },
+ {
+  "label": "#236 10:20.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Same woman in sunglasses, hand touching chin, talking, outdoor restaurant behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuous selfie take, jump-cut sequence from previous shot"
+ },
+ {
+  "label": "#237 10:24.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Panoramic alpine valley with snowy peaks and green slopes under cloudy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape establishing shot, likely gimbal or handheld pan"
+ },
+ {
+  "label": "#238 10:27.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Jagged Dolomite peaks and forested valley with winding road",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide landscape, high contrast, saturated greens"
+ },
+ {
+  "label": "#239 10:32.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Man in teal shirt and sunglasses smiling on mountain viewpoint platform, people behind railing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie framing, mountains behind, natural daylight"
+ },
+ {
+  "label": "#240 10:38.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Same man in teal shirt and sunglasses, mouth closed, viewpoint railing and peaks behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of selfie talk, similar framing to previous"
+ },
+ {
+  "label": "#241 10:41.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling man in sunglasses close to camera, mountain viewpoint with people behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tighter selfie crop, slightly off-centre"
+ },
+ {
+  "label": "#242 10:44.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white top with long hair looking out over green valley and snowy ridge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder-style profile shot, bright and airy"
+ },
+ {
+  "label": "#243 10:45.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with sunglasses on head, hand raised to hair, looking at snowy mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Profile shot against landscape, natural light"
+ },
+ {
+  "label": "#244 10:46.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in profile with sunglasses on head looking right over valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar setup to previous, slight reframe"
+ },
+ {
+  "label": "#245 10:48.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman adjusting sunglasses, mountain range and clouds behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close crop, hand in frame, shallow depth feel"
+ },
+ {
+  "label": "#246 10:49.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Hikers with backpacks walking up a stone path beside a white building",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Following shot from behind, rising stairs, grey mountain walls"
+ },
+ {
+  "label": "#247 10:50.3",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Cable car wires over green valley and rocky mountain slopes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone or cable car window view, cables cutting diagonally across frame"
+ },
+ {
+  "label": "#248 10:51.7",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Forested valley with green meadows and a rocky outcrop in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Descending aerial reveal, saturated greens"
+ },
+ {
+  "label": "#249 10:54.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Man in cap and teal shirt with woman in sunglasses, both smiling, thumbs up, inside cable car",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Two-person selfie in gondola, valley visible through window"
+ },
+ {
+  "label": "#250 10:56.7",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Alpine town in valley with church spire and rocky peaks above",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing aerial of village, bright daylight, slight haze"
+ },
+ {
+  "label": "#251 10:58.8",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Mountain town below jagged Dolomite peaks under blue sky with clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing wide shot, bright daylight, saturated greens, aerial-like elevated view"
+ },
+ {
+  "label": "#252 11:00.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two hikers smiling on forest path, woman in white jacket talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Arm's-length selfie framing, natural light, pine forest background"
+ },
+ {
+  "label": "#253 11:03.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Man looks up at trees while woman talks beside him on gravel road",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie framing, two-shot, wide-angle lens distortion at edges"
+ },
+ {
+  "label": "#253 11:08.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman gestures with hand while talking, man partially at left edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tighter selfie reframe, hand gesture into frame"
+ },
+ {
+  "label": "#254 11:10.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Man in green shirt with backpack listens as woman speaks in profile",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder style two-shot, shallow depth, forest backdrop"
+ },
+ {
+  "label": "#255 11:14.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in profile speaking, man smiling behind her with backpack",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side-angle two-shot, natural daylight"
+ },
+ {
+  "label": "#255 11:19.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Man smiling at camera while woman talks in profile on right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Reverse angle of previous shot"
+ },
+ {
+  "label": "#256 11:23.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in profile speaking, man barely visible at left edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight close-up of woman, shallow framing, forest behind"
+ },
+ {
+  "label": "#257 11:24.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiles beside man looking off to the left on forest road",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Two-shot selfie, neutral framing"
+ },
+ {
+  "label": "#258 11:26.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Hand pointing toward green valley and ski lift line below mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand gesture indicating landscape, smooth gimbal movement, likely transition point to scenery"
+ },
+ {
+  "label": "#259 11:29.3",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Pale limestone cliff face with green shrubs and trees below",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial drone flyover along cliff, bright overcast light"
+ },
+ {
+  "label": "#260 11:30.7",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Forward drone flight over treetops beside pale limestone rock wall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuous drone movement, smooth forward motion"
+ },
+ {
+  "label": "#261 11:32.4",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Drone descends past cliff edge into dense green conifer forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Downward tilt, vertical movement, cool green grade"
+ },
+ {
+  "label": "#262 11:34.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Hiker walking small on mountain trail with peaks and valley beyond",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tiny figure on trail, gimbal follow shot, muted saturated colours"
+ },
+ {
+  "label": "#263 11:35.9",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Dramatic jagged mountain range over misty alpine valley with village",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slow reveal of wide landscape, cloudy sky, cinematic grade"
+ },
+ {
+  "label": "#264 11:37.7",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Drone low pass over cliff face and dense forest trees",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continues cliff-and-forest drone sequence, possible transition into next scene"
+ },
+ {
+  "label": "#265 11:39.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with ponytail and backpack smiling at camera on rocky mountain path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie arm framing, grey rocky trail and cliff behind, natural daylight"
+ },
+ {
+  "label": "#266 11:41.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Same woman grinning, cliff face behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight selfie framing, slight head tilt, continuous with previous shot"
+ },
+ {
+  "label": "#267 11:42.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, holding small item, gravel path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Right-side framing, cut mid-speech, continuous selfie sequence"
+ },
+ {
+  "label": "#268 11:43.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in ponytail looking out over alpine valley and peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder view, reveal shot, bright daylight with blue sky"
+ },
+ {
+  "label": "#269 11:46.1",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hiker in green shirt walking ahead on gravel trail, selfie woman at right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Split framing with selfie insert at right, follow-cam feel"
+ },
+ {
+  "label": "#270 11:47.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman close to camera at right, hiker walking on trail in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight right-edge framing, subject leaning into lens"
+ },
+ {
+  "label": "#271 11:47.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in profile looking left toward cliff, hiker walking below",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Profile side framing, quick cut from previous"
+ },
+ {
+  "label": "#272 11:50.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in profile looking over green valley and town below",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing reveal, soft warm light, cloudy sky"
+ },
+ {
+  "label": "#273 11:54.6",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Wide view down a green valley toward a town among dolomite peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth forward drone move, bright clear sky, natural grade"
+ },
+ {
+  "label": "#274 11:56.6",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Dramatic rocky peak wrapped in clouds above green alpine meadows",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slow drone reveal, moody overcast light, saturated greens"
+ },
+ {
+  "label": "#275 11:58.5",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Steep rocky mountain face with a winding trail and grassy slopes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low forward drone pass, warm light on rock"
+ },
+ {
+  "label": "#276 12:01.1",
+  "shot": "split_screen",
+  "camera": "tripod",
+  "subject": "Left: white chalet with terrace. Right: two wine glasses against glowing mountains",
+  "text_on_screen": "I finally arrived at the rifugio an hour later",
+  "text_style": "Italic serif font, pale yellow-white, small, centred lower frame over the image",
+  "notes": "Side-by-side split with black divider, hard cut, warm sunset grade on right panel"
+ },
+ {
+  "label": "#277 12:04.1",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Sunlit jagged peaks over a valley at golden hour",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm golden-hour grade, slow drone movement"
+ },
+ {
+  "label": "#278 12:06.3",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Rocky spires above forested valley with distant snowy ridge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Gentle forward drone glide, soft evening haze"
+ },
+ {
+  "label": "#279 12:09.4",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Pink-lit dusk sky over dark dolomite silhouettes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Timelapse-style static shot, blue to pink gradient, possible fade out"
+ },
+ {
+  "label": "#279 12:13.8",
+  "shot": "closeup",
+  "camera": "tripod",
+  "subject": "Woman with long dark hair talking to camera in wooden room",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Indoor interview-style framing, warm wood interior, natural light from window"
+ },
+ {
+  "label": "#280 12:18.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "woman talking to camera inside a wooden cabin",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "warm indoor light, slightly cool grade, close framing"
+ },
+ {
+  "label": "#281 12:21.4",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "dark interior with hand reaching toward a window showing sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "underexposed, silhouette, bright window light at edge"
+ },
+ {
+  "label": "#282 12:23.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "mountain ridge view over a terrace with wooden tables and chairs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "clear blue sky, saturated greens, smooth forward movement"
+ },
+ {
+  "label": "#283 12:24.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "wide terrace restaurant overlooking Dolomite peaks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "continues previous move, rising reveal"
+ },
+ {
+  "label": "#284 12:25.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "rocky Dolomite peaks above forested valley and terrace edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "slow pan, bright highlights on limestone"
+ },
+ {
+  "label": "#285 12:26.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "chairlift tower with cable running over green valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "tilted upward angle, natural daylight"
+ },
+ {
+  "label": "#286 12:29.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "woman in sunglasses and backpack on a grassy slope, chairlift cable beside her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "candid movement, shallow depth, warm natural grade"
+ },
+ {
+  "label": "#287 12:32.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "chairlift station top with mountains and valley beyond",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "low angle, dolly-style movement"
+ },
+ {
+  "label": "#288 12:34.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "man in cap and sunglasses on a cliff road with mountains behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "wide angle selfie, bright sky, possible cut into action"
+ },
+ {
+  "label": "#289 12:36.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "forest and meadow with horse-drawn carriage on gravel road",
+  "text_on_screen": "& we're off to roadtrip around the rest of the dolomites",
+  "text_style": "thin serif, pale yellow, small, lower-middle over image",
+  "notes": "narration-style subtitle overlay, gentle drone-like pan"
+ },
+ {
+  "label": "#290 12:40.4",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "green title card with cream border",
+  "text_on_screen": "tips & tricks / everything I learned the hard way so you don't have to",
+  "text_style": "large white decorative serif for title with thin rule; smaller italic serif lowercase below, centered on sage green",
+  "notes": "static graphic, cream frame border, use as chapter break"
+ },
+ {
+  "label": "#291 12:45.6",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "woman smiling and holding a small object in a yellow-walled room",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "studio-style talking head, yellow background, window at left"
+ },
+ {
+  "label": "#291 12:50.5",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "woman holding a small gadget with subscribe and like animated buttons at bottom",
+  "text_on_screen": "SUBSCRIBE",
+  "text_style": "bold white sans-serif on red bar at lower left; LIKE button in red at lower right",
+  "notes": "end-screen style subscribe and like animation overlay"
+ },
+ {
+  "label": "#291 12:55.5",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "woman gesturing with hands and holding a microphone",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "talking head, yellow wall, mid-gesture"
+ },
+ {
+  "label": "#292 12:59.0",
+  "shot": "split_screen",
+  "camera": "tripod",
+  "subject": "woman in a framed photo insert over yellow room, rocky dry landscape image",
+  "text_on_screen": "I Head Above So 3 Ways | First Time Solo Female Backpacker",
+  "text_style": "small white sans-serif caption bar at bottom of inset photo",
+  "notes": "picture-in-picture insert with black border, caption strip under photo"
+ },
+ {
+  "label": "#293 13:01.6",
+  "shot": "split_screen",
+  "camera": "tripod",
+  "subject": "coastal rocky cliff photo inset over yellow room",
+  "text_on_screen": "I Head Above So 3 Ways | First Time Solo Female Backpacker",
+  "text_style": "small white sans-serif caption bar at bottom of inset photo",
+  "notes": "same picture-in-picture template, recurring caption strip"
+ },
+ {
+  "label": "#294 13:03.9",
+  "shot": "screen",
+  "camera": "phone_screen",
+  "subject": "Framed clip of a man in red beanie tending a campfire outdoors",
+  "text_on_screen": "7 Most Asian Solo 3 Days Free Time Solo Female Backpacker",
+  "text_style": "small white sans-serif caption at bottom of framed clip, centered",
+  "notes": "Embedded video inset over yellow-wall background, white border frame; reference clip title card"
+ },
+ {
+  "label": "#295 13:08.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with long dark hair talking to camera, hand gesturing, wearing black top",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm yellow wall backdrop, window at left, lav mic clipped to top"
+ },
+ {
+  "label": "#296 13:13.3",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Mountain landscape with horses grazing in meadow, green film-strip graphic at left",
+  "text_on_screen": "BOOK FAR IN ADVANCE",
+  "text_style": "bold brown-gold serif-slab caps, centered near bottom of frame; vertical 'TIP' text in film-strip graphic at left",
+  "notes": "Retro film-strip graphic with sprocket holes; tip-card style insert"
+ },
+ {
+  "label": "#297 13:17.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, index finger raised",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Yellow wall, window at left; mid-sentence emphasis gesture"
+ },
+ {
+  "label": "#297 13:22.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, hand raised in gesture",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same framing as previous, jump-cut continuation"
+ },
+ {
+  "label": "#298 13:28.7",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Jagged dolomite peaks with clouds and a winding road through green valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "B-roll landscape, natural colour, slow establishing feel"
+ },
+ {
+  "label": "#299 13:34.4",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Three Peaks rock towers at sunrise over layered mountain ranges",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial B-roll, warm sunrise grade, wide shot"
+ },
+ {
+  "label": "#300 13:38.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling at camera, hand raised at right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head segment, same yellow wall setup"
+ },
+ {
+  "label": "#300 13:42.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, hand gesture at lower right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head, slightly lower framing"
+ },
+ {
+  "label": "#300 13:46.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman speaking to camera, centered",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head, static framing"
+ },
+ {
+  "label": "#300 13:50.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman speaking to camera, mouth mid-word",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head continuation"
+ },
+ {
+  "label": "#300 13:54.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman gesturing with open hand at left side",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head with hand gesture"
+ },
+ {
+  "label": "#300 13:58.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, lower framing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head"
+ },
+ {
+  "label": "#300 14:02.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman speaking to camera, centered",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head"
+ },
+ {
+  "label": "#300 14:06.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman speaking to camera with hand gesture at bottom",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head"
+ },
+ {
+  "label": "#300 14:10.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman speaking to camera, hand raised at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head with open-palm gesture"
+ },
+ {
+  "label": "#300 14:14.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with long dark wavy hair talking to camera, hand gesturing at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm yellow wall background, lapel mic visible, natural indoor light"
+ },
+ {
+  "label": "#300 14:19.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera in front of yellow wall, window at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head framing, slight push-in look"
+ },
+ {
+  "label": "#300 14:23.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking, hand entering frame from left pointing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand gesture used as cut-in motion, same yellow backdrop"
+ },
+ {
+  "label": "#300 14:27.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with eyes half-closed mid-speech, hand raised at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Jump-cut style talking head"
+ },
+ {
+  "label": "#300 14:31.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking, hand gesturing large at right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand wave enters from right side"
+ },
+ {
+  "label": "#300 14:35.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman gesturing with both hands while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Expressive hand gestures, continuous talking head"
+ },
+ {
+  "label": "#300 14:39.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, looking slightly off-axis",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand partially visible at far right edge"
+ },
+ {
+  "label": "#300 14:43.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman smiling and gesturing with raised hand at right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm yellow grade, bright exposure"
+ },
+ {
+  "label": "#301 14:46.6",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Mountain meadow landscape inside film-strip frame with green side bar",
+  "text_on_screen": "GET THE RIGHT GEAR BUT YOU DON'T NEED AS MUCH AS YOU THINK",
+  "text_style": "Bold retro serif caps, cream/white, centered on landscape, small size; yellow-outlined 'TIP' vertical text on left green strip",
+  "notes": "Film-strip border with sprocket holes at top and bottom; muted vintage green-cream grade; tip-card graphic inserted over talking head"
+ },
+ {
+  "label": "#302 14:50.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera with head tilted",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Returns to talking head after graphic card"
+ },
+ {
+  "label": "#302 14:55.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking, hand raised at right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Gesture cut-in on right"
+ },
+ {
+  "label": "#302 15:00.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, slight smile",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Standard talking-head framing"
+ },
+ {
+  "label": "#303 15:04.0",
+  "shot": "split_screen",
+  "camera": "handheld",
+  "subject": "Woman talking in main frame; inset shows woman holding a hiking pole in mountains",
+  "text_on_screen": "I HIGHLY RECOMMEND HIKING POLES (OR A WALKING STICK ofc)",
+  "text_style": "Small white sans-serif caption at bottom left of inset, centered lines, drop shadow; inset is picture-in-picture top left with thin white border",
+  "notes": "Picture-in-picture B-roll inset over talking head; caption sits below inset on the yellow-grade frame"
+ },
+ {
+  "label": "#304 15:07.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, head slightly tilted",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head resumes after PiP"
+ },
+ {
+  "label": "#304 15:11.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, mouth open mid-word",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Consistent framing and yellow backdrop"
+ },
+ {
+  "label": "#304 15:15.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera, looking straight ahead",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Neutral expression, standard talking-head shot"
+ },
+ {
+  "label": "#305 15:19.3",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman sitting on mountain rock edge with Dolomites peaks behind",
+  "text_on_screen": "RENT A CAR",
+  "text_style": "Bold retro serif, cream/white with dark outline, centered, mid-frame",
+  "notes": "Green film-strip border on left with white outlined graphic letters; vintage warm grade, landscape insert"
+ },
+ {
+  "label": "#306 15:23.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black strapless top talking to camera, yellow wall, hand gesturing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static indoor talking-head against mustard yellow wall with window at left; film-strip sprocket border at top"
+ },
+ {
+  "label": "#306 15:27.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, yellow wall background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head framing, centered, same setup"
+ },
+ {
+  "label": "#306 15:31.9",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, hand partially visible at right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head, slight gesture at frame edge"
+ },
+ {
+  "label": "#306 15:36.3",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, shifted left in frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head, reframed to left third"
+ },
+ {
+  "label": "#307 15:40.1",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Misty green mountain valley with Dolomites peaks",
+  "text_on_screen": "BUDGET ACCORDINGLY",
+  "text_style": "Bold retro serif, cream with dark outline, centered on lower landscape",
+  "notes": "Green film-strip border left with outlined letters; vintage muted grade; title card transition"
+ },
+ {
+  "label": "#308 15:43.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, eyes half-closed mid-speech",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head, centered"
+ },
+ {
+  "label": "#308 15:48.0",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman smiling at camera, hair falling over shoulder",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head, warm yellow wall background"
+ },
+ {
+  "label": "#308 15:52.3",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, head tilted, hair over one shoulder",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head, right-of-center framing"
+ },
+ {
+  "label": "#308 15:56.6",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, neutral expression",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head, centered"
+ },
+ {
+  "label": "#308 16:00.8",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman gesturing with open hand to right side",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head with hand gesture toward right edge"
+ },
+ {
+  "label": "#308 16:05.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, eyes squinting, head tilted",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head, right-of-center framing"
+ },
+ {
+  "label": "#308 16:09.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, hair over left shoulder",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head, left-of-center framing"
+ },
+ {
+  "label": "#308 16:13.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman touching her hair with right hand, talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slightly off-axis handheld talking-head, hand raised to head"
+ },
+ {
+  "label": "#308 16:17.9",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, hands near shoulders",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head, centered"
+ },
+ {
+  "label": "#309 16:21.2",
+  "shot": "title_card",
+  "camera": "handheld",
+  "subject": "Woman in green outfit standing on mountain road with Dolomites peaks",
+  "text_on_screen": "MY ROUTE",
+  "text_style": "Bold retro serif outlined letters, cream/white, large, centered across frame",
+  "notes": "Green film-strip border left and top sprockets; vintage warm grade; title card opening new segment"
+ },
+ {
+  "label": "#310 16:24.5",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman with long dark hair in front of yellow wall, mid-speech, hand low",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm yellow wall, window with building view on left, natural daylight"
+ },
+ {
+  "label": "#311 16:28.6",
+  "shot": "split_screen",
+  "camera": "unknown",
+  "subject": "Woman speaking beside a map inset of route in upper left",
+  "text_on_screen": "",
+  "text_style": "Map graphic, small rectangular inset top-left with red and blue route markers",
+  "notes": "Map overlay pops in over talking head, picture-in-picture style"
+ },
+ {
+  "label": "#311 16:32.7",
+  "shot": "split_screen",
+  "camera": "unknown",
+  "subject": "Woman speaking beside a map showing blue dashed route, lower right caption",
+  "text_on_screen": "CAPANNA ALPINA",
+  "text_style": "White italic serif caption, small, centered lower area over yellow wall",
+  "notes": "Map inset top-left with blue dashed trail; location caption added under map"
+ },
+ {
+  "label": "#312 16:36.8",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman gesturing with raised hand near her head, talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Expressive hand gesture, framing slightly off-center right"
+ },
+ {
+  "label": "#312 16:40.9",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman speaking directly to camera, centered",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head framing"
+ },
+ {
+  "label": "#312 16:45.0",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman speaking with hand gesture at right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand gesture enters frame from right"
+ },
+ {
+  "label": "#312 16:49.1",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman speaking, pointing right with thumb-like gesture",
+  "text_on_screen": "RIFUGIO LAGAZUOI",
+  "text_style": "White italic serif caption, medium size, mid-frame over yellow wall",
+  "notes": "Location caption overlaid at chest height; pointing gesture to the right"
+ },
+ {
+  "label": "#312 16:53.2",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman with eyes closed mid-speech, arm extended to right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Arm moving out of frame on right"
+ },
+ {
+  "label": "#312 16:57.3",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman speaking to camera, centered",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head framing"
+ },
+ {
+  "label": "#312 17:01.4",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman speaking with open hand gesture at lower right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand gesture entering from bottom right"
+ },
+ {
+  "label": "#312 17:05.5",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman listening with neutral expression, centered",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head framing"
+ },
+ {
+  "label": "#312 17:09.6",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman laughing, head tilted back, arm at right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid reaction moment"
+ },
+ {
+  "label": "#312 17:13.7",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman speaking to camera, mouth open, lower framing",
+  "text_on_screen": "@ELENATABER",
+  "text_style": "White italic serif watermark handle, bottom center, small",
+  "notes": "Handle watermark persistent across bottom of frame"
+ },
+ {
+  "label": "#312 17:17.8",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman speaking with slight squint, centered",
+  "text_on_screen": "@ELENATABER",
+  "text_style": "White italic serif watermark handle, bottom center, small",
+  "notes": "Watermark persists"
+ },
+ {
+  "label": "#312 17:21.9",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman speaking to camera, centered",
+  "text_on_screen": "@ELENATABER",
+  "text_style": "White italic serif watermark handle, bottom center, small",
+  "notes": "Watermark persists"
+ },
+ {
+  "label": "#312 17:26.0",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman speaking with head tilted, lower framing",
+  "text_on_screen": "@ELENATABER",
+  "text_style": "White italic serif watermark handle, bottom center, small",
+  "notes": "Watermark persists"
+ },
+ {
+  "label": "#312 17:30.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with long dark hair speaking to camera in yellow-walled room",
+  "text_on_screen": "@ELENATABER",
+  "text_style": "white serif watermark, semi-transparent, centered lower third",
+  "notes": "Warm yellow wall and window light; bare shoulders; talking-head framing, slightly off-center"
+ },
+ {
+  "label": "#312 17:34.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Same woman mid-sentence, head tilted, speaking to camera",
+  "text_on_screen": "@ELENATABER",
+  "text_style": "white serif watermark, semi-transparent, centered lower third",
+  "notes": "Same setup as previous; continuous talking-head take"
+ },
+ {
+  "label": "#312 17:38.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling slightly, looking toward camera with hair draped on one side",
+  "text_on_screen": "@ELENATABER",
+  "text_style": "white serif watermark, semi-transparent, centered lower third",
+  "notes": "Same yellow room; subject slightly right of frame; warm colour grade"
+ },
+ {
+  "label": "#312 17:42.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman laughing or smiling with eyes narrowed, hand-like gesture near face",
+  "text_on_screen": "@ELENATABER",
+  "text_style": "white serif watermark, semi-transparent, centered lower third",
+  "notes": "Candid reaction moment; good cut point for a jump cut or B-roll insert"
+ },
+ {
+  "label": "#313 17:46.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman with sunglasses and backpack hiking on grassy mountain trail with trekking pole",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Alpine landscape with snowy peaks and blue sky; rocky cliff left edge; bright daylight, slightly desaturated film look"
+ },
+ {
+  "label": "#313 17:51.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Same hiker walking toward camera on mountain trail with pine-covered valley below",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same location as previous shot; continuous hike footage; subject centered-left"
+ }
+]

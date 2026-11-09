@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#264 08:50.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in headscarf walking past bazaar street with bicycle",
+   "text_on_screen": "SIAB BAZAAR",
+   "text_style": "bold white sans-serif, large, centered across top-middle",
+   "notes": "Title overlay across full width; bright daylight, slightly warm grade"
+  },
+  {
+   "label": "#265 08:50.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Vendor arranging melons and watermelons on a cart",
+   "text_on_screen": "SIAB BAZAAR",
+   "text_style": "bold white sans-serif, large, centered across top-middle",
+   "notes": "Title overlay persists from previous shot"
+  },
+  {
+   "label": "#266 08:51.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Stall of plums, potatoes, carrots, and green produce",
+   "text_on_screen": "SIAB BAZAAR",
+   "text_style": "bold white sans-serif, large, centered across top-middle",
+   "notes": "Title overlay persists; produce close-up"
+  },
+  {
+   "label": "#267 08:51.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in red coat under umbrella among market crowd",
+   "text_on_screen": "SIAB BAZAAR",
+   "text_style": "bold white sans-serif, large, centered across top-middle",
+   "notes": "Title overlay ends this sequence; umbrellas and crowd in background"
+  },
+  {
+   "label": "#268 08:52.1",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Market entrance area with stalls and mosque dome in distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth forward movement; bright sky, blue-green dome visible"
+  },
+  {
+   "label": "#269 08:52.7",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Entrance arch sign reading Siyob Dehqon Bozori with minarets behind",
+   "text_on_screen": "SIYOB DEHQON BOZORI",
+   "text_style": "white capitalized serif-like sign lettering on dark arch, small, top-center of arch",
+   "notes": "Sign is physical signage, not an overlay; low-angle view"
+  },
+  {
+   "label": "#270 08:55.6",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman in sunglasses gesturing toward market, speaking to camera",
+   "text_on_screen": "It's called Siab Bazaar.",
+   "text_style": "small white sans-serif subtitle, lower-center",
+   "notes": "Interview-style subtitle; warm sunlight, shallow depth of field"
+  },
+  {
+   "label": "#271 08:59.0",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman walking through parking area near market with vendors behind",
+   "text_on_screen": "It has fruits, vegetables, everything you need.",
+   "text_style": "small white sans-serif subtitle, lower-center",
+   "notes": "Subtitle over walking shot; tracking shot following subject"
+  },
+  {
+   "label": "#272 09:02.2",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Two women in sunglasses walking through market street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tracking shot, natural daylight; trees and parked cars in background"
+  },
+  {
+   "label": "#273 09:05.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Vendors under blue tent beside truck loaded with watermelons",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide establishing of produce trucks; slight tilt"
+  },
+  {
+   "label": "#274 09:06.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Men unloading watermelons from truck at market",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Documentary feel; natural light"
+  },
+  {
+   "label": "#275 09:06.9",
+   "shot": "closeup",
+   "camera": "gimbal",
+   "subject": "Stacks of striped watermelons with a cut watermelon in frame",
+   "text_on_screen": "AND WE'RE GOING TO TASTE TEST AS MUCH AS WE CAN...",
+   "text_style": "small white sans-serif subtitle, lower-center",
+   "notes": "Voiceover subtitle; saturated greens and reds"
+  },
+  {
+   "label": "#276 09:07.8",
+   "shot": "closeup",
+   "camera": "gimbal",
+   "subject": "Pile of pale yellow melons",
+   "text_on_screen": "AND WE'RE GOING TO TASTE TEST AS MUCH AS WE CAN...",
+   "text_style": "small white sans-serif subtitle, lower-center",
+   "notes": "Subtitle continues over melon close-up"
+  },
+  {
+   "label": "#277 09:09.0",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman and two men walking along market street",
+   "text_on_screen": "AND WE'RE GOING TO TASTE TEST AS MUCH AS WE CAN...",
+   "text_style": "small white sans-serif subtitle, lower-center",
+   "notes": "Subtitle continues across cut"
+  },
+  {
+   "label": "#278 09:10.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Vendor in white shirt handing fruit to customer at stall",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Exchange of produce; watermelons and melons displayed behind"
+  },
+  {
+   "label": "#279 09:12.5",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in white top biting into a green-fleshed fruit",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Reaction shot; green produce background, shallow depth of field"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#377 28:16.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Empty cafe interior with wooden bookshelves and teal chairs",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm indoor tones, slow pan across room"
+  },
+  {
+   "label": "#378 28:18.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Street facade of Zhen Shan Tea Valley with tall trees",
+   "text_on_screen": "Zhen Shan Tea Valley",
+   "text_style": "small white sans-serif, low-contrast, near top-left of sign area",
+   "notes": "Establishing exterior, upward tilt toward trees"
+  },
+  {
+   "label": "#379 28:20.3",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Tea set on woven bamboo table on sidewalk, passing scooter",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Ambient street detail, shallow depth of field"
+  },
+  {
+   "label": "#380 28:24.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman seated on street bench with legs crossed, in white outfit",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Street-side wide, natural daylight"
+  },
+  {
+   "label": "#381 28:30.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in glasses and white blouse talking beside chalkboard menu",
+   "text_on_screen": "枕山 MENU",
+   "text_style": "white chalk-style serif on black board, top-left of frame, small",
+   "notes": "Talking-head selfie-style, warm cafe background"
+  },
+  {
+   "label": "#382 28:35.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman gesturing toward street with blurred pedestrians",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie arm angle, background shallow focus, slight motion blur"
+  },
+  {
+   "label": "#383 28:39.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking at outdoor cafe table beside chalkboard menu",
+   "text_on_screen": "枕山 MENU",
+   "text_style": "white chalk-style serif on black board, small, left of frame",
+   "notes": "Talking-head, warm sunlight"
+  },
+  {
+   "label": "#384 28:40.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking next to chalkboard menu with a black device on table",
+   "text_on_screen": "枕山 MENU",
+   "text_style": "white chalk-style serif on black board, small, top-left",
+   "notes": "Talking-head, cut from previous shot"
+  },
+  {
+   "label": "#385 28:44.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking beside chalkboard menu, cafe with red cushions",
+   "text_on_screen": "枕山 MENU",
+   "text_style": "white chalk-style serif on black board, small",
+   "notes": "Talking-head, warm grade"
+  },
+  {
+   "label": "#386 28:50.0",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand holding phone showing pink app page, finger pointing, street scene",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Phone screen insert, hand-held over street with bicycle"
+  },
+  {
+   "label": "#387 28:55.3",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand holding phone with pink app page, another hand pointing",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Phone screen insert, similar framing to previous"
+  },
+  {
+   "label": "#388 28:58.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand holding green-framed phone showing app page, other hand touching screen",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Phone screen insert, quick cut"
+  },
+  {
+   "label": "#389 29:01.1",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Phone screen showing article text over blurred photo",
+   "text_on_screen": "Small body text paragraphs (illegible at thumbnail size)",
+   "text_style": "small black sans-serif on white card, top-center",
+   "notes": "Screen recording style, fade-in from dark"
+  },
+  {
+   "label": "#390 29:04.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand holding phone showing app page, cat walking on pavement",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Phone insert with street cat, outdoor daylight"
+  },
+  {
+   "label": "#391 29:06.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with open mouth expression, pointing, beside chalkboard menu",
+   "text_on_screen": "枕山 MENU",
+   "text_style": "white chalk-style serif on black board, small, left",
+   "notes": "Talking-head reaction shot, warm cafe"
+  },
+  {
+   "label": "#392 29:10.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in glasses pointing at camera next to chalkboard menu",
+   "text_on_screen": "枕山 MENU",
+   "text_style": "white chalk-style serif on black board, small, top-left",
+   "notes": "Talking-head, pointing gesture, end-of-sequence feel"
+  }
+ ]
+}

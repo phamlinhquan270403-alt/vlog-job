@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#98 10:00.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses holding phone mic, talking to camera in hotel room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm indoor light, bright white room with wooden ceiling panels, natural daylight from left window"
+  },
+  {
+   "label": "#98 10:05.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses touching her hair, holding phone mic",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Arm extended, slightly tilted framing"
+  },
+  {
+   "label": "#98 10:09.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman smiling, adjusting glasses, holding mic",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing, bright exposure"
+  },
+  {
+   "label": "#98 10:13.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses speaking into mic, hair down",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same selfie setup, mild tilt"
+  },
+  {
+   "label": "#98 10:17.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman speaking into mic, low camera angle",
+   "text_on_screen": "BÚN QUẬY",
+   "text_style": "White sans-serif semi-transparent logo-style text, large, upper left over the scene",
+   "notes": "Faded watermark-like overlay"
+  },
+  {
+   "label": "#98 10:22.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses holding mic near mouth, hand raised",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slight zoom-in feel"
+  },
+  {
+   "label": "#98 10:26.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in white top and light blue shorts holding white tote bag, standing in room",
+   "text_on_screen": "Quán Bún Quậy",
+   "text_style": "Small white text, lower left, with small decorative line above",
+   "notes": "Full-body framing, transition to standing shot"
+  },
+  {
+   "label": "#98 10:30.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman with tote bag gesturing and speaking, full body",
+   "text_on_screen": "Quán Bún Quậy",
+   "text_style": "Small white text, lower left, faint",
+   "notes": "Bright room, wooden ceiling in background"
+  },
+  {
+   "label": "#98 10:34.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman with hand on hip, tote bag on shoulder, standing",
+   "text_on_screen": "Quán Bún Quậy",
+   "text_style": "Small white text, lower left",
+   "notes": "Full-body wide shot"
+  },
+  {
+   "label": "#98 10:38.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman holding white MUJI tote bag up, speaking, full body",
+   "text_on_screen": "MUJI",
+   "text_style": "Black logo print on bag, not an overlay",
+   "notes": "Product-focused moment"
+  },
+  {
+   "label": "#98 10:43.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman with tote bag, mouth open mid-sentence, hand gesture, full body",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide framing, daylight room"
+  },
+  {
+   "label": "#98 10:47.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman standing, hand near face, talking, full body",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same wide framing"
+  },
+  {
+   "label": "#98 10:51.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman gesturing with both hands while speaking, full body",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide framing"
+  },
+  {
+   "label": "#98 10:55.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman holding mic, speaking, full body in room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide framing"
+  },
+  {
+   "label": "#98 10:59.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman holding mic to mouth beside bed area, full body",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide framing"
+  },
+  {
+   "label": "#99 11:02.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Street-side food stall with white gate and pink-red signboard, outdoor scene",
+   "text_on_screen": "BÁNH (partially visible) 20K",
+   "text_style": "Red and pink signboard with white and yellow lettering, cut off at frame edge",
+   "notes": "Dim evening light, change of location, scene cut to outdoor"
+  }
+ ]
+}

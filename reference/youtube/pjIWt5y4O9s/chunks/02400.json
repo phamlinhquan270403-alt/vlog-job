@@ -1,0 +1,180 @@
+{
+ "start": 2400,
+ "events": [
+  {
+   "t": 2400.0,
+   "type": "broll",
+   "what": "Shot of a storefront 'CARAMEN KIM YEN' with ambient street noise."
+  },
+  {
+   "t": 2400.0,
+   "type": "text",
+   "what": "'@ Caramen Kim Yen' and '31 Hang Than, Ba Dinh' in top corners."
+  },
+  {
+   "t": 2401.2,
+   "type": "cut",
+   "what": "Cut to the menu board of the shop."
+  },
+  {
+   "t": 2402.5,
+   "type": "talk_to_camera",
+   "what": "The couple sits outside eating from white cups, speaking to the camera."
+  },
+  {
+   "t": 2403.2,
+   "type": "text",
+   "what": "Yellow subtitle: 'tại tụi mình đang ngồi ở hàng ghế xanh'"
+  },
+  {
+   "t": 2411.8,
+   "type": "zoom",
+   "what": "Punch-in on the couple as they continue talking."
+  },
+  {
+   "t": 2421.0,
+   "type": "cut",
+   "what": "Cut back to the original wider angle."
+  },
+  {
+   "t": 2432.5,
+   "type": "cut",
+   "what": "Close-up of a mango pudding dessert being stirred with a spoon."
+  },
+  {
+   "t": 2437.5,
+   "type": "cut",
+   "what": "Cut back to the couple talking about the texture."
+  },
+  {
+   "t": 2442.5,
+   "type": "cut",
+   "what": "Close-up of a flan (caramen) on a small plate."
+  },
+  {
+   "t": 2444.5,
+   "type": "cut",
+   "what": "The woman holds the flan and talks to the camera."
+  },
+  {
+   "t": 2455.5,
+   "type": "zoom",
+   "what": "The woman blows on the camera, and it zooms out/moves away quickly as a 'flycam' joke."
+  },
+  {
+   "t": 2459.5,
+   "type": "cut",
+   "what": "Low angle shot looking up at the couple as they eat and talk."
+  },
+  {
+   "t": 2497.5,
+   "type": "cut",
+   "what": "Close-up of the woman taking a bite of the caramen."
+  },
+  {
+   "t": 2501.5,
+   "type": "cut",
+   "what": "Shot of empty dessert cups on a blue tray."
+  },
+  {
+   "t": 2503.5,
+   "type": "music",
+   "what": "Upbeat, lo-fi pop music starts as they enter a toy shop."
+  },
+  {
+   "t": 2503.5,
+   "type": "text",
+   "what": "'@ Art Toys' and '70 Thi Sach, Hai Ba Trung' in top corners."
+  },
+  {
+   "t": 2504.0,
+   "type": "text",
+   "what": "'Molly_Lily Art Toys' in top left corner."
+  },
+  {
+   "t": 2504.5,
+   "type": "talk_to_camera",
+   "what": "The couple sits at a table in the toy shop to unbox blind boxes."
+  },
+  {
+   "t": 2524.5,
+   "type": "sfx",
+   "what": "Pop/tear sound as the box is opened."
+  },
+  {
+   "t": 2543.5,
+   "type": "cut",
+   "what": "Close-up of the first toy (pink hair with a cat on top)."
+  },
+  {
+   "t": 2565.5,
+   "type": "cut",
+   "what": "Medium shot of the couple as the man prepares to open another box."
+  },
+  {
+   "t": 2606.5,
+   "type": "sfx",
+   "what": "Loud cheering and shouting as they reveal the desired toy."
+  },
+  {
+   "t": 2606.5,
+   "type": "cut",
+   "what": "Close-up of the plush cat toy with a blue 'snot' bubble."
+  },
+  {
+   "t": 2617.5,
+   "type": "cut",
+   "what": "Shot of them hanging the toy on the woman's handbag."
+  },
+  {
+   "t": 2627.0,
+   "type": "cut",
+   "what": "Close-up of the toy's face and paws."
+  },
+  {
+   "t": 2638.5,
+   "type": "music",
+   "what": "Music changes to a soft, sentimental piano melody."
+  },
+  {
+   "t": 2638.5,
+   "type": "voiceover",
+   "what": "The woman begins a reflective voiceover about her trip."
+  },
+  {
+   "t": 2639.0,
+   "type": "broll",
+   "what": "Montage of the woman packing her laptop and bags in a bedroom."
+  },
+  {
+   "t": 2655.0,
+   "type": "cut",
+   "what": "Shot of her closing and standing up her suitcases."
+  },
+  {
+   "t": 2660.0,
+   "type": "cut",
+   "what": "She wheels her luggage out of the room."
+  },
+  {
+   "t": 2666.5,
+   "type": "transition",
+   "what": "Fade to black."
+  },
+  {
+   "t": 2667.5,
+   "type": "cut",
+   "what": "Quick cut back to her grabbing a final bag and leaving the room."
+  }
+ ],
+ "summary": {
+  "structure": "The clip is divided into three distinct segments: a food review at Caramen Kim Yen (0:00-1:43), a high-energy blind box unboxing at an art toy shop (1:43-3:58), and a sentimental outro montage of packing and leaving Hanoi (3:58-4:32).",
+  "pacing": "The pacing is moderate during the food segment, following the natural flow of conversation. It speeds up significantly during the unboxing with quick cuts and high-energy reactions, then slows down for a rhythmic, reflective montage in the outro.",
+  "music": "The first segment uses only ambient street noise. The toy shop segment features upbeat lo-fi pop to match the excitement. The outro shifts to a soft piano piece to evoke a sense of nostalgia and closure.",
+  "voice": "The creator uses casual, live captured speech for the majority of the clip, characterized by friendly banter and humorous observations. The outro transitions to a scripted, warm voiceover reflecting on the trip.",
+  "sound_design": "Natural ambient sounds are used initially. Key sound effects include the tactile 'pop' of unboxing and the loud, layered cheering during the toy reveal. The 'flycam' joke is accompanied by a quick zoom effect.",
+  "text_style": "Consistent yellow subtitles at the bottom center translate the spoken Vietnamese. Location tags and social media handles are placed in the top corners in a clean, sans-serif font.",
+  "visual_style": "The visual style is classic handheld vlog, utilizing a mix of medium shots for interaction and close-ups for food and products. The outro uses a more composed montage style with fixed camera positions.",
+  "signature_moves": "The 'flycam' zoom-out triggered by blowing on the lens is a distinctive creative touch. The use of high-energy reaction shots during unboxing is also a staple of this style."
+ }
+}

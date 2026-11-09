@@ -1,0 +1,165 @@
+{
+ "start": 1440,
+ "events": [
+  {
+   "t": 1440.0,
+   "type": "talk_to_camera",
+   "what": "Vy talks about the complexity of Tokyo's metro system compared to Shanghai while doing her skincare routine in her hotel room."
+  },
+  {
+   "t": 1475.0,
+   "type": "text",
+   "what": "White sans-serif text: 'Hongqiao Comprehensive Transportation Hub' at the bottom center."
+  },
+  {
+   "t": 1500.0,
+   "type": "text",
+   "what": "White sans-serif text: 'Songmont' at the top center."
+  },
+  {
+   "t": 1523.0,
+   "type": "text",
+   "what": "White sans-serif text: 'lattice = lưới' at the top center."
+  },
+  {
+   "t": 1527.0,
+   "type": "text",
+   "what": "White sans-serif text: 'weave = dệt da' at the top center."
+  },
+  {
+   "t": 1531.0,
+   "type": "music",
+   "what": "Upbeat, rhythmic lo-fi pop music starts."
+  },
+  {
+   "t": 1531.0,
+   "type": "cut",
+   "what": "Hard cut to a title card for the next day."
+  },
+  {
+   "t": 1532.0,
+   "type": "text",
+   "what": "White sans-serif text: 'ngày ba' (day three) in the center."
+  },
+  {
+   "t": 1532.0,
+   "type": "talk_to_camera",
+   "what": "Vy gets ready for the day, showing her outfit and talking about feeling anxious and listening to Emma Chamberlain's podcast."
+  },
+  {
+   "t": 1588.0,
+   "type": "text",
+   "what": "White sans-serif text: 'Anything goes của Emma Chamberlain' at the bottom center."
+  },
+  {
+   "t": 1603.0,
+   "type": "text",
+   "what": "Brand tags '@into.eight' and '@miaritta.hn' appear on the left."
+  },
+  {
+   "t": 1606.0,
+   "type": "text",
+   "what": "Brand tag '@coach' appears on the left."
+  },
+  {
+   "t": 1609.0,
+   "type": "text",
+   "what": "Brand tag '@charleskeithofficial' appears on the right."
+  },
+  {
+   "t": 1633.0,
+   "type": "text",
+   "what": "Brand tag '@uniqlovnam' appears on the right."
+  },
+  {
+   "t": 1650.0,
+   "type": "text",
+   "what": "White sans-serif text: 'tortoiseshell = họa tiết đồi mồi' center-right."
+  },
+  {
+   "t": 1656.0,
+   "type": "text",
+   "what": "White sans-serif text: 'rớt con mèo tui huhu' (dropped my cat [charm] huhu) in the center."
+  },
+  {
+   "t": 1668.0,
+   "type": "music",
+   "what": "Music changes to a mellow, acoustic folk-pop track with male vocals."
+  },
+  {
+   "t": 1668.0,
+   "type": "broll",
+   "what": "Montage of Vy getting a rental bike and cycling through the streets of Shanghai."
+  },
+  {
+   "t": 1674.0,
+   "type": "talk_to_camera",
+   "what": "Vy talks to the camera while cycling, commenting on the scenery."
+  },
+  {
+   "t": 1692.0,
+   "type": "text",
+   "what": "Yellow sans-serif text: '@ Zhen Shan Tea Valley' location tag on the right."
+  },
+  {
+   "t": 1708.0,
+   "type": "talk_to_camera",
+   "what": "Vy at the tea shop, explaining the WeChat ordering process to the audience."
+  },
+  {
+   "t": 1726.0,
+   "type": "broll",
+   "what": "Close-up of Vy's phone screen demonstrating how to use the translation feature in WeChat."
+  },
+  {
+   "t": 1753.0,
+   "type": "text",
+   "what": "White sans-serif text: '5 múi giờ' (5 time zones) note."
+  },
+  {
+   "t": 1757.0,
+   "type": "text",
+   "what": "White sans-serif text: '6 múi giờ (nếu tính cả 50 bang)' note."
+  },
+  {
+   "t": 1801.0,
+   "type": "text",
+   "what": "Yellow sans-serif text: '@ Basement FG' location tag on the right."
+  },
+  {
+   "t": 1813.0,
+   "type": "text",
+   "what": "Yellow sans-serif text: '@ Polette' location tag on the right."
+  },
+  {
+   "t": 1825.0,
+   "type": "talk_to_camera",
+   "what": "Vy at a metro station, showing the multiple escalators and heading to a park."
+  },
+  {
+   "t": 1844.0,
+   "type": "text",
+   "what": "White sans-serif text: 'Qiantan Leisure Park' appears over a phone screen shot."
+  },
+  {
+   "t": 1863.0,
+   "type": "text",
+   "what": "Yellow sans-serif text: '@ Qiantan Leisure Park' location tag on the right."
+  },
+  {
+   "t": 1868.0,
+   "type": "talk_to_camera",
+   "what": "Vy cycles through the park, enjoying the greenery and the river view."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a day in the life of a vlogger in Shanghai. It begins with a late-night reflection on metro systems (0:00-1:31), moves to a morning routine and outfit check (1:32-3:48), then transitions to outdoor activities including cycling to a tea shop (3:48-5:58), shopping (5:58-6:25), and finally cycling through a scenic park (6:25-7:59).",
+  "pacing": "The pacing is relaxed and conversational during the talk-to-camera segments, interspersed with faster-paced b-roll montages that use rhythmic cuts to match the music.",
+  "music": "Two distinct tracks are used: an upbeat lo-fi pop track for the indoor morning routine and a mellow, acoustic folk-pop song with vocals for the outdoor cycling and exploration segments. The music is ducked under speech but remains audible.",
+  "voice": "The creator uses a very personal, intimate tone, sharing her struggles with anxiety alongside practical travel tips. She speaks directly to the camera as if talking to a friend.",
+  "sound_design": "Minimal sound design; the focus is on the creator's voice and the background music. Natural ambient sounds from the city and park are kept at a low level.",
+  "text_style": "Simple, clean sans-serif fonts. White text is used for translations, notes, and brand tags, while yellow text is consistently used for location markers.",
+  "visual_style": "A classic handheld vlog aesthetic using natural lighting. The framing is mostly medium shots for talking segments and wide shots for b-roll. Color grading is bright and natural.",
+  "signature_moves": "Key signature moves include holding the camera while cycling, showing the phone screen to explain local apps/services, and providing detailed on-screen brand tags for her outfits."
+ }
+}

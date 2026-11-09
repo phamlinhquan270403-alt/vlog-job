@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#418 13:58.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women at a restaurant table, one talking, one eating, ornate interior",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm indoor tones, ornate Central Asian-style decor, casual vlog framing"
+  },
+  {
+   "label": "#419 14:02.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in black top talking to camera at restaurant table with food",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle selfie-style framing, diners blurred in background"
+  },
+  {
+   "label": "#420 14:05.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in black top gesturing while speaking, food on table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Similar angle to previous shot, warm grade"
+  },
+  {
+   "label": "#421 14:08.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women at table eating, one in white blouse, plates of food",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior colour grade, slight push-in"
+  },
+  {
+   "label": "#422 14:10.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white shirt gesturing while dancing or talking, group behind her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Dark backdrop with colourful tiled wall, group activity"
+  },
+  {
+   "label": "#423 14:12.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Women walking across ornate hall past balcony and stairs",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide establishing shot of restaurant interior"
+  },
+  {
+   "label": "#424 14:13.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Group of people dancing and clapping in ornate hall with white chairs",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Energetic movement, warm colour grade"
+  },
+  {
+   "label": "#425 14:15.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women dancing in front of dark stage, one in white, one in black",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Dark backdrop, mirrored dance moves"
+  },
+  {
+   "label": "#426 14:18.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white gesturing beside pillar, large black circle overlay covering frame",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Black circle graphic transition mask, likely wipe or iris cut"
+  },
+  {
+   "label": "#427 14:20.7",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Train window view of passing buildings and railway tracks",
+   "text_on_screen": "AND THE JOURNEY CONTINUES",
+   "text_style": "White sans-serif uppercase, small, centered near lower middle of frame",
+   "notes": "Interior train window framing, daylight, text overlay as chapter transition"
+  },
+  {
+   "label": "#428 14:21.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Woman in black looking out train window, orange tree and buildings outside",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Over-the-shoulder style, soft natural light"
+  },
+  {
+   "label": "#429 14:23.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Two women smiling and posing together on airplane seats",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close selfie framing, cabin passengers blurred behind"
+  },
+  {
+   "label": "#430 14:25.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Airplane cabin aisle with flight attendant in red uniform and passengers",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Cool blue cabin lighting, wide angle"
+  },
+  {
+   "label": "#431 14:27.3",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Car dashboard view of green hills and road through windshield",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Rearview mirror visible, hand on steering wheel, natural daylight"
+  },
+  {
+   "label": "#432 14:28.9",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Aerial view of mountain ridge above turquoise lake and winding road",
+   "text_on_screen": "KYRGYZSTAN",
+   "text_style": "Large white bold sans-serif uppercase, centered, title card style",
+   "notes": "Destination title card over drone footage, bright saturated colours"
+  },
+  {
+   "label": "#433 14:30.2",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Aerial view of city with mosque minarets and mountains in distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Daytime high angle, clear sky, bright grade"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#33 00:21.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman holding phone showing music app playlist near airplane window",
+   "text_on_screen": "Music app playlist with Vietnamese song title overlay at bottom",
+   "text_style": "small white sans-serif text over dark phone UI, bottom of frame",
+   "notes": "Phone held up toward camera; bright cabin light, warm natural colour"
+  },
+  {
+   "label": "#34 00:23.2",
+   "shot": "screen",
+   "camera": "handheld",
+   "subject": "Phone screen showing music app with album art of black-and-white photo",
+   "text_on_screen": "Music, Fashion, Film",
+   "text_style": "small white sans-serif text on dark phone UI, upper middle of screen",
+   "notes": "Same airplane setting, phone held by woman in white tee; cut on music theme"
+  },
+  {
+   "label": "#35 00:25.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Airplane window view of clouds and wing",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright exposure, blue sky and white clouds, window frame vignette in corners"
+  },
+  {
+   "label": "#36 00:27.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Empty baggage carousel with blue and red suitcases",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static establishing shot, neutral warm grade, yellow floor line"
+  },
+  {
+   "label": "#37 00:30.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman smiling and talking in airport, white tee with black print",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle selfie distortion, rolling luggage visible behind her"
+  },
+  {
+   "label": "#38 00:34.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman looking up and talking in airport hall",
+   "text_on_screen": "Pudong Airport",
+   "text_style": "small white sans-serif watermark-style text, right side, middle height",
+   "notes": "Walking-talking vlog shot, bright interior, columns in background"
+  },
+  {
+   "label": "#39 00:37.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking while walking through airport terminal",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tighter framing than previous, same bright airport lighting"
+  },
+  {
+   "label": "#40 00:38.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman glancing upward, airport corridor behind her",
+   "text_on_screen": "Pudong Airport",
+   "text_style": "small white sans-serif text, right side, middle height",
+   "notes": "Continuous walk-and-talk, soft focus background"
+  },
+  {
+   "label": "#41 00:40.4",
+   "shot": "other",
+   "camera": "handheld",
+   "subject": "Airport sign directory with hand gesturing toward escalator",
+   "text_on_screen": "2号航站楼 Terminal 2; 停车库 Parking; 地铁 Metro; 市域铁路 Suburban Railway; 出租车 Taxi; 候机楼 Terminal; 1 Level; 国内到达 Domestic Arrivals; 卫生间 Restroom; 旅客服务中心 Passenger Service Center; 行李查存 Baggage Storage; 商务中心 Business Center; 长途汽车 Long-Distance Bus; 快递 Express Delivery; 失物招领 Lost and Found",
+   "text_style": "white Chinese and English text on dark blue signboard, centre-left",
+   "notes": "Hand sweeps into frame; escalator on left; signage used as location cue"
+  },
+  {
+   "label": "#42 00:44.4",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Hand tapping phone showing map app on gold-tiled floor",
+   "text_on_screen": "Amap",
+   "text_style": "small dark sans-serif label on gold floor, left of phone; app text tiny on phone screen",
+   "notes": "Insert shot of navigation app, phone screen close-up, warm golden tone"
+  },
+  {
+   "label": "#43 00:48.2",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Hand scrolling navigation route on phone with Pudong Airport Terminal directions",
+   "text_on_screen": "Pudong Airport Terminal 1/2 directions; Jing'an Temple (Exit 3)",
+   "text_style": "small dark sans-serif UI text on white phone screen, lower half",
+   "notes": "Continues map insert from previous shot; blue navigation button bottom right"
+  },
+  {
+   "label": "#44 00:49.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman pulling rolling suitcase, arm extended toward camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Side angle, bright window light, shallow depth of field"
+  },
+  {
+   "label": "#45 00:51.4",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman talking in front of large windows with trees outside",
+   "text_on_screen": "Vietnamese subtitle: 'ở ngoài là cây xanh... làm ôm tôi' (faint, partly obscured)",
+   "text_style": "small white subtitle text with dark outline, bottom centre, low contrast",
+   "notes": "Subtitles appear in Vietnamese on this sequence; handheld close framing"
+  },
+  {
+   "label": "#46 00:53.7",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman talking with windows and walkway behind her",
+   "text_on_screen": "Vietnamese subtitle line (faint, partly obscured, centre-bottom)",
+   "text_style": "small white subtitle with dark outline, bottom centre",
+   "notes": "Same setup as previous; subtitles on each cut in this run"
+  },
+  {
+   "label": "#47 00:56.6",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman talking, looking off to the side in terminal",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tighter framing, bright cool daylight from windows"
+  },
+  {
+   "label": "#48 01:00.6",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman talking in airport corridor, windows behind",
+   "text_on_screen": "Vietnamese subtitle line (faint, bottom centre)",
+   "text_style": "small white subtitle with dark outline, bottom centre",
+   "notes": "Ends sequence with subtitled talking-head vlog style"
+  }
+ ]
+}

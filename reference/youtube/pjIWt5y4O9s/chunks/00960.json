@@ -1,0 +1,205 @@
+{
+ "start": 960,
+ "events": [
+  {
+   "t": 960.0,
+   "type": "music",
+   "what": "Upbeat pop music with vocals starts, ducked under speech."
+  },
+  {
+   "t": 960.0,
+   "type": "talk_to_camera",
+   "what": "Vi and Nam talking and laughing in the car at night."
+  },
+  {
+   "t": 971.0,
+   "type": "zoom",
+   "what": "Punch-in on Nam's face as he laughs."
+  },
+  {
+   "t": 972.0,
+   "type": "cut",
+   "what": "Cut to dashcam view of Hanoi streets at night."
+  },
+  {
+   "t": 973.0,
+   "type": "cut",
+   "what": "Cut back to interior vlog view."
+  },
+  {
+   "t": 980.0,
+   "type": "talk_to_camera",
+   "what": "Nam starts singing along to K-pop songs."
+  },
+  {
+   "t": 999.0,
+   "type": "music",
+   "what": "Music fades out as they continue talking."
+  },
+  {
+   "t": 1052.0,
+   "type": "music",
+   "what": "Jazzy, upbeat instrumental music starts."
+  },
+  {
+   "t": 1052.0,
+   "type": "text",
+   "what": "Yellow location text: '@Bếp Cô Linh' and '42C Lý Thường Kiệt, Hoàn Kiếm' top left/right."
+  },
+  {
+   "t": 1052.0,
+   "type": "broll",
+   "what": "Wide shot of the outdoor street food stall."
+  },
+  {
+   "t": 1056.0,
+   "type": "broll",
+   "what": "Close-up of the menu."
+  },
+  {
+   "t": 1058.0,
+   "type": "broll",
+   "what": "Close-up of meat grilling on a pan."
+  },
+  {
+   "t": 1061.0,
+   "type": "talk_to_camera",
+   "what": "Nam and Vi sitting at the table, Nam starts opening a gift box."
+  },
+  {
+   "t": 1071.0,
+   "type": "zoom",
+   "what": "Punch-in on the cake inside the box."
+  },
+  {
+   "t": 1077.0,
+   "type": "talk_to_camera",
+   "what": "Nam presents a large wrapped gift to Vi."
+  },
+  {
+   "t": 1098.0,
+   "type": "talk_to_camera",
+   "what": "Vi unwraps the gift to reveal a 'Người Đẹp Don't Cry' poster."
+  },
+  {
+   "t": 1114.0,
+   "type": "talk_to_camera",
+   "what": "Vi shows off several keychains Nam gave her."
+  },
+  {
+   "t": 1135.0,
+   "type": "broll",
+   "what": "Close-up of the birthday cake with a '3' candle."
+  },
+  {
+   "t": 1140.0,
+   "type": "talk_to_camera",
+   "what": "Nam cooks meat on the grill while they talk."
+  },
+  {
+   "t": 1152.0,
+   "type": "talk_to_camera",
+   "what": "Nam does a funny bit, pretending to be a different vlogger from a previous video."
+  },
+  {
+   "t": 1211.0,
+   "type": "voiceover",
+   "what": "Vi's voiceover starts, reflecting on her friendship with Nam over b-roll of them eating."
+  },
+  {
+   "t": 1236.0,
+   "type": "talk_to_camera",
+   "what": "Vi holds her birthday cake and poses for the camera."
+  },
+  {
+   "t": 1256.0,
+   "type": "music",
+   "what": "Jazzy music stops."
+  },
+  {
+   "t": 1257.0,
+   "type": "music",
+   "what": "Upbeat, electronic game-like music starts."
+  },
+  {
+   "t": 1257.0,
+   "type": "text",
+   "what": "Yellow location text: 'Gashapon Bandai Shop' and 'Nhà Sách Phương Nam, Lotte Center'."
+  },
+  {
+   "t": 1257.0,
+   "type": "talk_to_camera",
+   "what": "Vi at a gashapon machine, explaining what she wants to win."
+  },
+  {
+   "t": 1267.0,
+   "type": "talk_to_camera",
+   "what": "Vi turns the dial and gets excited as the capsule drops."
+  },
+  {
+   "t": 1288.0,
+   "type": "talk_to_camera",
+   "what": "Vi and Nam sit down to unbox the gashapon toys."
+  },
+  {
+   "t": 1303.0,
+   "type": "talk_to_camera",
+   "what": "Nam tries his luck at a Pikachu gashapon machine."
+  },
+  {
+   "t": 1328.0,
+   "type": "music",
+   "what": "Electronic music stops."
+  },
+  {
+   "t": 1329.0,
+   "type": "music",
+   "what": "Slow, jazzy instrumental music starts."
+  },
+  {
+   "t": 1329.0,
+   "type": "text",
+   "what": "Yellow location text: '@Phở Gánh' and '61 Hàng Ngang, Hoàn Kiếm'."
+  },
+  {
+   "t": 1329.0,
+   "type": "broll",
+   "what": "Shots of the late-night pho stall on the sidewalk."
+  },
+  {
+   "t": 1340.0,
+   "type": "broll",
+   "what": "Close-up of a bowl of pho."
+  },
+  {
+   "t": 1342.0,
+   "type": "talk_to_camera",
+   "what": "Vi shows her phone screen displaying 4:14 AM."
+  },
+  {
+   "t": 1351.0,
+   "type": "talk_to_camera",
+   "what": "Nam talks to the camera, looking tired but happy."
+  },
+  {
+   "t": 1363.0,
+   "type": "broll",
+   "what": "Close-up of mixing the pho with chopsticks."
+  },
+  {
+   "t": 1403.0,
+   "type": "talk_to_camera",
+   "what": "Vi tells a story about looking for 'bún riêu' earlier that night."
+  }
+ ],
+ "summary": {
+  "structure": "The clip is divided into four main segments: a car ride (0:00-1:31), a birthday dinner with gift opening (1:32-4:56), a visit to a gashapon shop (4:57-6:08), and a late-night pho meal (6:09-7:59).",
+  "pacing": "The pacing is generally brisk, with frequent cuts between the vloggers talking and close-up b-roll of food or items. The birthday segment slows down slightly for a reflective voiceover.",
+  "music": "The music changes to match the mood of each segment: upbeat pop for the car, jazzy lounge music for the meals, and electronic game music for the gashapon shop. Music is always ducked under speech.",
+  "voice": "The tone is high-energy, casual, and humorous. Vi and Nam have a playful dynamic with lots of laughter. Vi uses a more sentimental tone during her voiceover.",
+  "sound_design": "The audio is primarily live-captured vlog audio, including ambient street and restaurant sounds. There are no prominent artificial sound effects.",
+  "text_style": "Location information is consistently displayed in the top corners using a simple, yellow sans-serif font at the start of each new scene.",
+  "visual_style": "The video uses a handheld vlog style with a mix of medium shots for dialogue and tight close-ups for food and objects. Occasional dashcam footage adds variety.",
+  "signature_moves": "The editor uses location titles to anchor each segment and frequently punches in (digital zoom) on faces or objects for emphasis or comedic effect."
+ }
+}

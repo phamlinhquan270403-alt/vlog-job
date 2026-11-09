@@ -1,0 +1,1062 @@
+[
+ {
+  "start": 0,
+  "events": [
+   {
+    "t": 0.0,
+    "type": "broll",
+    "what": "High-altitude aerial drone shot descending towards two hikers walking along a high mountain ridge path"
+   },
+   {
+    "t": 1.0,
+    "type": "title",
+    "what": "Centered title graphic in elegant serif font: '46°26'N 11°51'E / THE ITALIAN DOLOMITES' with explanatory text paragraph below"
+   },
+   {
+    "t": 1.0,
+    "type": "music",
+    "what": "Atmospheric, cinematic choral / ethereal vocal track begins and swells over the montage"
+   },
+   {
+    "t": 4.0,
+    "type": "cut",
+    "what": "Hard cut to ground-level macro shot of white wildflowers in an alpine meadow with jagged peaks in the background"
+   },
+   {
+    "t": 5.1,
+    "type": "cut",
+    "what": "Drone sweeping shot of rugged limestone peaks and scree slopes under passing clouds"
+   },
+   {
+    "t": 6.2,
+    "type": "cut",
+    "what": "Gimbal tracking shot behind female hiker walking down a dirt path through a wildflower field"
+   },
+   {
+    "t": 7.3,
+    "type": "cut",
+    "what": "Low-angle tracking shot of female hiker using a walking stick along a dirt road with cows resting nearby"
+   },
+   {
+    "t": 8.5,
+    "type": "cut",
+    "what": "Medium shot of male hiker ascending a rugged rocky scree trail between giant cliffs"
+   },
+   {
+    "t": 9.6,
+    "type": "cut",
+    "what": "Elevated drone flyover of pine trees, limestone rock slabs, and vast valley below"
+   },
+   {
+    "t": 10.7,
+    "type": "cut",
+    "what": "Tracking shot following male hiker carrying a large expedition backpack"
+   },
+   {
+    "t": 11.8,
+    "type": "cut",
+    "what": "Pastoral shot of two Haflinger horses grazing by a winding mountain stream"
+   },
+   {
+    "t": 13.0,
+    "type": "cut",
+    "what": "Female hiker hopping across stepping stones over a rushing creek"
+   },
+   {
+    "t": 14.2,
+    "type": "cut",
+    "what": "Slow-motion portrait shot of female hiker turning around smiling, overlooking a mountain valley and huts"
+   },
+   {
+    "t": 15.3,
+    "type": "cut",
+    "what": "Drone scenic sweeping over cows grazing near an alpine mountain hut at dusk"
+   },
+   {
+    "t": 16.4,
+    "type": "cut",
+    "what": "Tracking shot along a narrow cliffside trail hugging pine trees"
+   },
+   {
+    "t": 17.5,
+    "type": "cut",
+    "what": "Dramatic drone pull-away revealing a sheer rock pinnacle rising above a lush green valley"
+   },
+   {
+    "t": 18.6,
+    "type": "cut",
+    "what": "Low-angle shot of hiker walking up a steep snow patch between towering rock walls"
+   },
+   {
+    "t": 19.8,
+    "type": "cut",
+    "what": "Medium close-up of female hiker laughing and looking back at the camera in sunglasses"
+   },
+   {
+    "t": 21.0,
+    "type": "cut",
+    "what": "Drone shot rising over a high mountain pass and alpine hut"
+   },
+   {
+    "t": 22.1,
+    "type": "cut",
+    "what": "High-angle view descending a steep scree slope looking down at a turquoise alpine lake"
+   },
+   {
+    "t": 23.2,
+    "type": "cut",
+    "what": "Close-up portrait of a spotted dairy cow resting on the grass"
+   },
+   {
+    "t": 24.3,
+    "type": "cut",
+    "what": "Couple relaxing together by the edge of a mountain tarn"
+   },
+   {
+    "t": 25.4,
+    "type": "cut",
+    "what": "Female hiker gazing in awe at alpenglow illuminating limestone peaks"
+   },
+   {
+    "t": 27.0,
+    "type": "cut",
+    "what": "Epic telephoto shot of jagged peaks piercing through dense flowing mist"
+   },
+   {
+    "t": 28.8,
+    "type": "transition",
+    "what": "Vintage 16mm film leader countdown overlay with optical sound effect ('film projector / leader click')"
+   },
+   {
+    "t": 30.8,
+    "type": "cut",
+    "what": "Hard cut to black frame for a beat of silence"
+   },
+   {
+    "t": 31.9,
+    "type": "talk_to_camera",
+    "what": "Indoor sit-down intro: Elena sits in front of plain white wall in striped shirt talking enthusiastically about her upcoming 3-day hike"
+   },
+   {
+    "t": 37.7,
+    "type": "text",
+    "what": "Yellow serif text overlay: 'ITALIAN DOLOMITES'"
+   },
+   {
+    "t": 39.9,
+    "type": "text",
+    "what": "Yellow text overlay: 'CORTINA D'AMPEZZO / 46.5405° N, 12.1357° E / 1224 m'"
+   },
+   {
+    "t": 45.9,
+    "type": "photo",
+    "what": "Pop-up screenshot graphic of her previous YouTube video thumbnail: 'I Hiked Alone for 3 Days | First Time Solo Female Backpacker!'"
+   },
+   {
+    "t": 56.0,
+    "type": "broll",
+    "what": "Cut to live trail footage: Elena walking backwards welcoming Eric into the frame on a trail"
+   },
+   {
+    "t": 59.8,
+    "type": "talk_to_camera",
+    "what": "Eric and Elena wave into the camera together on the mountain path with wind noise in audio"
+   },
+   {
+    "t": 63.0,
+    "type": "talk_to_camera",
+    "what": "Cut back to indoor sit-down setup: Elena explains logistics, trail planning, and video structure"
+   },
+   {
+    "t": 92.8,
+    "type": "transition",
+    "what": "Elena reaches forward and covers the camera lens with both hands for a physical lens-cover transition"
+   },
+   {
+    "t": 93.8,
+    "type": "broll",
+    "what": "Cut to moving vehicle POV looking out window at road and steep rock face"
+   },
+   {
+    "t": 97.8,
+    "type": "talk_to_camera",
+    "what": "Handheld selfie video on public bus: Elena and Eric sitting together talking about bus transit to the trailhead"
+   },
+   {
+    "t": 104.0,
+    "type": "text",
+    "what": "Yellow title text overlay: 'SAN CASSIANO / 46.5701° N, 11.9361° E / 1537 m'"
+   },
+   {
+    "t": 107.8,
+    "type": "text",
+    "what": "Yellow title text overlay: 'CAPANNA ALPINA / (a mountain-top restaurant near the trailhead)'"
+   },
+   {
+    "t": 113.0,
+    "type": "broll",
+    "what": "Bus window view panning across mist-filled green valley"
+   },
+   {
+    "t": 115.0,
+    "type": "broll",
+    "what": "Eric filling up water bottle at a village fountain in rain jacket"
+   },
+   {
+    "t": 117.8,
+    "type": "broll",
+    "what": "POV shot holding water bottle under fountain spout"
+   },
+   {
+    "t": 120.8,
+    "type": "broll",
+    "what": "Hand points to wooden trail markers: CAI path 11 to Fanes and Capanna Alpina"
+   },
+   {
+    "t": 122.5,
+    "type": "broll",
+    "what": "Eric walks onto forest path, turns and points to camera: 'In the rain! The journey begins!'"
+   },
+   {
+    "t": 126.0,
+    "type": "talk_to_camera",
+    "what": "Handheld tracking profile of Eric walking with heavy backpack, talking about the day's route"
+   },
+   {
+    "t": 133.2,
+    "type": "broll",
+    "what": "Downward POV shot of hiking shoes crunching on wet gravel trail"
+   },
+   {
+    "t": 135.5,
+    "type": "talk_to_camera",
+    "what": "Handheld vlog walking shot: Elena wearing cap and black puffer talking to camera while walking in the rain, reviewing her thrifted outfit"
+   },
+   {
+    "t": 152.7,
+    "type": "text",
+    "what": "Yellow serif text overlay: 'FANES HUTTE'"
+   },
+   {
+    "t": 155.0,
+    "type": "text",
+    "what": "Yellow serif text overlay: 'RIFUGIO LAVARELLA / 46.611255, 12.006905 / 2045 m'"
+   },
+   {
+    "t": 170.8,
+    "type": "broll",
+    "what": "Cut to Eric hiking up misty mountain path; indie folk acoustic song with gentle female vocals starts playing"
+   },
+   {
+    "t": 173.0,
+    "type": "broll",
+    "what": "Low angle tilting up sheer rock cliff towering into rain clouds"
+   },
+   {
+    "t": 174.8,
+    "type": "broll",
+    "what": "Scenic valley view framed by dark pine branches with low hanging fog"
+   },
+   {
+    "t": 177.0,
+    "type": "talk_to_camera",
+    "what": "Handheld shot: Elena points ahead at steep wooden timber stairs climbing the cliff, Eric resting on railing"
+   },
+   {
+    "t": 186.8,
+    "type": "broll",
+    "what": "Eric ascending stone stairs between dramatic rocky bluffs"
+   },
+   {
+    "t": 187.9,
+    "type": "broll",
+    "what": "Landscape view of jagged peaks across the mist-shrouded valley"
+   },
+   {
+    "t": 190.0,
+    "type": "talk_to_camera",
+    "what": "Eric opens wooden rustic gate on the trail and jokes 'Am I allowed in?'"
+   },
+   {
+    "t": 195.8,
+    "type": "broll",
+    "what": "Elena crossing small wooden footbridge over an alpine brook"
+   },
+   {
+    "t": 197.8,
+    "type": "broll",
+    "what": "Wide scenic shot of cloud blanket hovering over mountain ridge and green slopes"
+   },
+   {
+    "t": 199.5,
+    "type": "broll",
+    "what": "Drone following Elena from behind as she walks into a vast green valley plateau"
+   },
+   {
+    "t": 202.0,
+    "type": "broll",
+    "what": "Tracking shot walking facing Elena on the trail with her backpack"
+   },
+   {
+    "t": 203.8,
+    "type": "broll",
+    "what": "Gentle mountain stream flowing through alpine meadows toward a towering peak"
+   },
+   {
+    "t": 205.8,
+    "type": "broll",
+    "what": "Cows grazing peacefully along the stream bank"
+   },
+   {
+    "t": 209.0,
+    "type": "talk_to_camera",
+    "what": "Elena selfie vlog excitedly showing the cows in the pouring rain behind her"
+   },
+   {
+    "t": 220.0,
+    "type": "broll",
+    "what": "Close-up of resting brown cows chewing grass in the meadow"
+   },
+   {
+    "t": 223.0,
+    "type": "broll",
+    "what": "High drone view tracking over the trail and rocky alpine basin"
+   },
+   {
+    "t": 227.8,
+    "type": "broll",
+    "what": "Elena jogging along the dirt trail past grazing cows"
+   },
+   {
+    "t": 231.5,
+    "type": "broll",
+    "what": "Elena balancing across stone steps over a flowing stream"
+   },
+   {
+    "t": 235.0,
+    "type": "broll",
+    "what": "Wide landscape shot of horses standing in a shallow stream pond under limestone peaks"
+   },
+   {
+    "t": 240.8,
+    "type": "broll",
+    "what": "Elena walks gently toward the herd of horses grazing on the hillside"
+   },
+   {
+    "t": 245.0,
+    "type": "broll",
+    "what": "Haflinger horses grazing side by side on green pasture"
+   },
+   {
+    "t": 246.8,
+    "type": "broll",
+    "what": "Horses trotting and splashing across the stream"
+   },
+   {
+    "t": 249.8,
+    "type": "broll",
+    "what": "Scenic shot of horses along the stream bank with mountain vista in background"
+   },
+   {
+    "t": 251.8,
+    "type": "broll",
+    "what": "Drone shot orbiting an emerald green alpine tarn enclosed by rocky slopes"
+   },
+   {
+    "t": 253.8,
+    "type": "broll",
+    "what": "Eric walking down path overlooking pine forests and surrounding peaks"
+   },
+   {
+    "t": 256.0,
+    "type": "broll",
+    "what": "Time-lapse / slow pan of dense fog rolling across dramatic rock spires"
+   },
+   {
+    "t": 258.0,
+    "type": "broll",
+    "what": "Rustic wooden arrow signs painted with 'Rif. Fanes' and 'Rif. Lavarella'"
+   },
+   {
+    "t": 259.0,
+    "type": "talk_to_camera",
+    "what": "Elena spots Rifugio Lavarella in the distance: 'There she is, Lavarella!'"
+   },
+   {
+    "t": 262.0,
+    "type": "broll",
+    "what": "Crossing a wooden bridge over rushing water towards the refuge buildings"
+   },
+   {
+    "t": 263.8,
+    "type": "broll",
+    "what": "Exterior establishing shot of Úćia Lavarella mountain refuge lodge"
+   },
+   {
+    "t": 264.8,
+    "type": "broll",
+    "what": "Interior boot drying room with hikers changing out of muddy hiking boots into hut slippers"
+   },
+   {
+    "t": 267.8,
+    "type": "broll",
+    "what": "Elena filming their cozy wooden bunk-bed private room in the rifugio"
+   },
+   {
+    "t": 270.8,
+    "type": "broll",
+    "what": "Window view looking out at traditional alpine wooden chalets and meadow"
+   },
+   {
+    "t": 274.0,
+    "type": "talk_to_camera",
+    "what": "Mirror selfie video in wood-paneled bathroom"
+   },
+   {
+    "t": 275.0,
+    "type": "broll",
+    "what": "Table setting with chalkboard reservation sign: 'Taber, Da Beer'"
+   },
+   {
+    "t": 276.0,
+    "type": "broll",
+    "what": "Browsing the evening dinner menu"
+   },
+   {
+    "t": 276.8,
+    "type": "broll",
+    "what": "Elena and Eric clinking glasses of red wine and draft beer in the dining hall"
+   },
+   {
+    "t": 281.0,
+    "type": "broll",
+    "what": "Atmospheric shot through glass pane of the busy, warm rifugio dining room"
+   },
+   {
+    "t": 283.0,
+    "type": "broll",
+    "what": "Close-up of hot plated meals: Austrian/Italian Gröstl (potatoes, bacon, fried egg) and beef goulash with dumplings"
+   },
+   {
+    "t": 285.0,
+    "type": "talk_to_camera",
+    "what": "Elena stands outside the rifugio after dinner in evening light recapping Day 1 hike"
+   },
+   {
+    "t": 305.0,
+    "type": "talk_to_camera",
+    "what": "Eric enters frame to give his recap and thoughts on the trail and tomorrow's challenging route"
+   },
+   {
+    "t": 320.8,
+    "type": "broll",
+    "what": "Drone shot flying low over a weathered wooden cabin surrounded by stone pines"
+   },
+   {
+    "t": 323.0,
+    "type": "broll",
+    "what": "High drone view showing Rifugio Lavarella nestled in the valley bowl"
+   },
+   {
+    "t": 324.8,
+    "type": "broll",
+    "what": "Elena and Eric playfully jogging along a wooden pasture rail at sunset"
+   },
+   {
+    "t": 326.8,
+    "type": "broll",
+    "what": "Drone overhead tracking shot following them walking through green alpine meadows"
+   },
+   {
+    "t": 329.8,
+    "type": "broll",
+    "what": "Drone view of peaks bathed in pinkish alpenglow with cattle below"
+   },
+   {
+    "t": 332.0,
+    "type": "talk_to_camera",
+    "what": "Elena shows off a walking stick branch she found and explains how proud she is of finding it"
+   },
+   {
+    "t": 347.0,
+    "type": "broll",
+    "what": "Telephoto golden hour shot of illuminated limestone ridge"
+   },
+   {
+    "t": 350.0,
+    "type": "broll",
+    "what": "Drone high shot of valley and grazing cows during blue hour"
+   },
+   {
+    "t": 352.0,
+    "type": "broll",
+    "what": "Dramatic telephoto shot of sharp mountain needles enveloped in low sunset clouds"
+   },
+   {
+    "t": 353.0,
+    "type": "broll",
+    "what": "Interior cozy evening shot: guests dining in wood-paneled room"
+   },
+   {
+    "t": 354.8,
+    "type": "broll",
+    "what": "Elena and Eric playing Jenga at their dining table with drinks"
+   },
+   {
+    "t": 360.8,
+    "type": "broll",
+    "what": "Close-up of Scrabble board game on the table"
+   },
+   {
+    "t": 362.0,
+    "type": "cut",
+    "what": "Hard cut to black screen"
+   },
+   {
+    "t": 363.0,
+    "type": "title",
+    "what": "Bold yellow title card: 'DAY 2 / RIFUGIO LAVARELLA >>> RIFUGIO LAGAZUOI >>> RIFUGIO POMEDES' over aerial drone shot"
+   },
+   {
+    "t": 365.8,
+    "type": "broll",
+    "what": "Hand opening wooden window shutters to reveal morning sunlight over mountain huts and peaks"
+   },
+   {
+    "t": 368.8,
+    "type": "title",
+    "what": "Yellow text title on black background: 'BEFORE WE HIKE / LET'S HEAR FROM TODAY'S SPONSOR'"
+   },
+   {
+    "t": 370.0,
+    "type": "talk_to_camera",
+    "what": "Elena pulls hands away from lens, talking to camera in bedroom setup about mental health and sponsor BetterHelp"
+   },
+   {
+    "t": 424.5,
+    "type": "text",
+    "what": "Lower third banner: 'USE BETTERHELP.COM/ELENATABER FOR 10% OFF YOUR FIRST MONTH'"
+   },
+   {
+    "t": 436.0,
+    "type": "transition",
+    "what": "Elena waves and puts hands over camera lens; bright film burn transition to daylight scene"
+   },
+   {
+    "t": 437.8,
+    "type": "broll",
+    "what": "Top-down POV of breakfast spread outside in the morning sun: bread, boiled eggs, cereal"
+   },
+   {
+    "t": 439.0,
+    "type": "broll",
+    "what": "Eric sitting at outdoor wooden table enjoying morning coffee"
+   },
+   {
+    "t": 440.0,
+    "type": "broll",
+    "what": "Sunny morning scenic: cows grazing around wooden chalets with green hillside behind"
+   },
+   {
+    "t": 442.0,
+    "type": "broll",
+    "what": "Scenic mountain peak framed by sunny blue sky and green meadow"
+   },
+   {
+    "t": 443.0,
+    "type": "broll",
+    "what": "Elena crossing wooden bridge over sparkling mountain stream in morning sunshine"
+   },
+   {
+    "t": 444.0,
+    "type": "broll",
+    "what": "Close-up of rushing mountain stream cascading over limestone rocks"
+   },
+   {
+    "t": 445.8,
+    "type": "talk_to_camera",
+    "what": "Elena walking on sunny trail with walking stick, sunglasses on, checking her watch"
+   },
+   {
+    "t": 450.0,
+    "type": "broll",
+    "what": "Close-up of Dalmatian-spotted dairy cow lying peacefully in the grass"
+   },
+   {
+    "t": 452.0,
+    "type": "broll",
+    "what": "Eric squats down and gently pets the cow on its head"
+   },
+   {
+    "t": 454.0,
+    "type": "broll",
+    "what": "Elena crouches down to stroke the cow's nose"
+   },
+   {
+    "t": 457.0,
+    "type": "broll",
+    "what": "Dramatic wide view through valley pass between high rock walls"
+   },
+   {
+    "t": 458.2,
+    "type": "broll",
+    "what": "Low angle shot through wild grasses as hikers walk away down the path"
+   },
+   {
+    "t": 460.0,
+    "type": "broll",
+    "what": "Elena and Eric walking side-by-side with hiking packs along the sunlit valley trail"
+   },
+   {
+    "t": 463.0,
+    "type": "broll",
+    "what": "Horses grazing peacefully on green knoll against massive limestone backdrop"
+   },
+   {
+    "t": 464.2,
+    "type": "broll",
+    "what": "Eric reaching out to pet a blonde horse that nuzzles his hand and arm"
+   },
+   {
+    "t": 468.0,
+    "type": "broll",
+    "what": "Wide meadow view of horse herd under the towering cliffs"
+   },
+   {
+    "t": 469.0,
+    "type": "broll",
+    "what": "Tracking behind Eric walking toward high mountain pass; music builds energetically"
+   },
+   {
+    "t": 471.5,
+    "type": "broll",
+    "what": "Ground level shot of daisies with majestic sunny mountain peaks in the background"
+   },
+   {
+    "t": 474.8,
+    "type": "broll",
+    "what": "High aerial drone shot tracking hikers navigating white limestone gravel slopes beneath sheer rock faces"
+   }
+  ],
+  "summary": {
+   "structure": "The video follows a multi-day backpacking travel vlog format: (0:00-0:31) Cinematic teaser montage introducing the Italian Dolomites; (0:31-1:33) Talking-head bedroom intro detailing the route and logistics; (1:34-2:02) Bus travel to the trailhead and setting off in the rain; (2:02-4:24) Day 1 hike through rain, steep switchbacks, and alpine pastures with cows and horses to Rifugio Lavarella; (4:24-6:02) Rifugio interior tour, dinner, post-hike recap to-camera, and sunset meadow walk; (6:02-7:17) Day 2 title card and sponsored mental health segment; (7:17-8:00) Day 2 sunny morning departure, petting cows/horses, and hiking toward high mountain passes.",
+   "pacing": "Dynamic dual-pacing: cinematic B-roll sequences and montages feature brisk 1-2 second cuts synchronized with music beats and drones, while conversational vlogging sections (both to-camera and on-trail) use longer, relaxed takes (10-30 seconds) to build genuine connection and atmosphere.",
+   "music": "Curated indie folk, acoustic, and ethereal cinematic indie tracks. The video opens with soaring atmospheric vocal swells, drops out for spoken intro, introduces an emotional female-vocal acoustic ballad during the misty ascent, and uses upbeat, breezy acoustic folk for sunny morning trail walks. Music ducks smoothly beneath speech.",
+   "voice": "Casual, enthusiastic, and approachable girl-next-door travel vlog tone. Elena switches between informative sit-down explanations and spontaneous, unfiltered handheld reactions on the trail (expressing childlike delight over cows, shivering in the rain, showing off walking sticks). Conversational chemistry with travel partner Eric adds warmth.",
+   "sound_design": "Subtle and organic: natural ambient sounds (shoes crunching on gravel, rushing streams, rain patter, cowbell clanks, wind on ridges) are mixed cleanly under dialogue and music. Stylized sound effects are reserved for transitions, such as film projector clicks on leader countdowns and whooshes on lens-cover cuts.",
+   "text_style": "Minimalist, elegant golden-yellow serif and clean sans-serif typography. Used consistently for geographical coordinates, elevations, and location names (e.g., 'CORTINA D'AMPEZZO', 'RIFUGIO LAVARELLA'), as well as bold yellow Day markers ('DAY 2') centered over landscape footage.",
+   "visual_style": "Stunning combination of high-definition aerial drone cinematography, stabilized 4K gimbal tracking shots, and raw handheld vlogging camera angles. Rich natural color grading accentuates lush alpine greens, creamy limestone rock, and warm golden hour alpenglow. High contrast between misty overcast rain on Day 1 and crisp blue-sky sunshine on Day 2.",
+   "signature_moves": "Hand-to-lens physical transitions to start and end talking segments; 16mm retro film burn/leader countdowns; geographic coordinate lower thirds; ground-level wildflower macro framing with towering peaks in the background."
+  }
+ },
+ {
+  "start": 480,
+  "events": [
+   {
+    "t": 480.0,
+    "type": "broll",
+    "what": "Wide aerial drone shot panning over dramatic limestone peaks and green valley in the Dolomites."
+   },
+   {
+    "t": 484.0,
+    "type": "cut",
+    "what": "Cut to handheld ground b-roll of hiker traversing rocky scree trail toward mountain gap."
+   },
+   {
+    "t": 486.0,
+    "type": "broll",
+    "what": "Panning panoramic shot of rugged Dolomite peaks under partly cloudy sky."
+   },
+   {
+    "t": 489.0,
+    "type": "text",
+    "what": "Yellow italicized serif text overlay: 'we\\'ve come all the way up this way' as hand points back across the valley."
+   },
+   {
+    "t": 491.0,
+    "type": "cut",
+    "what": "Cut to male hiking companion standing on trail, smiling at camera."
+   },
+   {
+    "t": 492.5,
+    "type": "talk_to_camera",
+    "what": "Hand points up steep gully; creator remarks on camera: 'And we\\'re going to go all the way up to the top.'"
+   },
+   {
+    "t": 496.0,
+    "type": "talk_to_camera",
+    "what": "Selfie shot of creator hiking uphill discussing elevation gain."
+   },
+   {
+    "t": 500.5,
+    "type": "text",
+    "what": "Yellow serif capital text overlay: 'WORTH THE VIEW' as creator gestures to the peaks behind."
+   },
+   {
+    "t": 502.0,
+    "type": "music",
+    "what": "Indie folk acoustic track with soft female vocals fades in as energetic hiking montage begins."
+   },
+   {
+    "t": 502.5,
+    "type": "broll",
+    "what": "Wide shot of creator carefully descending boulder field using large wooden branch as hiking staff."
+   },
+   {
+    "t": 505.0,
+    "type": "broll",
+    "what": "Companion navigating loose scree alongside a snow patch."
+   },
+   {
+    "t": 506.5,
+    "type": "talk_to_camera",
+    "what": "Selfie angle showing snowy trail; creator exclaims: 'Through the ice!'"
+   },
+   {
+    "t": 509.0,
+    "type": "broll",
+    "what": "High perspective looking back down along snowfield and steep scree trail to the valley."
+   },
+   {
+    "t": 513.0,
+    "type": "broll",
+    "what": "Creator walking down packed snow using her wooden stick for balance."
+   },
+   {
+    "t": 520.0,
+    "type": "broll",
+    "what": "Companion walks through a narrow mountain pass opening up to a wide vista on the opposite side."
+   },
+   {
+    "t": 523.0,
+    "type": "text",
+    "what": "Yellow cursive text overlay: '...and now back down the other side' over shot of creator hiking down scree."
+   },
+   {
+    "t": 527.0,
+    "type": "broll",
+    "what": "Downward perspective revealing alpine lake (Lago di Lagazuoi) nestled deep in the gorge."
+   },
+   {
+    "t": 534.0,
+    "type": "cut",
+    "what": "Companion pauses on path overlooking the green valley, remarking 'Very cool.'"
+   },
+   {
+    "t": 538.0,
+    "type": "broll",
+    "what": "Couple resting on grass bank next to emerald alpine lake, relaxing after steep descent."
+   },
+   {
+    "t": 543.0,
+    "type": "talk_to_camera",
+    "what": "Handheld POV tracing the massive mountain route traversed and pointing up toward the next refuge."
+   },
+   {
+    "t": 554.5,
+    "type": "cut",
+    "what": "Cut to hiking up barren limestone slope beneath vertical cliffs."
+   },
+   {
+    "t": 564.0,
+    "type": "talk_to_camera",
+    "what": "Companion asks 'Helena, almost there?'; creator laughs, removes sunglasses, and talks about exhaustion and finding the stick."
+   },
+   {
+    "t": 580.0,
+    "type": "text",
+    "what": "Yellow serif overlay: 'I COULDN\\'T HAVE DONE THIS HIKE WITHOUT THIS STICK'."
+   },
+   {
+    "t": 587.0,
+    "type": "broll",
+    "what": "Wooden trail trailpost showing directions to Rifugio Lagazuoi and surrounding passes."
+   },
+   {
+    "t": 590.0,
+    "type": "cut",
+    "what": "Creator reaches the terrace stairs of Rifugio Lagazuoi smiling: 'We made it!'"
+   },
+   {
+    "t": 594.0,
+    "type": "broll",
+    "what": "Spectacular 360-degree panorama from summit ridge overlooking cloud-dappled Dolomite mountain ranges."
+   },
+   {
+    "t": 596.5,
+    "type": "talk_to_camera",
+    "what": "Creator sits at outdoor picnic tables outside Rifugio Lagazuoi, recapping their 5-hour, 10-mile trek and explaining transit logistics."
+   },
+   {
+    "t": 622.0,
+    "type": "music",
+    "what": "Uplifting cinematic indie pop track swells with lush drone landscape sweep of mountain ridges."
+   },
+   {
+    "t": 629.0,
+    "type": "talk_to_camera",
+    "what": "Companion on observation platform recaps reaching 2,752 meters and sore legs."
+   },
+   {
+    "t": 650.0,
+    "type": "broll",
+    "what": "Cable car descending cable wires steeply toward green valley floor."
+   },
+   {
+    "t": 652.0,
+    "type": "other",
+    "what": "Split screen: scenic cable car descent on left; couple smiling selfie video inside car on right."
+   },
+   {
+    "t": 660.0,
+    "type": "talk_to_camera",
+    "what": "Couple walking along gravel road laughing about missing their second cable car due to marathon traffic."
+   },
+   {
+    "t": 684.0,
+    "type": "talk_to_camera",
+    "what": "Hand points up steep ski slope path: 'Say a prayer to our legs... Oh my god.'"
+   },
+   {
+    "t": 689.0,
+    "type": "broll",
+    "what": "Drone footage tracking along cliffside trail above green valley while pop song continues."
+   },
+   {
+    "t": 699.0,
+    "type": "talk_to_camera",
+    "what": "Selfie handheld walking up steep scree slope: 'We\\'re just walking up a giant ski hill...'"
+   },
+   {
+    "t": 708.0,
+    "type": "talk_to_camera",
+    "what": "Creator stops at ridge after an hour of steep switchbacks, gives thumbs up to camera."
+   },
+   {
+    "t": 716.0,
+    "type": "broll",
+    "what": "Cinematic aerial b-roll of misty alpine peaks at dusk."
+   },
+   {
+    "t": 719.0,
+    "type": "other",
+    "what": "Split screen: Rifugio terrace at sunset on left; two glasses of red wine overlooking glowing peaks on right with text: '& finally arrived at the refugio an hour later'."
+   },
+   {
+    "t": 723.0,
+    "type": "broll",
+    "what": "Timelapse of golden hour sunlight fading over Dolomite peaks into soft evening blues."
+   },
+   {
+    "t": 731.0,
+    "type": "transition",
+    "what": "Warm film burn/light leak transition to the following morning."
+   },
+   {
+    "t": 733.0,
+    "type": "talk_to_camera",
+    "what": "Morning vlog inside rustic wooden bedroom, text overlay: 'RIFUGIO POMEDES'."
+   },
+   {
+    "t": 740.0,
+    "type": "broll",
+    "what": "POV opens door to sunlit terrace overlooking panoramic mountain vistas."
+   },
+   {
+    "t": 746.0,
+    "type": "talk_to_camera",
+    "what": "Creator filming from chairlift ride down the mountain in the morning."
+   },
+   {
+    "t": 755.0,
+    "type": "text",
+    "what": "Yellow italic serif text overlay: '& we\\'re off to roadtrip around the rest of the dolomites' over chairlift descent."
+   },
+   {
+    "t": 758.0,
+    "type": "title",
+    "what": "Full-screen title card with sage green border: 'now let\\'s talk about...' transitioning to 'tips & tricks: everything I learned the hard way so you don\\'t have to'."
+   },
+   {
+    "t": 764.0,
+    "type": "talk_to_camera",
+    "what": "Creator sits down on terrace holding Rode wireless mic, speaking directly to camera to introduce the tips guide."
+   },
+   {
+    "t": 768.0,
+    "type": "other",
+    "what": "Subscribe and Like button animated overlay pops in at bottom screen corners."
+   },
+   {
+    "t": 778.0,
+    "type": "photo",
+    "what": "Picture-in-picture video insert showing previous Catalina Island backpacking vlog on screen."
+   },
+   {
+    "t": 792.0,
+    "type": "title",
+    "what": "Vintage film-frame graphic title card with horses in pasture: 'TIP 1: BOOK FAR IN ADVANCE'."
+   },
+   {
+    "t": 794.0,
+    "type": "talk_to_camera",
+    "what": "Creator explains booking logistics, hut pipeline challenges, long email response times, and booking options."
+   },
+   {
+    "t": 805.0,
+    "type": "broll",
+    "what": "Scenic b-roll insert of Passo Giau and alpine meadows illustrating trail routes."
+   },
+   {
+    "t": 812.0,
+    "type": "broll",
+    "what": "Aerial b-roll of Tre Cime di Lavaredo at golden hour."
+   },
+   {
+    "t": 817.0,
+    "type": "talk_to_camera",
+    "what": "Returns to talking head explaining hut availability bottlenecks and booking strategies."
+   },
+   {
+    "t": 885.0,
+    "type": "title",
+    "what": "Film strip title card: 'TIP 2: GET THE RIGHT GEAR BUT YOU DON\\'T NEED AS MUCH AS YOU THINK'."
+   },
+   {
+    "t": 887.0,
+    "type": "talk_to_camera",
+    "what": "Discussion of shoe choices (Hoka running shoes), walking poles, water capacity, and checking for Via Ferratas."
+   },
+   {
+    "t": 901.0,
+    "type": "other",
+    "what": "Picture-in-picture video inset showing creator with wooden stick on trail with text: 'I HIGHLY RECOMMEND HIKING POLES (OR A WALKING STICK OFC)'."
+   },
+   {
+    "t": 918.0,
+    "type": "title",
+    "what": "Film strip title card: 'TIP 3: RENT A CAR' over photo of creator sitting on mountain summit cliff."
+   },
+   {
+    "t": 920.0,
+    "type": "talk_to_camera",
+    "what": "Creator discusses navigating the region, public transit limitations, and hotel luggage storage."
+   },
+   {
+    "t": 939.0,
+    "type": "title",
+    "what": "Film strip title card: 'TIP 4: BUDGET ACCORDINGLY'."
+   },
+   {
+    "t": 941.0,
+    "type": "talk_to_camera",
+    "what": "Creator discusses cost comparisons between hut trekking and tent camping, including half-board pricing."
+   }
+  ],
+  "summary": {
+   "structure": "The video follows a two-part travel vlog structure: 00:00-04:37 is a cinematic and experiential montage of a challenging hut-to-hut hike in the Dolomites (hiking over two mountain passes, visiting Rifugio Lagazuoi, missing the cable car, hiking up ski slopes to Rifugio Pomedes, and enjoying sunset wine); 04:38-08:00 shifts to a sit-down 'Tips & Tricks' guide structured by numbered chapter title cards (Booking in Advance, Gear, Renting a Car, Budgeting).",
+   "pacing": "Montage segments feature medium-to-quick cuts (2-4 seconds) alternating between handheld vlog check-ins, tracking hiking shots, and sweeping drone landscape b-roll. The talking-head advice portion is moderately paced with occasional cutaways to b-roll, picture-in-picture video references, and graphic title cards.",
+   "music": "Starts with ambient instrumental background, transitioning to gentle indie folk with acoustic guitar and female vocals during the hike, swelling cinematic indie-pop during summit views, and soft upbeat acoustic underlay during the talking-head guide.",
+   "voice": "Casual, relatable, candid, and conversational. The creator openly shares fatigue, humorous misadventures (missing the cable car, relying on a makeshift wooden stick), and gives pragmatic, organized advice for fellow travelers.",
+   "sound_design": "Minimal artificial sound effects; relies heavily on natural ambient wind, crunching gravel footsteps, chairlift machinery, and smooth music ducking beneath speech.",
+   "text_style": "Golden-yellow retro serif font (often italicized or small caps) overlaid during the experiential vlog for witty commentary; olive green framed graphic title cards with gothic/serif lettering and film perforation borders for educational tips.",
+   "visual_style": "Warm natural color grade emphasizing golden limestone, deep alpine greens, and warm sunset glows. Mix of ultra-wide drone aerials, POV trail footage, and eye-level wide-aperture talking head.",
+   "signature_moves": "Split-screen comparisons (e.g. scenic view paired with selfie video inside cable car; sunset view paired with wine glasses); handwritten/serif aesthetic text captions; vintage film strip chapter transition cards; candid handheld stick-vlogging."
+  }
+ },
+ {
+  "start": 960,
+  "events": [
+   {
+    "t": 960.0,
+    "type": "talk_to_camera",
+    "what": "The creator provides tips on staying at refuges in the Dolomites."
+   },
+   {
+    "t": 960.0,
+    "type": "music",
+    "what": "Upbeat, acoustic indie-folk track starts, ducked under speech."
+   },
+   {
+    "t": 980.0,
+    "type": "title",
+    "what": "Title card 'MY ROUTE' appears with a vintage film strip border effect."
+   },
+   {
+    "t": 982.0,
+    "type": "talk_to_camera",
+    "what": "The creator begins explaining her specific hiking route."
+   },
+   {
+    "t": 986.0,
+    "type": "map",
+    "what": "A map overlay appears in the top left corner showing the route progress."
+   },
+   {
+    "t": 986.0,
+    "type": "text",
+    "what": "Text 'CORTINA D'AMPEZZO' in a serif font appears below the map."
+   },
+   {
+    "t": 989.0,
+    "type": "text",
+    "what": "Text updates to 'SAN CASSIANO'."
+   },
+   {
+    "t": 991.0,
+    "type": "text",
+    "what": "Text updates to 'CAPANNA ALPINA'."
+   },
+   {
+    "t": 993.0,
+    "type": "text",
+    "what": "Text updates to 'RIFUGIO LAVARELLA'."
+   },
+   {
+    "t": 995.0,
+    "type": "talk_to_camera",
+    "what": "Map overlay disappears as she describes the difficulty of the hike."
+   },
+   {
+    "t": 1008.0,
+    "type": "text",
+    "what": "Text 'RIFUGIO LAGAZUOI' appears centered in a serif font."
+   },
+   {
+    "t": 1021.0,
+    "type": "text",
+    "what": "Text 'RIFUGIO POMEDES' appears centered in a serif font."
+   },
+   {
+    "t": 1031.0,
+    "type": "text",
+    "what": "Social handle '@ELENATABER' appears in the bottom left."
+   },
+   {
+    "t": 1062.0,
+    "type": "cut",
+    "what": "Hard cut from talk-to-camera to a final photo."
+   },
+   {
+    "t": 1063.0,
+    "type": "photo",
+    "what": "Full-screen photo of the creator posing with hiking poles in the mountains."
+   },
+   {
+    "t": 1063.0,
+    "type": "music",
+    "what": "Music volume swells as the speech ends for the outro."
+   }
+  ],
+  "summary": {
+   "structure": "The clip is divided into four main segments: practical advice on refuge costs and payments (0:00-0:20), a high-level route overview using map graphics (0:20-0:35), a detailed narrative of the hiking experience and specific refuges (0:35-1:10), and a reflective outro with social media call-to-action (1:10-1:53).",
+   "pacing": "The pacing is steady and conversational. The editor uses long takes of the creator talking directly to the camera, punctuated by text and map overlays to maintain visual interest and provide clarity on locations.",
+   "music": "A single, consistent acoustic indie track runs throughout the clip. It is kept at a low volume (ducked) during the speech and swells at the very end during the final photo.",
+   "voice": "The creator uses a friendly, informative, and authentic tone. She speaks directly to the camera, sharing personal anecdotes about the difficulty of the hike and her emotional response to the scenery.",
+   "sound_design": "Minimal sound design; the focus is entirely on the spoken narrative and the background music bed.",
+   "text_style": "The text uses a classic, elegant serif font. It is used for location names, titles, and social media handles, often centered or placed strategically to not obscure the creator's face.",
+   "visual_style": "The visual style is warm and natural, with the creator filmed in a medium shot against a yellow wall. The use of map overlays and a vintage-style title card adds a professional yet personal travel-vlog aesthetic.",
+   "signature_moves": "Key signature moves include the use of dynamic map overlays that update in real-time with the narrative and the 'film strip' title card to transition between segments."
+  }
+ }
+]

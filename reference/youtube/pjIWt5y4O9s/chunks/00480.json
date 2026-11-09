@@ -1,0 +1,140 @@
+{
+ "start": 480,
+ "events": [
+  {
+   "t": 480.0,
+   "type": "music",
+   "what": "Upbeat, jazzy lo-fi music starts, ducked under live speech."
+  },
+  {
+   "t": 480.0,
+   "type": "text",
+   "what": "Yellow cursive text '@ Bò Nầm Nướng' top left; white serif text '54 Hàng Giầy, Hoàn Kiếm' top right."
+  },
+  {
+   "t": 480.0,
+   "type": "talk_to_camera",
+   "what": "Live conversation while eating grilled meat with a friend."
+  },
+  {
+   "t": 546.5,
+   "type": "sfx",
+   "what": "Camera shutter sound effect."
+  },
+  {
+   "t": 546.5,
+   "type": "transition",
+   "what": "Rapid photo montage of the meal."
+  },
+  {
+   "t": 548.5,
+   "type": "music",
+   "what": "Music changes to a light, acoustic piano melody."
+  },
+  {
+   "t": 548.5,
+   "type": "text",
+   "what": "Yellow cursive text 'A quick coffee run' top left; white serif text 'Phê La' top right."
+  },
+  {
+   "t": 548.5,
+   "type": "broll",
+   "what": "Shots of the street and the interior of a coffee shop."
+  },
+  {
+   "t": 558.0,
+   "type": "talk_to_camera",
+   "what": "Creator walks through Hanoi streets talking to the camera about her coffee run."
+  },
+  {
+   "t": 606.5,
+   "type": "talk_to_camera",
+   "what": "Cut to the creator sitting in her room, drinking coffee and sharing stories about her trip."
+  },
+  {
+   "t": 682.5,
+   "type": "music",
+   "what": "Music changes to a playful, bouncy tune with pizzicato strings."
+  },
+  {
+   "t": 682.5,
+   "type": "text",
+   "what": "Yellow cursive text '@ Bún chả Cửa Đông' top left; white serif text '41 Cửa Đông, Hoàn Kiếm' top right."
+  },
+  {
+   "t": 682.5,
+   "type": "broll",
+   "what": "Street view and food preparation at the Bun Cha shop."
+  },
+  {
+   "t": 693.5,
+   "type": "voiceover",
+   "what": "Creator provides a voiceover reflection on the food while shots of her eating are shown."
+  },
+  {
+   "t": 784.5,
+   "type": "music",
+   "what": "Music changes to an upbeat, modern pop/indie track."
+  },
+  {
+   "t": 784.5,
+   "type": "text",
+   "what": "Yellow cursive text '@ hermanos cafe' top left; white serif text '6 Nam Tràng, Ba Đình' top right."
+  },
+  {
+   "t": 784.5,
+   "type": "broll",
+   "what": "Meeting friends at a modern cafe."
+  },
+  {
+   "t": 797.5,
+   "type": "voiceover",
+   "what": "Voiceover continues over shots of the creator and friends chatting."
+  },
+  {
+   "t": 828.5,
+   "type": "talk_to_camera",
+   "what": "Live audio of the creator and friends walking by Ho Guom (Sword Lake)."
+  },
+  {
+   "t": 850.5,
+   "type": "music",
+   "what": "Music shifts to a light, rhythmic beat."
+  },
+  {
+   "t": 850.5,
+   "type": "text",
+   "what": "Yellow cursive text '@ Xôi chè Bà Thìn' top left; white serif text '1 Bát Đàn, Hoàn Kiếm' top right."
+  },
+  {
+   "t": 851.5,
+   "type": "voiceover",
+   "what": "Voiceover describing the dessert experience over b-roll of the shop and food."
+  },
+  {
+   "t": 888.5,
+   "type": "music",
+   "what": "Music changes to a soft, reflective lo-fi piano track."
+  },
+  {
+   "t": 888.5,
+   "type": "talk_to_camera",
+   "what": "Creator back in her room, reflecting on her love for Hanoi and meeting other creators."
+  },
+  {
+   "t": 954.5,
+   "type": "ambient",
+   "what": "Music stops; ambient street and car noise as the creator gets into a car at night."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a day in Hanoi: a late-night dinner (0:00-1:06), a morning coffee run and reflection (1:08-3:22), a Bun Cha lunch (3:22-5:04), meeting friends at a cafe and walking by the lake (5:04-6:10), a dessert stop (6:10-6:48), and a final evening reflection before heading out again (6:48-8:05).",
+  "pacing": "The pacing is dynamic, using fast-cut b-roll and photo montages for food and travel transitions, contrasted with longer, steady shots for personal reflections and to-camera storytelling.",
+  "music": "The music is a curated mix of lo-fi, jazzy, and acoustic tracks that change with each new location to set a specific mood, always ducked significantly under speech.",
+  "voice": "The creator uses a casual, intimate tone, alternating between live 'in-the-moment' speech and reflective voiceovers that provide deeper context to her experiences.",
+  "sound_design": "Minimalist but effective, featuring camera shutter sounds for photo transitions and well-balanced ambient street noise to maintain a sense of place.",
+  "text_style": "Consistent location tagging using a yellow cursive font for the venue name and a white serif font for the address, positioned in the top corners.",
+  "visual_style": "A warm, vlog-style aesthetic with handheld camera work that feels personal. It mixes close-up food shots with wide street views and medium-shot talking segments.",
+  "signature_moves": "The use of a camera shutter sound paired with a rapid photo montage to transition out of a meal segment is a recurring stylistic choice."
+ }
+}

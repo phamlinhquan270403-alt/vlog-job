@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#151 15:00.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in white dress walks away toward white villa through green garden, leaves in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, green foliage framing top edge, slightly warm grade"
+  },
+  {
+   "label": "#152 15:03.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Paved path lined with palm trees under bright sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Establishing landscape, no subject, bright saturated greens"
+  },
+  {
+   "label": "#153 15:05.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white strapless mini dress standing on paved path, smiling, arms slightly out",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Full-body framing, palm hedge background, bright daylight"
+  },
+  {
+   "label": "#154 15:07.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white dress spinning or dancing on path, arms spread",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same location as previous shot, playful motion, good cut candidate on movement"
+  },
+  {
+   "label": "#155 15:09.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Garden path with bench and tree, faint white caption text in middle",
+   "text_on_screen": "\"Finally home\"",
+   "text_style": "Small white sans-serif lowercase subtitle, centred, low on frame, semi-transparent",
+   "notes": "Green hedges and tropical trees, daylight"
+  },
+  {
+   "label": "#156 15:12.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses speaking to camera on garden path, hedges behind",
+   "text_on_screen": "faint white caption, illegible",
+   "text_style": "Small white text, centred, low contrast",
+   "notes": "Selfie-arm perspective, talking-head vlog style"
+  },
+  {
+   "label": "#157 15:15.1",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Empty modern restaurant interior with dark chairs and sea view through glass doors",
+   "text_on_screen": "faint white caption, partly visible",
+   "text_style": "Small white sans-serif, centred, low contrast",
+   "notes": "Dark moody interior, slatted wood screen at left, cool grade"
+  },
+  {
+   "label": "#158 15:17.4",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Restaurant table by wooden louvred window overlooking palms",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm daylight, shallow depth, table settings in foreground"
+  },
+  {
+   "label": "#159 15:20.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with glasses and hair bun eating at restaurant table with fork, plate of food in front",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Indoor warm lighting, wooden furniture background"
+  },
+  {
+   "label": "#159 15:24.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Same woman gesturing with hand near face while eating",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuous take, slight reframing from previous shot"
+  },
+  {
+   "label": "#160 15:30.4",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Close-up of plate with sausages, bacon and fried food on placemat",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shallow depth of field, food-detail insert, warm tones"
+  },
+  {
+   "label": "#161 15:34.8",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand stirring iced coffee drink on table with placemat",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Over-shoulder POV, tabletop insert, bright window light"
+  },
+  {
+   "label": "#162 15:38.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with glasses drinking iced coffee through straw",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wood slatted ceiling, bright restaurant background"
+  },
+  {
+   "label": "#162 15:42.7",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman with glasses stirring iced coffee and speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight framing on face and glass, continuous with previous shot"
+  },
+  {
+   "label": "#163 15:47.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman eating at table, plate of food visible, staff and guests in background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide restaurant background, natural ambient light"
+  },
+  {
+   "label": "#163 15:51.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with glasses holding food, mouth open mid-speech, restaurant behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Closing restaurant sequence, same setup as previous frame"
+  }
+ ]
+}

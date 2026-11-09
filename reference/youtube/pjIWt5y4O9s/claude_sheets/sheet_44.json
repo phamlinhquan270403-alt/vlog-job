@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#435 41:18.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Two people eating outdoors; woman in black puffer gesturing toward camera, man in blue hoodie beside her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, buildings and red awning in background, slight overexposure"
+  },
+  {
+   "label": "#435 41:23.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in black hooded puffer and glasses talking to camera, man in blue hoodie eating",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Faint small subtitle-like text near bottom edge, hard to read"
+  },
+  {
+   "label": "#435 41:27.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man in blue hoodie looking up while woman eats from bowl",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright sky background, slight overexposure"
+  },
+  {
+   "label": "#435 41:31.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man eating with spoon from bowl, woman touching her face beside him",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm daylight, red awning at right"
+  },
+  {
+   "label": "#435 41:35.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man in blue hoodie smiling, woman in black puffer beside him with bowl",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Small faint text at bottom center, unreadable"
+  },
+  {
+   "label": "#435 41:40.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Man gesturing with hand, woman eating with spoon from white bowl",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Mid-shot, outdoor cafe setting"
+  },
+  {
+   "label": "#436 41:43.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand holding spoon over blue plate with small white dumplings or bowls",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Top-down food close shot, saturated blue plate, dark ground below"
+  },
+  {
+   "label": "#437 41:46.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black puffer opening a blind-box style package at indoor shop table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shelves of toys and boxes behind, warm indoor lighting"
+  },
+  {
+   "label": "#438 41:49.3",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in glasses holding up colorful patterned blind box toy package",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shallow focus, pink shop background, hand reaching in from right"
+  },
+  {
+   "label": "#439 41:53.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman opening colorful box while man in blue sits beside her at right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Pink shelves and toy displays in background"
+  },
+  {
+   "label": "#440 41:59.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black hood sorting small boxes on table, POP MART crates behind",
+   "text_on_screen": "POP MART",
+   "text_style": "white bold sans-serif on cardboard box, small, upper-left of frame",
+   "notes": "Hand reaching in from right, shallow depth of field"
+  },
+  {
+   "label": "#440 42:04.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black puffer placing a small blind box on table, man partly visible at right edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Colorful shop background, warm tone"
+  },
+  {
+   "label": "#441 42:09.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in hood holding a pink blind box while opening wrapper",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand from right side, toy shelves behind"
+  },
+  {
+   "label": "#441 42:13.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in glasses holding toy package while hand takes it from right",
+   "text_on_screen": "POP MART",
+   "text_style": "white bold sans-serif on cardboard box, small, lower-left of frame",
+   "notes": "Shallow depth of field, pink background"
+  },
+  {
+   "label": "#441 42:18.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman tearing wrapper of small package, man in dark top at right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Centered subject, warm indoor light"
+  },
+  {
+   "label": "#441 42:22.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman smiling while opening a package at table, man visible at right edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Soft warm grade, toy shop background"
+  }
+ ]
+}

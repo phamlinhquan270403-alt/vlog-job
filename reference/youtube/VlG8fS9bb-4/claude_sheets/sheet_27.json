@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#335 20:45.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Night street view looking up at tall buildings and tree canopy, shopfronts lit",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm street lamp glow, slightly tilted upward angle, dark night exposure"
+  },
+  {
+   "label": "#336 20:48.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Bicycle handlebars and a rider's striped top riding a blue shared bike on a city street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Riding POV, handlebar in foreground, street traffic blurred behind"
+  },
+  {
+   "label": "#337 20:52.6",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Tree-lined road at night with parked scooters and a red car ahead",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Forward-facing ride shot, lane markings visible, continuous motion from previous clip"
+  },
+  {
+   "label": "#338 20:55.3",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Plane trees arching over a quiet street with parked scooters on the right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continued riding POV, warm night tone, wider framing"
+  },
+  {
+   "label": "#339 20:58.0",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Hand holding a red instant noodle cup in a convenience store aisle",
+   "text_on_screen": "红烧牛肉面 两件11.5元",
+   "text_style": "Chinese characters, red and white on cup; price tag in bold white and red on blue-yellow promo banner, bottom of frame",
+   "notes": "Product showcase, store shelves behind, bright fluorescent lighting"
+  },
+  {
+   "label": "#340 21:02.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in striped tank top talking to camera at night on a street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Night street bokeh with car headlights, subject off-center right, casual talking-to-camera delivery"
+  },
+  {
+   "label": "#341 21:07.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in striped top pointing toward a glass door in a modern hotel-style room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm indoor lighting, striped curtain on right, water bottle on table left"
+  },
+  {
+   "label": "#341 21:11.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman raising hand to forehead with exaggerated expression, arm extended",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing, comedic reaction beat, same indoor room"
+  },
+  {
+   "label": "#341 21:15.6",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman touching her mouth while holding a snack in the room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static framing, fixed eye level, mid-shot"
+  },
+  {
+   "label": "#341 21:19.7",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman gesturing with both hands near her face while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same static setup as previous frame, talking-head segment"
+  },
+  {
+   "label": "#341 21:23.9",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman turning away from camera toward the door, long dark hair visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Walk-away or transition action, same static framing"
+  },
+  {
+   "label": "#341 21:28.0",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman holding up a phone with a blue case, looking at the screen",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static mid-shot, phone prop introduced"
+  },
+  {
+   "label": "#341 21:32.1",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman looking down at her phone while holding a snack cup",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static mid-shot, phone-browsing beat leading into screen recordings"
+  },
+  {
+   "label": "#342 21:38.0",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Phone screen showing a shopping feed of handbags, with the woman's hand holding the phone",
+   "text_on_screen": "",
+   "text_style": "Product grid UI, no readable overlay text",
+   "notes": "Phone held close to lens, woman partially visible behind, screen-capture style insert"
+  },
+  {
+   "label": "#343 21:43.8",
+   "shot": "split_screen",
+   "camera": "handheld",
+   "subject": "Phone screen showing handbag listings while woman gestures beside it",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Phone in left foreground, woman in background right, product browsing narrative"
+  },
+  {
+   "label": "#344 21:47.0",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Phone screen close-up of a silver quilted handbag in a shop display",
+   "text_on_screen": "",
+   "text_style": "Product UI, no readable overlay text",
+   "notes": "Tight insert shot of product on phone, shop interior blurred behind"
+  }
+ ]
+}

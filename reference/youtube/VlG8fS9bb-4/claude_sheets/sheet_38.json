@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#430 31:36.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses and white shirt smiling, bridge railing and office buildings behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle selfie arm extended, bright daylight, slightly fisheye distortion"
+  },
+  {
+   "label": "#431 31:42.0",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "White arched bridge with cyclist far down the path",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low-angle walking POV along bridge, strong white structure lines"
+  },
+  {
+   "label": "#432 31:46.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Tree-lined paved path with white railings leading into distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Forward-moving walk shot, symmetrical composition, green saturated grade"
+  },
+  {
+   "label": "#433 31:49.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in white shirt walking beside railing, arm outstretched, trees behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie with motion blur, bright exposure"
+  },
+  {
+   "label": "#434 31:51.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman smiling beside tree-lined path, grass on left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Walking selfie with motion blur, cut on movement likely"
+  },
+  {
+   "label": "#435 31:54.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Open lawn with trees and a red flag on a pole",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static-ish establishing shot of park, natural daylight"
+  },
+  {
+   "label": "#436 31:57.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Cyclist riding on path lined with red lanterns and trees",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Walking forward shot, red accents in frame"
+  },
+  {
+   "label": "#437 32:01.7",
+   "shot": "split_screen",
+   "camera": "handheld",
+   "subject": "Small inset of woman's face over white modern building with curved roof",
+   "text_on_screen": "",
+   "text_style": "Small inset window, top-left corner",
+   "notes": "Picture-in-picture overlay on architecture shot, bright sky"
+  },
+  {
+   "label": "#438 32:03.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman holding phone showing a map, bare trees behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Phone-check beat, soft natural light, bracelet and rings visible"
+  },
+  {
+   "label": "#439 32:04.9",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Phone screen showing map of Culture Park Shanghai Greenhouse Garden",
+   "text_on_screen": "Culture Park Shanghai Greenhouse Garden",
+   "text_style": "Small English map labels, dark-on-light, bottom of phone screen",
+   "notes": "Insert of phone map, close framing on screen"
+  },
+  {
+   "label": "#440 32:06.4",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Phone screen showing search results with garden photos",
+   "text_on_screen": "Expo Culture Park Shanghai Greenhouse Garden",
+   "text_style": "Small sans-serif black text on white search card, lower part of phone screen",
+   "notes": "Screen recording style insert, phone status bar visible"
+  },
+  {
+   "label": "#441 32:08.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with hair blowing looking at phone, bare trees and bag",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Candid wind-blown moment, soft natural light"
+  },
+  {
+   "label": "#442 32:11.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Paved road curving past green shrubs and willow trees",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Walking POV, overcast grade, muted greens"
+  },
+  {
+   "label": "#443 32:13.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in white shirt smiling, arm extended, path and trees behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Walking selfie, slight motion blur, bright exposure"
+  },
+  {
+   "label": "#444 32:17.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Wooden boardwalk by pond with a woman standing far ahead",
+   "text_on_screen": "Small faint watermark text near bottom center",
+   "text_style": "Small pale yellow text, bottom center, low contrast",
+   "notes": "Walking forward shot, willow tree framing overhead"
+  },
+  {
+   "label": "#445 32:20.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Wooden deck over calm pond with people sitting at edge, willows",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Calm ending-style establishing shot, natural green grade"
+  }
+ ]
+}

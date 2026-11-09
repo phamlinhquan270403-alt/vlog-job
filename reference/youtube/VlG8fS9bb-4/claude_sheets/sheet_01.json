@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#1 00:00.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Elevated path with red track, trees and distant cyclist",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, green-leaning grade, slight elevated angle"
+  },
+  {
+   "label": "#2 00:01.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white top smiling outside a shop with decorative window",
+   "text_on_screen": "2026 in Shanghai / 2026 / @ajmy",
+   "text_style": "White script watermark top-left, small white sans-serif '2026' bottom centre, small '@ajmy' bottom right, semi-transparent",
+   "notes": "Watermark appears on most frames; bright warm grade"
+  },
+  {
+   "label": "#3 00:01.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman browsing a bookshop with green tiled arched windows",
+   "text_on_screen": "2026 in Shanghai / 2026 / @ajmy",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre, '@ajmy' bottom right",
+   "notes": "Follows woman walking; soft daylight"
+  },
+  {
+   "label": "#4 00:02.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman seated on train beside blue suitcase, looking at phone",
+   "text_on_screen": "2026 in Shanghai / 2026 / @ajmy",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre, '@ajmy' bottom right",
+   "notes": "Interior train shot, cool blue-green tones"
+  },
+  {
+   "label": "#5 00:02.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Tree-lined street with large trunk and perforated building facade",
+   "text_on_screen": "2026 in Shanghai / 2026",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre",
+   "notes": "Walking shot, leafy greens, slight motion"
+  },
+  {
+   "label": "#6 00:03.2",
+   "shot": "closeup",
+   "camera": "tripod",
+   "subject": "Table with milk tea cup, steamed buns and noodle bowl",
+   "text_on_screen": "2026 in Shanghai / 2026 / @ajmy",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre, '@ajmy' bottom right",
+   "notes": "Static food shot, warm wood tones, shallow depth of field"
+  },
+  {
+   "label": "#7 00:03.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Smiling woman in glasses walking through park grass, arm extended",
+   "text_on_screen": "2026 in Shanghai / 2026",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre",
+   "notes": "Selfie-style arm shot, motion blur, bright grade"
+  },
+  {
+   "label": "#8 00:04.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Shopkeeper at counter in shop with woven textiles and crafts",
+   "text_on_screen": "2026 in Shanghai / 2026",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre",
+   "notes": "Interior with warm window light, colourful displays"
+  },
+  {
+   "label": "#9 00:04.9",
+   "shot": "closeup",
+   "camera": "gimbal",
+   "subject": "Cyclist in striped track pants riding bicycle, low angle",
+   "text_on_screen": "2026 in Shanghai / 2026",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre",
+   "notes": "Motion blur on wheel, dappled shadows, high-contrast grey grade"
+  },
+  {
+   "label": "#10 00:05.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman standing by pond on wooden boardwalk with willow trees",
+   "text_on_screen": "2026 in Shanghai / 2026",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre",
+   "notes": "Calm park scene, green tones, tree trunk in foreground"
+  },
+  {
+   "label": "#11 00:05.7",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Shop window display of bottles and plants between blue panels",
+   "text_on_screen": "2026 in Shanghai / 2026",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre",
+   "notes": "Static, symmetrical framing, soft daylight"
+  },
+  {
+   "label": "#12 00:06.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman seated on street bench beside tree-lined road",
+   "text_on_screen": "2026 in Shanghai / 2026 / @ajmy",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre, '@ajmy' bottom right",
+   "notes": "Street scene with passersby, bright natural light"
+  },
+  {
+   "label": "#13 00:07.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman at café table with iced latte and dark bag",
+   "text_on_screen": "2026 in Shanghai / 2026",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre",
+   "notes": "Warm indoor lighting, wood and leather tones"
+  },
+  {
+   "label": "#14 00:07.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Café interior with barista in cap and pastry on counter",
+   "text_on_screen": "2026 in Shanghai / 2026",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre",
+   "notes": "Warm brick and wood interior, lamp glow in foreground"
+  },
+  {
+   "label": "#15 00:08.2",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Shopfront with 232 sign, posters and MOM poster",
+   "text_on_screen": "232 / MOM",
+   "text_style": "Green sign with white characters for 232 on dark panel; pink and blue poster text 'MOM'; no watermark visible",
+   "notes": "Vintage brick facade, slightly desaturated grade"
+  },
+  {
+   "label": "#16 00:08.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white top looking up beside brick wall with plaque",
+   "text_on_screen": "2026 in Shanghai / 2026",
+   "text_style": "White script watermark top-left, small white '2026' bottom centre",
+   "notes": "Reaction shot looking upward, bright daylight, tree canopy above"
+  }
+ ]
+}

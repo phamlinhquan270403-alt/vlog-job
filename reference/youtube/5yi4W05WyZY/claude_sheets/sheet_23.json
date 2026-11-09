@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#194 22:21.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses holding a black mic near poolside hotel, arm raised",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm daylight, hotel facade with arched balconies and palm trees behind; white umbrella edge in frame"
+  },
+  {
+   "label": "#194 22:25.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman adjusting glasses while holding microphone by lounge chair",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup as previous shot, slight reframe; continuous talking-head interview feel"
+  },
+  {
+   "label": "#194 22:29.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman speaking into black microphone, head tilted, hotel behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tighter framing on face and mic"
+  },
+  {
+   "label": "#194 22:33.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with hair up adjusting mic at chin, white towel on lap",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Jump-cut style continuation of same interview"
+  },
+  {
+   "label": "#194 22:37.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in black swimsuit holding mic to chin on lounger",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wider crop, arm of umbrella visible on left"
+  },
+  {
+   "label": "#194 22:41.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman reclined on lounge chair with hand near face, hotel behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Pulled-back framing showing full lounger"
+  },
+  {
+   "label": "#194 22:45.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman on lounger with hand on chin, listening pose",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-ish talking shot"
+  },
+  {
+   "label": "#194 22:49.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman on lounger holding mic, hotel and palms in background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Consistent framing for interview segment"
+  },
+  {
+   "label": "#194 22:53.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman reclining with hand at mouth on white lounge chair",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Ends interview segment, natural daylight"
+  },
+  {
+   "label": "#195 22:56.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black swimsuit drinking from a water bottle under palm fronds",
+   "text_on_screen": "Ai mà biết vy công biệt vy cần lịch thành phố biển",
+   "text_style": "Small white sans-serif subtitle, centered near bottom, thin italic-like bracket marks",
+   "notes": "Warm grade, palm fronds in foreground; subtitle in Vietnamese"
+  },
+  {
+   "label": "#196 22:58.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Empty beach lounge chairs under white umbrellas on grass near sea",
+   "text_on_screen": "Ai mà biết vy công biệt vy cần lịch thành phố biển",
+   "text_style": "Small white sans-serif subtitle, centered near bottom",
+   "notes": "Establishing shot of resort beach; subtitle carries over from previous clip"
+  },
+  {
+   "label": "#197 23:03.2",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Small figure walking in shallow sea under cloudy dusk sky",
+   "text_on_screen": "vai thằng ở một thành phố biển nào đó",
+   "text_style": "Small white sans-serif subtitle, centered near bottom",
+   "notes": "Cool muted grade, overcast sky, calm sea with sandy shore"
+  },
+  {
+   "label": "#198 23:08.7",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in glasses and black swimsuit talking on beach, palms behind",
+   "text_on_screen": "Hôm nay Vy ở biển là chill",
+   "text_style": "Small white sans-serif subtitle, centered near bottom",
+   "notes": "Selfie-style close framing, bright daylight, resort buildings behind palms"
+  },
+  {
+   "label": "#199 23:13.6",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Rippling sea surface glinting in sunlight",
+   "text_on_screen": "Đá chơi xem có biển khi nào",
+   "text_style": "Small white sans-serif subtitle, centered near bottom",
+   "notes": "Water b-roll, cool blue-green grade"
+  },
+  {
+   "label": "#200 23:18.4",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Calm sea and layered clouds at dusk, horizon line",
+   "text_on_screen": "Tuy không được bưng bữa đi",
+   "text_style": "Small white sans-serif subtitle, centered near bottom",
+   "notes": "Slow static landscape b-roll, desaturated blue grade"
+  },
+  {
+   "label": "#201 23:23.2",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Silhouetted woman in long white coat holding phone on beach at dusk",
+   "text_on_screen": "Vy dẫn rất xúc nguyện nhất chuyến đi này nha",
+   "text_style": "Small white sans-serif subtitle, centered near bottom",
+   "notes": "Backlit silhouette, dark blue dusk grade, trees on right edge"
+  }
+ ]
+}

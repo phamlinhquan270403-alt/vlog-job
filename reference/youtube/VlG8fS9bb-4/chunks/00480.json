@@ -1,0 +1,180 @@
+{
+ "start": 480,
+ "events": [
+  {
+   "t": 480.0,
+   "type": "talk_to_camera",
+   "what": "The creator talks to the camera while applying makeup in a hotel room."
+  },
+  {
+   "t": 486.0,
+   "type": "text",
+   "what": "Text overlay: \"navigate = xoay sở\"."
+  },
+  {
+   "t": 489.0,
+   "type": "cut",
+   "what": "Cut to a close-up of the creator showing a Rilakkuma keychain on her bag."
+  },
+  {
+   "t": 500.0,
+   "type": "talk_to_camera",
+   "what": "The creator continues talking to the camera while getting dressed."
+  },
+  {
+   "t": 524.0,
+   "type": "zoom",
+   "what": "Punch-in zoom for emphasis during her talk-to-camera."
+  },
+  {
+   "t": 537.0,
+   "type": "cut",
+   "what": "Cut to the interior of a taxi at night."
+  },
+  {
+   "t": 538.0,
+   "type": "text",
+   "what": "Text overlay: \"lộn server :)))))\"."
+  },
+  {
+   "t": 541.0,
+   "type": "text",
+   "what": "Text overlay: \"nhờ coi vlog Hà Thi tui đã là người đi taxi Trung chuyên nghiệp\"."
+  },
+  {
+   "t": 548.0,
+   "type": "cut",
+   "what": "Close-up of a phone screen using a translation app to communicate with the driver."
+  },
+  {
+   "t": 566.0,
+   "type": "music",
+   "what": "Upbeat lo-fi pop music with vocals starts, ducked under ambient sound."
+  },
+  {
+   "t": 568.0,
+   "type": "broll",
+   "what": "Montage of the Shanghai skyline at night (The Bund)."
+  },
+  {
+   "t": 568.0,
+   "type": "text",
+   "what": "Location tag: \"@ The Bund\"."
+  },
+  {
+   "t": 573.0,
+   "type": "broll",
+   "what": "The creator dances in front of the illuminated skyline."
+  },
+  {
+   "t": 577.0,
+   "type": "text",
+   "what": "Text overlay: \"lần đầu được thấy con đường đã thấy trên mạng bấy lâu nay\"."
+  },
+  {
+   "t": 599.0,
+   "type": "voiceover",
+   "what": "Voiceover begins as the creator browses a store full of plush keychains."
+  },
+  {
+   "t": 604.0,
+   "type": "text",
+   "what": "Text overlay: \"khúc này nhìu store cute lắm\"."
+  },
+  {
+   "t": 636.0,
+   "type": "broll",
+   "what": "POV shots of the creator riding a rental bike through Shanghai streets at night."
+  },
+  {
+   "t": 653.0,
+   "type": "talk_to_camera",
+   "what": "The creator talks to the camera while riding the bike, mixed with live ambient noise."
+  },
+  {
+   "t": 676.0,
+   "type": "talk_to_camera",
+   "what": "Back in the hotel room, the creator shows her shopping haul."
+  },
+  {
+   "t": 709.0,
+   "type": "speed",
+   "what": "Fast-forward speed ramp as she opens a Pop Mart blind box."
+  },
+  {
+   "t": 709.0,
+   "type": "sfx",
+   "what": "Exaggerated crinkling and fast-motion sound effects."
+  },
+  {
+   "t": 724.0,
+   "type": "title",
+   "what": "Title card: \"ngày hai\" (Day two)."
+  },
+  {
+   "t": 725.0,
+   "type": "broll",
+   "what": "Quick shots of breakfast: dim sum and coffee."
+  },
+  {
+   "t": 742.0,
+   "type": "talk_to_camera",
+   "what": "The creator walks through the French Concession area, talking to the camera."
+  },
+  {
+   "t": 752.0,
+   "type": "text",
+   "what": "Text overlay: \"French Concession = Khu tổ giới Pháp\"."
+  },
+  {
+   "t": 802.0,
+   "type": "text",
+   "what": "Location tag: \"@ T12 Lab\"."
+  },
+  {
+   "t": 803.0,
+   "type": "broll",
+   "what": "Close-ups of coffee and a scone at a cafe."
+  },
+  {
+   "t": 848.0,
+   "type": "music",
+   "what": "Music changes to a softer, acoustic guitar-driven track."
+  },
+  {
+   "t": 848.0,
+   "type": "text",
+   "what": "Location tag: \"@ Anfu Road\"."
+  },
+  {
+   "t": 853.0,
+   "type": "broll",
+   "what": "Montage of boutique shops and unique displays on Anfu Road."
+  },
+  {
+   "t": 876.0,
+   "type": "text",
+   "what": "Text overlay: \"dọc đường này rất nhiều tiệm xinh\"."
+  },
+  {
+   "t": 883.0,
+   "type": "text",
+   "what": "Location tag: \"@ LOOKNOW & FLOW\"."
+  },
+  {
+   "t": 918.0,
+   "type": "talk_to_camera",
+   "what": "The creator concludes the segment while walking down a tree-lined street."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a travel itinerary over two days. Day 1 (Night) includes getting ready, a taxi ride using a translation app, visiting The Bund, shopping for plushies, biking, and a hotel unboxing. Day 2 features breakfast, exploring the French Concession, a cafe visit, and boutique shopping on Anfu Road.",
+  "pacing": "The pacing is dynamic, alternating between steady talk-to-camera segments and fast-paced b-roll montages. Speed ramps are used effectively during repetitive actions like unboxing.",
+  "music": "Two distinct tracks are used: an upbeat lo-fi pop track for the night-time city exploration and a more relaxed acoustic guitar track for the daytime shopping and cafe segments.",
+  "voice": "The creator maintains a casual, high-energy, and relatable tone. She speaks directly to the camera in Vietnamese, often sharing personal thoughts and humorous observations.",
+  "sound_design": "Sound design relies heavily on ambient city noise (traffic, bike bells) and natural foley (makeup brushes, bag zippers). Exaggerated sound effects are used during the fast-forward unboxing sequence.",
+  "text_style": "Simple, clean sans-serif font is used for location tags, translations of terms, and humorous side-commentary. Location tags often include an '@' symbol.",
+  "visual_style": "The visual style is classic handheld vlog, featuring a mix of wide-angle POV shots (especially while biking), medium talk-to-camera shots, and extreme close-ups of food and products.",
+  "signature_moves": "Key signature moves include showing off bag keychains in close-up, filming the use of translation apps to navigate foreign environments, and high-angle POV biking shots."
+ }
+}

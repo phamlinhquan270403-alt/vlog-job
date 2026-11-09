@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#140 05:44.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black jacket holding wooden walking stick before mountain ridge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm sunset light, trees framing top left, shallow depth of field"
+  },
+  {
+   "label": "#141 05:48.5",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Pink-lit rocky mountain ridge with pine branches in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Golden hour grade, slow push or pan across peaks"
+  },
+  {
+   "label": "#142 05:50.2",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Green alpine meadow with grazing cows and mountain peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Aerial establishing shot, warm saturated grade"
+  },
+  {
+   "label": "#143 05:51.4",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Dolomite peaks above forested valley at sunrise",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Drone rising or drifting forward, warm highlights"
+  },
+  {
+   "label": "#144 05:52.6",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Jagged mountain peaks emerging above low clouds",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Misty cool blue tones, pink sunlit peaks, likely fly-over transition"
+  },
+  {
+   "label": "#145 05:54.1",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Diners seated at wooden tables in rustic warm restaurant",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior lighting, wood paneling, slow walk-in feel"
+  },
+  {
+   "label": "#146 05:56.0",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman in dark top raising glass across wooden table, man seated opposite",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm grade, red cushions, candid dining moment"
+  },
+  {
+   "label": "#147 05:58.1",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Two women seated on red bench in wood-panelled restaurant, one raising glass",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm grade, shelves of bottles in background"
+  },
+  {
+   "label": "#148 05:60.0",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman at restaurant table with wine glass, shelves of bottles behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same dining scene continuing, warm tones"
+  },
+  {
+   "label": "#149 06:02.2",
+   "shot": "black",
+   "camera": "unknown",
+   "subject": "Dark frame with faint hand and table shapes",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Fade to black transition, low-key lighting"
+  },
+  {
+   "label": "#150 06:04.9",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Mountain aerial background with day title card",
+   "text_on_screen": "DAY 2 / RIFUGIO LAVARELLA >>> RIFUGIO LAGAZUOI >>> RIFUGIO POMEDES",
+   "text_style": "Large bold yellow sans-serif 'DAY 2' centered, small yellow caps route line below, dark translucent background image",
+   "notes": "Chapter title card, likely dissolve in and out"
+  },
+  {
+   "label": "#151 06:06.8",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand opening wooden window onto green alpine valley",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural light, warm wood frame, bright exterior contrast"
+  },
+  {
+   "label": "#152 06:08.0",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Alpine village with wooden chalets on green meadow below rocky peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, saturated greens and blue sky"
+  },
+  {
+   "label": "#153 06:09.1",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Sponsor announcement on black background",
+   "text_on_screen": "BEFORE WE HIKE LET'S HEAR FROM TODAY'S SONSOR",
+   "text_style": "Thin light-yellow/orange sans-serif caps, centered, two lines, small size, black background",
+   "notes": "Typo 'SONSOR' appears in original; simple fade transition"
+  },
+  {
+   "label": "#154 06:11.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with hands clasped under chin speaking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Front-facing talking head, plain light wall background, soft daylight"
+  },
+  {
+   "label": "#154 06:16.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman gesturing with both hands while talking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking head continuation, same framing as previous, jump cut likely"
+  }
+ ]
+}

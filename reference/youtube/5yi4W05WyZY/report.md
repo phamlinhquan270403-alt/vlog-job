@@ -1,0 +1,342 @@
+# lần đầu đi Phú Quốc một mình vẫn vui (˶˃ ᵕ ˂˶) .ᐟ.ᐟ | solo trip vlog
+
+- source: https://www.youtube.com/watch?v=5yi4W05WyZY
+- channel: hà vy, uploaded 20250105, 395945 views
+- 1280x720, 1406.0s, video: `G:\Vlog-job\reference\youtube\5yi4W05WyZY\video.mp4`
+- 201 shots (9/min), shot length p25/median/p75 2.13/3.09/6.30s, longest 148.4s
+- transcript: YouTube captions (video.vi-orig.json3)
+
+## Contact sheets (`sheets/`, each label is `#shot mm:ss.s`)
+
+- `sheet_01.jpg`: shots 1–13
+- `sheet_02.jpg`: shots 13–17
+- `sheet_03.jpg`: shots 18–29
+- `sheet_04.jpg`: shots 30–44
+- `sheet_05.jpg`: shots 45–60
+- `sheet_06.jpg`: shots 61–63
+- `sheet_07.jpg`: shots 63–73
+- `sheet_08.jpg`: shots 74–81
+- `sheet_09.jpg`: shots 82–91
+- `sheet_10.jpg`: shots 92–97
+- `sheet_11.jpg`: shots 98–99
+- `sheet_12.jpg`: shots 100–115
+- `sheet_13.jpg`: shots 116–129
+- `sheet_14.jpg`: shots 129–140
+- `sheet_15.jpg`: shots 140–151
+- `sheet_16.jpg`: shots 151–163
+- `sheet_17.jpg`: shots 163–166
+- `sheet_18.jpg`: shots 167–175
+- `sheet_19.jpg`: shots 176–179
+- `sheet_20.jpg`: shots 179–189
+- `sheet_21.jpg`: shots 190–194
+- `sheet_22.jpg`: shots 194–194
+- `sheet_23.jpg`: shots 194–201
+
+## Timeline (shot, start, length, speech during the shot)
+
+- #1 00:00.0 3.5s — vì mang Vy ra để V Quay cái cảnh mà bước
+- #2 00:03.5 12.5s — vì mang Vy ra để V Quay cái cảnh mà bước / qua khách sạn á cái xong mà T quên mẹ / thẻ phòng ở trong rồi xong giờ mới không / vào được nữa vãi / Ê trời đất ơi có thể phòng rồi lại
+- #3 00:16.0 3.1s — nè đến ph rồi
+- #4 00:19.1 1.1s
+- #5 00:20.2 2.0s
+- #6 00:22.1 1.7s
+- #7 00:23.9 1.5s
+- #8 00:25.3 1.5s
+- #9 00:26.8 1.1s
+- #10 00:27.9 1.7s
+- #11 00:29.6 1.6s
+- #12 00:31.2 1.8s
+- #13 00:32.9 35.2s — Chờ mọi người V đến Phú B rồi Cái này / lần đầu tiên đi phúc một mình luôn á Nói / thiệt là Vi cũng không có tính đi Phú / Quốc đâu mà viy muốn đi Đà Nẵng với hộ / an hơn bởi vì ai mà coi viy cũng biết là / Vi thích Đà Nẵng với hồi An vãi chứ / không phải Phú Quốc nhưng mà Đà Nẵng với / hộ An viy coi thì với biết là bây giờ / đang mùa mưa cho nên mới / kiểu không được nhưng mà giá phòng hộ án / bây giờ rất rất là rẻ nha Nhưng mà thôi / viy cũng không muốn phí phí tiền nó bấy / An đó Rốt cuộc lại không ra biển được / không đi bơi được không đi xe máy vòng / vòng được cho nên V lựa đi Phú BC đi Phú / BC lần này á là thực ra là Vi đi một / mình Nhưng mà Vi cũng sẽ có gặp bạn nữa / Bạn vi s bay từ Nhật qua và bạn vi đi / với gia đình ở một ở một khách sạn khác / luôn vi tính là vi vi đ Xong vi kết hợp
+- #14 01:08.2 6.6s — luôn vi tính là vi vi đ Xong vi kết hợp / quay chụp rồi này nọ luôn nói vậ hôi chứ / không biết quay được video bao nhiêu nữa / Lần này thì vi lửa ở resort Bởi vì lần
+- #15 01:14.7 31.9s — Lần này thì vi lửa ở resort Bởi vì lần / này vi đi viy chỉ muốn nghỉ thôi à vi / cũng không có muốn đi vòng vòng thành / phố hay gì hết bởi vì hai năm trước viy / có đi Phú Quốc rồi Vi đi Phú Quốc hai / lần luôn hai chuyến liên tiếp và V Cái / đợt đó Vi đi rất rất rất là nhiều ở Phú / Quốc là Vi đi cả hàng thơm cả vin Park / cả vin Wonders này nọ luôn là cả hai cực / của Phú Quốc luôn á x nghĩ hồi lần này / mệt quá rồi không muốn đi nữa mà đi Có / một mình n cũng là biếng đi từ đầu này / qua đầu kia á nên thôi dịp lần này vi ở / The shells cái resort này thì nó cũng / khá là cũ nhưng mà V thấy nó cũng đầy đủ / tiện nghi cho nên là viy cũng không có / quan tâm lắm cho nên là bây giờ viy sẽ / room tour cho mọi người coi phòng giữ / Hương ắm Cái này là cửa ra vào nè Ừ cái
+- #16 01:46.7 3.1s — Hương ắm Cái này là cửa ra vào nè Ừ cái / này là cái chỗ nãy vi kẹt vô được á
+- #17 01:49.8 1.9s — bên này là tivi không có sóng và bên này
+- #18 01:51.7 6.3s — là một cái bàn trang điểm B nhờ v t sa / tất cả các bàn trang điểm nó đều làm đèn / vàng hết nha Đèn Vàng vì không có Makeup / được và đằng sau mọi người á sẽ là một
+- #19 01:58.0 2.3s — được và đằng sau mọi người á sẽ là một
+- #20 02:00.3 7.5s — cái giường ngủ bự vãi ban đầu á là vi / tính đặt phòng mà Twin bed á là hai cái / giường lẻ riêng á thì thường là khi mà
+- #21 02:07.8 15.8s — viy đi chơi về M mặt đồ giơ thì Vy sẽ / ngủ bên một giường xong rồi buổi tối Vy / đi ngủ thiệt á thì Vy sẽ ngủ bên giường / còn lại cái giường sạch thì V chia như / vậy Nhưng mà Vi quên mất luôn cái xong / rồi có mỗi cái giường này thôi nên kệ và / bên này là cái chỗ nãy vi ngồi nè Ờ nó / là đi h tao nè Nó là một cái seating
+- #22 02:23.6 9.3s — area V nó thiệt là cái này là một trong / những khu mà viy rất hay nhìn hình để vi / coi coi nó có đẹp không Nhưng mà khi mà / đến thì vi Bây giờ ngồi hết v thích / nó có vậy thôi à và ở trước đây á sẽ là
+- #23 02:32.9 5.6s — một cái vườn nhỏ nó là vườn thôi chứ cây / cối héo tùm lum Ê hình như bị ngực sáng
+- #24 02:38.5 10.4s — đúng không Không thấy gì hết nhưng mà để / vi Mở cửa ra cho mà coi Ê cái cửa này mở / Úi trời từ từ nha Ủa từ từ A đây đây đây / đó một cái sitting area nữa B nó cũng có
+- #25 02:48.9 2.9s — gì nhiều á Nó có mấy ghế gì Thôi rồi / nhưng mà có vẻ như là nó cũng hơi cũ á
+- #26 02:51.8 2.3s — nhưng mà có vẻ như là nó cũng hơi cũ á / Nhưng mà không sao hết v thấy nó cũng dễ
+- #27 02:54.0 3.0s — Nhưng mà không sao hết v thấy nó cũng dễ / thương vi nghĩ mấy cái hôm trời nắng n / sẽ đẹp lắm thế sau rồi cái lý do vi bứt
+- #28 02:57.0 2.3s — sẽ đẹp lắm thế sau rồi cái lý do vi bứt / cái phòng này á là bởi vì cái nhà vệ
+- #29 02:59.3 1.2s — sinh nguyên cái dãy hành lang này là cái
+- #30 03:00.5 2.9s — sinh nguyên cái dãy hành lang này là cái / nhà vệ sinh luôn nói hành lang nge hơi
+- #31 03:03.3 1.7s — lố nhưng mà Ờ nhà V không hiểu sao trong
+- #32 03:05.0 6.2s — này đèn nó bị vàng quá kiểu vi không / biết có quay Skin Care này nọ được không / nữa Hay nó mà cứ bị vàng khè như vậy nhờ
+- #33 03:11.2 4.8s — Vy nghĩ bây giờ viy sẽ thay đồ để vi đi / ra biển luôn V Hảo hứng lắm rồi Vy muốn / tắm biển lắm
+- #34 03:16.0 6.8s — [âm nhạc]
+- #35 03:22.8 2.4s
+- #36 03:25.2 2.0s
+- #37 03:27.2 2.5s — rồi Vi vừa mới thay đồ để đi bơi xong đó
+- #38 03:29.8 8.6s — là một bộ đồ một mảnh thôi À bởi vì / thường đi một mình á thì Vy sẽ thích mặt / đồ một mảnh V cảm nhác nó kính đáo hơn / với lại Vy không muốn ai nhìn vi hết á / so bây giờ viy sẽ pack cái túi đi biển
+- #39 03:38.4 2.6s — so bây giờ viy sẽ pack cái túi đi biển / của viy Ê cái túi M fusan cel trong này
+- #40 03:41.0 3.0s — của viy Ê cái túi M fusan cel trong này / sẽ có kẹo ngậm tai nghe này nọ kin đồ
+- #41 03:44.0 1.0s — của viy dạng này Vy đang cố đọc một cuốn
+- #42 03:45.0 7.9s — sách nonfiction bởi vì mọi người ai cũng / khuyên vi là vi nên đọc thử nonfiction / đi cá nhân vi không thích nonfiction / Nhưng mà Vi vẫn sẽ cố gắng đọc đống son
+- #43 03:52.9 1.9s — vì lỡ đôi cặp chai đệp chứ bí tiền với
+- #44 03:54.8 1.4s
+- #45 03:56.2 1.1s — lại What
+- #46 03:57.3 1.8s — wipes bình thường á thì đúng ra Tháng 12
+- #47 03:59.1 5.5s — sẽ là tháng mà Phú bức thời tiết rất là / dễ chịu Nhưng mà Vi Lại xui á là Vi đi / đúng mấy cái hôn Phú bức mưa luôn hôm
+- #48 04:04.7 4.1s — đúng mấy cái hôn Phú bức mưa luôn hôm / này Vi vừa bước ra luôn nha là trời mưa / lớn cho nên vi phải quành vô lại kểu
+- #49 04:08.7 2.5s — cũng buồn á chứ cho đi cả ngày chỉ mong / được ra biển thôi à mà cũng mặc đồ hết
+- #50 04:11.2 2.0s — rồi nữa chứ cho nên là vừa đỡ một cái l
+- #51 04:13.3 1.8s — vi xách túi ra liền cái lúc này á mọi
+- #52 04:15.0 2.8s — người nhìn trời Mọi người sẽ hiểu là lúc / đó nó âm u tới mức nào lên video r nó
+- #53 04:17.8 2.3s — còn sáng một tí á Không nhưng Vậy nha Mà
+- #54 04:20.1 2.0s — nó còn lạnh nữa chứ má Cái đợt này á là
+- #55 04:22.1 2.0s — Sài Gòn cũng đang mưa rất là nhiều luôn / và viy đã gát sẵn rồi cho nên là viy đi
+- #56 04:24.0 2.2s — và viy đã gát sẵn rồi cho nên là viy đi / chơi một thành phố khác mà nó vẫn vậy
+- #57 04:26.2 1.8s — cho nên lúc này là viy đang nản Nhã m
+- #58 04:27.9 2.8s — luôn á do viy có bị một cái không biết / ai bị không nhưng mà viy rất dễ bị ảnh
+- #59 04:30.7 1.8s — hưởng bở thời tiết luôn Thời tiết như
+- #60 04:32.5 5.7s — thế nào là viy sẽ y như vậy đó Mà nó sẽ / thể hiện rõ lên mặt vi luôn chứ nhưng mà / hôm này được cái là Phú bức dù chờ có / xấu thì Hoàng hu vẫn luôn đẹp cái màu nó
+- #61 04:38.2 3.3s — xấu thì Hoàng hu vẫn luôn đẹp cái màu nó / rất là mê / luôn bây giờ v sẽ bây giờ v sẽ gé ready
+- #62 04:41.5 28.8s — luôn bây giờ v sẽ bây giờ v sẽ gé ready / để đi ăn tối h lát vi đă chung với bạn / nên Vy nghĩ chắc là viy không có quay / bởi vì là bạn lâu rồi viy cũng không gặp / á cho nên là viy cũng muốn tập chung / Ketchup rồi nói chuyện này nọ ê má mà ai / Extra bằng tao hai túi Makeup hai cái / gương nhai hai cái gương nha Cái gương / này á là để hắt sáng còn cái gương này / là để để Ờ dùng khi Makeup luôn Ví dụ / ánh sáng nó đến từ bên này thì Phả sử / dụng cái gương này để để bên cạnh như / vậy nè thì nó như một cái tóm hắc sáng / nhỏ mà nó có cái chân đứng thì đỡ phải / xài cái TM hắt sáng bự chà bá xong rồi / không biết Phả dựng Quở đâu không th như
+- #63 05:10.3 52.9s — mà vi đ đi du lịch một mình khá là nhiều / thành phố rồi nhưng mà V nghĩ ở Phú Quốc / chắc là nơi vi không thích nhất luôn / không thích đi d lục một mình nha nếu đi / đám bạn thì nó vẫn vui bởi vì là mọi thứ / nó xa nhau vãi kểu như bình thường đi du / lục một mình á thì là V thích thuê xe / máy xong rồi đi đây đi đó còn ở đây á / thì mọi thứ B cảm giác như nó hơi bị xa / với nhau đặc biệt là người cũng biết á / là hai cái cực nam cực Bắc là của hòn / Thơm với lại của vin á cái xong rồi cảm / giác như là nó nó làm cái cái mật độ của / cái đảo nó bị rãi ra rộng quá luôn á / Xong rồi nó bị thưa hơn là Vi muốn rất / nhiều L không biết mọi người hiểu Vi / không cho nên bình thường V đi mấy thành / phố khác á do cái mật độ nó đông xong nó / dồm hết vô một chỗ thì vi không bao giờ / cảm thấy buồn hay cảm thấy đói hay là / cảm thấy chán không biết làm gì cả nhưng / mà ở đây thì viy cũng thấy hơi hơi / buồn à Dạ alô à dạ bạn nó cho mình một / cái xe bất kỳ năm 12 để đi ra nhà hàng / ăn sáng nữ không ạ bây giờ v sẽ đi ăn
+- #64 06:03.2 3.0s — sáng vì V đói lắm rồi V biết là An Sang
+- #65 06:06.2 10.6s — buffet nhưng mà nó thiệt là Vi cũng / không có mong chờ gì quá nhiều t buff / phê V chỉ muốn ăn thiệt NO và thiệt đã / thôi V cũng không mong chờ nó ngon gì / hết Nhưng mà nếu mà nó ngon thì số điểm / m bonus
+- #66 06:16.8 1.6s — [âm nhạc]
+- #67 06:18.4 2.0s
+- #68 06:20.4 2.1s
+- #69 06:22.5 4.3s — [âm nhạc]
+- #70 06:26.8 1.9s
+- #71 06:28.6 1.8s
+- #72 06:30.4 5.5s — vị đang ở cái nhà hàng của cái resort vi
+- #73 06:35.9 7.0s — vị đang ở cái nhà hàng của cái resort vi / có lấy một đống đồ ăn luôn V lấy tàn / thịt luôn B gi vi muốn ăn thịt vi có lấy
+- #74 06:42.9 6.3s — thịt gà súp kem nóng thịt bò Ragu bacon / heo với lại trứng trứng chắc trứng vịt / nó đi là coi như nguyên cái Nông chại / luôn mà đồ ăn với thế cũng được cái Ragu
+- #75 06:49.2 3.1s — luôn mà đồ ăn với thế cũng được cái Ragu / thì ngon nha Nhưng mà thịt thì tùy cái
+- #76 06:52.3 2.3s — nó hơi dai mà kiểu Vi đang nói chuyện / một mình với lại cái camera như vậy V
+- #77 06:54.6 38.7s — một mình với lại cái camera như vậy V / đang Ngại vãi luôn á Nhưng mà năm nay / không phải năm nay cái thời gian này Lúc / mà vi đã quyết định mua camera này rồi / thì viy cũng phải đồng ý với cái việc / ngại này vi phải chấp nhận cái việc ngại / này thì viy mới dám mua camera nên giờ / viy đã mua rồi thì vi phải chấp nhận hơi / mà vì thấy trên một tiktok kia của một / bạn cái bạn nói là ngày nào bạn đó cũng / ép bản thân bạn đó chạy bộ và lúc 8:00 / sáng kểu như là bạn nó cũng không có nhu / cầu giảm cân không có nhu cầu healthy / hết và bạn nó cũng không muốn làm điều / đó Nhưng mà ngày nào bạn nó cũng ép bản / thân là một cái điều mà bản thân không / thích đó để sống ngoài vùng an toàn mỗi / ngày thì mình sẽ quen với cái cảm giác / không an toàn đó / hơn là hết điều V Đang cố làm bây giờ / luôn ổ má cái thực gà dở á V ăn dễ hết n / dở vãi luôn / mà mọi người biết đi một mình đã nhất là / cái gì không là không ai hối mình ăn
+- #78 07:33.2 6.3s — nhanh hết trời ơi sao giờ coi lại vi mới / thấy sao vi ăn hoài không Xong Ta thề / luôn do mỗi lần viy ăn B nh conic vậy ba / cháu nhà mọi người như thế nào là viy y
+- #79 07:39.6 3.9s — cháu nhà mọi người như thế nào là viy y / như vậy luôn viy ăn á là phải có YouTube / trước mặt xong rồi ăn xong phải ngồi
+- #80 07:43.5 4.8s — nhìn chờ nhìn đất nữa cơ nhưng mà chuyến / này tính ra vi cũng không làm gì nhiều / hết giờ coi lại vi thấy Vi tận hưởng hơi
+- #81 07:48.2 2.3s — mạnh quá đúng nghĩa là khi nào rảnh thì
+- #82 07:50.5 3.1s — vi chỉ có xách đồ ra biển nằm thôi nhưng / mà thật sự á là những chuyến như vậy là
+- #83 07:53.6 3.7s — mà thật sự á là những chuyến như vậy là / những chuyến viy thích nhất luôn kểu như / thường đi du lịch đó là viy cũng xác
+- #84 07:57.4 2.5s — định trước á à là Chuyến này mình đi du / lịch nghĩ dưỡng hay là D lịch khám phá
+- #85 07:59.9 2.9s — mà một khi Á Một khi vi đã xác định được / là nghỉ dưỡng rồi á là ta như cộng bún
+- #86 08:02.7 5.0s — là nghỉ dưỡng rồi á là ta như cộng bún / thêu luôn Đố ai lung được viy và đố ai / kêu Vi dậy để làm được cái gì và vi cũng
+- #87 08:07.7 2.8s — cực thích nằm không xong và nghe nhạc ở / biển mỗi lần đi biển là Vi có mấy cái
+- #88 08:10.5 3.4s — biển mỗi lần đi biển là Vi có mấy cái / bài hát bì vãi viy cứ để sẵn ở đây nè / kểu Như Chỉ cần nghe mấy cái bài này
+- #89 08:13.9 3.0s — kểu Như Chỉ cần nghe mấy cái bài này / thôi mà vi cảm giác như B đang có biển / lại á Nó rất là Kevin Harris nó rất là
+- #90 08:16.8 6.8s — major laser mấy năm 2014 2015 á I love / it luôn V vừa mới tắm biển lên Xong
+- #91 08:23.6 30.2s — đương nhiên là viy không có xả tóc rồi / vi búi tóc lên V xuống tắm vì là vi thật / sự không muốn cổ đầu không Mà thực ra / Chắc là viy lát nữa viy sẽ qua hồ bơi để / viy tắm xong vi ngụp đầu xuống luôn bởi / vì là như vậy thì cảm giác nó mát hơn á / chứ hôm nay nó hơi nóng bởi vì á viy Nói / thiệt mọi người BN đờ thấy đã bây giờ / thấy a đi ra biển lúc 12:42 chưa Không / Thật ra lúc mà viy đến vi thấy nó cũng / đông á cho nên là chắc là nhiều người / cũng có ý tưởng giống vi bởi vì là cái / lúc mà viy đến chắc là viy đã nói rồi nó / đang áp xất áp xất thấp áp thấp xất gì á / Cái gì áp đang áp thấp mấy hôm này nó
+- #92 08:53.9 24.6s — hơi âm u với lại là nó hơi tối mà về / kiểu giữ mặt cái ta hả quý vị vớ nhớ là / Vi đọc trên travel loca ai cũng nói đây / là tháng 12 là tháng đẹp nhất của Phú / Quốc xong V kiểu Ok để ta mua vé đi mà / kiể vi á thì cái lúc mà vi mua vi thấy / giá vé rẻ với giá phòng rẻ vi cũng đã / phải Hơi nghi nghi ngờ ngờ rồi nhưng mà / viy vẫn không nghi gì hết viy vẫn tin / cái trang web travel lca đó và bây giờ / đến hôm nào nó cũng tối umm tới mù luôn / nhưng mà kiểu như là ai Có coi tiktok
+- #93 09:18.5 7.1s — nhưng mà kiểu như là ai Có coi tiktok / của viy hay là Follow V cũng biết là viy / cực kỳ thích biển luôn cho nên là kể cả / biển xấu hay là biển không tắm được vì đ / thích hết bởi giờ là vớ thích cái không
+- #94 09:25.6 2.5s — khí ở biển vớ thích mình hơi ngửi được / cái mùi mặn mặn mà thích tiếng sóng vỗ
+- #95 09:28.1 2.8s — cái mùi mặn mặn mà thích tiếng sóng vỗ / vớ thích cái khoảng không Trước mắt mình
+- #96 09:30.9 2.6s — Nó được mở rộng vô tận á Nhưng mà V đến
+- #97 09:33.6 25.2s — biển vớ không Giờ ăn hải sản bờ vì không / thích hải sản V Chị thích biển vì chị / thích cái khí hậu V Chị thích cái địa / hình thôi à nhớ có cái đợt nào mà viy đi / Đà Nẵng vi đi cũng có mình vi tầm 2 năm / trước hả Vy đến mà viy ăn phải năm bữa / cơm gà năm bữa cơm gà của năm tiệm khác / nhau nha Ba không ăn một nửa con tôm nào / một nửa con cá nào Ê nhưng mà ở Phú Quốc / viy thích nhất là ăn nhum mà V không / biết là ăn ở đâu hết trời ơi nhum mới / thấy ăn sống cũng ngon hoặc là ăn xào mỡ / hành cũng ngon nữa bây giờ vi sẽ fit
+- #98 09:58.8 63.2s — check lẹ Để một lát nữa vi đi ăn bánh / xèo n thiệt là Vi chưa biết vi đi ăn / bánh xèo ở đâu nữa nhưng mà bạn vi muốn / đi ăn bánh xèo cho nên m kiểu Ok Let's / go e bánh xèo ch dụ bánh xèo không phải / lo máu Phú Quốc nha Ủa đúng ta bánh xèo / nó phải lo máu Phú Quốc đúng không phú / quốc là kiểu bún cây bú bún bún gì á bún / kiến xâ gì á Ô chết trời quên rồi Xin / lỗi mọi người Hai Đông n chưa có đi quý / vị cũng không thích cái bún nữa vì đó / thiệt Lạt chủ đề bây giờ quay lại bộ đồ / nè hôm nay vị mặc cái áo của shibashi / xong m một cái quần vi mua ở local art / market mà mua xả kho á clear and s cho / nên là giờ vi cũng có link cái quần này / nữa Cho dù cái quần này mọi người hỏ / link rất là nhiều luôn mặc rất là đã mà / không có link nó xả kho hết sạch cái kho / rồi hay sao á vi mua có 999.000đ à Với / lại một cái tốt của muji và dép lào của / khách sạn với cảm giác Nhưng cái bộ này / nó rất là khác những cái gì Vi mặt hàng / ngày luôn cực kỳ khác luôn B gì bình / thường mọi người cũng biết là viy mặc đồ / đen xì luôn mà đen xì mà vải trơn nữa / nhưng mà thấy bộ này hợp với biển và mỗi / lần viy đi du lịch vi đi chơi viy cảm / nhác như một con người mới vi mặc đồ / cũng không giống ở Sài Gòn viy làm nhữ / hành động thấy viy không gì làm ở Sài / Gòn hết Điển hình như là ngủ dậy lúc / 8:00 sáng nhưng V thấy rất là xinh và / Let's
+- #99 11:02.0 1.8s — [âm nhạc]
+- #100 11:03.8 1.4s — Go thật sự á là hôm này vi không có tính
+- #101 11:05.2 1.6s — Go thật sự á là hôm này vi không có tính
+- #102 11:06.8 1.8s — quay Nhưng mà lúc viy đến V nhìn thấy cô
+- #103 11:08.6 3.4s — Chiên bánh xèo ngon quá V nghĩ là sẽ / ngon lắm nên là viy phải quay và thiệt
+- #104 11:12.0 3.2s — sự á là nó ngon thiệt luôn chỗ này á là
+- #105 11:15.3 1.8s — chuyên về bánh xèo giòn xong rồi vi cũng
+- #106 11:17.1 7.6s — có hỏi chú là bánh xèo của chú là bánh / xèo miền nào do là viy nhớ là mỗi miền / nó sẽ có một kiểu bánh xèo khác nhau / nhưng mà chú nói chú cũng không biết / miền nào nữa chú chỉ biết đây là bánh / xèo giòn thôi và lời nói của chú nó uy
+- #107 11:24.7 2.5s — xèo giòn thôi và lời nói của chú nó uy / tính thiệt luôn Mọi người bởi vì là cắn
+- #108 11:27.2 2.1s — tới đâu nó cũng giòn hết mà nó nó không
+- #109 11:29.4 3.7s — giòn chỉ mỗi phần viền đâu mà do là nó / giòn hết á cho nên là tụ Vi ăn quá trời
+- #110 11:33.0 4.0s — cũng không bị chán kiểu như là Nha nó / rất là vui miệng á xong rồi No nê rồi á / thì tụ vi cứ đi chùa Hộ Quốc em mà thiệt
+- #111 11:37.0 3.6s — thì tụ vi cứ đi chùa Hộ Quốc em mà thiệt / lòng mà nói là viy cũng không nhớ gì về / cái chùa này luôn em mát Kể như là viy
+- #112 11:40.6 3.3s — cái chùa này luôn em mát Kể như là viy / cũng thấy tội lỗi là viy cũng không động / lại nhiều để mà kể cho mọi người nhưng
+- #113 11:44.0 3.3s — mà thiệt sự là vậy V không nhớ gì hết á / V Chỉ nhớ là nó rất đẹp và rộng và khi
+- #114 11:47.3 2.8s — V Chỉ nhớ là nó rất đẹp và rộng và khi / mà đứng ở lên trên á thì sẽ thấy được cả
+- #115 11:50.1 5.0s — biển nữa Thế nhưng mà khi mà đứng coi / view biển từ trên cao cảm giác mọi thứ / nó thật sự rất là hùng vĩ luôn nó sẽ
+- #116 11:55.0 2.5s — ngược lại với cái việc mà mình ngắm biển / từ mặt đất cái game bắt cười vấy và đến
+- #117 11:57.6 2.8s — từ mặt đất cái game bắt cười vấy và đến / buổi tối vi thề tụ viy vẫn không ăn được
+- #118 12:00.3 2.2s — buổi tối vi thề tụ viy vẫn không ăn được / một món Phú Quốc nào viy thì ăn bò kho
+- #119 12:02.6 1.5s — còn bạn viy thì ăn bún bò huế nữa chứ
+- #120 12:04.1 2.1s — còn bạn viy thì ăn bún bò huế nữa chứ / nhưng mà Đây cũng là lần đầu tiên viy ăn
+- #121 12:06.1 2.5s — những cái món như vậy ở Phú Quốc kiểu / như những cái món không phải là hải sản
+- #122 12:08.6 2.4s — cũng không phải đặc trưng và vì nó thiệt / là mọi thứ thực sự ngoài mức vi mong đợi
+- #123 12:11.0 2.2s — là mọi thứ thực sự ngoài mức vi mong đợi / luôn và nó ngon vãi kiểu không phóng đại
+- #124 12:13.1 3.0s — không đùa bạn vi đây là lần đầu ăn bún
+- #125 12:16.1 3.4s — bà Huế ở Việt Nam mà ăn cái gì nó cũng / tấm tắt khen là nước lèo ngon đặc và đặc
+- #126 12:19.5 3.8s — biệt là rất ấm áp nó như là một cái / Comfort food thiệt sự vậy á và cái món
+- #127 12:23.2 3.0s — bò kho của Vi cũng vậy ăn đến đâu nước / đến đâu là ấm bụng đến đó đó là một cảm
+- #128 12:26.3 4.0s — giác rất là dễ chịu sau một ngày dài / luôn / t nghĩa là ngày mai vi sẽ phải quay bốn
+- #129 12:30.2 23.9s — t nghĩa là ngày mai vi sẽ phải quay bốn / bộ đồ chên là Min bởi vì có một cái chop / mà người ta bứt trên tiktok mà cái vấn / đề là thường quay đồ mình sẽ cần phải ủi / khá là ngay ngắn nhưng mà cái khách sạn / này không biết là sao v tử khách sạn này / cũng ok nhưng mà không cho mượn màn ủi / kiểu như là nó chỉ có dịch vụ giặt ủi / rồi á Mà kiểu V không muốn xà nhiệm Vũ / lắm Bở vì V nghĩ nó cũng sẽ mắc Á và vi / cũng kiểu Ủa sao khách sạn Đế gì mà / không cho thuê Al lủ không cho mượn B / ngủi xong rồi vi có lên mạng vi kiếm
+- #130 12:54.2 2.7s — ngủi xong rồi vi có lên mạng vi kiếm / được một cái hck trên tiktok vi đúng
+- #131 12:56.9 6.9s — nghĩa là search ironing hack hotel room / xong nó ra cái hack này giờ mình sẽ thử / có nghĩa là cái hck này á là đầu tiên
+- #132 13:03.8 0.7s — mình sẽ lấy một cái một cái bông tẩy tre
+- #133 13:04.5 1.5s — mình sẽ lấy một cái một cái bông tẩy tre
+- #134 13:06.0 13.8s — lên một cái tờ giấy nào đó thì như bây / giờ Vy đang cố gắng ủi đồ mà không cần / dùng màng ủi á mình sẽ làm ướt cái bông / tẩy chang này Ok viy làm ướt Ha B vị / thật sự còn mong là cái này nó work luôn / bởi vì Vi thật sự không muốn trả tiền / cho Ui đồ bởi vì tại sao vi phải trả / tiền cho Ui đồ đúng không vi sẽ dùng cái
+- #135 13:19.9 1.1s — này để vi lau cái áo kiểu như làm ướt
+- #136 13:21.0 2.4s — này để vi lau cái áo kiểu như làm ướt / cái áo á Ok V sẽ làm ướt cái áo Kể như
+- #137 13:23.4 3.9s — Cứ lau lau cái áo như vậy thôi xong rồi
+- #138 13:27.3 10.3s — vi sẽ dùng cái bàn ủi này à lủ cái cái / máy sấy này để sấy v sẽ bật chế độ / nóng Ok cái này nóng cái này nóng r đ / Xong mà vi sẽ thổ lên cái áo kiểu như
+- #139 13:37.6 3.1s — vậy ậ Ê má cái áo cũng hơi thẳng thiệt
+- #140 13:40.7 10.4s — nha kiểu như là nương như nó không có / thẳng được như là ủi bàn ngủi rồi nhưng / mà nó vẫn thẳng hơn Hình như là kiểu cái / này là nó giả lại cái bàn ủi hơi nước / vậy á Nè B í cũng được đúng không thấy
+- #141 13:51.1 3.0s — kiểu cũng ok cho tiktok chy nghĩ vậy
+- #142 13:54.0 0.7s — không biết Brand có đồng ý không nữa
+- #143 13:54.7 1.2s — không biết Brand có đồng ý không nữa / Brand không đồng ý thì thôi vì ủ trời nó
+- #144 13:55.9 5.7s — Brand không đồng ý thì thôi vì ủ trời nó / rơi ba thùng thùng rác Má ơi đâu rồi À / đây rồi ê vãi bây vì trong thùng rác nó
+- #145 14:01.6 15.6s — đây rồi ê vãi bây vì trong thùng rác nó / có mấy cái l bia ở trống nên là Vi đang / không biết là nó có dính lên không Ôi mẹ / ơi Good morning mọi người trời V hôm nay / Vi cố gắng vớ dậy sớm để vi thưởng thức / cái nắng mặt trời này và nó rất là nắng / nha Nhưng mà kiểu Vy nghĩ nắng chắc được
+- #146 14:17.2 2.7s — xíu là hết à và hôm nay V cũng không có
+- #147 14:19.9 7.5s — lịch trình vớ V Chị muốn nằm ở trong cái / resort này thôi Ở kiểu V mu Chị muốn ra / nằm hồ bơi xong rồi về không làm gì hết / thôi hôm nay mã được một hô nắng đẹp vi
+- #148 14:27.4 6.5s — thôi hôm nay mã được một hô nắng đẹp vi / mới phát hiện ra là nắng đẹp thì viy / không có đi biển h buổi trưa được còn / hôm qua thì chờ m u thì vi đi biển buổi / trưa được và vi cũng sẽ fit check thiệt
+- #149 14:33.8 4.2s — trưa được và vi cũng sẽ fit check thiệt / lẹ đồ hôm nay viy mặc luôn giờ thấy hôm / nay Vi mặc cái váy xinh vãi và đây hôm
+- #150 14:38.0 6.6s — nay viy mặc một cái váy quay trắng mà / đợt đi biển nà vi có mặc cái đó bây vì / nó rất là xinh nhưng mà v sẽ cho mọi / người coi cái details nè kể nhất là nó
+- #151 14:44.7 17.8s — có cái phần ruffle xở đây xong rồi cái / hạ tiết nó cũng hoa hoa rất là dễ thương / xong một cái túi ci nữa bởi vì đi biển / mà đương nhiên phải có túi cói rồi mà V / nhớ cái váy này vi Mua rẻ vãi vi nhớ có / tầm ba trăm mấy bốn trăm mấy à Tuy nhiên / cá váy này sẽ hơi ngắn cho nên là viy sẽ / mặc thêm một cái lót quần ở bên trong / nữa đó xin nè quay V vòng / đi Let's
+- #152 15:02.4 1.9s
+- #153 15:04.4 2.1s
+- #154 15:06.4 2.1s
+- #155 15:08.5 2.3s
+- #156 15:10.9 3.1s
+- #157 15:14.0 2.2s
+- #158 15:16.2 2.4s
+- #159 15:18.6 8.3s — go bây giờ là viy đang ở ăn sáng bởi vì / viy đang đó lắm rồi nhưng mà viy vẫn gọi / những cái thứ à lụn viy vẫn lấy những
+- #160 15:26.9 7.0s — những cái thứ à lụn viy vẫn lấy những / cái thứ y như hôm qua là V Lấy toàn là / thịt đúng à nhưng mà hôm nay V có xúc / xích heo với lại bacon heo trứng với lại
+- #161 15:33.9 1.9s — gà xốt nước mắm Ê mà gà xốt nước mắm
+- #162 15:35.8 9.3s — gà xốt nước mắm Ê mà gà xốt nước mắm / ngon vãi luôn đáng là vi nên lấy thêm / nhưng mà hồi sáng nay á là viy có dậy / sớm để viy chụp hình mà kiểu vi tự X / tripod để chụp hình á mà ta thề luôn vi / chu giờ thấy những cái tấm ảnh xấu nhất
+- #163 15:45.0 61.8s — chu giờ thấy những cái tấm ảnh xấu nhất / trên đời của viy luôn á mà kiểu như trời / này phú bức trời nó âm u quá hình lên / Xấu vãi mà không dứng vậy nữa mà cái / lưng của viy nó còn bị bị bị cù nữa / trong cái mặt của Vi nhìn nhăn nhó vãi / bởi vì là viy đứng trước cái chỗ nắng / viy đứng ngay cái chỗ ánh nắng đó hắt / vào để vi chụp / hình sa mà mắc Vi nó nheo lại á má Xấu / dã m luôn Kể như cái chỗ ăn sáng là / 10:00 nó đóng cửa rồi xong rồi B có đứng / đó b chụp từ 8:45 tới 9:15 V tưởng vi / trễ l giờ ăn sáng rồi tr insta của viy á / gần như mỗi tháng đăn có một tấm À không / phải là bởi vì viy không chụp đâu mọi / người viy chụp rất rất nhiều luôn mà / không ăn tấm nào hết kình như mỗi lần mà / đăng hình á là viy muốn mặc của viy phải / 100 ph đẹp với mới đăng kiểu như là viy / biết dạ này mọi người cũng chụp hình xa / xa hơn chứ không có chụp nữa nửa người / nhiều quá kiểu như mọi người chụp nó / không có kiểu như là mọi người Chụp về / cái Vibe thôi á Cái Vibe của cái nơi đó / hoặc là cái Vibe của cái bộ quần áo th / chứ mọi người không có thiên về chụp cái / kiểu mà nửa người xong rồi cận mặt nữa / nhưng mà viy vẫn thích cái kiểu nửa / người cận mặt nha kể mọi người coi cái / fit insta của viy là mọi người biết hình / nào của viy là cái mặt của ta sáng nhất / đẹp nhất to nhất V với lăng V vừa mới
+- #164 16:46.8 0.7s — lấy thêm một đĩa salad nữa bởi vì viy
+- #165 16:47.5 2.7s — lấy thêm một đĩa salad nữa bởi vì viy / thật sự không Giờ ăn đau hết Nhưng vi / cũng biết là sao lấy cái đĩa này nữa
+- #166 16:50.2 7.9s — cũng biết là sao lấy cái đĩa này nữa / Nhưng mà Vi đã cảm giác như là V nó đến / đây cần phải ăn râu / gì m kể v l sal bị rưới sốt nhiều vãi
+- #167 16:58.1 8.9s — luôn á để cho nó lấn ác cái mùi rau đi á / kiểu tụi bé tới giờ Vớ không Giờ thích / ăn rau vị ghét ăn rau với ăn hoa quả vãi / Ờ rau với trái cây không ba giờ ăn hết
+- #168 17:07.0 5.1s — đó V thiệt là Vi lấy cái cái đĩa này / cũng phải 5 10 phút rồi vi cứ ngồi nhìn / thôi vi không dám / [âm nhạc]
+- #169 17:12.2 2.8s — ăn bây giờ v sẽ quay một chó cho l Min
+- #170 17:15.0 4.7s — parel cho nên là bây giờ v sẽ soạn đồ ra
+- #171 17:19.6 3.2s — luôn Ok V cứ để hết đồ ra ở đây đầu tiên
+- #172 17:22.8 4.1s — á là một bộ jeans Ê cái bộ jeans này Đẹp / vãi đái kiểu V Vi Vi Vi mặt nhiều vãi
+- #173 17:26.9 12.8s — luôn bởi vì thấy vải jean của L Min khá / là ok hồ tự là đồ l Min chất lượng Nói / chung Ok nhưng mà đồ l Min bị một cái là / mọi người phải ra store thử bởi vì là / form của lin nó hơi hơn xui cái này là
+- #174 17:39.8 1.0s — bộ thứ nhất ha xong rồi bộ thứ hai là
+- #175 17:40.7 23.6s — một cái quần jein xám Bá gì với cũng / quay cái quần này rồi cùng với lại cái / áo Xám này nhưng mà Lam có một cái vấn / đề nó khiến vi hơi mệt đó là l Min / thường chỉ dùng mẫu Tây thôi mà mẫu tay / form người rất là mảnh khảnh ý là / nothing wrong with that nhưng mà nó / không phải là form người châu Á cho nên / là viy không có tưởng tượng được cái bộ / đồ này nhì lên mình sẽ như thế nào cho / nên là thường vi phải ra store để thử
+- #176 18:04.3 10.0s — xong rồi một cái váy bí với lại là cái / áo này Thực ra cái bộ sưu tập này á là / bộ sưu tập mùa thu đông mà V Đấy H sao v / lại quay đồ thu đông ở Phú Quốc nữa V / cũng không Cái này là bộ Cuối cùng nó là
+- #177 18:14.3 12.6s — một cái velour ja track suit nữa này có / phải vải velour không ta / Velvet vel Oh yeah vải Velvet chứ Ủa chứ / vour là cái gì ta hồi nãy là viy nói mọi
+- #178 18:26.9 32.6s — người là viy sẽ quay là Min đúng không / Nhưng mà chưa nha vi xạn đổ hết ra rồi / nhưng mà chưa quay bởi vì là tự nhiên / giúp trước khi quay vi xỏa tóc ra t vì / là muối tóc như vậy từ sáng giờ xong vi / xỏa tóc ra xong tự nhi tóc Vi nó vô / những cái nếp xoăn đẹp vãi K như m thấy / tóc Vi nó cứ bồn Bình xong nó xoăn nhìn / đúng tự nhiên luôn x v thích quá phải / quay chục cái tiktok khác tiktok mà / không phải là của L Min ý là đương nhiên / là nó không phải là những cái nếp xoăn / hoàn hảo bởi vì là cái này chỉ là Búi / tóc thôi chứ không phải là có thợ chuyên / nghiệp uống cái gì hết Nhưng mà Vi vẫn / rất rất rất là thích luôn á Nhưng mà vấn
+- #179 18:59.6 29.7s — đề là cái tóc của viy là có duỗi lớp / ngoài một ít ở trên này Cho nên là ở / trên này nó vẫn hơi bị xìu xuống á cái / lúc mà viy làm tóc thì là cái anh ở tiệm / nó cũng nói với Vy về cái việc có luôn / như mà V kiểu Dạ không sao hết anh em em / mu rất muốn giũ lớp ngoài bây giờ phần / tóc ở trên của Vi nó hơi xù á cho nên là / đó Tại sao ở trên nó hơi xẹp nhưng mà V / nghĩ á là do ở đây chắc là kiểu có muối / trong biển hay sao đó hay là kiểu nó có / cái độ ẩm gì đó từ biển V không biết / nhưng mà tóc nó vô nếp đẹp qu tại Ok
+- #180 19:29.3 3.7s — Thôi bây giờ là tập trung quay thật sự / nè chứ không có nói chuyện tà lao
+- #181 19:33.0 4.5s — [âm nhạc]
+- #182 19:37.5 4.0s
+- #183 19:41.5 3.5s
+- #184 19:45.0 1.4s
+- #185 19:46.4 3.0s — nữa bây giờ vi nghĩ là Vy sẽ đi ra tắm
+- #186 19:49.4 12.2s — biển bởi vì là trời cuối cùng nó cũng / lên nắng một xíu bởi vì mấy ngày hôm nay / á là ở Phú Quốc gần như không có sân sé / luôn không có Hoàng hôn bởi vì là trời / nó âm u quá mà Hoàng hô Phú Quốc được
+- #187 20:01.6 5.0s — coi như đặc sản ở chỗ rồi Kiểu như là / đến Phú Quốc mà không thấy hàng hô Phú / Quốc thì thôi coi như chư đi Phú Quốc / vậy á cũng không ai nói vậy đâuu có mình
+- #188 20:06.6 2.8s — V nó vậy à Bởi vì Vi cảm thấy như vậy / thiệt bởi vì hoàng hôn Phú Quốc là xuất
+- #189 20:09.3 2.6s — sắc nhất luôn nhưng mà hôm nay trời nó / cũng nắng nắng hơn cho nên là viy thiệt
+- #190 20:12.0 7.2s — sự mong là viy sẽ bắt được hoàng hôn đi
+- #191 20:19.1 1.4s
+- #192 20:20.5 1.5s
+- #193 20:22.0 4.7s — hơi V vừa mới từ dưới biển là và viy vui
+- #194 20:26.7 148.4s — vãi luôn đó là viy cũng dính được một / hôm biển đẹp biển trong biển mát Xong / rồi trời nắng ấm viy nghĩ hôm nay có thể / chắc là sẽ có hoàng hôn đẹp giờ mà Vy / còn phải chàn cái khăn này lên nữa bởi / vì là cái đồ bơi của viy hôm nay nó hơi / hở và viy biết là có rất là nhiều mấy / cái thằng biến thái trên mạng mà viy / không muốn dính mấy cái thằng đó cho nên / là Ê nhưng mà kiểu mấy hôm nay viy quay / YouTube á viy mới càng thấm được cái câu / mạng xã hội là ảo luôn bởi vì là hồi đó / lúc mà vi coi những cái content creator / những cái tiktoker khác trên mạng ai / cũng nói là mẹ xã hội là ảo kêu fake / đừng có tin những gì trên mạng xã hội ít / và được Và cũng đừng có so sánh bản thân / mình với mạng xã hội và hồi đó V không / tin điều đó nha V cứ tưởng là người ta / chỉ nói vậy để giúp người xem là mình / cảm thấy tốt hơn cho bản thân hơi cảm / thấy dễ chịu hơn khi mà xem người ta hơi / kì vi thực sự nghĩ vì luôn á Nhưng mà / tới khi sau này vi làm social Media một / ít thì vi mới càng thấy câu đó nó càng / đúng luôn á Ý là Vi không thể nào mà / nhấn mạnh đủ là mạng xã hội là ảo cái / không gì là thật hết á Không phải nó như / vậy cũng không đúng nó chỉ là 1 phn 10 / của sự thật thôi Hồng Nói vậy cũng đúng / lắm 1/5 của 1/5 của sự thật đi Kể như / những cái vog du lịch này là do cái nhịp / nó khá là nhanh cho nên là khi mà mình / coi á mình cảm giác như là ồ người ta / làm được nhiều thứ quá người ta làm cái / gì cũng vui hết làm cái gì cũng rất là / vui nhưng mà thực chất cái lúc mà Quay / vlog á đương nhiên là mình cũng chỉ quay / những cái lúc vui những cái lúc làm hoạt / động này nọ thôi Chứ lúc mà cãi nhau lúc / mà buồn lúc mà bực mình đ quay thôi đúng / không Thì cái đó cũng là điều hiển nhiên / thôi Bởi vì lúc mà viy Quay vlog á viy / mới nhận ra là viy chỉ cầm máy lên để / viy quay những cái lúc mà viy vui thơi / những cái hoạt động thú vị thôi chứ / những cái lúc mà viy buồn vi bực V không / làm cái gì V đâu bao giờ cầm máy lên vi / quay đâu bởi gì là đâu ai muốn coi mấy / cái đó kể như Vi nói như vậy là bởi vì / dạ này trên tiktok mọi người hay khen da / vi rất là nhiều nó là da của V giờ này / clowy giờ này sáng bừng lên Ừ thì cũng / đúng là nó cũng hơi sáng hơn thiệt nhưng / mà da của Vi nó không có được mịn mà như / ở trên video đâu mọi người bởi vì á là / trên tiktok vi nó thiệt là đương nhiên / là Vi vẫn sẽ luôn muốn xuất hiện một / cách chỉnh chu nhất thì v sẽ hắc sáng / đều cả hai bên mặt luôn là sẽ có một / nguồn sáng bên này và một tấm hắc sáng / bên này thì nó sẽ có nguồn sáng từ hai / bên thì điều đó có nghĩa là những cái / texture những cái mụn trên da mặt mình / nó sẽ không bị đổ bóng và nếu những cái / thứ nó không đổ bóng thì nó sẽ không có / hiện được lên video trên trên đó là lên / video video nhìn mặt Vi nó rất là / flawless Nhưng mà thực ra là Dạ này trên / da vi ở hai bên mặt cái này bên này với / lại bên này bị breakout kiểu V nghĩ này / là chắc là đợ breakout nặng nhất của Vi / từ trước tới giờ luôn á Ý là Vi kiểu / cũng không có insecure về nó hay cái gì / hết Bây giì phải biết mấy cái này là / chuyện bình thường thôi Breaking out là / chuyện bình thường nhưng mà nó chỉ càng / nhấn mạnh cái thứ mà hồi nãy V nói thôi / cũng có thể mọi người đã biết cái điều / này lâu rồi sao mọi người đã chim nghĩ / được từ lâu rồi nhưng mà vi gần đây vi / mới càng thấm hơn
+- #195 22:55.1 2.6s — thô đ
+- #196 22:57.7 2.2s — thô đ
+- #197 22:59.9 6.6s — [âm nhạc]
+- #198 23:06.5 4.4s
+- #199 23:10.9 5.4s
+- #200 23:16.4 4.0s
+- #201 23:20.4 5.7s
+
+## Gemini (`gemini.json`, timestamps approximate ±1-2s)
+
+### Chunk from 00:00.0
+
+- **structure**: The clip follows a 'day in the life' format at a resort. It begins with arrival and a minor mishap (0:00-0:33), followed by a detailed room tour and context for the trip (0:34-3:14). The middle section covers a failed beach attempt due to rain and an evening routine (3:15-6:15). It concludes with a breakfast segment and reflections on solo travel (6:16-8:00).
+- **pacing**: The pacing is generally relaxed and conversational, mirroring the 'slow living' theme of a resort vacation. Talk-to-camera segments are long and uncut, while transitions between activities are handled with short, rhythmic b-roll montages.
+- **music**: The soundtrack consists of various lo-fi, acoustic, and chill-hop instrumental tracks. The music is always present but ducked significantly during speech, serving as a consistent atmospheric backdrop.
+- **voice**: The creator uses a very casual, intimate tone, often speaking in a stream-of-consciousness style. She mixes direct to-camera addresses with reflective voiceovers that provide more structured information about her feelings and the location.
+- **sound_design**: Sound design is minimal, relying mostly on the music and the creator's voice. Occasional ambient sounds from the environment (rain, birds, restaurant noise) are kept low in the mix.
+- **text_style**: The video uses an elegant, thin script font for major titles ('Phú Quốc') and a simple, clean sans-serif font for smaller location tags or labels (e.g., 'The Shells Resort & Spa').
+- **visual_style**: The visual style is typical of modern lifestyle vlogs: high-quality handheld footage, natural lighting, and a warm, slightly desaturated color grade. Framing is often tight on the creator during talk-to-camera segments.
+- **signature_moves**: A key signature move is the circular vignette used for the opening title. The editor also frequently overlays social media screenshots to provide context for the creator's spoken narrative.
+
+- 00:00.0 title: Circular vignette opens on a shot of the creator walking with a suitcase. Script font text 'Phú Quốc' appears in the center.
+- 00:00.0 music: Upbeat, acoustic, instrumental music starts, set at a medium volume.
+- 00:03.5 talk_to_camera: Creator speaks directly to the camera in a handheld vlog style, explaining she forgot her room key.
+- 00:15.5 cut: Hard cut to the creator inside the room, showing the key to the camera.
+- 00:17.5 broll: A quick montage of arrival scenes: entering the room, walking towards the beach, lounging, and eating.
+- 00:34.0 talk_to_camera: Creator sits in her room and talks to the camera about her decision to visit Phu Quoc instead of Da Nang.
+- 01:24.5 photo: Screenshots of her previous Instagram posts from Phu Quoc appear on screen as she references past trips.
+- 01:46.5 talk_to_camera: Room tour begins; she walks around the suite, pointing out features like the TV, vanity, and bed while talking.
+- 03:15.5 music: Music shifts to a slightly more rhythmic but still chill acoustic track.
+- 03:15.5 broll: Fast-paced montage of unpacking her suitcase and laying out clothes.
+- 03:27.0 broll: Mirror shots of her in a black one-piece swimsuit.
+- 03:38.0 talk_to_camera: She packs her beach bag, showing items like a pouch, book, and wet wipes to the camera.
+- 04:04.5 voiceover: Voiceover begins as she shows b-roll of the rainy weather outside, contrasting with her plans for the beach.
+- 04:08.5 broll: Shot of her lying in bed under covers, looking at her phone because of the rain.
+- 04:10.5 broll: She makes it to the beach despite the gloom, sitting under a large umbrella.
+- 04:25.5 broll: Close-up of her reading a Kindle on the beach lounge chair.
+- 04:30.5 broll: Cinematic shots of the resort at dusk and the sunset over the ocean.
+- 04:41.5 talk_to_camera: Nighttime 'get ready with me' segment; she talks to the camera while doing her skincare and makeup at the desk.
+- 05:55.5 talk_to_camera: She calls the front desk to request a buggy for breakfast the next morning.
+- 06:16.5 music: Music changes to a light, whimsical acoustic guitar track.
+- 06:16.5 broll: Montage of the buggy ride through the resort greenery and walking to the restaurant.
+- 06:29.5 voiceover: Voiceover describes her breakfast choices over shots of her eating and the buffet spread.
+- 06:54.5 talk_to_camera: She talks to the camera while eating breakfast, discussing her thoughts on solo travel and the resort's atmosphere.
+- 07:42.5 broll: Final montage of the clip: putting on her robe, walking back to the room, and heading back to the beach.
+
+### Chunk from 08:00.0
+
+- **structure**: The clip follows a travel vlog format: relaxing at the beach (0:00-1:58), an outfit check and lunch (1:59-3:36), visiting a temple (3:37-3:59), dinner (4:00-4:29), a 'hotel hack' segment (4:30-6:06), and a final morning outfit check and breakfast (6:07-end).
+- **pacing**: Moderate pacing. Talk-to-camera segments are longer and more personal, while b-roll montages (like the restaurant intro at 3:01) use faster cuts synced to sound effects.
+- **music**: Uses a variety of chill, lo-fi, and acoustic tracks to match the mood of each segment (beachy, quirky for the hack, bright for the morning). Music is consistently ducked under speech.
+- **voice**: Casual, friendly, and intimate. The creator uses a small external microphone held close to her mouth, giving the audio a 'podcast' or 'ASMR' quality.
+- **sound_design**: Minimal but effective. Uses bell rings for transitions and natural sounds like the hairdryer or a thud to emphasize actions.
+- **text_style**: Clean, minimalist sans-serif font. Used for track listings, brand handles for outfits, and emphasizing key locations or topics.
+- **visual_style**: Warm, bright color grade. Mixes stable handheld shots with static tripod shots for talk-to-camera segments. Frequent use of low angles and close-ups of food.
+- **signature_moves**: Holding a small microphone while talking to the camera, showing the phone screen to provide context (time/music), and tagging clothing brands with social handles on screen.
+
+- 08:00.0 music: Chill, beachy electronic music starts, ducked under voiceover.
+- 08:00.0 voiceover: Creator begins speaking over b-roll of herself at the beach.
+- 08:11.8 text: Playlist tracks listed on screen: 'track 1 | ODESZA - Sundara', etc., in a clean sans-serif font.
+- 08:23.5 talk_to_camera: Creator sits up on a beach chair, holding a small external microphone to her mouth.
+- 08:39.8 other: Creator holds her phone up to the camera to show the time and music player.
+- 09:25.8 lcut: Voiceover continues from the talk-to-camera segment over b-roll of the ocean.
+- 09:51.8 photo: Small photo of sea urchins (nhum) overlaid on the screen.
+- 09:58.8 cut: Scene change to hotel room. Talk-to-camera.
+- 09:58.8 music: Music changes to a slightly more upbeat, lo-fi track.
+- 10:14.8 text: Large text 'BÚN QUẬY' appears briefly.
+- 10:23.8 talk_to_camera: Creator stands back to show her outfit.
+- 10:24.8 text: Outfit labels with social handles: 'Áo @she.by.shi', 'Quần @easykaykay'.
+- 11:01.8 sfx: Bell ring sound effect.
+- 11:01.8 music: Music changes to a rhythmic, upbeat acoustic track.
+- 11:01.8 cut: Rapid cuts of restaurant exterior and interior, synced with bell ring SFX.
+- 11:07.0 voiceover: Voiceover begins over b-roll of food (Bánh xèo).
+- 11:36.8 cut: Scene change to Chùa Hộ Quốc temple. Voiceover continues.
+- 11:59.8 cut: Scene change to evening restaurant. Voiceover continues.
+- 12:29.8 talk_to_camera: Creator back in hotel room at night, explaining an 'ironing hack'.
+- 12:29.8 music: Music changes to a quirky, investigative-style track.
+- 12:57.8 text: Text overlay: 'ironing hack hotel room'.
+- 13:31.8 sfx: Sound of a hairdryer starting.
+- 13:58.8 sfx: Dull thud sound effect as creator drops the shirt into a trash can.
+- 14:06.8 talk_to_camera: Creator outside in the morning sun.
+- 14:06.8 music: Music changes to a bright, happy acoustic guitar track.
+- 14:40.8 text: Outfit label: 'Váy @aufra.studio'.
+- 15:01.8 music: Music swells, speech stops for a brief montage.
+- 15:18.8 voiceover: Voiceover begins over b-roll of breakfast.
+
+### Chunk from 16:00.0
+
+- **structure**: The clip is divided into three main parts: a morning routine/outfit prep (0:00-3:32), a productive work montage (3:33-4:26), and a reflective evening at the beach (4:27-7:25).
+- **pacing**: The pacing is generally relaxed, driven by long-form talking segments. It speeds up significantly during the mid-video activity montage with quick cuts and timelapses.
+- **music**: Uses light, acoustic background music that is upbeat during the work montage and becomes more atmospheric and serene during the sunset beach shots. Music is always ducked under speech.
+- **voice**: The creator uses a very casual, intimate, and honest tone, often breaking the 'fourth wall' of vlogging to discuss the artifice of the medium itself.
+- **sound_design**: Minimal sound design beyond the music and ambient resort/beach sounds. The focus is on the spoken word.
+- **text_style**: Signature small, green, sans-serif font used for captions that describe actions or internal thoughts, usually placed in the bottom-left or center-bottom.
+- **visual_style**: Handheld, vlog-style cinematography with natural lighting. Uses a split-screen technique to show clothing items and their 'on-body' look simultaneously.
+- **signature_moves**: The use of split-screens for outfit reveals and the consistent placement of small green text captions are key stylistic markers.
+
+- 16:00.0 talk_to_camera: The creator talks to the camera while eating breakfast at a resort, discussing her schedule and social media habits.
+- 17:15.0 talk_to_camera: Transition to the hotel room where she shows various outfits from 'Lamin Apparel'.
+- 17:25.0 cut: A split-screen effect is introduced, showing the creator holding the clothes on the left and wearing them in a pre-recorded clip on the right.
+- 18:27.0 talk_to_camera: She talks about her hair texture and how it looks after being tied up all morning.
+- 19:33.0 music: Upbeat, acoustic guitar-driven music starts as a montage begins.
+- 19:33.0 broll: A fast-paced montage of activities: filming outfits, cleaning the room, folding clothes, and editing video on a laptop.
+- 19:33.0 text: Small green text overlays appear for each activity: '[ Quay thử đồ ]', '[ Dọn đồ ]', '[ Gấp đồ ]', '[ Edit video ]'.
+- 19:50.0 talk_to_camera: Music ducks as she talks about heading to the beach to catch the sunset.
+- 20:02.0 broll: Montage of walking through the resort grounds towards the beach.
+- 20:27.0 talk_to_camera: Sitting on a beach lounge chair, she delivers a long, reflective monologue about the 'fake' nature of social media and vlogging.
+- 21:57.0 talk_to_camera: She continues the reflection, specifically discussing skin texture and lighting tricks used in videos.
+- 22:55.0 music: The music changes to a more serene, slower acoustic track.
+- 22:55.0 broll: Final montage of the day: drinking water, beach views, walking into the sea, and the darkening sky at dusk.
+- 22:55.0 text: Green text overlays provide context: '[ Ai mà biết Vy cũng biết Vy cực thích thành phố biển ]', '[ Vy luôn nghĩ về việc chuyển đi ]', '[ vài tháng ở một thành phố biển nào đó ]', '[ hôm nay Vy ở biển cả chiều ]', '[ để chờ xem có hoàng hôn không ]', '[ Tuy không được hoàng hôn đó ]', '[ Vy vẫn rất mãn nguyện với chuyến đi này rồi ]'.
+

@@ -1,0 +1,121 @@
+{
+ "frames": [
+  {
+   "label": "#594 43:27.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman eating noodles with chopsticks at a restaurant table, red-lit interior",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm orange grade, indoor restaurant ambience, shallow depth with blurred background patrons"
+  },
+  {
+   "label": "#594 43:32.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman slurping noodles from chopsticks close to face at restaurant",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same continuous take as previous shot, warm grade; jump-cut sequence of eating"
+  },
+  {
+   "label": "#594 43:36.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman lifting noodles with chopsticks over a bowl, mouth open",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, slightly different framing; continuous eating sequence"
+  },
+  {
+   "label": "#594 43:41.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman eating noodles with chopsticks and spoon, bowl in front",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, tighter framing; warm orange grade"
+  },
+  {
+   "label": "#595 43:44.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman eating at a counter by a window, street visible outside",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Transition from indoor eating to outdoor street, slightly blurred motion, warm interior tones"
+  },
+  {
+   "label": "#596 43:46.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman walking on street holding phone selfie-style, smiling, bikes and trees behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Motion blur, dynamic handheld walk, bright daylight, slight whip movement"
+  },
+  {
+   "label": "#597 43:48.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Tree-lined city street with blue directional road sign and parked scooters and bikes",
+   "text_on_screen": "上海路 东方路",
+   "text_style": "White Chinese characters on blue road sign, upper-middle of frame, small sans-serif",
+   "notes": "Natural daylight, stable forward walking shot, cars ahead"
+  },
+  {
+   "label": "#598 43:50.8",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Upward view of tall trees and high-rise buildings on a sunny street",
+   "text_on_screen": "là bắt đầu chương trình màu chế độ",
+   "text_style": "Small white Vietnamese subtitle text, lower center, sans-serif",
+   "notes": "Bright daylight, slight blue-green grade, walking gimbal motion upward tilt"
+  },
+  {
+   "label": "#599 43:52.9",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Street with trees framing a residential high-rise and red-roofed building",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright sky, trees framing both sides, smooth forward motion"
+  },
+  {
+   "label": "#600 43:54.8",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman seated on curb with handbag holding yellow plush toy, legs visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low angle, lifestyle detail shot, plush keychain focus, neutral daylight"
+  },
+  {
+   "label": "#601 43:56.7",
+   "shot": "pov",
+   "camera": "unknown",
+   "subject": "View from inside a car through window of city road with high-rise buildings and grey SUV",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hazy warm sky, desaturated grade, car interior framing edge"
+  },
+  {
+   "label": "#602 43:59.2",
+   "shot": "pov",
+   "camera": "unknown",
+   "subject": "Interior car dashboard view looking out at city skyscrapers through windshield",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Dark interior with bright hazy windshield, driver seat visible, ride-along feel"
+  },
+  {
+   "label": "#603 44:01.2",
+   "shot": "black",
+   "camera": "unknown",
+   "subject": "Empty black frame",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "End of contact sheet, blank frame"
+  }
+ ]
+}

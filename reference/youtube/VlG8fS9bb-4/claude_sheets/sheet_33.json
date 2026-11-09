@@ -1,0 +1,157 @@
+{
+ "frames": [
+  {
+   "label": "#364 27:22.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in white blouse and dark skirt standing in hotel corridor with hands in pockets",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm natural light, wood-panel walls, vertical framing of subject centered"
+  },
+  {
+   "label": "#364 27:26.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Same woman in white blouse posing in hotel corridor, slightly closer framing",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Near-identical to previous shot, suggests a held pose or jump-cut sequence"
+  },
+  {
+   "label": "#365 27:31.5",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Close-up of woman in black glasses touching her chin while speaking",
+   "text_on_screen": "tortoiseshell • hos fef ov ntis",
+   "text_style": "small white sans-serif text, top-center, faint and partly illegible",
+   "notes": "Tight face framing, shallow depth of field, selfie-style arm reach"
+  },
+  {
+   "label": "#366 27:35.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in shorts standing by a wooden door beside a bathroom counter with bottles",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm grade, door in right foreground, low-angle framing"
+  },
+  {
+   "label": "#367 27:39.0",
+   "shot": "selfie",
+   "camera": "phone_screen",
+   "subject": "Woman raising arm and filming herself in mirror with white phone",
+   "text_on_screen": "small yellow-white text near bottom-center, illegible",
+   "text_style": "small sans-serif, yellow-white, bottom-center",
+   "notes": "Mirror selfie with bottles on counter in background"
+  },
+  {
+   "label": "#367 27:43.1",
+   "shot": "selfie",
+   "camera": "phone_screen",
+   "subject": "Woman in glasses holding white phone up in mirror, smiling",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Mirror shot with bathroom counter, warm tones"
+  },
+  {
+   "label": "#367 27:47.1",
+   "shot": "selfie",
+   "camera": "phone_screen",
+   "subject": "Woman in glasses with hand raised to hair, phone in other hand, mirror reflection",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of mirror sequence, handheld reframing"
+  },
+  {
+   "label": "#368 27:52.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Street with parked cars and blue shared bicycles, woman walking beside a tree trunk",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, cobblestone sidewalk, tree trunk in right foreground"
+  },
+  {
+   "label": "#369 27:56.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Smiling woman in glasses walking down a tree-lined street, red wall at left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Motion blur, fast walking energy, bright daylight"
+  },
+  {
+   "label": "#370 28:00.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Ivy-covered old building with large plane tree trunk in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Green-heavy colour grade, upward tilt, lush foliage"
+  },
+  {
+   "label": "#371 28:03.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Historic European-style apartment facade with arched windows and balconies, trees",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Architecture detail shot, soft daylight"
+  },
+  {
+   "label": "#372 28:06.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Half-timbered red-roof house with white and brown facade",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tudor-style building, pan-friendly composition"
+  },
+  {
+   "label": "#373 28:10.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Pale stone building facade with windows framed by plane tree branches",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Upward angle, dappled green light"
+  },
+  {
+   "label": "#374 28:12.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Street corner with cafe storefront, plane tree, delivery rider on scooter",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Busy street-level scene, cones and outdoor tables"
+  },
+  {
+   "label": "#375 28:13.7",
+   "shot": "other",
+   "camera": "handheld",
+   "subject": "Interior of tea shop with wooden shelves and bench seating by a lattice window",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior lighting, wood tones, static framing"
+  },
+  {
+   "label": "#375 28:15.3",
+   "shot": "other",
+   "camera": "handheld",
+   "subject": "Tea room with wooden table, tea set, cushioned seats and lattice window",
+   "text_on_screen": "Zhen Shan Tea Valley",
+   "text_style": "small white serif text, centre-top, with small icon before it",
+   "notes": "Warm amber grade, bench and table composition"
+  },
+  {
+   "label": "#376 28:15.3",
+   "shot": "other",
+   "camera": "handheld",
+   "subject": "Interior of tea shop with wooden bar counter and windows showing trees outside",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Orange-warm colour grade, wood counter in foreground"
+  }
+ ]
+}

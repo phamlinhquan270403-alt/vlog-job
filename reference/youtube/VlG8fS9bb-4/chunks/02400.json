@@ -1,0 +1,160 @@
+{
+ "start": 2400,
+ "events": [
+  {
+   "t": 2400.0,
+   "type": "talk_to_camera",
+   "what": "The creator talks directly to the camera in a cafe, sharing a personal story. No background music, just ambient cafe noise."
+  },
+  {
+   "t": 2466.0,
+   "type": "cut",
+   "what": "Cut to a wider angle of the creator in the cafe, still talking to the camera."
+  },
+  {
+   "t": 2477.0,
+   "type": "cut",
+   "what": "Cut to a close-up of her coffee and bag on the wooden table by a window."
+  },
+  {
+   "t": 2483.8,
+   "type": "speed",
+   "what": "Short timelapse of the creator sitting at the table, looking at her phone."
+  },
+  {
+   "t": 2483.8,
+   "type": "text",
+   "what": "Text overlay: \"(edit video 1 xiu)\" in a simple white sans-serif font."
+  },
+  {
+   "t": 2487.0,
+   "type": "talk_to_camera",
+   "what": "The creator is now walking outside on a city street, talking to the camera in a selfie-style shot."
+  },
+  {
+   "t": 2509.0,
+   "type": "cut",
+   "what": "Cut to a different angle of her walking and talking, showing more of the street behind her."
+  },
+  {
+   "t": 2518.5,
+   "type": "cut",
+   "what": "B-roll shot of a street sign: \"Yuyuan Rd.\""
+  },
+  {
+   "t": 2523.8,
+   "type": "cut",
+   "what": "B-roll shot of another street sign: \"Fenggang Rd.\""
+  },
+  {
+   "t": 2526.8,
+   "type": "cut",
+   "what": "B-roll shot of a neighborhood map on a wall."
+  },
+  {
+   "t": 2533.8,
+   "type": "music",
+   "what": "Soft, melodic acoustic guitar and piano music begins. It is upbeat and gentle."
+  },
+  {
+   "t": 2533.8,
+   "type": "text",
+   "what": "Location tag overlay: \"@ Yuyuan Road\" in white text with a slight shadow."
+  },
+  {
+   "t": 2533.8,
+   "type": "cut",
+   "what": "B-roll montage of the street: trees, buildings, and shop fronts."
+  },
+  {
+   "t": 2541.0,
+   "type": "voiceover",
+   "what": "The creator's voiceover starts over b-roll of laundry hanging on a balcony."
+  },
+  {
+   "t": 2541.0,
+   "type": "text",
+   "what": "Text overlay: \"Vy rất thích đi bộ ngắm đường ngắm phố\""
+  },
+  {
+   "t": 2543.0,
+   "type": "text",
+   "what": "Text overlay: \"nên nguyên vlog cũng có từng đó hahahah\""
+  },
+  {
+   "t": 2544.8,
+   "type": "talk_to_camera",
+   "what": "Returns to a selfie-style shot of her talking while walking."
+  },
+  {
+   "t": 2551.8,
+   "type": "cut",
+   "what": "Shot of her taking a photo of herself in a mirror decorated with stuffed animals."
+  },
+  {
+   "t": 2558.5,
+   "type": "cut",
+   "what": "Interior shots of a toy shop filled with plushies."
+  },
+  {
+   "t": 2561.8,
+   "type": "text",
+   "what": "Humorous text overlay: \"chiikawa nổi bên này kinh khủng :))\""
+  },
+  {
+   "t": 2568.0,
+   "type": "talk_to_camera",
+   "what": "The creator continues her walk, talking to the camera about the shops."
+  },
+  {
+   "t": 2579.5,
+   "type": "voiceover",
+   "what": "Voiceover returns as she shows various plush toys in a shop."
+  },
+  {
+   "t": 2590.5,
+   "type": "text",
+   "what": "Text overlay: \"mn nhìn cái áo nó kìa :)))))\" over a shot of a dog in a sweater."
+  },
+  {
+   "t": 2601.5,
+   "type": "text",
+   "what": "Location tag: \"@ Yaojin Yuyuan Branch\""
+  },
+  {
+   "t": 2604.8,
+   "type": "talk_to_camera",
+   "what": "The creator is inside a restaurant, talking to the camera while eating a large bowl of noodles."
+  },
+  {
+   "t": 2625.5,
+   "type": "cut",
+   "what": "Back outside, walking and talking as the sun begins to set."
+  },
+  {
+   "t": 2629.5,
+   "type": "text",
+   "what": "Text overlay: \"lá bắt đầu chuyển màu cho thứ\" over shots of trees."
+  },
+  {
+   "t": 2635.5,
+   "type": "cut",
+   "what": "View from a car window showing the city skyline at sunset."
+  },
+  {
+   "t": 2641.0,
+   "type": "transition",
+   "what": "Fade to black."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a classic vlog structure: an introductory long-form talk-to-camera segment in a cafe (0:00-1:27), followed by an exploratory walk through a specific neighborhood (Yuyuan Road) featuring a mix of live talk and b-roll montages (1:27-3:21), a food segment (3:21-3:45), and a concluding travel transition (3:45-4:01).",
+  "pacing": "The pacing is variable. It starts very slow with a long, single-shot conversation, then accelerates during the street exploration with faster cuts and a music-driven montage, before slowing down again for the meal.",
+  "music": "Music is used selectively. The first half is silent (ambient only) to focus on the story. A gentle, acoustic instrumental track is introduced at 2:13 to provide energy and a cohesive feel to the b-roll montage and voiceover segments.",
+  "voice": "The creator uses a very personal, conversational tone. She alternates between direct address (selfie-style) and voiceover, often sharing internal thoughts or humorous asides.",
+  "sound_design": "Sound design is minimal, relying on high-quality ambient recordings of the cafe, street, and restaurant to ground the viewer in the location.",
+  "text_style": "Text is used for three main purposes: location tagging (bottom right), translating/summarizing spoken points, and adding personality through humorous commentary (often with emojis or 'hahaha'). The font is a clean, white sans-serif.",
+  "visual_style": "The visual style is 'elevated handheld.' It feels authentic and spontaneous but uses well-composed shots, close-ups of details (toys, food, signs), and natural lighting to create a pleasing aesthetic.",
+  "signature_moves": "A key signature move is the use of long, uninterrupted 'storytime' segments at the beginning to build a connection with the audience before moving into more traditional travel b-roll."
+ }
+}

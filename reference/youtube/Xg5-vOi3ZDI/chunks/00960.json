@@ -1,0 +1,95 @@
+{
+ "start": 960,
+ "events": [
+  {
+   "t": 960.0,
+   "type": "talk_to_camera",
+   "what": "The creator provides tips on staying at refuges in the Dolomites."
+  },
+  {
+   "t": 960.0,
+   "type": "music",
+   "what": "Upbeat, acoustic indie-folk track starts, ducked under speech."
+  },
+  {
+   "t": 980.0,
+   "type": "title",
+   "what": "Title card 'MY ROUTE' appears with a vintage film strip border effect."
+  },
+  {
+   "t": 982.0,
+   "type": "talk_to_camera",
+   "what": "The creator begins explaining her specific hiking route."
+  },
+  {
+   "t": 986.0,
+   "type": "map",
+   "what": "A map overlay appears in the top left corner showing the route progress."
+  },
+  {
+   "t": 986.0,
+   "type": "text",
+   "what": "Text 'CORTINA D'AMPEZZO' in a serif font appears below the map."
+  },
+  {
+   "t": 989.0,
+   "type": "text",
+   "what": "Text updates to 'SAN CASSIANO'."
+  },
+  {
+   "t": 991.0,
+   "type": "text",
+   "what": "Text updates to 'CAPANNA ALPINA'."
+  },
+  {
+   "t": 993.0,
+   "type": "text",
+   "what": "Text updates to 'RIFUGIO LAVARELLA'."
+  },
+  {
+   "t": 995.0,
+   "type": "talk_to_camera",
+   "what": "Map overlay disappears as she describes the difficulty of the hike."
+  },
+  {
+   "t": 1008.0,
+   "type": "text",
+   "what": "Text 'RIFUGIO LAGAZUOI' appears centered in a serif font."
+  },
+  {
+   "t": 1021.0,
+   "type": "text",
+   "what": "Text 'RIFUGIO POMEDES' appears centered in a serif font."
+  },
+  {
+   "t": 1031.0,
+   "type": "text",
+   "what": "Social handle '@ELENATABER' appears in the bottom left."
+  },
+  {
+   "t": 1062.0,
+   "type": "cut",
+   "what": "Hard cut from talk-to-camera to a final photo."
+  },
+  {
+   "t": 1063.0,
+   "type": "photo",
+   "what": "Full-screen photo of the creator posing with hiking poles in the mountains."
+  },
+  {
+   "t": 1063.0,
+   "type": "music",
+   "what": "Music volume swells as the speech ends for the outro."
+  }
+ ],
+ "summary": {
+  "structure": "The clip is divided into four main segments: practical advice on refuge costs and payments (0:00-0:20), a high-level route overview using map graphics (0:20-0:35), a detailed narrative of the hiking experience and specific refuges (0:35-1:10), and a reflective outro with social media call-to-action (1:10-1:53).",
+  "pacing": "The pacing is steady and conversational. The editor uses long takes of the creator talking directly to the camera, punctuated by text and map overlays to maintain visual interest and provide clarity on locations.",
+  "music": "A single, consistent acoustic indie track runs throughout the clip. It is kept at a low volume (ducked) during the speech and swells at the very end during the final photo.",
+  "voice": "The creator uses a friendly, informative, and authentic tone. She speaks directly to the camera, sharing personal anecdotes about the difficulty of the hike and her emotional response to the scenery.",
+  "sound_design": "Minimal sound design; the focus is entirely on the spoken narrative and the background music bed.",
+  "text_style": "The text uses a classic, elegant serif font. It is used for location names, titles, and social media handles, often centered or placed strategically to not obscure the creator's face.",
+  "visual_style": "The visual style is warm and natural, with the creator filmed in a medium shot against a yellow wall. The use of map overlays and a vintage-style title card adds a professional yet personal travel-vlog aesthetic.",
+  "signature_moves": "Key signature moves include the use of dynamic map overlays that update in real-time with the narrative and the 'film strip' title card to transition between segments."
+ }
+}

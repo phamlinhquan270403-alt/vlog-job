@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#114 04:11.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Market stall piled with green bananas, a vendor reaching in, dim indoor light",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm natural light, slightly shaky handheld feel"
+  },
+  {
+   "label": "#115 04:14.7",
+   "shot": "title_card",
+   "camera": "tripod",
+   "subject": "Overhead view of wooden floor with packing gear, empty center text",
+   "text_on_screen": "TIME TO PACK",
+   "text_style": "thin white sans-serif caps, small, centered on wood floor",
+   "notes": "Top-down flat lay; text appears as a title overlay"
+  },
+  {
+   "label": "#115 04:18.7",
+   "shot": "pov",
+   "camera": "tripod",
+   "subject": "Overhead flat lay of white puffer jacket, black clothes, hiking pack on wood floor",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Top-down static shot, items being laid out"
+  },
+  {
+   "label": "#115 04:22.8",
+   "shot": "pov",
+   "camera": "tripod",
+   "subject": "Overhead flat lay expanded: boots, water bottles, gloves, jacket, clothing, a cap",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Top-down, gear accumulating, warm wood tones"
+  },
+  {
+   "label": "#115 04:26.8",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman lying on floor smiling among laid-out gear, arms spread",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overhead angle with presenter in frame, warm grade"
+  },
+  {
+   "label": "#115 04:30.9",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman lying among gear wearing sunglasses, smiling, arms out",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same overhead setup as previous, slight reframe"
+  },
+  {
+   "label": "#115 04:34.9",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Drone view over dense green forest with clouds and mountain ridge",
+   "text_on_screen": "STARTING AT 2,100M (6,890FT)",
+   "text_style": "small white sans-serif caps, centered over forest, two lines with 'STARTING AT' above elevation",
+   "notes": "Transition from gear flat lay to forest; overlay appears mid-frame"
+  },
+  {
+   "label": "#116 04:38.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Person in cap at vehicle window looking out at dry plains and distant mountain",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hazy muted grade, shot through car window, slightly desaturated"
+  },
+  {
+   "label": "#117 04:40.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Crowd of porters and hikers gathering on grass near parked vehicles, black bags of gear",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, natural colour"
+  },
+  {
+   "label": "#118 04:43.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Wooden park entrance sign with text in forest clearing",
+   "text_on_screen": "",
+   "text_style": "sign text is carved/printed, not overlay",
+   "notes": "Establishing shot of trailhead sign"
+  },
+  {
+   "label": "#119 04:47.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with hands on hips in forest trail, backpack on, smiling",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Presenter to camera, natural daylight"
+  },
+  {
+   "label": "#119 04:51.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman gesturing with open hands while talking to camera on forest trail",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head style, natural light"
+  },
+  {
+   "label": "#119 04:55.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with sunglasses on head, hands raised, talking on forest path",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head, slightly low angle"
+  },
+  {
+   "label": "#120 04:58.8",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Porters carrying heavy loads walking up a forest trail, hiker in cap in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Follow shot from behind, shallow depth, green tones"
+  },
+  {
+   "label": "#121 05:00.7",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Porters with large packs walking single file on forest trail",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Follow shot, rear view, natural colour"
+  },
+  {
+   "label": "#122 05:02.2",
+   "shot": "pov",
+   "camera": "gimbal",
+   "subject": "Porter carrying load on trail seen from behind, hiker's backpack in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Over-shoulder framing with foreground pack blur"
+  }
+ ]
+}

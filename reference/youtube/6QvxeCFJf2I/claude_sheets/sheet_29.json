@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#434 14:31.2",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "White yurt camp on green meadow at forest edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Aerial-style wide establishing shot, natural daylight, saturated greens"
+  },
+  {
+   "label": "#435 14:32.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Town street with cars, trees, and traffic lights",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Street-level walking or driving footage, bright daylight"
+  },
+  {
+   "label": "#436 14:33.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Storefront with fast food signage and menu boards",
+   "text_on_screen": "ШАУРМА, ГАМБУРГЕР, НОГОЙ сабвэй, якоо пицца шашлык, суши роллы, KFC",
+   "text_style": "Mixed Russian and Latin signage, white and red lettering on green and cream facade, sign text, not added overlay",
+   "notes": "Static storefront shot, street-level, bright daylight"
+  },
+  {
+   "label": "#437 14:34.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Man with child at open car trunk beside green fence",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Candid street scene, natural light, slight handheld movement"
+  },
+  {
+   "label": "#438 14:35.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Large mosaic-style sign with Kyrgyz text on hillside, power pylon behind",
+   "text_on_screen": "КЫРГЫЗ ТЕКЕСИ, ЖЫЛ, ЖАНЫ ДАЙЫНДАЛ",
+   "text_style": "White and blue stones on hillside, large sign lettering, sign text not overlay",
+   "notes": "Landmark establishing shot, bright daylight, cool blue sky"
+  },
+  {
+   "label": "#439 14:37.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Two women in car selfie, one talking, one smiling",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Interior car selfie, wide angle, natural light, dark clothing"
+  },
+  {
+   "label": "#440 14:38.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same two women in car, one speaking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of selfie interview, cut on speech"
+  },
+  {
+   "label": "#441 14:39.5",
+   "shot": "black",
+   "camera": "unknown",
+   "subject": "Black screen",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Fade to black transition or gap between segments"
+  },
+  {
+   "label": "#442 14:41.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Two women in car, subtitle caption about full Kyrgyzstan video",
+   "text_on_screen": "THERE WILL BE A FULL VIDEO ON KYRGYZSTAN COMING SOON",
+   "text_style": "White bold sans-serif caps, centered lower third, with dark outline",
+   "notes": "Lower-third caption over selfie footage"
+  },
+  {
+   "label": "#443 14:43.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Two women in car making exaggerated angry faces",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Comedic reaction shot, quick cut"
+  },
+  {
+   "label": "#444 14:43.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Two women in car screaming with exaggerated expressions",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Comedic reaction shot, tight framing, quick cut"
+  },
+  {
+   "label": "#445 14:46.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Two women in car, one hand raised to head, looking aside",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Relaxed reaction, same interior setting"
+  },
+  {
+   "label": "#446 14:49.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Two women in car looking upward, talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Interview-style selfie, natural light"
+  },
+  {
+   "label": "#447 14:50.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Yellow flower field with mountains and village behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Landscape establishing shot, hazy mountains, natural colour grade"
+  },
+  {
+   "label": "#448 14:52.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Person walking past white yurts toward mountains",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide travel shot, bright daylight, mountain backdrop"
+  },
+  {
+   "label": "#449 14:54.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Row of white yurts on grass under blue sky with clouds",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide establishing shot, bright daylight, saturated colours"
+  }
+ ]
+}

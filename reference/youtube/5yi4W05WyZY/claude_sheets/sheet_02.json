@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#13 00:44.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman in white cardigan, glasses, hand near chin, sitting in living room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "bright daylight, greenery through window, slightly warm grade"
+  },
+  {
+   "label": "#13 00:48.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman with hair bun talking, hand raised to mouth, framed art behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "soft natural light, tight framing, slight reframe from previous shot"
+  },
+  {
+   "label": "#13 00:52.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman with hair bun speaking, hand at chin, pale curtains and wood panels",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "camera closer and slightly lower than previous shot"
+  },
+  {
+   "label": "#13 00:57.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman gesturing with hand near face, seated on white chair",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "bright window light, cool-toned greenery outside"
+  },
+  {
+   "label": "#13 01:01.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman speaking with hand on chest, seated in living room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "natural light, slight washed highlights"
+  },
+  {
+   "label": "#13 01:06.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman gesturing with open hand while talking into mic-like object",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "same setup as previous, continuous talking-head take"
+  },
+  {
+   "label": "#14 01:11.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "woman seated with hand at chin, wider room view, legs visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "wider framing, possible jump cut from talking head"
+  },
+  {
+   "label": "#15 01:17.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "woman seated gesturing with hand raised, room with wood panels",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "low angle, warm lamp glow at right edge"
+  },
+  {
+   "label": "#15 01:21.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman with hand at chin, speaking, framed art behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "cooler daylight, slightly soft focus"
+  },
+  {
+   "label": "#15 01:26.2",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "small figure in black swimsuit on sandy beach, aerial view",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "inserted b-roll, displayed as a small inset on a plain frame, likely pop-in cut"
+  },
+  {
+   "label": "#15 01:30.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman speaking with one hand raised, room behind her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "hand gesture moves into frame, tight framing"
+  },
+  {
+   "label": "#15 01:35.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman seated gesturing with hand, lamp glow at right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "warm and cool light mixed"
+  },
+  {
+   "label": "#15 01:39.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "woman seated, hand with mic near chest, speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "static talking-head framing"
+  },
+  {
+   "label": "#15 01:44.4",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "woman close to camera speaking with hand holding mic",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "closer crop than earlier shots, bright exposure"
+  },
+  {
+   "label": "#16 01:48.3",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "woman in white outfit standing by sliding glass door with TV and luggage in room",
+   "text_on_screen": "The Shells Resort & Spa",
+   "text_style": "small white serif-like font, low-contrast, near bottom-left of frame, thin and faint",
+   "notes": "wide establishing shot, light curtains, green exterior visible"
+  },
+  {
+   "label": "#17 01:50.8",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "woman in white outfit gesturing beside TV and open doorway to pool greenery",
+   "text_on_screen": "Welcome to the Shells",
+   "text_style": "small white serif font, faint, near bottom-left, low contrast",
+   "notes": "wide shot, bright natural light, slight camera move, possibly transition from previous"
+  }
+ ]
+}

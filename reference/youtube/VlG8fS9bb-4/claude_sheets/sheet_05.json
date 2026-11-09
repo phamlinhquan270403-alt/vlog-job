@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#65 01:52.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman smiling in selfie shot, street with parked bikes behind her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Arm-length selfie framing, bright daylight, warm natural colour"
+  },
+  {
+   "label": "#66 01:55.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Pink-walled shop front with bikes and scooters parked on street",
+   "text_on_screen": "中国银行 (partial sign above shop, illegible)",
+   "text_style": "Red sign with white/gold characters, small, top of building",
+   "notes": "Static-ish wide establishing shot of street"
+  },
+  {
+   "label": "#67 01:57.2",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Tree canopy in front of pink building with shop signs",
+   "text_on_screen": "OKLA Hotel Hitanes (partial, illegible)",
+   "text_style": "White sans-serif sign on building facade, small, mid-frame",
+   "notes": "Slow forward push or pan through foliage, green tones"
+  },
+  {
+   "label": "#68 01:59.2",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Tree-lined street, man on e-scooter passing, traffic light",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Candid street moment, light green traffic signal in top right"
+  },
+  {
+   "label": "#69 02:00.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Dappled shadows on asphalt road while walking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low angle walking POV, shadows as texture, may serve as transition"
+  },
+  {
+   "label": "#70 02:02.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Bicycle wheel and blue basket passing by on road",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Motion blur, riding POV, fast cut feel"
+  },
+  {
+   "label": "#71 02:05.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Leafy tree beside pink apartment building and traffic light",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright green foliage, slightly tilted framing"
+  },
+  {
+   "label": "#72 02:07.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Cafe interior with glass window, two women seated, man walking past",
+   "text_on_screen": "银台 (small sign, partial)",
+   "text_style": "Small dark sign with gold characters on wood panel",
+   "notes": "Warm interior light against bright green exterior, candid documentary feel"
+  },
+  {
+   "label": "#73 02:10.8",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman with earphones holding phone showing photos, talking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static phone-on-table framing, warm wood interior, neutral grade"
+  },
+  {
+   "label": "#73 02:15.1",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman with hand on head, expressive reaction, holding phone",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup as previous, reaction beat"
+  },
+  {
+   "label": "#73 02:19.4",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman holding phone up toward camera, showing screen",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, phone-screen reveal"
+  },
+  {
+   "label": "#73 02:23.7",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman covering face with both hands, exasperated",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, comedic reaction beat"
+  },
+  {
+   "label": "#73 02:28.0",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman playing with her hair, talking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, casual mid-talk moment"
+  },
+  {
+   "label": "#73 02:32.3",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman rubbing eye with hand, talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, expressive gesture"
+  },
+  {
+   "label": "#74 02:37.4",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman with hands near face, talking, sitting in cafe",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slightly different framing, centred subject"
+  },
+  {
+   "label": "#74 02:43.3",
+   "shot": "selfie",
+   "camera": "tripod",
+   "subject": "Woman with fingers pressed together at mouth, thinking pose",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup as previous, closing beat of the sequence"
+  }
+ ]
+}

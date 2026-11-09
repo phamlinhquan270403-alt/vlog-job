@@ -1,0 +1,58 @@
+{
+ "frames": [
+  {
+   "label": "#312 17:30.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with long dark hair speaking to camera in yellow-walled room",
+   "text_on_screen": "@ELENATABER",
+   "text_style": "white serif watermark, semi-transparent, centered lower third",
+   "notes": "Warm yellow wall and window light; bare shoulders; talking-head framing, slightly off-center"
+  },
+  {
+   "label": "#312 17:34.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same woman mid-sentence, head tilted, speaking to camera",
+   "text_on_screen": "@ELENATABER",
+   "text_style": "white serif watermark, semi-transparent, centered lower third",
+   "notes": "Same setup as previous; continuous talking-head take"
+  },
+  {
+   "label": "#312 17:38.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman smiling slightly, looking toward camera with hair draped on one side",
+   "text_on_screen": "@ELENATABER",
+   "text_style": "white serif watermark, semi-transparent, centered lower third",
+   "notes": "Same yellow room; subject slightly right of frame; warm colour grade"
+  },
+  {
+   "label": "#312 17:42.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman laughing or smiling with eyes narrowed, hand-like gesture near face",
+   "text_on_screen": "@ELENATABER",
+   "text_style": "white serif watermark, semi-transparent, centered lower third",
+   "notes": "Candid reaction moment; good cut point for a jump cut or B-roll insert"
+  },
+  {
+   "label": "#313 17:46.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman with sunglasses and backpack hiking on grassy mountain trail with trekking pole",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Alpine landscape with snowy peaks and blue sky; rocky cliff left edge; bright daylight, slightly desaturated film look"
+  },
+  {
+   "label": "#313 17:51.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Same hiker walking toward camera on mountain trail with pine-covered valley below",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same location as previous shot; continuous hike footage; subject centered-left"
+  }
+ ]
+}

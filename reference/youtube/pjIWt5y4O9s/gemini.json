@@ -1,0 +1,1047 @@
+[
+ {
+  "start": 0,
+  "events": [
+   {
+    "t": 0.0,
+    "type": "music",
+    "what": "Lo-fi beat with female vocals starts; upbeat and chill."
+   },
+   {
+    "t": 0.0,
+    "type": "text",
+    "what": "Yellow script title: 'Hà Nội' with subtitle '5 ngày ở... là không đủ'."
+   },
+   {
+    "t": 0.0,
+    "type": "broll",
+    "what": "Fast-paced intro montage showing food, friends, and city sights."
+   },
+   {
+    "t": 15.8,
+    "type": "sfx",
+    "what": "Camera shutter click sound effect."
+   },
+   {
+    "t": 15.8,
+    "type": "talk_to_camera",
+    "what": "Creator introduces the vlog from her Airbnb room."
+   },
+   {
+    "t": 46.5,
+    "type": "zoom",
+    "what": "Punch-in zoom on the creator's face for emphasis."
+   },
+   {
+    "t": 64.4,
+    "type": "cut",
+    "what": "Cut to a wider shot of the creator sitting in the room."
+   },
+   {
+    "t": 80.5,
+    "type": "text",
+    "what": "Location tag: 'Airbnb apartment | 40C Hàng Vải, Hoàn Kiếm'."
+   },
+   {
+    "t": 80.5,
+    "type": "voiceover",
+    "what": "Creator describes the apartment features over b-roll of the interior."
+   },
+   {
+    "t": 108.7,
+    "type": "talk_to_camera",
+    "what": "Creator stands up and continues talking to the camera."
+   },
+   {
+    "t": 138.1,
+    "type": "zoom",
+    "what": "Close-up shot as she applies lip balm while talking."
+   },
+   {
+    "t": 182.6,
+    "type": "talk_to_camera",
+    "what": "Showing a pink shopping bag of socks she just bought."
+   },
+   {
+    "t": 204.1,
+    "type": "talk_to_camera",
+    "what": "Holding a coffee cup and discussing the cold weather."
+   },
+   {
+    "t": 223.4,
+    "type": "music",
+    "what": "Music transition to a more rhythmic, upbeat lo-fi track."
+   },
+   {
+    "t": 223.4,
+    "type": "broll",
+    "what": "Short montage of her fixing her hair and getting ready."
+   },
+   {
+    "t": 232.3,
+    "type": "voiceover",
+    "what": "Talking about Hanoi traffic over b-roll of a motorbike ride."
+   },
+   {
+    "t": 259.4,
+    "type": "broll",
+    "what": "Walking through a narrow alleyway leading to a shop."
+   },
+   {
+    "t": 270.4,
+    "type": "text",
+    "what": "Location tag: 'Angel's House | 120 Hàng Bông, Hoàn Kiếm'."
+   },
+   {
+    "t": 270.4,
+    "type": "voiceover",
+    "what": "Reviewing the first thrift shop over interior b-roll."
+   },
+   {
+    "t": 280.5,
+    "type": "talk_to_camera",
+    "what": "Showing specific clothing items to the camera in the shop."
+   },
+   {
+    "t": 312.6,
+    "type": "talk_to_camera",
+    "what": "Trying on a patterned hat in front of a mirror."
+   },
+   {
+    "t": 335.1,
+    "type": "other",
+    "what": "Captured live dialogue with her friend about a Santa-themed outfit."
+   },
+   {
+    "t": 346.5,
+    "type": "music",
+    "what": "Music volume increases for a quick fashion montage."
+   },
+   {
+    "t": 355.6,
+    "type": "talk_to_camera",
+    "what": "Mirror shots of the creator trying on various lace tops."
+   },
+   {
+    "t": 387.6,
+    "type": "other",
+    "what": "Captured live audio of the creator paying at the counter."
+   },
+   {
+    "t": 397.9,
+    "type": "text",
+    "what": "Location tag: 'Cyberslot Thrift | 2 Ngõ Hàng Bún, Ba Đình'."
+   },
+   {
+    "t": 397.9,
+    "type": "voiceover",
+    "what": "Reviewing the second thrift shop over b-roll of the racks."
+   },
+   {
+    "t": 415.6,
+    "type": "other",
+    "what": "Live reaction and laughter at a Woody from Toy Story shirt."
+   },
+   {
+    "t": 461.5,
+    "type": "talk_to_camera",
+    "what": "Showing the final shopping bag from the second store."
+   },
+   {
+    "t": 468.1,
+    "type": "text",
+    "what": "Location tag: 'Bò Nầm Nướng | 54 Hàng Giầy, Hoàn Kiếm'."
+   },
+   {
+    "t": 468.1,
+    "type": "music",
+    "what": "Music shifts to a chill jazz-hop style for the dinner scene."
+   },
+   {
+    "t": 468.1,
+    "type": "broll",
+    "what": "B-roll of the street food restaurant and the meal being served."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a classic vlog structure: an energetic intro montage (0:00-0:15), a long 'get ready with me' style chat and room tour in an Airbnb (0:15-3:52), travel through the city (3:52-4:19), visits to two distinct thrift shops (4:19-7:48), and concluding with a dinner scene (7:48-8:00).",
+   "pacing": "The pacing is varied; it starts very fast during the intro, slows down significantly for the conversational to-camera segments, and picks up again during shopping montages and travel transitions.",
+   "music": "The music is primarily lo-fi and chill-hop, providing a relaxed but trendy atmosphere. It is carefully ducked under speech and brought to the forefront during non-verbal b-roll sequences.",
+   "voice": "The creator's voice is casual, friendly, and highly personal. She speaks in Vietnamese, often using humor and expressive facial expressions to engage the audience directly.",
+   "sound_design": "Sound design is minimal, relying mostly on natural ambient sounds from the environments (street noise, shop chatter) and a recurring camera shutter sound to punctuate cuts.",
+   "text_style": "The text style uses a mix of a stylized yellow script for titles and a clean, modern sans-serif font for location information, typically placed in the upper corners of the frame.",
+   "visual_style": "The visual style is handheld and intimate, characteristic of lifestyle vlogs. It features a warm color grade and a mix of wide environmental shots and very tight close-ups of products and clothing details.",
+   "signature_moves": "Signature moves include the use of punch-in zooms for comedic emphasis during talking segments and the habit of showing a shopping bag to the camera to signal the end of a shopping sequence."
+  }
+ },
+ {
+  "start": 480,
+  "events": [
+   {
+    "t": 480.0,
+    "type": "music",
+    "what": "Upbeat, jazzy lo-fi music starts, ducked under live speech."
+   },
+   {
+    "t": 480.0,
+    "type": "text",
+    "what": "Yellow cursive text '@ Bò Nầm Nướng' top left; white serif text '54 Hàng Giầy, Hoàn Kiếm' top right."
+   },
+   {
+    "t": 480.0,
+    "type": "talk_to_camera",
+    "what": "Live conversation while eating grilled meat with a friend."
+   },
+   {
+    "t": 546.5,
+    "type": "sfx",
+    "what": "Camera shutter sound effect."
+   },
+   {
+    "t": 546.5,
+    "type": "transition",
+    "what": "Rapid photo montage of the meal."
+   },
+   {
+    "t": 548.5,
+    "type": "music",
+    "what": "Music changes to a light, acoustic piano melody."
+   },
+   {
+    "t": 548.5,
+    "type": "text",
+    "what": "Yellow cursive text 'A quick coffee run' top left; white serif text 'Phê La' top right."
+   },
+   {
+    "t": 548.5,
+    "type": "broll",
+    "what": "Shots of the street and the interior of a coffee shop."
+   },
+   {
+    "t": 558.0,
+    "type": "talk_to_camera",
+    "what": "Creator walks through Hanoi streets talking to the camera about her coffee run."
+   },
+   {
+    "t": 606.5,
+    "type": "talk_to_camera",
+    "what": "Cut to the creator sitting in her room, drinking coffee and sharing stories about her trip."
+   },
+   {
+    "t": 682.5,
+    "type": "music",
+    "what": "Music changes to a playful, bouncy tune with pizzicato strings."
+   },
+   {
+    "t": 682.5,
+    "type": "text",
+    "what": "Yellow cursive text '@ Bún chả Cửa Đông' top left; white serif text '41 Cửa Đông, Hoàn Kiếm' top right."
+   },
+   {
+    "t": 682.5,
+    "type": "broll",
+    "what": "Street view and food preparation at the Bun Cha shop."
+   },
+   {
+    "t": 693.5,
+    "type": "voiceover",
+    "what": "Creator provides a voiceover reflection on the food while shots of her eating are shown."
+   },
+   {
+    "t": 784.5,
+    "type": "music",
+    "what": "Music changes to an upbeat, modern pop/indie track."
+   },
+   {
+    "t": 784.5,
+    "type": "text",
+    "what": "Yellow cursive text '@ hermanos cafe' top left; white serif text '6 Nam Tràng, Ba Đình' top right."
+   },
+   {
+    "t": 784.5,
+    "type": "broll",
+    "what": "Meeting friends at a modern cafe."
+   },
+   {
+    "t": 797.5,
+    "type": "voiceover",
+    "what": "Voiceover continues over shots of the creator and friends chatting."
+   },
+   {
+    "t": 828.5,
+    "type": "talk_to_camera",
+    "what": "Live audio of the creator and friends walking by Ho Guom (Sword Lake)."
+   },
+   {
+    "t": 850.5,
+    "type": "music",
+    "what": "Music shifts to a light, rhythmic beat."
+   },
+   {
+    "t": 850.5,
+    "type": "text",
+    "what": "Yellow cursive text '@ Xôi chè Bà Thìn' top left; white serif text '1 Bát Đàn, Hoàn Kiếm' top right."
+   },
+   {
+    "t": 851.5,
+    "type": "voiceover",
+    "what": "Voiceover describing the dessert experience over b-roll of the shop and food."
+   },
+   {
+    "t": 888.5,
+    "type": "music",
+    "what": "Music changes to a soft, reflective lo-fi piano track."
+   },
+   {
+    "t": 888.5,
+    "type": "talk_to_camera",
+    "what": "Creator back in her room, reflecting on her love for Hanoi and meeting other creators."
+   },
+   {
+    "t": 954.5,
+    "type": "ambient",
+    "what": "Music stops; ambient street and car noise as the creator gets into a car at night."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a day in Hanoi: a late-night dinner (0:00-1:06), a morning coffee run and reflection (1:08-3:22), a Bun Cha lunch (3:22-5:04), meeting friends at a cafe and walking by the lake (5:04-6:10), a dessert stop (6:10-6:48), and a final evening reflection before heading out again (6:48-8:05).",
+   "pacing": "The pacing is dynamic, using fast-cut b-roll and photo montages for food and travel transitions, contrasted with longer, steady shots for personal reflections and to-camera storytelling.",
+   "music": "The music is a curated mix of lo-fi, jazzy, and acoustic tracks that change with each new location to set a specific mood, always ducked significantly under speech.",
+   "voice": "The creator uses a casual, intimate tone, alternating between live 'in-the-moment' speech and reflective voiceovers that provide deeper context to her experiences.",
+   "sound_design": "Minimalist but effective, featuring camera shutter sounds for photo transitions and well-balanced ambient street noise to maintain a sense of place.",
+   "text_style": "Consistent location tagging using a yellow cursive font for the venue name and a white serif font for the address, positioned in the top corners.",
+   "visual_style": "A warm, vlog-style aesthetic with handheld camera work that feels personal. It mixes close-up food shots with wide street views and medium-shot talking segments.",
+   "signature_moves": "The use of a camera shutter sound paired with a rapid photo montage to transition out of a meal segment is a recurring stylistic choice."
+  }
+ },
+ {
+  "start": 960,
+  "events": [
+   {
+    "t": 960.0,
+    "type": "music",
+    "what": "Upbeat pop music with vocals starts, ducked under speech."
+   },
+   {
+    "t": 960.0,
+    "type": "talk_to_camera",
+    "what": "Vi and Nam talking and laughing in the car at night."
+   },
+   {
+    "t": 971.0,
+    "type": "zoom",
+    "what": "Punch-in on Nam's face as he laughs."
+   },
+   {
+    "t": 972.0,
+    "type": "cut",
+    "what": "Cut to dashcam view of Hanoi streets at night."
+   },
+   {
+    "t": 973.0,
+    "type": "cut",
+    "what": "Cut back to interior vlog view."
+   },
+   {
+    "t": 980.0,
+    "type": "talk_to_camera",
+    "what": "Nam starts singing along to K-pop songs."
+   },
+   {
+    "t": 999.0,
+    "type": "music",
+    "what": "Music fades out as they continue talking."
+   },
+   {
+    "t": 1052.0,
+    "type": "music",
+    "what": "Jazzy, upbeat instrumental music starts."
+   },
+   {
+    "t": 1052.0,
+    "type": "text",
+    "what": "Yellow location text: '@Bếp Cô Linh' and '42C Lý Thường Kiệt, Hoàn Kiếm' top left/right."
+   },
+   {
+    "t": 1052.0,
+    "type": "broll",
+    "what": "Wide shot of the outdoor street food stall."
+   },
+   {
+    "t": 1056.0,
+    "type": "broll",
+    "what": "Close-up of the menu."
+   },
+   {
+    "t": 1058.0,
+    "type": "broll",
+    "what": "Close-up of meat grilling on a pan."
+   },
+   {
+    "t": 1061.0,
+    "type": "talk_to_camera",
+    "what": "Nam and Vi sitting at the table, Nam starts opening a gift box."
+   },
+   {
+    "t": 1071.0,
+    "type": "zoom",
+    "what": "Punch-in on the cake inside the box."
+   },
+   {
+    "t": 1077.0,
+    "type": "talk_to_camera",
+    "what": "Nam presents a large wrapped gift to Vi."
+   },
+   {
+    "t": 1098.0,
+    "type": "talk_to_camera",
+    "what": "Vi unwraps the gift to reveal a 'Người Đẹp Don't Cry' poster."
+   },
+   {
+    "t": 1114.0,
+    "type": "talk_to_camera",
+    "what": "Vi shows off several keychains Nam gave her."
+   },
+   {
+    "t": 1135.0,
+    "type": "broll",
+    "what": "Close-up of the birthday cake with a '3' candle."
+   },
+   {
+    "t": 1140.0,
+    "type": "talk_to_camera",
+    "what": "Nam cooks meat on the grill while they talk."
+   },
+   {
+    "t": 1152.0,
+    "type": "talk_to_camera",
+    "what": "Nam does a funny bit, pretending to be a different vlogger from a previous video."
+   },
+   {
+    "t": 1211.0,
+    "type": "voiceover",
+    "what": "Vi's voiceover starts, reflecting on her friendship with Nam over b-roll of them eating."
+   },
+   {
+    "t": 1236.0,
+    "type": "talk_to_camera",
+    "what": "Vi holds her birthday cake and poses for the camera."
+   },
+   {
+    "t": 1256.0,
+    "type": "music",
+    "what": "Jazzy music stops."
+   },
+   {
+    "t": 1257.0,
+    "type": "music",
+    "what": "Upbeat, electronic game-like music starts."
+   },
+   {
+    "t": 1257.0,
+    "type": "text",
+    "what": "Yellow location text: 'Gashapon Bandai Shop' and 'Nhà Sách Phương Nam, Lotte Center'."
+   },
+   {
+    "t": 1257.0,
+    "type": "talk_to_camera",
+    "what": "Vi at a gashapon machine, explaining what she wants to win."
+   },
+   {
+    "t": 1267.0,
+    "type": "talk_to_camera",
+    "what": "Vi turns the dial and gets excited as the capsule drops."
+   },
+   {
+    "t": 1288.0,
+    "type": "talk_to_camera",
+    "what": "Vi and Nam sit down to unbox the gashapon toys."
+   },
+   {
+    "t": 1303.0,
+    "type": "talk_to_camera",
+    "what": "Nam tries his luck at a Pikachu gashapon machine."
+   },
+   {
+    "t": 1328.0,
+    "type": "music",
+    "what": "Electronic music stops."
+   },
+   {
+    "t": 1329.0,
+    "type": "music",
+    "what": "Slow, jazzy instrumental music starts."
+   },
+   {
+    "t": 1329.0,
+    "type": "text",
+    "what": "Yellow location text: '@Phở Gánh' and '61 Hàng Ngang, Hoàn Kiếm'."
+   },
+   {
+    "t": 1329.0,
+    "type": "broll",
+    "what": "Shots of the late-night pho stall on the sidewalk."
+   },
+   {
+    "t": 1340.0,
+    "type": "broll",
+    "what": "Close-up of a bowl of pho."
+   },
+   {
+    "t": 1342.0,
+    "type": "talk_to_camera",
+    "what": "Vi shows her phone screen displaying 4:14 AM."
+   },
+   {
+    "t": 1351.0,
+    "type": "talk_to_camera",
+    "what": "Nam talks to the camera, looking tired but happy."
+   },
+   {
+    "t": 1363.0,
+    "type": "broll",
+    "what": "Close-up of mixing the pho with chopsticks."
+   },
+   {
+    "t": 1403.0,
+    "type": "talk_to_camera",
+    "what": "Vi tells a story about looking for 'bún riêu' earlier that night."
+   }
+  ],
+  "summary": {
+   "structure": "The clip is divided into four main segments: a car ride (0:00-1:31), a birthday dinner with gift opening (1:32-4:56), a visit to a gashapon shop (4:57-6:08), and a late-night pho meal (6:09-7:59).",
+   "pacing": "The pacing is generally brisk, with frequent cuts between the vloggers talking and close-up b-roll of food or items. The birthday segment slows down slightly for a reflective voiceover.",
+   "music": "The music changes to match the mood of each segment: upbeat pop for the car, jazzy lounge music for the meals, and electronic game music for the gashapon shop. Music is always ducked under speech.",
+   "voice": "The tone is high-energy, casual, and humorous. Vi and Nam have a playful dynamic with lots of laughter. Vi uses a more sentimental tone during her voiceover.",
+   "sound_design": "The audio is primarily live-captured vlog audio, including ambient street and restaurant sounds. There are no prominent artificial sound effects.",
+   "text_style": "Location information is consistently displayed in the top corners using a simple, yellow sans-serif font at the start of each new scene.",
+   "visual_style": "The video uses a handheld vlog style with a mix of medium shots for dialogue and tight close-ups for food and objects. Occasional dashcam footage adds variety.",
+   "signature_moves": "The editor uses location titles to anchor each segment and frequently punches in (digital zoom) on faces or objects for emphasis or comedic effect."
+  }
+ },
+ {
+  "start": 1440,
+  "events": [
+   {
+    "t": 1440.0,
+    "type": "music",
+    "what": "Upbeat, lo-fi hip-hop track starts, no vocals, ducked under speech."
+   },
+   {
+    "t": 1440.0,
+    "type": "talk_to_camera",
+    "what": "The creator is eating at a street stall at night, talking to someone off-camera."
+   },
+   {
+    "t": 1442.8,
+    "type": "cut",
+    "what": "Cut to a slightly different angle of the same scene."
+   },
+   {
+    "t": 1455.0,
+    "type": "broll",
+    "what": "Close-up of the noodles being lifted with chopsticks."
+   },
+   {
+    "t": 1461.5,
+    "type": "cut",
+    "what": "Back to the main shot of the creator talking."
+   },
+   {
+    "t": 1468.5,
+    "type": "broll",
+    "what": "Close-up of the creator eating noodles."
+   },
+   {
+    "t": 1474.0,
+    "type": "cut",
+    "what": "Back to the main shot."
+   },
+   {
+    "t": 1508.0,
+    "type": "broll",
+    "what": "Close-up of a fried dough stick (quẩy)."
+   },
+   {
+    "t": 1510.0,
+    "type": "cut",
+    "what": "Back to the main shot."
+   },
+   {
+    "t": 1530.0,
+    "type": "broll",
+    "what": "Close-up of the creator dipping the dough stick into the soup."
+   },
+   {
+    "t": 1540.0,
+    "type": "cut",
+    "what": "Back to the main shot."
+   },
+   {
+    "t": 1547.5,
+    "type": "sfx",
+    "what": "Whoosh sound effect for transition."
+   },
+   {
+    "t": 1548.0,
+    "type": "music",
+    "what": "Music changes to a more upbeat, acoustic pop-style lo-fi track."
+   },
+   {
+    "t": 1548.0,
+    "type": "talk_to_camera",
+    "what": "The creator is getting ready in front of a mirror, applying makeup and talking to the camera."
+   },
+   {
+    "t": 1566.0,
+    "type": "zoom",
+    "what": "Punch-in for emphasis as she speaks."
+   },
+   {
+    "t": 1592.0,
+    "type": "zoom",
+    "what": "Punch-in for emphasis."
+   },
+   {
+    "t": 1621.0,
+    "type": "zoom",
+    "what": "Punch-in for emphasis."
+   },
+   {
+    "t": 1659.0,
+    "type": "cut",
+    "what": "Cut to a wider shot of her in the room, showing her outfit."
+   },
+   {
+    "t": 1690.5,
+    "type": "sfx",
+    "what": "Whoosh sound effect for transition."
+   },
+   {
+    "t": 1691.0,
+    "type": "music",
+    "what": "Music changes to a chill, jazzy lo-fi track."
+   },
+   {
+    "t": 1691.0,
+    "type": "text",
+    "what": "Yellow serif text: 'Pizza 4P's' (top left), 'Lotte Mall Tây Hồ' (top right)."
+   },
+   {
+    "t": 1691.0,
+    "type": "broll",
+    "what": "Montage of the restaurant interior and food."
+   },
+   {
+    "t": 1700.5,
+    "type": "talk_to_camera",
+    "what": "The creator and her guest are eating and talking at the restaurant."
+   },
+   {
+    "t": 1704.0,
+    "type": "talk_to_camera",
+    "what": "The guest introduces herself to the camera."
+   },
+   {
+    "t": 1728.5,
+    "type": "cut",
+    "what": "Wide shot of the two women eating and chatting."
+   },
+   {
+    "t": 1792.5,
+    "type": "talk_to_camera",
+    "what": "The guest presents a gift to the creator."
+   },
+   {
+    "t": 1861.5,
+    "type": "broll",
+    "what": "Short montage of them finishing their meal."
+   },
+   {
+    "t": 1880.5,
+    "type": "sfx",
+    "what": "Whoosh sound effect for transition."
+   },
+   {
+    "t": 1881.0,
+    "type": "music",
+    "what": "Music changes to a mellow lo-fi track."
+   },
+   {
+    "t": 1881.0,
+    "type": "text",
+    "what": "Yellow serif text: 'Phở Gà Nguyệt' (top left), '5b Phủ Doãn, Hoàn Kiếm' (top right)."
+   },
+   {
+    "t": 1881.0,
+    "type": "broll",
+    "what": "Shots of the restaurant exterior and menu."
+   },
+   {
+    "t": 1888.5,
+    "type": "talk_to_camera",
+    "what": "The creator is eating chicken pho with a friend."
+   },
+   {
+    "t": 1894.5,
+    "type": "broll",
+    "what": "Close-up shots of the pho bowls."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a day in Hanoi: late-night street food (0:00-1:47), a morning 'get ready with me' segment (1:48-4:10), lunch at a modern pizza restaurant with a guest (4:11-7:20), and dinner at a famous chicken pho spot (7:21-end).",
+   "pacing": "The pacing is relaxed, matching the lifestyle vlog genre. Eating segments feature longer takes of conversation, while the morning routine uses quicker cuts and punch-ins to maintain energy.",
+   "music": "Lo-fi hip-hop and jazzy tracks are used throughout, providing a consistent, chill atmosphere. The music shifts slightly in mood to match the time of day or location.",
+   "voice": "The creator uses a casual, friendly tone, speaking directly to the camera or interacting naturally with her companions. The dialogue is captured live.",
+   "sound_design": "Natural ambient sounds of the city and restaurants are present. Whoosh sound effects are used consistently to signal transitions between different locations/times.",
+   "text_style": "Location and restaurant names are displayed in the top corners using an elegant, yellow serif font.",
+   "visual_style": "The video has a handheld, authentic feel. It mixes wide shots of the environment with close-ups of food and medium shots for talking segments. Lighting varies from the harsh night lights of the street to the soft natural light of the mall.",
+   "signature_moves": "The use of whoosh transitions combined with location text in the corners is a recurring stylistic choice. Frequent punch-ins during talking segments are used to emphasize points or reactions."
+  }
+ },
+ {
+  "start": 1920,
+  "events": [
+   {
+    "t": 1920.0,
+    "type": "talk_to_camera",
+    "what": "Vy eating noodles and talking to the camera. Music starts: upbeat acoustic pop, no vocals."
+   },
+   {
+    "t": 1941.0,
+    "type": "zoom",
+    "what": "Punch-in zoom on Vy eating noodles."
+   },
+   {
+    "t": 1981.5,
+    "type": "broll",
+    "what": "Night street food scene in Hanoi. Voiceover begins."
+   },
+   {
+    "t": 1988.0,
+    "type": "text",
+    "what": "Yellow script text identifying food: 'Nem nướng', 'Xoài', 'Trà quất'."
+   },
+   {
+    "t": 1991.0,
+    "type": "talk_to_camera",
+    "what": "Vy eating fried snacks at a sidewalk stall."
+   },
+   {
+    "t": 1995.0,
+    "type": "zoom",
+    "what": "Close-up shot of the fried snack on a stick."
+   },
+   {
+    "t": 2001.5,
+    "type": "broll",
+    "what": "Motorbike ride through Hanoi streets at night. Voiceover continues."
+   },
+   {
+    "t": 2015.5,
+    "type": "broll",
+    "what": "Exterior of the porridge shop. Voiceover continues."
+   },
+   {
+    "t": 2016.0,
+    "type": "text",
+    "what": "Location text: 'Cháo sườn sụn Huyền Anh', 'Chợ đêm Đồng Xuân'."
+   },
+   {
+    "t": 2019.5,
+    "type": "talk_to_camera",
+    "what": "Vy eating porridge at the night market."
+   },
+   {
+    "t": 2035.5,
+    "type": "zoom",
+    "what": "Close-up of adding pepper to the porridge."
+   },
+   {
+    "t": 2050.0,
+    "type": "transition",
+    "what": "Camera shutter flash effect with shutter sound."
+   },
+   {
+    "t": 2051.0,
+    "type": "broll",
+    "what": "Morning street scene. Music changes to cozy lo-fi jazz."
+   },
+   {
+    "t": 2051.0,
+    "type": "text",
+    "what": "Stylized text: 'A cozy morning', 'Tiệm nhà Bắp Bơ'."
+   },
+   {
+    "t": 2056.0,
+    "type": "talk_to_camera",
+    "what": "Vy sitting in a cafe, checking her phone."
+   },
+   {
+    "t": 2059.0,
+    "type": "zoom",
+    "what": "Close-up of coffee being stirred."
+   },
+   {
+    "t": 2068.0,
+    "type": "talk_to_camera",
+    "what": "Vy walking and talking to the camera about her next meal."
+   },
+   {
+    "t": 2094.5,
+    "type": "broll",
+    "what": "Steaming Banh Cuon being prepared. Voiceover begins."
+   },
+   {
+    "t": 2095.0,
+    "type": "text",
+    "what": "Location text: 'Bánh cuốn Hồng Anh', 'S74 Hàng Vải, Hoàn Kiếm'."
+   },
+   {
+    "t": 2106.5,
+    "type": "talk_to_camera",
+    "what": "Vy eating Banh Cuon and talking about the cold weather."
+   },
+   {
+    "t": 2198.5,
+    "type": "talk_to_camera",
+    "what": "Vy reacts to a train passing on the tracks above her."
+   },
+   {
+    "t": 2210.0,
+    "type": "talk_to_camera",
+    "what": "Outfit check segment showing her hoodie, jacket, and shoes."
+   },
+   {
+    "t": 2260.0,
+    "type": "transition",
+    "what": "Camera shutter flash effect with shutter sound."
+   },
+   {
+    "t": 2263.5,
+    "type": "broll",
+    "what": "Walking into a narrow alleyway restaurant. Voiceover begins."
+   },
+   {
+    "t": 2264.0,
+    "type": "text",
+    "what": "Location text: 'Bún đậu mẹt Tuấn Trọc', '23 Phan Huy Ích, Ba Đình'."
+   },
+   {
+    "t": 2277.0,
+    "type": "broll",
+    "what": "Close-up of the Bun Dau platter. Voiceover continues."
+   },
+   {
+    "t": 2299.0,
+    "type": "talk_to_camera",
+    "what": "Vy and her friend talking and joking while eating."
+   },
+   {
+    "t": 2387.0,
+    "type": "talk_to_camera",
+    "what": "Vy eating dessert on the sidewalk."
+   },
+   {
+    "t": 2387.5,
+    "type": "text",
+    "what": "Location text: 'Caramen Kim Yến', '21 Hàng Than, Ba Đình'."
+   },
+   {
+    "t": 2388.0,
+    "type": "broll",
+    "what": "Close-up of the caramel dessert. Voiceover begins."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a food-focused itinerary in Hanoi, moving from night snacks (noodles, porridge) to morning coffee, then lunch (Banh Cuon, Bun Dau), and finally dessert.",
+   "pacing": "The pacing is relaxed, typical of a lifestyle vlog. It balances long conversational segments with quick B-roll montages to introduce new locations.",
+   "music": "The music is used to set the mood: upbeat acoustic pop for the night and day segments, transitioning to a slower lo-fi jazz vibe for the morning cafe scene.",
+   "voice": "Vy uses a friendly, conversational tone, speaking directly to her audience. She mixes live commentary while eating with descriptive voiceovers during B-roll transitions.",
+   "sound_design": "Natural ambient sounds like street traffic, the train passing, and eating sounds are kept in the mix. A signature camera shutter sound is used for major transitions.",
+   "text_style": "Handwritten-style yellow and white text is used consistently to identify food items and restaurant locations, usually placed in the upper corners.",
+   "visual_style": "The visual style is handheld and intimate. It features many close-ups of food ('food porn' style) and wide shots of the bustling Hanoi streets.",
+   "signature_moves": "The editor uses a camera shutter flash effect and sound to transition between different times of day or major locations, creating a 'photo album' feel."
+  }
+ },
+ {
+  "start": 2400,
+  "events": [
+   {
+    "t": 2400.0,
+    "type": "broll",
+    "what": "Shot of a storefront 'CARAMEN KIM YEN' with ambient street noise."
+   },
+   {
+    "t": 2400.0,
+    "type": "text",
+    "what": "'@ Caramen Kim Yen' and '31 Hang Than, Ba Dinh' in top corners."
+   },
+   {
+    "t": 2401.2,
+    "type": "cut",
+    "what": "Cut to the menu board of the shop."
+   },
+   {
+    "t": 2402.5,
+    "type": "talk_to_camera",
+    "what": "The couple sits outside eating from white cups, speaking to the camera."
+   },
+   {
+    "t": 2403.2,
+    "type": "text",
+    "what": "Yellow subtitle: 'tại tụi mình đang ngồi ở hàng ghế xanh'"
+   },
+   {
+    "t": 2411.8,
+    "type": "zoom",
+    "what": "Punch-in on the couple as they continue talking."
+   },
+   {
+    "t": 2421.0,
+    "type": "cut",
+    "what": "Cut back to the original wider angle."
+   },
+   {
+    "t": 2432.5,
+    "type": "cut",
+    "what": "Close-up of a mango pudding dessert being stirred with a spoon."
+   },
+   {
+    "t": 2437.5,
+    "type": "cut",
+    "what": "Cut back to the couple talking about the texture."
+   },
+   {
+    "t": 2442.5,
+    "type": "cut",
+    "what": "Close-up of a flan (caramen) on a small plate."
+   },
+   {
+    "t": 2444.5,
+    "type": "cut",
+    "what": "The woman holds the flan and talks to the camera."
+   },
+   {
+    "t": 2455.5,
+    "type": "zoom",
+    "what": "The woman blows on the camera, and it zooms out/moves away quickly as a 'flycam' joke."
+   },
+   {
+    "t": 2459.5,
+    "type": "cut",
+    "what": "Low angle shot looking up at the couple as they eat and talk."
+   },
+   {
+    "t": 2497.5,
+    "type": "cut",
+    "what": "Close-up of the woman taking a bite of the caramen."
+   },
+   {
+    "t": 2501.5,
+    "type": "cut",
+    "what": "Shot of empty dessert cups on a blue tray."
+   },
+   {
+    "t": 2503.5,
+    "type": "music",
+    "what": "Upbeat, lo-fi pop music starts as they enter a toy shop."
+   },
+   {
+    "t": 2503.5,
+    "type": "text",
+    "what": "'@ Art Toys' and '70 Thi Sach, Hai Ba Trung' in top corners."
+   },
+   {
+    "t": 2504.0,
+    "type": "text",
+    "what": "'Molly_Lily Art Toys' in top left corner."
+   },
+   {
+    "t": 2504.5,
+    "type": "talk_to_camera",
+    "what": "The couple sits at a table in the toy shop to unbox blind boxes."
+   },
+   {
+    "t": 2524.5,
+    "type": "sfx",
+    "what": "Pop/tear sound as the box is opened."
+   },
+   {
+    "t": 2543.5,
+    "type": "cut",
+    "what": "Close-up of the first toy (pink hair with a cat on top)."
+   },
+   {
+    "t": 2565.5,
+    "type": "cut",
+    "what": "Medium shot of the couple as the man prepares to open another box."
+   },
+   {
+    "t": 2606.5,
+    "type": "sfx",
+    "what": "Loud cheering and shouting as they reveal the desired toy."
+   },
+   {
+    "t": 2606.5,
+    "type": "cut",
+    "what": "Close-up of the plush cat toy with a blue 'snot' bubble."
+   },
+   {
+    "t": 2617.5,
+    "type": "cut",
+    "what": "Shot of them hanging the toy on the woman's handbag."
+   },
+   {
+    "t": 2627.0,
+    "type": "cut",
+    "what": "Close-up of the toy's face and paws."
+   },
+   {
+    "t": 2638.5,
+    "type": "music",
+    "what": "Music changes to a soft, sentimental piano melody."
+   },
+   {
+    "t": 2638.5,
+    "type": "voiceover",
+    "what": "The woman begins a reflective voiceover about her trip."
+   },
+   {
+    "t": 2639.0,
+    "type": "broll",
+    "what": "Montage of the woman packing her laptop and bags in a bedroom."
+   },
+   {
+    "t": 2655.0,
+    "type": "cut",
+    "what": "Shot of her closing and standing up her suitcases."
+   },
+   {
+    "t": 2660.0,
+    "type": "cut",
+    "what": "She wheels her luggage out of the room."
+   },
+   {
+    "t": 2666.5,
+    "type": "transition",
+    "what": "Fade to black."
+   },
+   {
+    "t": 2667.5,
+    "type": "cut",
+    "what": "Quick cut back to her grabbing a final bag and leaving the room."
+   }
+  ],
+  "summary": {
+   "structure": "The clip is divided into three distinct segments: a food review at Caramen Kim Yen (0:00-1:43), a high-energy blind box unboxing at an art toy shop (1:43-3:58), and a sentimental outro montage of packing and leaving Hanoi (3:58-4:32).",
+   "pacing": "The pacing is moderate during the food segment, following the natural flow of conversation. It speeds up significantly during the unboxing with quick cuts and high-energy reactions, then slows down for a rhythmic, reflective montage in the outro.",
+   "music": "The first segment uses only ambient street noise. The toy shop segment features upbeat lo-fi pop to match the excitement. The outro shifts to a soft piano piece to evoke a sense of nostalgia and closure.",
+   "voice": "The creator uses casual, live captured speech for the majority of the clip, characterized by friendly banter and humorous observations. The outro transitions to a scripted, warm voiceover reflecting on the trip.",
+   "sound_design": "Natural ambient sounds are used initially. Key sound effects include the tactile 'pop' of unboxing and the loud, layered cheering during the toy reveal. The 'flycam' joke is accompanied by a quick zoom effect.",
+   "text_style": "Consistent yellow subtitles at the bottom center translate the spoken Vietnamese. Location tags and social media handles are placed in the top corners in a clean, sans-serif font.",
+   "visual_style": "The visual style is classic handheld vlog, utilizing a mix of medium shots for interaction and close-ups for food and products. The outro uses a more composed montage style with fixed camera positions.",
+   "signature_moves": "The 'flycam' zoom-out triggered by blowing on the lens is a distinctive creative touch. The use of high-energy reaction shots during unboxing is also a staple of this style."
+  }
+ }
+]

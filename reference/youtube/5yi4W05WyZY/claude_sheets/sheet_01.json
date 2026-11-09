@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#1 00:01.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in white outfit pulling black suitcase across lawn toward villa",
+   "text_on_screen": "Phú Quốc",
+   "text_style": "white italic script serif, large, centered over lower left and right",
+   "notes": "Title overlay spanning two sides of frame; a small caption sits bottom-left; soft natural daylight grade"
+  },
+  {
+   "label": "#2 00:05.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses and white headphones around neck talking to camera at villa door",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close handheld framing, slight wide-angle distortion; bright outdoor daylight"
+  },
+  {
+   "label": "#2 00:09.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same woman with headphones talking, greenery and white awning behind her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of selfie talking-head take; jump cut from previous shot"
+  },
+  {
+   "label": "#2 00:13.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses and headphones speaking to camera, palm trees at right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tighter selfie angle; bright, slightly warm grade"
+  },
+  {
+   "label": "#3 00:17.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses holding phone close to lens, warm wooden room behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm amber interior lighting; vlog-style close framing"
+  },
+  {
+   "label": "#4 00:19.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman walking with suitcase through open glass door into bright room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Sheer curtains frame shot; soft light; entry-through-doorway transition"
+  },
+  {
+   "label": "#5 00:21.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Man arms spread wide in hotel bedroom, suitcase beside him",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Interior room reveal; bright airy grade"
+  },
+  {
+   "label": "#6 00:23.0",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Tropical palm-lined road toward sea with small figure walking",
+   "text_on_screen": "Phú Quốc",
+   "text_style": "white italic script serif, large, split left and right",
+   "notes": "Establishing scenic landscape; calm forward movement; bright saturated colours"
+  },
+  {
+   "label": "#7 00:24.6",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Poolside lounge chairs under large parasol beside white resort building",
+   "text_on_screen": "Phú Quốc",
+   "text_style": "white italic script serif, large, split left and right",
+   "notes": "Title card overlay over establishing shot; bright daylight"
+  },
+  {
+   "label": "#8 00:26.0",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman in white dress seated on armchair on lawn, leaning back",
+   "text_on_screen": "Phú Quốc",
+   "text_style": "white italic script serif, large, split left and right",
+   "notes": "Overlay persists across cut; greenery and sliding glass door behind"
+  },
+  {
+   "label": "#9 00:27.3",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman with glasses holding phone in stylish bedroom with carved wood panel",
+   "text_on_screen": "Phú Quốc",
+   "text_style": "white italic script serif, large, split left and right",
+   "notes": "Warm sunlit interior; overlay continues across cut"
+  },
+  {
+   "label": "#10 00:28.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with glasses eating at table, plate with food in foreground",
+   "text_on_screen": "Phú Quốc",
+   "text_style": "white italic script serif, large, split left and right",
+   "notes": "Overlay carried over; mid-shot with food close-up; bright interior"
+  },
+  {
+   "label": "#11 00:30.4",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in black swimsuit standing by palm trees on beach near resort",
+   "text_on_screen": "Phú Quốc",
+   "text_style": "white italic script serif, large, split left and right",
+   "notes": "Overlay continues; overcast-bright beach grade with flag pole"
+  },
+  {
+   "label": "#12 00:32.1",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Silhouetted figure walking on empty beach under cloudy sky",
+   "text_on_screen": "Phú Quốc",
+   "text_style": "white italic script serif, large, split left and right",
+   "notes": "Moody cloudy grade; calm sea; overlay closes the sequence"
+  },
+  {
+   "label": "#13 00:35.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with glasses touching chin while speaking at table by window",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Soft natural window light; sheer curtain foreground; new scene start"
+  },
+  {
+   "label": "#13 00:39.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Same woman with glasses gesturing at table, framed artwork behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of previous take; jump cut"
+  }
+ ]
+}

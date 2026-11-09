@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#301 14:18.9",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman sitting on rocky terrain with notebook, looking off to the side",
+   "text_on_screen": "about not knowing where I'm going or who I'm going with",
+   "text_style": "small yellow sans-serif subtitle, bottom center",
+   "notes": "Subtitle-style captions; bright hazy sky, muted desert colour grade"
+  },
+  {
+   "label": "#301 14:23.1",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman sitting on rocks holding notebook, talking",
+   "text_on_screen": "Doing something like this reminds me",
+   "text_style": "small yellow sans-serif subtitle, bottom center",
+   "notes": "Same framing as previous shot, continuous interview-style take"
+  },
+  {
+   "label": "#301 14:27.3",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman gesturing with hand while seated on rocks",
+   "text_on_screen": "we are capable of so much more than we even imagine",
+   "text_style": "small yellow sans-serif subtitle, bottom center",
+   "notes": "Static framing, jump-free continuation"
+  },
+  {
+   "label": "#301 14:31.5",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated with notebook, looking to the right",
+   "text_on_screen": "Like we are only using our selves so much",
+   "text_style": "small yellow sans-serif subtitle, bottom center",
+   "notes": "Static framing"
+  },
+  {
+   "label": "#301 14:35.7",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated on rocks holding notebook, looking up",
+   "text_on_screen": "strong and empowering feelings",
+   "text_style": "small yellow sans-serif subtitle, bottom center",
+   "notes": "Static framing"
+  },
+  {
+   "label": "#301 14:39.9",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman with hand near chin, seated on rocks",
+   "text_on_screen": "Okay, that's enough for me",
+   "text_style": "small yellow sans-serif subtitle, bottom center",
+   "notes": "End of interview segment"
+  },
+  {
+   "label": "#302 14:43.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Snow-dusted volcanic mountain peak above dark lava rock ridge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Clear blue sky, warm sunlit peak contrasting with shadowed foreground"
+  },
+  {
+   "label": "#303 14:44.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Dark rugged cliffs and ridgelines under bright sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Landscape establishing shot, slightly higher-contrast grade"
+  },
+  {
+   "label": "#304 14:46.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Dark lava ridge with cloud cover over distant mountain",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overcast mood, cool tones"
+  },
+  {
+   "label": "#305 14:47.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Campsite with green tents and white flag on dark volcanic ground, red tent edge in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Campsite reveal, foreground tent partially framing shot"
+  },
+  {
+   "label": "#306 14:48.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Tan tent pitched below large rocky cliff face",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm sunlit grade, cliff dominates frame"
+  },
+  {
+   "label": "#307 14:49.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Cloud-covered mountain ridge with dark rock cliffs",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Cool overcast tones, transition-friendly landscape"
+  },
+  {
+   "label": "#308 14:52.7",
+   "shot": "title_card",
+   "camera": "drone",
+   "subject": "Aerial view of volcanic terrain with title card and altitude gauge",
+   "text_on_screen": "MOIR HUT DAY 4 | 4,150 M 13,780 FT 69%",
+   "text_style": "MOIR HUT in large gold serif-style caps, DAY 4 in smaller white sans-serif below, altitude gauge in small white text top-left with orange ring graphic",
+   "notes": "Title overlay on aerial drone footage, orange progress-ring graphic"
+  },
+  {
+   "label": "#309 14:57.5",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Person in dark jacket with red mug and teal tent fabric in frame",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close, cropped framing, teal tent edge at left"
+  },
+  {
+   "label": "#310 15:02.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in dark hood sitting in front of coral and teal tent holding red bowl",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Campsite scene, bright daylight, slight warm grade"
+  },
+  {
+   "label": "#310 15:07.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman sitting in tent doorway with red bowl, coral and teal tents around",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of previous shot from a slightly different angle"
+  }
+ ]
+}

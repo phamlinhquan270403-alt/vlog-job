@@ -1,0 +1,145 @@
+{
+ "start": 480,
+ "events": [
+  {
+   "t": 480.0,
+   "type": "talk_to_camera",
+   "what": "Creator talks to camera in a tiled room; music starts (upbeat, world-fusion electronic)."
+  },
+  {
+   "t": 482.3,
+   "type": "broll",
+   "what": "Montage of Samarkand architecture and tiled interiors."
+  },
+  {
+   "t": 490.8,
+   "type": "talk_to_camera",
+   "what": "Live capture of conversation in a park about Uzbek culture and hospitality."
+  },
+  {
+   "t": 523.7,
+   "type": "music",
+   "what": "Music changes to a more rhythmic, percussion-heavy track."
+  },
+  {
+   "t": 525.8,
+   "type": "text",
+   "what": "Text 'NEXT UP...' appears bottom left."
+  },
+  {
+   "t": 527.7,
+   "type": "text",
+   "what": "Large centered text 'SIAB BAZAAR' over market b-roll."
+  },
+  {
+   "t": 533.0,
+   "type": "talk_to_camera",
+   "what": "Live capture walking into the bazaar, introducing the location."
+  },
+  {
+   "t": 545.7,
+   "type": "text",
+   "what": "Text 'AND WE'RE GOING TO TASTE TEST AS MUCH AS WE CAN...' appears bottom left."
+  },
+  {
+   "t": 550.0,
+   "type": "talk_to_camera",
+   "what": "Extended sequence of tasting various fruits, tomatoes, and spices with live reactions."
+  },
+  {
+   "t": 650.6,
+   "type": "talk_to_camera",
+   "what": "Creator shows a bag of mountain tea and discusses organic food in Uzbekistan."
+  },
+  {
+   "t": 671.9,
+   "type": "talk_to_camera",
+   "what": "Tasting spicy pickled vegetables; discussion of Korean influence in Uzbek food."
+  },
+  {
+   "t": 693.7,
+   "type": "talk_to_camera",
+   "what": "Interaction with dairy sellers; discussion about marriage and eyebrows in local culture."
+  },
+  {
+   "t": 769.6,
+   "type": "music",
+   "what": "Music shifts to a lighter, melodic electronic track."
+  },
+  {
+   "t": 772.8,
+   "type": "talk_to_camera",
+   "what": "Live capture in a car discussing societal changes and education for women."
+  },
+  {
+   "t": 819.5,
+   "type": "text",
+   "what": "Text 'IT'S TIME FOR A PROPER LUNCH' centered over restaurant entrance."
+  },
+  {
+   "t": 829.5,
+   "type": "text",
+   "what": "Text 'MASTAVA' centered over a bowl of soup."
+  },
+  {
+   "t": 830.0,
+   "type": "talk_to_camera",
+   "what": "Live capture eating lunch and describing the traditional soup."
+  },
+  {
+   "t": 848.6,
+   "type": "broll",
+   "what": "Montage of the group dancing with locals in the restaurant."
+  },
+  {
+   "t": 858.4,
+   "type": "text",
+   "what": "Text 'AND THE JOURNEY CONTINUES' on black screen; music changes to acoustic travel-vibe."
+  },
+  {
+   "t": 859.8,
+   "type": "voiceover",
+   "what": "Voiceover begins over travel b-roll (train, plane, car)."
+  },
+  {
+   "t": 867.8,
+   "type": "text",
+   "what": "Large centered text 'KYRGYZSTAN' over drone footage of a lake."
+  },
+  {
+   "t": 875.6,
+   "type": "talk_to_camera",
+   "what": "Live capture in a car in Bishkek, Kyrgyzstan, introducing the next leg of the trip."
+  },
+  {
+   "t": 879.2,
+   "type": "text",
+   "what": "Text 'THERE WILL BE A FULL VIDEO ON KYRGYZSTAN COMING SOON' on black screen."
+  },
+  {
+   "t": 900.0,
+   "type": "text",
+   "what": "Text 'TIME TO START OUR TREK VIA HORSEBACK & RIDE 5 HOURS TO OUR CAMP FOR THE NIGHT' over car b-roll."
+  },
+  {
+   "t": 902.6,
+   "type": "talk_to_camera",
+   "what": "Live capture preparing for the horseback trek."
+  },
+  {
+   "t": 926.1,
+   "type": "talk_to_camera",
+   "what": "Talking to camera while riding a horse through the mountains."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a travel journey through Uzbekistan and into Kyrgyzstan. It begins with a cultural exploration of Samarkand (0:00-0:45), followed by an extensive food tour of the Siab Bazaar (0:45-4:48). A car conversation transitions the group to a traditional lunch (4:48-6:18). The final segment covers the travel transition to Kyrgyzstan and the start of a mountain trek (6:18-8:00).",
+  "pacing": "The pacing is dynamic, utilizing fast-cut montages for transitions and location reveals, while slowing down for live interactions, food tastings, and cultural discussions.",
+  "music": "The music is a key driver, featuring upbeat world-fusion electronic tracks that change to reflect the energy of different segments, ending with a more acoustic, adventurous theme for the mountain trek.",
+  "voice": "The creators use an enthusiastic and informative tone. Most of the audio is captured live during interactions, providing an immersive feel, with brief voiceover used during travel transitions.",
+  "sound_design": "Natural ambient sounds from the bazaar and nature are layered under the music. Sound design is minimal, relying on the rhythmic flow of the music and live dialogue.",
+  "text_style": "Simple, white, sans-serif font is used for location titles (centered, large) and contextual information or food names (smaller, often bottom-aligned).",
+  "visual_style": "The visual style is vibrant and high-quality, mixing handheld shots for intimacy during tastings with sweeping drone footage and car-window b-roll to establish scale and movement.",
+  "signature_moves": "Signature moves include 'taste test' montages with immediate live reactions, talking to camera while in motion (walking, driving, riding), and using large centered text to mark major location shifts."
+ }
+}

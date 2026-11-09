@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#1 00:01.8",
+   "shot": "title_card",
+   "camera": "drone",
+   "subject": "Mountain slope with title card reading The Italian Dolomites over rocky terrain",
+   "text_on_screen": "THE ITALIAN DOLOMITES (small line above and fine print below, partly illegible)",
+   "text_style": "White serif-style capitals, large centered-left title, small white caption text beneath, light and semi-transparent",
+   "notes": "Cinematic grade, soft desaturated greens and greys, title overlaid on landscape"
+  },
+  {
+   "label": "#2 00:03.9",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Misty green valley with village and cliffs at sunrise",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm morning haze, soft clouds in valley, pale golden light"
+  },
+  {
+   "label": "#3 00:04.6",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "White daisies in meadow with jagged rock peaks behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shallow depth of field on foreground flowers, bright natural colours"
+  },
+  {
+   "label": "#4 00:05.6",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Dramatic rocky cliffs and scree slope with clouds",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slow forward drone move, warm muted grade"
+  },
+  {
+   "label": "#5 00:06.6",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman with backpack walking away through yellow flower meadow",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Rear view, follows subject down path, bright saturated greens and yellows"
+  },
+  {
+   "label": "#6 00:07.3",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Hiker with poles on dirt path, grazing cows, mountain range",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Pastoral alpine scene, blue sky with clouds"
+  },
+  {
+   "label": "#7 00:08.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Small figure hiking across rocky boulder field toward cliffs",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide establishing shot, muted earthy grade"
+  },
+  {
+   "label": "#8 00:09.2",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Rocky ridge overlooking valley and distant snowy peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Forward drone glide, clear blue sky, cool tones"
+  },
+  {
+   "label": "#9 00:09.9",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Two hikers with backpacks on gravel path toward mountains",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, lush green foreground, tracking shot"
+  },
+  {
+   "label": "#10 00:10.6",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Man with large backpack seen from behind, looking at peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Over-shoulder rear view, cool blue-green grade"
+  },
+  {
+   "label": "#11 00:11.3",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Two palomino horses grazing near small pond in meadow",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Calm pastoral scene, natural colours"
+  },
+  {
+   "label": "#12 00:11.8",
+   "shot": "closeup",
+   "camera": "gimbal",
+   "subject": "Palomino horse close up beside water with rocks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shallow focus, warm golden tones, partial frame at right edge"
+  },
+  {
+   "label": "#13 00:12.4",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Horses and cattle near stream with mossy rocks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Green natural palette, rustic feel"
+  },
+  {
+   "label": "#14 00:13.1",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Person walking on grassy slope past grazing cows",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Mid-distance, stream and rocks in foreground"
+  },
+  {
+   "label": "#15 00:13.8",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in black outfit crossing stream on stones, horse behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tracking shot, green meadow, bright daylight"
+  },
+  {
+   "label": "#16 00:14.6",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Smiling woman with backpack and poles beside alpine village",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Subject glances off-frame, mountain and forest background, warm grade"
+  }
+ ]
+}

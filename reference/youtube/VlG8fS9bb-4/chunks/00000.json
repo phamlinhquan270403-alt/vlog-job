@@ -1,0 +1,180 @@
+{
+ "start": 0,
+ "events": [
+  {
+   "t": 0.0,
+   "type": "music",
+   "what": "Upbeat, jazzy instrumental music starts, setting an energetic tone for the intro."
+  },
+  {
+   "t": 0.0,
+   "type": "title",
+   "what": "Title text 'Solo in Shanghai' appears in a stylized font."
+  },
+  {
+   "t": 0.0,
+   "type": "broll",
+   "what": "Fast-paced montage of Shanghai cityscapes, food, and the creator."
+  },
+  {
+   "t": 1.0,
+   "type": "text",
+   "what": "Text '2026' appears at the bottom left."
+  },
+  {
+   "t": 3.0,
+   "type": "text",
+   "what": "Social media handle '@apinvy' appears at the bottom right."
+  },
+  {
+   "t": 17.5,
+   "type": "music",
+   "what": "Music transitions to a chill, lo-fi beat."
+  },
+  {
+   "t": 17.5,
+   "type": "text",
+   "what": "Text 'ngày một' (day one) appears over a shot of an airplane window."
+  },
+  {
+   "t": 18.8,
+   "type": "talk_to_camera",
+   "what": "Creator speaks to the camera while seated on the plane, showing her t-shirt."
+  },
+  {
+   "t": 19.8,
+   "type": "text",
+   "what": "Text 'album nghe trên chuyến bay hôm nay' (album listened to on today's flight) as she shows her phone screen."
+  },
+  {
+   "t": 23.7,
+   "type": "ambient",
+   "what": "Sound of the pilot's announcement over the plane's intercom."
+  },
+  {
+   "t": 28.1,
+   "type": "talk_to_camera",
+   "what": "Creator walks through Pudong Airport, talking to the camera about her arrival."
+  },
+  {
+   "t": 29.0,
+   "type": "text",
+   "what": "Location tag '@ Pudong Airport' in yellow text."
+  },
+  {
+   "t": 41.8,
+   "type": "text",
+   "what": "Text 'Amap' appears as she shows the navigation app on her phone."
+  },
+  {
+   "t": 49.2,
+   "type": "talk_to_camera",
+   "what": "Creator continues walking, discussing transportation options like the Maglev."
+  },
+  {
+   "t": 50.0,
+   "type": "text",
+   "what": "Translation text 'maglev = tàu đệm từ'."
+  },
+  {
+   "t": 68.0,
+   "type": "talk_to_camera",
+   "what": "Creator is now on the metro, talking about the empty train."
+  },
+  {
+   "t": 69.8,
+   "type": "sfx",
+   "what": "Exaggerated gulping sound effect as she drinks water."
+  },
+  {
+   "t": 84.0,
+   "type": "text",
+   "what": "Contextual text 'Vy đang cố scan cái mã QR này...' (Vy is trying to scan this QR code...)."
+  },
+  {
+   "t": 88.0,
+   "type": "talk_to_camera",
+   "what": "Creator walks on the street, explaining issues with the bike-sharing app."
+  },
+  {
+   "t": 92.0,
+   "type": "text",
+   "what": "Translation text 'verify = xác thực danh tính'."
+  },
+  {
+   "t": 126.0,
+   "type": "text",
+   "what": "Location tag '@ Lailai Xiaolong' in yellow text."
+  },
+  {
+   "t": 128.6,
+   "type": "talk_to_camera",
+   "what": "Creator sits at a restaurant table, talking about the food prices and her trip."
+  },
+  {
+   "t": 169.5,
+   "type": "sfx",
+   "what": "Natural eating and slurping sounds are emphasized during the food montage."
+  },
+  {
+   "t": 192.0,
+   "type": "text",
+   "what": "Text 'he he được check in rồi' (he he, checked in) as she walks down the hotel hallway."
+  },
+  {
+   "t": 194.0,
+   "type": "talk_to_camera",
+   "what": "Creator walks to her room, expressing excitement about an upgrade."
+  },
+  {
+   "t": 215.0,
+   "type": "other",
+   "what": "Mirror selfie shot showing the room's vanity and lighting."
+  },
+  {
+   "t": 219.5,
+   "type": "talk_to_camera",
+   "what": "Creator sits in the room, showing the booking details on her phone."
+  },
+  {
+   "t": 236.5,
+   "type": "text",
+   "what": "Location tag '@ The Treasury NOA Jing'an Temple' in yellow text."
+  },
+  {
+   "t": 259.8,
+   "type": "talk_to_camera",
+   "what": "Creator sits on the bed, reflecting on the trip and sharing travel tips."
+  },
+  {
+   "t": 311.8,
+   "type": "text",
+   "what": "Translation text 'navigate = xoay sở'."
+  },
+  {
+   "t": 346.5,
+   "type": "text",
+   "what": "Contextual text '(app Translate có sẵn trong iphone)' as she demonstrates the app."
+  },
+  {
+   "t": 412.0,
+   "type": "sfx",
+   "what": "Standard iPhone alarm sound effect."
+  },
+  {
+   "t": 413.0,
+   "type": "talk_to_camera",
+   "what": "Creator gets ready for the evening, applying makeup while talking to the camera."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows the creator's first day in Shanghai. It opens with a high-energy montage (0:00-0:17), followed by the flight and arrival at the airport (0:17-1:18). She then navigates the city to find food (1:18-3:12), checks into her hotel and gives a room tour (3:12-4:18), shares travel reflections and app tips (4:18-6:52), and finally prepares for an evening out (6:52-end).",
+  "pacing": "The pacing is very fast during the intro montage with rapid cuts. Once the vlog begins, it settles into a medium pace, alternating between direct address to the camera and illustrative b-roll or phone screen recordings.",
+  "music": "Starts with upbeat jazz for the intro, then switches to a consistent, laid-back lo-fi beat that runs throughout the vlog, ducked appropriately under the creator's speech.",
+  "voice": "The creator uses a friendly, conversational, and slightly humorous tone. She speaks directly to the camera for the majority of the clip, providing a personal and informative narrative of her experiences.",
+  "sound_design": "Includes natural ambient sounds from the airport and metro, as well as emphasized eating sounds. Specific sound effects like a gulping sound and an iPhone alarm are used for emphasis and transition.",
+  "text_style": "Uses a clean, sans-serif font. Location tags and translations are typically in yellow, while other contextual information is in white. Text is often placed in the lower thirds or near relevant objects.",
+  "visual_style": "The visual style is typical of a high-quality travel vlog: handheld but stable shots, a mix of wide cityscapes and close-up details (especially of food and phone screens), and a bright, natural color grade.",
+  "signature_moves": "Key signature moves include showing phone screens to explain specific apps or bookings, frequent mirror selfies to show outfits or room features, and providing on-screen translations for English terms used."
+ }
+}

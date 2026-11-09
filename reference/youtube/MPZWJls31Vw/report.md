@@ -1,0 +1,142 @@
+# an UNEDITED day in my life *real and unfiltered vlog*
+
+- source: https://www.youtube.com/watch?v=MPZWJls31Vw
+- channel: Laurin Hwang, uploaded 20220119, 4672 views
+- 1280x720, 536.8s, video: `G:\Vlog-job\reference\youtube\MPZWJls31Vw\video.mp4`
+- 118 shots (13/min), shot length p25/median/p75 1.48/2.35/3.80s, longest 103.9s
+- transcript: YouTube captions (video.en-orig.json3)
+
+## Contact sheets (`sheets/`, each label is `#shot mm:ss.s`)
+
+- `sheet_01.jpg`: shots 1–10
+- `sheet_02.jpg`: shots 10–10
+- `sheet_03.jpg`: shots 10–15
+- `sheet_04.jpg`: shots 16–29
+- `sheet_05.jpg`: shots 30–43
+- `sheet_06.jpg`: shots 44–59
+- `sheet_07.jpg`: shots 60–75
+- `sheet_08.jpg`: shots 76–84
+- `sheet_09.jpg`: shots 85–98
+- `sheet_10.jpg`: shots 99–114
+- `sheet_11.jpg`: shots 115–118
+
+## Timeline (shot, start, length, speech during the shot)
+
+- #1 00:00.0 0.5s
+- #2 00:00.5 2.4s
+- #3 00:02.9 1.7s
+- #4 00:04.6 1.3s
+- #5 00:05.9 0.6s
+- #6 00:06.5 0.8s
+- #7 00:07.4 3.0s
+- #8 00:10.4 4.0s
+- #9 00:14.4 1.3s
+- #10 00:15.7 103.9s — good morning guys so i am trying / something new for this video i'm gonna / be doing an unedited day in my life a / lot of things on youtube are edited and / filters out a large portion of the day / five to ten minute day in my life videos / are not equivalent to 24 hours in / someone's shoes most of the time it's / only the positive parts that are seen / and even if it's not positive it ends up / looking really aesthetic i have even / watched my previous videos i just look / so happy yeah i was happy but i wasn't / happy / the whole day like my life isn't perfect / no one's life is perfect and i kind of / want to share that side of life with you / guys not just as a content creator / youtuber showing my bad side to people / who watch my videos but to anyone on / youtube it's just not mentally healthy / to think that all these youtubers that / you watch that their lives are perfect / and they get everything they want / because that's just not how it goes i / can assure you that every single one of / you guys watching has something that / someone else wants by unedited i mean / like no extra sound effects no color / correction no background music no cool / transitions but i am gonna cut like / parts where i say um or take a long / pause and i'm gonna add text wherever / it's needed but i'm not gonna do any / sort of editing to make it look / aesthetically pleasing i know this is / like really different from what you / would normally see on my channel because / i feel like the content i put out is / like pretty aesthetic like i edit for a / really long time to make it look / aesthetically pleasing so today is / january 13th it's currently 8 33 / i am about to go to orange theory to go
+- #11 01:59.6 42.9s — i am about to go to orange theory to go / work out if you don't know what it is / it's basically an hour workout split / into three groups treadmill rower and / weights and you have an instructor / telling you what to do and everything / last night i was just like / i want / to / not romanticize youtube and just like / not romanticize life because it can make / other people feel shitty about their / life and yeah although like productive / morning routines productive day in my / life obviously those are motivating / at the same time / it's motivating because it might make / other people's / lives feel like it / and like that just like shouldn't / be the case i'm gonna be late so let's / go / favorite caffeinated drink
+- #12 02:42.5 5.9s — favorite caffeinated drink
+- #13 02:48.4 2.0s
+- #14 02:50.4 2.3s
+- #15 02:52.8 4.2s
+- #16 02:57.0 1.6s
+- #17 02:58.6 2.1s
+- #18 03:00.7 2.2s — is
+- #19 03:02.9 2.5s
+- #20 03:05.4 3.1s
+- #21 03:08.4 1.8s
+- #22 03:10.3 2.1s — i just finished the workout guys this is
+- #23 03:12.4 3.5s — i just finished the workout guys this is / what i look like yeah my face gets
+- #24 03:15.9 15.7s — really red when i work out now i'm gonna / go home i'm going to fullerton which is / like a town 40 minutes away from where i / live so i need to kind of hurry because / my appointment's at 11. / my appointment's at 11 and it's / currently 10 o'clock i have a
+- #25 03:31.5 2.4s — dermatologist appointment
+- #26 03:33.9 4.2s — anyways / i'm like really struggling i'm going to
+- #27 03:38.1 2.4s — the dermatologist for my acne my acne i
+- #28 03:40.4 5.2s — i've had really well not really bad i've / had acne since i was like in like
+- #29 03:45.7 3.2s — seventh grade i would say like middle / school i've gone to the dermatologist
+- #30 03:48.8 10.4s — like probably three four times now and / it always gets fixed for probably like a / year and then it just comes back and / slowly gets worse my acne has gone
+- #31 03:59.3 1.5s — really bad
+- #32 04:00.7 3.7s
+- #33 04:04.4 2.9s — [Music]
+- #34 04:07.4 2.0s — okay
+- #35 04:09.4 3.3s — okay
+- #36 04:12.6 1.6s
+- #37 04:14.2 2.0s — so they told me i need to get laser
+- #38 04:16.2 1.2s — so they told me i need to get laser
+- #39 04:17.4 3.1s — treatment so here's me freaking out a / little bit and then this white stuff is
+- #40 04:20.4 2.8s — some numbing cream so that it doesn't
+- #41 04:23.2 7.5s — hurt as badly and they also gave me a / shot / and this machine is the micro needling / laser thingy that they used this is just
+- #42 04:30.7 8.3s — when they did it to me and i know i look / like an actual egg
+- #43 04:39.0 3.7s — and then after that they use this laser / thing final step and they gave me really
+- #44 04:42.6 2.4s — silly looking goggles
+- #45 04:45.1 1.6s
+- #46 04:46.7 1.2s — my face was so purple i actually look
+- #47 04:47.9 0.3s
+- #48 04:48.1 1.5s — like i was suffocating this is what i
+- #49 04:49.6 0.7s
+- #50 04:50.3 6.5s — look like afterwards i didn't realize / that this is what i look like / i literally look so scary and
+- #51 04:56.8 4.1s — i literally look so scary and / kind of crazy
+- #52 05:00.9 1.4s — so it looks like i murdered someone and
+- #53 05:02.3 4.3s — so it looks like i murdered someone and / forgot to wash my face we just finished
+- #54 05:06.6 4.8s — going to the dermatologist / oh my god i look crazy now we're getting
+- #55 05:11.4 3.8s — a crumble cookie and i need to walk into / the store like this so we made it to
+- #56 05:15.2 3.1s — crumble
+- #57 05:18.4 0.3s
+- #58 05:18.6 0.3s
+- #59 05:18.9 2.4s
+- #60 05:21.3 0.8s
+- #61 05:22.1 1.9s
+- #62 05:23.9 2.2s
+- #63 05:26.1 3.6s — oh the frosting's falling off of that / one
+- #64 05:29.7 4.3s — those are my dogs playing
+- #65 05:34.0 1.4s — oh my god they look so good
+- #66 05:35.4 1.9s — oh my god they look so good
+- #67 05:37.2 1.7s — classic sugar cookie frozen hot
+- #68 05:38.9 1.4s — chocolate regular chocolate chip walnut
+- #69 05:40.3 2.9s — chocolate chip cinnamon roll and
+- #70 05:43.2 2.2s — neapolitan so i actually didn't film me
+- #71 05:45.4 5.8s — eating them but my rankings for them / would definitely be the frozen hot / chocolate chocolate chip cookie cinnamon
+- #72 05:51.2 1.1s
+- #73 05:52.3 0.8s — roll neapolitan walnut and then the
+- #74 05:53.1 0.7s — roll neapolitan walnut and then the
+- #75 05:53.8 0.6s
+- #76 05:54.4 1.6s — classic sugar cookie i look actually
+- #77 05:56.0 2.6s — insane
+- #78 05:58.6 31.0s — i didn't actually film me eating the / cookies because i was tasting them with / my sister and my mom and i kind of / wanted it to just be like a moment of / like bonding oh my god i look crazy like / a moment of like bonding and i ate too / much my stomach hurts now it feels like / i just ate a bunch of sugar which i did / now i'm on the way to the library to / pick up some books because i like / renting them from the library instead of / paying for them if they're fiction books / i'm gonna go pick up some books right / now should be very fun i got some pretty / good
+- #79 06:29.5 2.7s — [Music]
+- #80 06:32.2 1.2s — select from the books menu for customer
+- #81 06:33.4 0.5s — select from the books menu for customer
+- #82 06:33.8 1.1s
+- #83 06:34.9 6.5s — service including getting a library card / book renewal or late fees press 2.
+- #84 06:41.4 10.3s — hi i'm here to pick up some books yeah / of course thank you i'll check out and / bring it up okay thank you so much they / fade away he smokes a cliff and then / he's broke
+- #85 06:51.7 2.2s — the longest / baby do it leap and make him dance when
+- #86 06:54.0 2.3s — baby do it leap and make him dance when / they come on
+- #87 06:56.2 2.3s — me at the perfect time
+- #88 06:58.5 11.0s — [Music] / a little bit too loud / let's go get my bugs oh / god / jipity doodah let's go
+- #89 07:09.5 1.8s
+- #90 07:11.3 2.4s
+- #91 07:13.7 1.6s — i got quite a few books first is daisy
+- #92 07:15.4 2.3s — i got quite a few books first is daisy
+- #93 07:17.6 2.9s — jones in the sixth i heard this is
+- #94 07:20.6 3.7s — really good so i am so excited to read / this the wedding date most of these are
+- #95 07:24.3 5.7s — like romance books because romance books / are like my favorite genre the love scam
+- #96 07:30.0 3.0s — in five years and lastly take a hint
+- #97 07:33.0 2.6s — one of my new year's resolutions is to
+- #98 07:35.6 9.5s — one of my new year's resolutions is to / read 45 books for the whole year which / means that every month i need to read / like three or four books i make making / my way through let's go back home
+- #99 07:45.1 1.9s
+- #100 07:47.0 6.7s — never gets old just never gets old / i have to go or else i will do this
+- #101 07:53.7 2.2s — i have to go or else i will do this / forever i actually look crazy we're
+- #102 07:55.9 2.6s
+- #103 07:58.5 4.6s — opening some packages my sister has / misguided leather pants
+- #104 08:03.1 3.5s — show the camera / boom / i have got gym shark sports bra
+- #105 08:06.6 1.0s — i have got gym shark sports bra
+- #106 08:07.6 1.0s
+- #107 08:08.6 2.2s
+- #108 08:10.8 1.4s
+- #109 08:12.2 1.0s — cute this is the book i'm currently
+- #110 08:13.2 5.7s — reading it's called the x talk i am so / close to finishing i am that close i'm
+- #111 08:18.9 1.1s — going to read right now drop the roof
+- #112 08:20.0 4.6s — and let the smoke clear i got diamonds / doing 2t7
+- #113 08:24.5 2.1s
+- #114 08:26.6 5.5s — lauren killed someone / drop the whooping left smokey
+- #115 08:32.1 2.7s
+- #116 08:34.8 2.7s — so this was our dinner it was some sort / of korean spicy meat thing but that is
+- #117 08:37.5 0.9s
+- #118 08:38.4 18.4s — the end of the video i didn't film / anything after dinner i basically just / did my whole night routine and went to / sleep i really hope that i was able to / show you guys that no one's life is / perfect no one's life is aesthetic as it / seems online i know this was insanely / different from what i normally post let / me know what you guys thought of it i / love you all bye

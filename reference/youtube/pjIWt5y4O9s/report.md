@@ -1,0 +1,794 @@
+# 5 ngày ở Hà Nội là không đủ | chỉ có ăn và ăn ( ;´ - `;)
+
+- source: https://www.youtube.com/watch?v=pjIWt5y4O9s
+- channel: hà vy, uploaded 20250302, 627377 views
+- 1280x720, 2673.3s, video: `G:\Vlog-job\reference\youtube\pjIWt5y4O9s\video.mp4`
+- 468 shots (11/min), shot length p25/median/p75 1.92/2.75/5.46s, longest 106.9s
+- transcript: YouTube captions (video.vi-orig.json3)
+
+## Contact sheets (`sheets/`, each label is `#shot mm:ss.s`)
+
+- `sheet_01.jpg`: shots 1–15
+- `sheet_02.jpg`: shots 15–21
+- `sheet_03.jpg`: shots 22–33
+- `sheet_04.jpg`: shots 33–41
+- `sheet_05.jpg`: shots 42–57
+- `sheet_06.jpg`: shots 58–73
+- `sheet_07.jpg`: shots 74–88
+- `sheet_08.jpg`: shots 89–104
+- `sheet_09.jpg`: shots 105–120
+- `sheet_10.jpg`: shots 121–134
+- `sheet_11.jpg`: shots 135–148
+- `sheet_12.jpg`: shots 149–162
+- `sheet_13.jpg`: shots 162–164
+- `sheet_14.jpg`: shots 165–171
+- `sheet_15.jpg`: shots 171–178
+- `sheet_16.jpg`: shots 179–194
+- `sheet_17.jpg`: shots 195–206
+- `sheet_18.jpg`: shots 207–212
+- `sheet_19.jpg`: shots 213–220
+- `sheet_20.jpg`: shots 220–229
+- `sheet_21.jpg`: shots 230–237
+- `sheet_22.jpg`: shots 238–242
+- `sheet_23.jpg`: shots 243–253
+- `sheet_24.jpg`: shots 254–266
+- `sheet_25.jpg`: shots 267–273
+- `sheet_26.jpg`: shots 274–274
+- `sheet_27.jpg`: shots 274–275
+- `sheet_28.jpg`: shots 275–283
+- `sheet_29.jpg`: shots 283–287
+- `sheet_30.jpg`: shots 288–301
+- `sheet_31.jpg`: shots 301–303
+- `sheet_32.jpg`: shots 304–313
+- `sheet_33.jpg`: shots 314–327
+- `sheet_34.jpg`: shots 327–333
+- `sheet_35.jpg`: shots 334–349
+- `sheet_36.jpg`: shots 350–363
+- `sheet_37.jpg`: shots 364–377
+- `sheet_38.jpg`: shots 377–377
+- `sheet_39.jpg`: shots 377–384
+- `sheet_40.jpg`: shots 384–399
+- `sheet_41.jpg`: shots 400–412
+- `sheet_42.jpg`: shots 413–425
+- `sheet_43.jpg`: shots 425–435
+- `sheet_44.jpg`: shots 435–441
+- `sheet_45.jpg`: shots 441–454
+- `sheet_46.jpg`: shots 454–467
+- `sheet_47.jpg`: shots 468–468
+
+## Timeline (shot, start, length, speech during the shot)
+
+- #1 00:00.0 3.0s — [âm nhạc]
+- #2 00:03.0 1.1s
+- #3 00:04.0 0.9s
+- #4 00:04.9 0.8s
+- #5 00:05.7 0.9s
+- #6 00:06.6 0.9s
+- #7 00:07.5 1.1s
+- #8 00:08.6 1.0s
+- #9 00:09.6 1.3s
+- #10 00:10.9 0.9s
+- #11 00:11.8 0.8s
+- #12 00:12.6 1.0s
+- #13 00:13.6 1.3s
+- #14 00:14.9 10.6s — Chờ mọi người nhìn cái nắng này là mọi / người đoán coi viy đã đến đâu rồi má ta / hỏi là như mọi người không đọc được tiêu / đề của video Nhưng mà Vy đang ở Hà Nội / và V cũng mới tới cái airbnb của Vy luôn
+- #15 00:25.6 21.0s — và V cũng mới tới cái airbnb của Vy luôn / Thực ra V không phải mới tới Hà Nội đâu / mà là tới được tầm 4n năm hôm rồi nhưng / mà mấy hôm trước thì viy bận vị gia đình / và tới hôm nay á thì Vy mới bứt một cái / ABB riêng để viy ra vi ở bây giờ là viy / muốn tự chơi Hà Nội nhiều hơn á do thực / sự là năm nào viy cũng đi Hà Nội hết á / nhưng mà không năm nào mà viy được ở lại / nhiều để mà chơi ới Hà Nội thiệt nhiều á / và Vy có một cái fun fact mà Vy không
+- #16 00:46.5 18.1s — và Vy có một cái fun fact mà Vy không / biết mọi người có biết không Không tựt / ra nó cũng không có fun lắm Nó chỉ là / fact thôi đó là thật ra vi có Bắc là cả / bố mẹ viy đều là người Bắc luôn là quê / của viy là ở Thái Bình còn quê mẹ của / viy là ở Nam Định cho nên đó là tại sao / năm nào vi cũng ra Hà Nội hết nhưng mà / thường do vậy á cho nên là vi thường ra / Hà Nội bởi vì có việc nhà hay là có việc / gia đình gì đó xong rồi Đợt này vi quyết
+- #17 01:04.6 2.5s — định đặt airbnb ở hoàng kiếm luôn ê má
+- #18 01:07.2 13.7s — nhưng mà nó là hoàng kiếm nhưng mà nó / hơi touristy quá ý là không có cái gì / sai với việc touristy hết nhưng mà lúc / mà V đến phố tại người Tây mà K cảm giác / như không ở Hà Nội cảm giác như đang ở / Mỹ hay là ở châu Âu gì á như vậy phải
+- #19 01:20.9 9.6s — cực kỳ ứng cái airbnb này luôn nha V nhớ / là đặt bốn đêm là có tầm 3,8 triệu mà / chưa tới 4 triệu là chưa tới 1 triệu đêm / nữa mà rất là dễ thương luôn kiểu nó / sạch sạch sẽ nó mới ban đầu á V cứ tưởng
+- #20 01:30.5 3.6s — là nó nằm trên một cái tòa nhà cũ thì nó / sẽ hơi bị xuống cấp nhưng mà không bước
+- #21 01:34.1 4.0s — sẽ hơi bị xuống cấp nhưng mà không bước / vô Nhữ nó rất là mới luôn đặc biệt là / nhà vệ sinh nhà vệ sinh cũng rất là hiện
+- #22 01:38.1 3.6s — đại rất là mới và V thích điều đó Bởi vì / cái lúc mà vi kiếm airb B ở Hà Nội á thì
+- #23 01:41.6 1.9s — đa phần Ờ airb B nó sẽ theo phong cách
+- #24 01:43.5 5.6s — là kiểu chung cư cũ hay là vintage hay / sao đó cái đó V nghĩ nhìn nó rất là dễ
+- #25 01:49.2 6.4s — thương chụp hình nó sẽ rất là lên hình / đẹp nhưng mà để mà ở lâu dài kiểu tầm 4 / 5 ngày như vi muốn á thì vi thấy nó sẽ / hơi bất tiện và không được thoải mái lắm
+- #26 01:55.6 3.1s — cá nhân vi Thì vậy cho nên cho nên là vi
+- #27 01:58.7 1.8s — được cái chỗ này thấy bất ngờ vải bởi vì
+- #28 02:00.5 2.3s — cái vị trí nó cũng khá trung tâm nữa Một / lát nữa là sẽ có chị hàng chuy mặt đồ
+- #29 02:02.7 15.4s — lát nữa là sẽ có chị hàng chuy mặt đồ / hay là chị Trang sẽ qua dẫn vi đi chơi / chị Trang tính là sẽ cho Vi đi thrip / xong rồi đi uống cà phê trứng xong rồi / đi ăn nướng gầm cầu gì á V kiểu Ok chị / muốn dẫn ng mới đố được em down for / anything à Với lại do cái đ nó trung tâm
+- #30 02:18.1 7.8s — anything à Với lại do cái đ nó trung tâm / quá cho nên có một cái nhật điểm người / biết là không Cái view cái view hồi nãy / vi thề luôn vi Mở cái cửa sổ ra V kéo / rèm ra cô bán hàng bên cạnh Á nhìn thẳng
+- #31 02:25.9 8.2s — cho mắt vi luôn ba tao thề Tại sao mà nó / á Nó rất là riêng tư nhưng mà nó cũng / rất là công cộng cái view nó hơi xát đng
+- #32 02:34.1 4.4s — một xíu và nó hơi xát mặt mọi người một / xíu với lại cái điều thứ hai á là do cái
+- #33 02:38.5 13.8s — xíu với lại cái điều thứ hai á là do cái / bin bin này nó khá là xát Phố kiểu ngay / đó luôn á mà V nghĩ là nó cũng không có / cách âm tốt nữa cho nên là mọi người nói / gì dưới đường mình nghe thấy được hết đ / là cũng phải nghe thấy hết đâu nhưng mà / người ta chữa chữ nào mình nghe được chữ / đó người ta chữa năm chữ mình nghe được / tầm bốn chữ á Nhưng mà cũng sao v chỉ
+- #34 02:52.3 10.6s — mong là buổi tối không có ai nhậu ở dưới / thôi Bởi vì V sợ có người tối nhậu ở / dưới thì v sẽ không có ngủ được không mà / thật ra nếu có người nhậu ở dưới chắc / tao cũng vô tao tao tao đòi một ly quá / Nói vậy thôi à Xong mà hồi nãy cái đợt
+- #35 03:02.9 8.0s — này á là V mang 2 kg hành lý mà mọi / người tin nổi vi mang 2 kg hành lý 26 kg / cho chí ngày mà viy không mang một đôi / vớ nào không kiểu như hôm trước vi phải
+- #36 03:10.9 13.5s — đặt hỏa tốc sáu đôi vớ liền luôn bởi vì / là tự nhiên V đến sân bay phát hiện ra / là cái đô tất duy nhất vi mang là đô tất / trên chân viy luôn á cho nên Hên là bây / giờ tự nhiên vi có vớ Không những vậy / nha viy quên camera luôn cái camera viy / đang xài á là của chú Nam đây cho viy / mượn xong rồi Trong lúc chờ chị chang
+- #37 03:24.5 2.7s — mượn xong rồi Trong lúc chờ chị chang / quá vi có mua ly cà phê mà tự nhiên viy
+- #38 03:27.1 2.6s — uống cái này xong viy thấy ho nhiều quá
+- #39 03:29.7 16.2s — và với kiểu Ủa tại sao lại ho ta bình / thường mình uống cổng có bị gì đâu là do / cái bột cà phê đây nó khác sau V mới / chợt nhận ra vi đang uống thức uống đá / trong trờ lạnh mẹ không Ho mới lạ luôn á / K như cái cổ họng Vi nó đã không được / khỏe rồi mình thích thách thức cổ họng / như vậy ba Ôi trời ơi nhìn ánh sáng n / đẹp quá à / [âm nhạc]
+- #40 03:45.9 6.7s — Ê ở Hà Nội có một cái vi không quen á đó
+- #41 03:52.6 3.8s — là lái xe máy cực kỳ sợ luôn Trời ơi Vi / thề mọi người lái ở đây như thể mọi
+- #42 03:56.4 2.0s — thề mọi người lái ở đây như thể mọi / người có chín mạng vậ má vi cơ bản Người
+- #43 03:58.4 3.0s — ta lá đã yếu rồi cho nên là lái rung vãi / luôn Nhưng mà Vi lại quên mất điều này
+- #44 04:01.4 3.0s — luôn Nhưng mà Vi lại quên mất điều này / Cho nên là Vi vẫn thuê xe máy sau về lúc
+- #45 04:04.4 2.0s — mà gặp mọi người á ai gặp cũng la viy
+- #46 04:06.4 3.2s — nói là mày không có lái được đâu để tao / lái cho và chị Trang cũng nói vậy luôn
+- #47 04:09.6 3.0s — trời và vì thề chị Trang lái vi rung vãi
+- #48 04:12.7 3.5s — đi đâu chị cũng mày yên tâm tao biết mà / đó đó cái câu nghe quen quen không tới
+- #49 04:16.1 2.2s — giờ vẫn không biết sao v đến được cái / tiệm thrift này còn nguyên vẹn luôn á
+- #50 04:18.3 4.9s — tiệm thrift này còn nguyên vẹn luôn á / Nhưng mà có một điều V rất thích ở chị / Trang á là chị Trang nó gu ăn mặc vải / Mọi người lên insta với tiktok chị Trang
+- #51 04:23.2 2.4s — ng biết th Chị Trang là một trong những / người phối đồ đỉnh nhất mà viy biết cho
+- #52 04:25.6 2.1s — người phối đồ đỉnh nhất mà viy biết cho / nên khi chị Trang dẫn vi đi mua đồ á thì
+- #53 04:27.7 3.2s — vi không suy nghĩ luôn vi biết là 100 % / uy tín rồi chỗ đầu tiên này á là Angel
+- #54 04:30.9 1.8s — thrift shop ai mà đi Hà Nội mà không đi
+- #55 04:32.6 3.0s — chỗ này thì coi như là chưa đi Hà Nội / Nha tiệm này là tiệm bán đồ second hand
+- #56 04:35.6 2.5s — Nha tiệm này là tiệm bán đồ second hand / đẹp giả m luôn nó chuyển đồ nữa nhưng mà
+- #57 04:38.2 2.6s — Style gì cũng có hết á và kể cả ai mặc
+- #58 04:40.8 1.7s — đồ basic như vi á cũng sẽ kiếm nh thứ để
+- #59 04:42.4 1.5s — mua luôn cộng thêm một cái vì thấy mức
+- #60 04:44.0 1.5s — giá rất hợp lý luôn tầm đầ hai đồ ba à
+- #61 04:45.5 2.4s — Với lại là thiệt sự lúc mà vi ra Hà Nội / vi đi thrift á thì vi mới thấy là mặc
+- #62 04:47.9 2.8s — vi đi thrift á thì vi mới thấy là mặc / bằng thrift ở Hà Nội nó cũng rẻ h ở Sài
+- #63 04:50.7 2.6s — Gòn nữa Không những vậy nha Mà cái tiệm / này còn ở hàng bông nữa có nghĩa là
+- #64 04:53.3 2.8s — trung tâm của trung tâm luôn á Nó rất / tiện để đi lại luôn và sau cái hôm này á
+- #65 04:56.1 2.3s — thì vi có đi ăn với chị chủ của shop này
+- #66 04:58.4 3.2s — luôn do chị đó là bạn thân của chị Trang / và V Mới Bất Ngờ á là tới bây giờ vẫn
+- #67 05:01.6 5.1s — chính tay chị chủ lựa từng món hàng cho / shop từ sáng tới khuya luôn V cũng có / hỏi là sao chị không để cho nhân sự lựa
+- #68 05:06.7 3.0s — phụ để cho chị đỡ cực nhưng mà chị ấy / nói là nếu mà chị ấy tự lựa thì cả sóc
+- #69 05:09.7 3.3s — mới có một cái gu ổn định và đồng đề và / chất lượng được và thiệt sử đúng như vậy
+- #70 05:13.1 2.8s — thiệt luôn á do lúc mới vô vi cũng nói / với chị chang á là dù tiện đồ nó có
+- #71 05:15.9 3.9s — với chị chang á là dù tiện đồ nó có / nhiều Style thiệt nhưng mà nó là nhiều / Style của một cô gái á chứ nó không có
+- #72 05:19.8 2.7s — bị rời rạt lẻ tẻ ra xong rồi chị Trang / còn bất ngờ tặng vòng cổ chị Trang tự
+- #73 05:22.5 3.0s — còn bất ngờ tặng vòng cổ chị Trang tự / làm đ chứ Trời ơi What the Đẹp vãi
+- #74 05:25.5 2.1s — luôn mà viy bất ngờ Thật sự á Doo là viy
+- #75 05:27.6 2.4s — không ngờ tới thiệt á viy Cứ nói là chị / chị Trang bán đi Sao mà làm đẹp như vậy
+- #76 05:30.0 3.3s — chị Trang bán đi Sao mà làm đẹp như vậy / mà không bán nhưng mà chị Trang nói / không nha chị Trang thích bán bánh cơ
+- #77 05:33.2 2.1s — còn Tại sao thì để chị đó tự kể nha mình
+- #78 05:35.4 3.1s — sẽ đóng giả / thành Santa Claus nhưng mà Miss Santa
+- #79 05:38.5 8.2s — Claus Miss Santa Claus và Mr Santa Claus / hoặc là yêu tin
+- #80 05:46.7 2.2s — và xinh vãi luôn
+- #81 05:48.9 2.6s — á xinh điên luôn á m xin điên luôn á lúc
+- #82 05:51.5 5.0s — á xinh điên luôn á m xin điên luôn á lúc / này thì lựa được cái áo hai dây này mà
+- #83 05:56.4 4.8s — tiếc quá nó không có vừa vi mặt mém / không thở được luôn Má nhưng mà cái áo / tiếp theo này thì đẹp V ưng giã màng
+- #84 06:01.2 6.2s — tiếp theo này thì đẹp V ưng giã màng / luôn vi có mua nhưng mà giờ coi lại vi / mới nhận ra là Vi Chưa mặc cái áo này ra / ngoài đường hôm nào nữa trời ơi sao quên / được ta ấy bên trong g nó gọi là ph Ảo
+- #85 06:07.4 7.8s — được ta ấy bên trong g nó gọi là ph Ảo / ống cũng được em ạ dạng nó như này nó / thở một chút ấy Ờ thế Xinh quá hả mẹ nó
+- #86 06:15.2 1.6s
+- #87 06:16.8 2.5s — dám đăng cái này lên luôn á hả bìu nhưng
+- #88 06:19.4 5.2s — mà cái món vi ưng nhất á là cái thắt / lưng này do chị chang dụ vi mua và giờ / nó cũng là cái món mà vi mang nhiều nhất / luôn do chị Trang kê vi hay mặc đồ basic
+- #89 06:24.6 3.2s — luôn do chị Trang kê vi hay mặc đồ basic / á thì mang thêm cái này cho nó có điểm / nhấn C mình hai mọn ấ m được dạ chy
+- #90 06:27.8 3.4s — nhấn C mình hai mọn ấ m được dạ chy / khoản quá Mở lộn tài khoản mở cái tài
+- #91 06:31.1 5.6s — khoản ra có xấu / n Dạ C ơn xong rồi tụ vi có qua Cyber
+- #92 06:36.8 1.5s
+- #93 06:38.3 1.8s — slot thì đây là một cái tiệm thrift khác
+- #94 06:40.0 3.0s — mà nói thiệt là cái tiệm này nó không / phải là guv lắm Gia Vi cũng không có lựa
+- #95 06:43.1 3.0s — được gì nhiều á mà giá nó cũng nhỉnh hơn
+- #96 06:46.0 2.8s — cái tiểm trước viy nghĩ nếu mà trong một / cái thế giới Hoàng Hảo một cái dòng thời
+- #97 06:48.9 2.5s — gian khác á viy có nhiều khả năng phối / đồ hơn thì viy sẽ mặc được đồ ở đây
+- #98 06:51.3 4.5s — nhưng mà viy không Ê nhưng mà được cái / nó cứ mấy cái áo như vậy Hài
+- #99 06:55.8 4.8s — vãi / Ô c
+- #100 07:00.5 2.8s — t thôi tìm hết áo đ chị Chị làm thử
+- #101 07:03.3 1.5s
+- #102 07:04.8 1.9s — thách
+- #103 07:06.7 4.0s — thách / rồi Áo kiểu Mỹ Vãi má chơi như tụi Mỹ
+- #104 07:10.7 5.6s — luôn áo kiểu Mỹ Vãi / chưng cái này rộng chắc luôn á mà mấy
+- #105 07:16.3 5.4s — cái này cũng khó bóp nữa mà nó cũng / không Thắc eo mạnh rõ nữa với lại tiệm
+- #106 07:21.7 1.8s — này cũng có một cái nữa mà thấy có nhiều / chỗ khác không có đó là nó có rất là
+- #107 07:23.6 1.9s — chỗ khác không có đó là nó có rất là / nhiều bộ tr sú vải nhung giống như Paris
+- #108 07:25.4 1.8s — Hilton hay mặc á kiểu như cái hồi chour
+- #109 07:27.2 2.6s — nó còn nổi ơi nổ V thấy ít tiệm nào có
+- #110 07:29.8 2.7s — cái đó vải má cái mắt cười nhất khi đi / mua đổ chị Trang á là V thề ví chị Trang
+- #111 07:32.5 2.0s — như hai thái cực luôn hai chị em toàn
+- #112 07:34.6 4.4s — cầm lên những cái món đồ mà đối phương / sẽ không bao giờ Đủng vô kiểu mỗi lần / viy cầm món lên chị Trang sẽ nhìn viy
+- #113 07:39.0 2.9s — viy cầm món lên chị Trang sẽ nhìn viy / kiểu thiệt á hả má nhưng mà mua tới vậy / là quá đủ rồi xong rồi chị Trang có dẫn
+- #114 07:41.9 2.4s — là quá đủ rồi xong rồi chị Trang có dẫn / viy đi ăn nướng gầm cầu
+- #115 07:44.3 3.7s
+- #116 07:48.0 2.3s — [âm nhạc]
+- #117 07:50.3 2.0s
+- #118 07:52.3 1.9s
+- #119 07:54.1 1.5s
+- #120 07:55.6 1.7s
+- #121 07:57.3 1.4s
+- #122 07:58.6 1.3s
+- #123 07:59.9 4.0s — Ê nhìn ngon vãi đy là cái gì vậy Đây là
+- #124 08:03.9 0.9s
+- #125 08:04.8 2.5s — đây là dầu Còn đây là bơ đâ này là cái
+- #126 08:07.3 2.3s — gì Cái này là heo ba chỉ bò nầm bò nầm Ê
+- #127 08:09.7 1.3s
+- #128 08:11.0 9.3s — mà kiểu nó hợp với cái thời tiết á này / Đấy thấy chưa bánh đấy nó bắn đấy nó bắn / vải Ê như bò né vậy á baật chứ má u nóng / quá em mà nhìn ngon thiệt luôn B
+- #129 08:20.3 1.1s — quá em mà nhìn ngon thiệt luôn B
+- #130 08:21.4 11.0s — giờ chị có biết tử lượng em thấp vãi / không Vãi bìu Ừ em thí nhưng mà rất là / thích nhậu đúng rồi ê đúng rồi á ai cũng / nói gì h Em thích nhậu Nhưng mà em say / em dễ Say vãi kì em gãy đúng sớm
+- #131 08:32.4 5.3s — luôn ơ ngon quá kì ơ ngon ơ ngon quả / luôn K như cái sốp nó thống vào thịt Á
+- #132 08:37.7 1.3s — luôn K như cái sốp nó thống vào thịt Á / có lại nó không bị ngọt Em thấy có nhiều
+- #133 08:39.0 0.8s — có lại nó không bị ngọt Em thấy có nhiều
+- #134 08:39.8 3.3s — chỗ làm sốp Ngọt quá xong rồi ăn nó / nhanh bị ngấy vậy ở trong kia nó có cái
+- #135 08:43.1 9.6s — chỗ nó là mít là mít biết Mít là mít / không ta nói chung m mí là kiểu ăn nướng / nhưng mà mọi thứ kiểu sốt ngọt Vãi Nó mà / ăn được có mấy miếng là ngấy hết không à / Kiểu nó nhiều đường quá mà cái này nó / không bị rau với lại thịt thêm kim chi
+- #136 08:52.7 2.9s — không bị rau với lại thịt thêm kim chi / nữa em cảm giác như em là bloger du lịch
+- #137 08:55.7 2.8s — nữa em cảm giác như em là bloger du lịch / vậy má bi thịt sâu gấp đết lu không là
+- #138 08:58.4 4.1s — cái gì
+- #139 09:02.5 6.1s — [âm nhạc]
+- #140 09:08.7 1.8s
+- #141 09:10.5 1.8s
+- #142 09:12.2 1.7s
+- #143 09:13.9 1.5s
+- #144 09:15.3 1.6s
+- #145 09:16.9 1.5s — vậy Good morning mọi người trờ Hôm nay
+- #146 09:18.4 10.4s — trời siêu đẹp luôn á nhưng m nghĩ là nó / vẫn không được nắng như vi muốn nó vẫn / hơi âm u v vừa mới đi mua phêa về V biết / là phêa nó có ở Sài Gòn vì không quan
+- #147 09:28.8 2.1s — tâm được đó vi thật sự mua uống phêa bây / giờ nhà phêa bị một cái là V uống V hay
+- #148 09:30.9 2.7s — giờ nhà phêa bị một cái là V uống V hay / bị V hay bị say trà vãi V vẫn nhớ cái
+- #149 09:33.6 2.5s — đợt nào á vi mua phêa mà V giảm đường Má
+- #150 09:36.1 7.1s — mua 50 đường hay sao á vi rung tay / nguyên cái buổi chiều nha mà vẫn thích / cái vị trà đó vải cái xong rồi cái đợ mà
+- #151 09:43.2 2.0s — viy đi Ở đây á V nhớ vi hỏi bạn vi câu
+- #152 09:45.1 1.9s — đầu tiên vi hỏi luôn là Ê mày một là Hà
+- #153 09:47.0 0.6s
+- #154 09:47.6 3.9s — Nội nó có cướp giật không Và hai đi / đường cảnh sát giao thông nó có bắt / không và V thấy hai câu hỏi đó đi đâu
+- #155 09:51.5 2.0s — không và V thấy hai câu hỏi đó đi đâu / không nên hỏi nha má và hơn là Hà Nội nó
+- #156 09:53.5 1.7s — không bị cướp giật nhiều ê nhìn Khánh N
+- #157 09:55.2 1.5s — đẹp mãi cách trang trí Tết hay sao đó đó
+- #158 09:56.7 1.0s
+- #159 09:57.6 3.3s — là Hà Nội nó không có cướp giật nhiều / cho nên là V cũng yên tâm hơn khi mà / quay bằng cái máy này chứ ta thề ta bước
+- #160 10:00.9 2.3s — ở đường Sài Gòn nhớ cái máy này một bước
+- #161 10:03.2 3.4s — thôi là mất không những cái máy nha và / cái túi và đôi giày luôn V bây giờ V muố
+- #162 10:06.6 53.0s — thử luôn Cái này là lần đầu Vi uống / vanill latte của f luôn á bình thường cà / phê là Vi sẽ uống cái cà phê Đà Lạt với / lại cái cái phê truffle như V nghĩ thôi / đi du lịch thì uống thử cái khác má mọi / người biết mấy cái video Mùa Thu Hà Nội / mà nó hay bắt đầu bằng cái tiếng chữ lộn / trên tiktok không bang đầu v cứ tưởng nó / là content thôi là kiểu mọi người cứ / dùng đi dùng lại mấy cái video cũ nhưng / mà không nha má ngày hôm qua v đi với / chị chang ngay trước chỗ AB luôn nè Trời / ơi Nhưng đám người bắt đầu chửi lộn nhau / xong rồi ném Đồ tùm lum hết Xong B nhìn / chị Trang là Ủa cái này thiệt á hả chị / cái này này cái này là mọi người đang / quánh lộn thiệt á hả ta ta sợ mà ta tái / mét hết cả cái mặt luôn / Ừ này không ngon lắm nha Nhưng mà m thấy / mọi người nói là người ng Bắc chửi / thường không có ý gì hết kiểu như là / người ta chỉ nói như vậy thôi xong rồi / cũng không có ý gì hết mà cho đ cách nói / chuyển như vậy thôi cho nên mới cũng / kiểu Ừ Ok nhưng mà vẫn sợ Thiệt là vẫn / sợ chệ nó thiệt C là Vi nói chuyện như
+- #163 10:59.5 23.6s — vậy thôi chứ vi vẫn cực kỳ thích Hà Nội / luôn á nếu mà có cơ hội vi vi vẫn muốn / được đi hàng năm và Cái đợt chuyến này / nè kiểu mình vi mới đi được có mấy hôm / thôi và vi đã muốn ở lại thêm rồi nhưng / mà không được vi vướng công việc vi cũng / không thể nào bỏ vé được cái hôm qua vi / thật sự tính là h giờ mình bỏ vé vị chết / này mình mua lại cái vé khác gì Vé bây / giờ đang rẻ vãi vé về giờ có triệu mấy 2 / triệu mà không được đi uống tiếp n n
+- #164 11:23.2 2.0s — [âm nhạc]
+- #165 11:25.2 1.5s
+- #166 11:26.6 1.8s
+- #167 11:28.4 1.6s
+- #168 11:30.0 1.5s
+- #169 11:31.5 2.2s
+- #170 11:33.7 15.5s — bây giờ là 2:00 chiều rồi mà này bữa ăn / đầu tiên của vi trong ngày luôn V ăn bốn / trẻ THT búm chả vãi mà kiểu kệ k ở trong / kia á viy cũng tàn búm chả bổi trưa mà / búm chả với lại bánh cuốn máy món Hà Nội / n viy cũng thích hết á mà ở trong Sài / Gòn nó lại không có cái chả mà cái chả / mà cuốn trong lá cái chả này nè má thấy / gì chết liền luôn Má đâ bà công nhận bún
+- #171 11:49.2 38.7s — chả ngoài này ngon trong kia nhiều luôn / co nh cái thịt ở đây nó ướp ngon hơn lúc / mà mua vé đi Hà Nội V Chị muốn đ Hà Nội / đi ăn hai thứ một là búm chả hai là bánh / gối và V ăn được cả hai rồi Cả hai đều / ngon vãi rúng là xứng đáng với mọi thứ / viy bỏ ra luôn xong giờ vi mới thấy may / á là viy đặt airbnb ở trung tâm thì là / nó là cái khu du lịch luôn cho nên là / mọi thứ nó có rất là nhiều hàng quán / luôn có đi bộ ra là có liền à mà vì thấy / nó mở cũng cả ngày nữa K nó không có nó / cũng không có mở mỗi buổi sáng hay là / mỗi buổi chiều hay sao đó mà như vậy có / vấn đề khác á là đế hiểu Vi thuê xe máy / làm cái gì luôn vi thuê xe máy một ngày / 18 mà Rốt cuộc không xài đến luôn K toàn / đi bộ mà giống sáng viy đi bộ mua cà phê / xong giờ cũng đi bộ đi ăn th nhờ một lát / nữa viy sẽ ra hồi chút bạch để gặp bạn / cho nên chắc là cuốn có đi xe máy á em / Má mà ngon thiệt luôn K nhớ cái hồi đợt
+- #172 12:27.9 37.2s — dịch á thèm bún chả vãi mà kiểu có chỗ / nào mở đâu vịt mà nó lockdown hết rồi / xong mà viy có tự làm bún chả C mới kiểu / làm bún chả mà viy lấy thịt á Xong rồi / viy nướng trong nồ chi không dầu mới ghê / chứ má đ giờ vậy Sao ngon được tao cũng / không biết luôn ý là nó cũng ra bún chả / không R không ra bún chả đâu kểu nó ra / bún với thịt thôi chứ không phải bún chả / xong có nước mắm vi pha cũng dở nữa như / hôm đó Vi làm ra xong viy ăn đúng một / miếng vi quyết định là thôi Cái này là / lần đầu và lần cuối cùng mình làm cái / này mà kiểu vi cũng không có khiếu nấu / ăn nữa V nấu ăn dở vãi mà V nấu V còn / không dám nếm nữa V đô nghĩ là V nấu / xong V ra V đưa cho em chai Vi kêu ăn / thử đi kì V nói mọi người là V nấu ăn dở / nha suy nghĩ phần lớn Lý do là do vi / không có nếm thử lúc / nó / [âm nhạc]
+- #173 13:05.1 5.0s — [âm nhạc] / [Tiếng cười] / dơi Dể cho mình một cái n ch được không
+- #174 13:10.1 3.6s — ạ chả ph khi / [âm nhạc]
+- #175 13:13.7 1.6s — [âm nhạc]
+- #176 13:15.3 2.1s — được đây á là lần đầu viy gặp an và T
+- #177 13:17.4 2.1s — anh luôn viy và an á thì đã Follow nhau
+- #178 13:19.5 1.8s — trên tiktok từ lâu lắm rồi phải tính
+- #179 13:21.3 1.6s — bằng năm luôn á và tất cả mọi người vi
+- #180 13:22.9 4.8s — gặp trong chuyến này đều có một điểm / chung á là rất nhiệt tình và dễ thương / an và T Anh cũng vậy mà An nói vì vi
+- #181 13:27.8 2.2s — an và T Anh cũng vậy mà An nói vì vi / biết á là Hồ Tây mà viy rất thích bây
+- #182 13:30.0 1.6s — giờ nó ô nhiễm hơn trước rất là nhiều
+- #183 13:31.6 2.1s — rồi mà hôm này Vy ngồi ở hồ Chúc bạch / thôi nha Có nghĩa là cạnh Hồ Tây mà Vy
+- #184 13:33.7 2.3s — thôi nha Có nghĩa là cạnh Hồ Tây mà Vy / cũng cảm nhận được như vậy luôn bởi đằng
+- #185 13:36.0 4.0s — xa Nhìn cứ mờ mờ ảo ảo và Vy nghĩ chắc / chắn nó cũng vả là xương luôn nhưng mà
+- #186 13:40.0 2.5s — một cái hồ mà đợt này vi đi rất nhiều là / hồ gươ trờ Đợt này vi đi Chắc phải bốn
+- #187 13:42.4 2.7s — năm lần mà công nhận đó là Vy Nam nào
+- #188 13:45.1 1.4s — cũng đi Hà Nội nhưng mà năm nay Vi thấy
+- #189 13:46.5 1.1s — Hồ gương nó thực sự đẹp tốt k niệm Hà
+- #190 13:47.6 1.6s — Nội 2025 Tức là không biết xong Sài Gòn
+- #191 13:49.2 2.3s — như nào Nhưng mà những học sinh cấp một
+- #192 13:51.5 2.8s — ở Hà Nội sẽ luôn phải có một bài là tả
+- #193 13:54.3 2.7s — về Hồ Gươm Ừ con em đều phải tả Hồ Gươm
+- #194 13:57.0 3.5s — ấy đều tả là mặt hồ trong những cái gươm / phản chiếu lại trời trời trong xanh với
+- #195 14:00.5 1.8s — cả cầu Thê Húc cong cong như con tôm Ừ
+- #196 14:02.3 2.0s — đúng không Đúng rồi kh Mặc dù á Hồi đấy
+- #197 14:04.3 1.5s
+- #198 14:05.9 4.3s — có được lên hồ cơ bao giờ đâu ủ Vậy hả / Nhưng mà vẫn vẫn được dạy tản như thế
+- #199 14:10.2 0.3s
+- #200 14:10.5 2.0s — sau đó em với T anh có dẫn viy đi ăn xô
+- #201 14:12.5 1.9s — chè bà thình Ê có một điều á là viy
+- #202 14:14.4 2.2s — không thích ăn xô chè nha không thích ăn / chè tất cả lại chè luôn à không chắc là
+- #203 14:16.6 2.5s — chè tất cả lại chè luôn à không chắc là / chừ chè bắp cho nên là khi tới đây m chỉ
+- #204 14:19.1 2.4s — gọi tàu phớ thôi Ơ mà sao tàu phớ này nó
+- #205 14:21.5 22.5s — có vị hoa nhà vậy mà Ủ m hả thường tăng / tàu phớ là kiểu nó có vị nước dừa nhiều / hơn Ừ đúng rồi Hoặc là đi ăn ở Huế là / người ta sẽ bắt chanh vào á Ê ăn cũng lạ / cũng ngon quá / mà Ê cái này nó ngọt Cũng vì cái xương / sáo chứ không phải là cái xương xáo này / nó ngọt hơn trong cái xương xáo trong / kia thay vì nước cốt vừa ngọt thì đó là / ngọt xương sáo đây là Xô
+- #206 14:44.0 1.2s
+- #207 14:45.2 1.8s
+- #208 14:47.0 1.8s — chì V vừa mới đi chơi với lại An với lại
+- #209 14:48.8 3.3s — Tú Anh về xong vui vãi bởi vì là Vi cũng
+- #210 14:52.1 10.8s — không có nhiều bạn làm content creator / vi cũng không có được nhiều cơ hội để / gặp bạn bè làm cục cùng nghề với viy má / tự nhiên giờ nói cái nghề là content / creator nghe lạ muộn ấy thì V nhớ là viy
+- #211 15:03.0 35.7s — có nói cái này trên tiktok một lần rồi / nhưng mà một trong những cái thứ mà Vi / nhớ nhất về cái việc mà đi làm ở văn / phòng á là mình có động nghiệp có động / nghiệp mà hiểu công việc của mình là gì / những cái task của mình là gì để mình có / thể bàn bạ có thể chia sẻ Mình có thể / phàn nàn với nhau nhưng mà khi mình làm / cá nhân làm độc lập làm freelance như / bây giờ á thì lại không có ai hết á kiểu / như là có mình mình thôi à mình cũng / không có thể nào mà chia sẻ những cái / công việc của mình nhiều được đặc biệt / là kể viy nói với bạn bè vi Ok bạn bè / viy vẫn sẽ hiểu Nhưng mà bạn bè viy do / không làm cùng ngành nghề với vi thì bạn / bè vi s vẫn sẽ không thể nắm được 100 ph / cái ý vi đem muốn nói là cái gì cho nên
+- #212 15:38.7 15.8s — là vi cũng rất thích gặp những cái bạn / content creator khác nĩ là mình nói / chuyện cái là mình hiểu ý liền á đặc / biệt là khi mà nói chuyện về công việc / th xong rồi bây giờ Vy sẽ edit video / thiệt lệ bởi vì V có edit một cái video / Hồi sáng V quay chưa có edit và một lát / nữa viy sẽ đi gặp anh
+- #213 15:54.5 10.9s — em chết đi qua kiểu vì giới này mẹ Giờ / sao / [âm nhạc] / ta em ơi em ơi đi sao ta có bãi rác trướ / mặt mình ở B rác thịt mà Ô chết ng th em
+- #214 16:05.4 1.8s — mặt mình ở B rác thịt mà Ô chết ng th em
+- #215 16:07.2 11.1s — sẽ bản quyền em dừng nhạc lại à chứ khó / gì nữa Bây giờ anh sẽ hát xem là cũng bị / đánh cái bản quyền không nế mà đánh dính / Anh hát hay như ca sĩ đúng không đâ h / hết đ h h đ c bài gì nh bài gì đ h bài / gì Bài gì dễ đế BN ci nhất Bây giờ nhờ
+- #216 16:18.3 20.7s — gì Bài gì dễ đế BN ci nhất Bây giờ nhờ / bài gì love cứ để ai đá yeah yeah yeah / yeah yeah này em đánh anh thì có cho / đánh bản quyền anh đánh bản quyền / sol Chờ mọi người biết tại sao lâu rồi / chenny Lộ lâu lâu rồi Chu không ra nhạc / Không Giờ anh anh Nam hát hết rồi An / đang hát hết phần mẹ chu rồi mình thường
+- #217 16:39.0 11.6s — ăn ăn cái gì bình thường Thế hả Ờ ăn a / nướng lẩu đồ Thái đồ hô qu mới ăn nướng / rồi lẩu cũng được có lẩu gì anh mà nói / ha la không đập liền cá chuẩ bị ê đẹp
+- #218 16:50.6 2.8s — nha đẹp mà ấy món hàng mã đấy Ê qua đi
+- #219 16:53.5 4.5s — ngem qu bẫn chưa đi vô â nhà em mà đi / không đi bộ hàng mã chơi hả Trời ơi ngày
+- #220 16:57.9 17.1s — mai ngày mai là em đi cặp châm anh châm / anh rủ em đi ăn Phi Hôm nay em đă ha / châm anh là một bạn là một em cái tất cờ / khác mà em đang Phi rồi à Phi mà hôm nay / ăn hai D lao nữa thì coi như em chưa r / khó bộ nhất Sài Gòn không / yes chắc gì h ở Sài Gòn em ăn với cái / đấy đúng không bình thường anh to ăn lin
+- #221 17:15.0 17.1s — tinh hả Hoàn mà gọi đồ các thứ ấ À nhầm / Tứ ăn kểu có ăn các thứ bình thường nhà / hàng ấ chứ bình thường anh mà ăn cái Hà / Nội ấ to ăn buổi sáng với trưa thôi tối / sẽ kiểu ăn hiểu không Ừ tối lỗ lỗ lỗ này / lỗi em rủ đi ăn tối hả m em đúng m
+- #222 17:32.1 2.3s — [âm nhạc]
+- #223 17:34.4 1.9s
+- #224 17:36.3 1.4s — em cái này là cái gì sốt sốt gì vậ số
+- #225 17:37.6 2.3s — chú muối
+- #226 17:39.9 1.6s
+- #227 17:41.5 2.0s — hả sa thôi không cần t nó thiệt luôn á
+- #228 17:43.5 13.5s — Không cần gì bây gi không cần quà đâu À / không sao Ê không B mất chữ mất cái bánh / thôi Ê còn vẫn còn chữ này ê người ta / viết thiếu / chia gì Ê quá hị xích luôn ê không c đ
+- #229 17:57.0 1.1s
+- #230 17:58.2 6.7s — th B đi em bó đi từ em lấy cái mic n / nhấy
+- #231 18:04.8 4.0s — m đổ t Ê nhưng mà dễ thương vãi sinh
+- #232 18:08.9 1.2s — nhật em lâu lắm rồi mà Mà cái paging dễ
+- #233 18:10.1 33.2s — thương vãi nhìn đi đã biết là hiểu rồi / thô nhá Ê anh cứu đây vậ Ờ đi kiếm nó / thấy không phải tự có đâu / Ê để ở phòng nhá để ở văn phòng đi Đệ / lãi ấ Em đang kiếm chanh để để trong / phòng luôn á đẹp vãi Ê / còn cái gì nữa Đù vẫn còn ê dễ thương / quá vậy đụng / [Tiếng cười] / á Em cảm ơn thiệt luôn á dễ thương
+- #234 18:43.3 2.3s
+- #235 18:45.6 6.2s — vậy trời ơi em cả ơn anh em ê dễ thương / vậy người đẹp đ Cry chưa người đẹp đ Cry
+- #236 18:51.8 8.6s — Ok người đẹp non Cry rồi bánh bánh bánh / smy / thiếu là Miki là con nào anh nói nghe em
+- #237 19:00.3 3.2s — á như đi ăn nướng năm sao vậ có người / nướng
+- #238 19:03.6 7.4s — phụ Sao vậy Sao lại đứng lôn nhỉ chị ăn / đi / ạm sao đây chị Thi ăn tái hay là ăn sống
+- #239 19:11.0 1.8s — của chị Đây là dành cho những người mà
+- #240 19:12.7 51.5s — chưa xem video Phú Quốc nhá mình sẽ cho / mọi người xem trong video bao nhiêu phút / 23 phút mình sẽ cho mọi người chỉ xem 1 / phút thôi là được rồi 1 phút t tắt nhá / Hello mọi người hôm nay là outfit của vi / ngày hôm nay nha Bây giờ thì vi sẽ đi ăn / sáng bở sắp h muộn rồi mi đang gọi xe đi / ăn sáng hôm nay Vi ăn nng ngày hôm qua Ê / cái món gà này dở vãi à sau đấy thì mình / sẽ đi ra bãi biển Nha mình về thay đồ để / đâ hôm nay mình sẽ mặc cái này nha khi / mà đi một mình thì viy sẽ mặc kín cả / người bởi vì là ngại á mất đó xong rồi / đấy ngồi đọp sách hết mẹ ngày ngày hôm / sau hôm qua viy đi với bạn mệt quá nên / vi quên quay hôm nay là outfit ngày thứ / hai của Vi nha bây giờ viy sẽ đi ra sáng / vi giống Yên ngày hôm qua sau đấy Hôm / nay trời đẹp thế là Vi sẽ ra biển đây là / bộ đi ra biển ngày hôm nay của Vi hôm / nay viy mặc hở Quân nh vi sẽ che vào hết / mẹ vì đâ mắc nhậy
+- #241 20:04.2 2.4s — vãi động thỉ chà phải đẹp lên C gì nữa
+- #242 20:06.7 2.6s
+- #243 20:09.3 2.3s — mẹ đi chả m tao nói đa để cho nói đ lần
+- #244 20:11.6 7.4s — này Thực ra mới lần thứ hai V gặp anh / Nam thôi Còn lần đầu là viy với anh Nam / gặp nhau là gần 1 năm trước đó Singapore / mà hồi đó tính Vi bị Hơi cọc với thẳng á / cho nên là anh Nam tưởng vi các ảnh sau
+- #245 20:19.1 10.5s — cho nên là anh Nam tưởng vi các ảnh sau / này anh Nam kể V mới biết điều đó Nhưng / mà viy mắc cười vãi bởi vì Vi hồi đó / đúng là như vậy thiệt ý ln phải ghét anh / em nha Nhưng mà cái mặt thư giản của viy / nó không có cảm xúc mà nó còn hơi nhăn / nữa cho nên nhìn nó không được dễ gần
+- #246 20:29.6 6.3s — lắm á Nhưng mà lần này viy thấy vui vải / do là viy đã nghe rất nhiều về anh Nam / từ chê xì và chí đê và mọi người rồi còn / bây giờ khi mà được tiếp xúc á thì anh
+- #247 20:35.9 21.0s — Nam rất dễ thương và dễ quý luôn kiểu / đúng chịu khó đưa bạn bè đi ăn ở Hà Nội / mà còn chiều bạn dã mang nữa Muốn ăn gì / với cái gì là cũng chiều hết Nói chung á / là cái chến này làm vi cảm thấy rất may / mắn là được gặp nhiều người tốt bụng vô / điều kiện Tứ / [âm nhạc] / vậy Micky có thêm ch đầu C tuần này vì
+- #248 20:56.9 1.3s
+- #249 20:58.1 1.5s — mốn nh nhất con free rand thích Mỗ free
+- #250 20:59.7 6.0s — r à em em trai V cũng thích free ren / quay chỉ kể em trai V nữa mà nếu mà được / free R thì vi dữ free r thôi nha mở ra
+- #251 21:05.7 4.2s — tiế đ quay tiế đ tiế đ ê đúng con Ôi từ
+- #252 21:09.9 5.2s — từ t t t t từ đỏ thế t t t t t t t Ê có
+- #253 21:15.1 2.6s — khể được một lần nữa Ê mọi người ơi Phi
+- #254 21:17.7 3.3s — lên mắt mắt l mắt lé nha mọi người bên
+- #255 21:21.0 7.3s — nha mọi người không phải màu khát là m / đỏ tóp đỏ rồi ha Sao tóp đỏ không t đỏ / cũng được start start cũng được em em t / đỏ rồi cái này cho em trai em h em trai
+- #256 21:28.2 8.3s — thích thích con con này nhất r em choem / em thích free r nhất mà thôi kể kệ / [âm nhạc] / nó Ê free nè xong rồi Stark stock Đâu
+- #257 21:36.6 4.9s — rồi ta Hình như hơi bi bu quá rồi đó dễ
+- #258 21:41.5 2.0s — thương Stark K đâu quay đây CH này thôi
+- #259 21:43.6 3.7s — nha ch Chu đúng không Ok Ok nha
+- #260 21:47.2 2.1s — x được
+- #261 21:49.3 9.2s — x được / không Đ Đ V thu đ đen Ê đỉnh th mê Ê
+- #262 21:58.5 2.3s
+- #263 22:00.8 3.2s — đỉnh mà định h đen phải đó có ti đ có mó
+- #264 22:03.9 8.2s — khỏe đúng không Ừ móc á mài / [âm nhạc]
+- #265 22:12.1 2.8s
+- #266 22:15.0 2.5s — mua tao vừa
+- #267 22:17.5 2.5s
+- #268 22:20.0 2.2s — mua bây giờ là bây giờ là 4 gi Mình vừa
+- #269 22:22.2 9.1s — mới dậy xong 14 sáng Mình vừa mới dậy Ừ / tụi mình vừa mới dậy xong vừa mới dậy / trong Tạ Hiện hữ Tạ Hiện Sa Đây là Vlog
+- #270 22:31.3 12.1s — của mình nha mọi người Cảm ơn mọi người / đã xem Vlog đến giờ này chắc là đây là / kết Vlog rồi mọi / người đấy không thân đến thế đâu có thế / đâu Không th đế thế đâu đây tao chọn ta
+- #271 22:43.4 14.3s — th cái này là cái gì là giống mày là cái / gì là thập cảm là có cả tái lăn này tài / gầu cả / là cái gì đó tao không biết này À đây là / gì nhở à ch là bò bò Ờ sốt và sốt vàng
+- #272 22:57.7 8.4s — gì nhở à ch là bò bò Ờ sốt và sốt vàng / Ok vậy là cung giống của tao của anh Nam / là cái gì món ngon còn hay là món
+- #273 23:06.1 17.5s — Chán không thể nhưng mà không Ê anh biết / Mày biết kiểu này người này dễ bị V dễ / bị quánh ngoài đường lắm nha Nói chuyện / kiểu kểu Láo láo áá món gì V anh không / biết nhìn à em giống mình nhưng mà không / qu hành Em không biết em không biết nhìn / à à giống giống giống tụi mình ả Ừ em / không Bi nhìn à mẹ hồi nãy trong tà hiện
+- #274 23:23.6 106.9s — sao có cái thằng nào cứ kêu là Ê có cái / quán bú quán bún riêu này Ừ móng lêu này / mở mở qua đêm tụi mày đến Nha đến đêu / một cái bóng đèn nào mở đến nôi mình còn / tự tin nôi là hay là người ta phải đầu / có cửa Người ta mở cửa Ừ cái sao mà cứ / bô cứ bô nó cứ kêu chữ búm rêu búm rêu / coi có ai bước ra không để ai bước ra / sao bây giờ t tô B đang đang ăn phở một / con này là mở xuyên đêm thật phát hiện ở / trên tiktok tên là phở ngánh Ok Cảm ơn / tiktok nha ăn đ thơm phức nh Ê ống quá à / riew du / nế ơ ngon á V gọi tùm lum thứ á không / Thật ra bi kê chú là đưa tô nào ngon / nhất có gì Hô này Bi cũng không biết nữa / Hôm ta đi bố anh Nam đi xuống Hải Phòng / thì bình thường tao nái như H mấy tao / không lái Ờ tao ngủ thì bố anh Nam không / bảo là chá cháu cái to quá bố anh Nam / bảo là hôm nay có con công lông nó đi / bên cạnh không có gì suốt đường c tốc / cái xe công nông đi bên cạnh công nông / là cái gì K là một xe C rất to ấy xe xe / k là máy hả Tao tao gáy ấy bố anh không / nói mày ngáy to quá bố anh nói có công / nông đi bên cạnh C cái ông lông cứ đi / bên cạnh đường con tốc luôn Ừ ta m cứ / phải giải tích ng thốc thêm vậy Ừ Ê th / cái thờ tếc này ăn này mới đã Ê mà Cái / này lần đầu tiên mà ta ăn phở phở súc / ven nước luôn á bình thường ta ăn phở / xúc vang khô mà th phở xúc văn khô ả Dạ / có đầu nghe ăn luôn á ph số vang xong / rồi mình mình che nước bên ngoài vào th / thành vở bở chan bở chan Em ơi Ủa em ch / nước vào thì thành vở gì xố khô x ch / nước vào thàh và nước Thế là cơm chh vào / cơm Không ấ lại ấ lại mang miếng mà em / em em em ngẩm em em ngẩm miếng à Ăn cho / miếng Chì và xong bộ uống nước luôn uống / nước cho nhanh Xong kiểu ăn mì tôm ấy / cắn miếng xong mà đổu rôi mồ à Không bu / ăn quẩy nữ quẩy này ăn được không ăn / được bâ s ăn thêm nh quẩy đây là Quẩy
+- #275 25:10.4 38.0s — được bâ s ăn thêm nh quẩy đây là Quẩy / mềm Ờ cái này là Quẩy mềm Ê tớ nằng tớ n / qu giòn hơn thế để một lúc nữa hơi khô / Tí nữ th Ờ nhờ nhờ nhỉ Tại vì quảy mề nó / sẽ ngấm nước hơn hiểu không à b hả Ừ nên / cái nước ngon ấy ngấm m m quẩy thì nó sẽ / ngon mà ta ta ta hít nhai kiểu giòn giòn / á Anh ơi con này không làm revie được / rồi còn ý kiến nhiều chưa từ / Ê nó ngâm nước ở cái đầu này đầu / kia để giòn / mà vẫn ăn đầu không chấm / nước mà đị Ta ngứa tay đấm lắm rồi á
+- #276 25:48.4 5.8s — Good morning mọi người Ê trời Chắc giờ / giọng vi l nó không còn luôn á kểu Nó bị / khèn V ngày hôm qua viy về lúc tầm 4
+- #277 25:54.2 4.7s — 5:00 sáng đừ hỏi tại sao viy cũng không / nhớ T Tại sao n ngồi qua tụi vi đi uống
+- #278 25:58.8 7.4s — tới tầm 4 5 gi gì mới về hay sao á trời / ơi Mọi người cứ kê là 15 phút nữa thôi / 15 phút nữa thôi mà 15 phút nữa thôi từ / lúc 1 gi Ê nhưng mà kiểu đúng vui luôn á
+- #279 26:06.3 3.5s — Hôm qua là V đi với anh Nam với lại Tuấn / family Tuấn family là một bạn lần đầu
+- #280 26:09.8 6.3s — family Tuấn family là một bạn lần đầu / tiên vi gặp luôn và kiểu Mọi người ở đây / mắt cười vãi kiểu nói gì với cười ết đó / với lại kiểu cũng lâu lắm lắm lắm rồi
+- #281 26:16.1 25.7s — với lại kiểu cũng lâu lắm lắm lắm rồi / mới đi uống như vậy á bởi vì từ cái hồi / mà viy lên ha ha hai ba tuổi á là gần / như tất cả mọi người xung quanh viy cũng / bớt uống hơn hẳn luôn xong rồi viy cũng / vậy coi như uống viy bị mệt á Nó kiểu / không có uống nhiều mà uống say như hồi / năm nhất năm hai đại học được nữa vi / kiểu như là Vi bị một cái á là viy uống / rất dở như vi rất hàm uống trời cái này / là tất cả mọi người ai từng uống chới / viy sẽ biết điều này luôn á bởi vì viy / thật sự là người như vậy viy cứ bị xá mà
+- #282 26:41.8 6.5s — bị kiểu bị ham vui á sao bởi kê Ồ thêm / lon Nữa thêm lon Nữa thêm ly Nữa thêm / shot nữa rồi Gãy Khi nào không biết / không Thế xong rồi Hồi đó Cứ mỗi lần đi
+- #283 26:48.3 13.1s — không Thế xong rồi Hồi đó Cứ mỗi lần đi / chơi là đều như vậy và sáng hôm sau lúc / nào vi cũng bị đau đồ đin khùng luôn mà / bây giờ kiểu lúc V say á là Vi cũng / không phân biệt được cồn nào là cồn nào / nữa kiểu vì uống cuống đại hay á Xong nó / mix tùm lum lại với nhau Trời ơi Sáng / hôm sau như búa đập đầu vậy Á à vấ Lại
+- #284 27:01.5 19.7s — vi nhận ra một điều thay đổi lớn nhất / của viy Khi đến Hà Nội á là viy chửi thề / nhiều hơn Ê bởi vì mọi người ở đây chửi / thề rất là nhiều cái xong một lúc viy / đến chuyện á tự nhiên Vy cũng bị chửi / theo á má Ngày Hôm Qua Vy coi lại cái / mấy cái video phải quay lúc đi Ăn đi Ăn / phở buổi sáng á Ăn phở buổi sáng Trời ơi / sao tao chửi thề nhiều dữ vậy sau một
+- #285 27:21.1 14.7s — lát nữa vì sẽ đi ăn pizza fopi ở Lotte / Tây Hồ với lại Trâm Anh như vi Follow / Trâm Anh cũng lâu rồi với đúng thích cái / kiểu content của Trâm Anh luôn Trâm Anh / là làm ch Yu là get With Me á bây giờ là / content của Trâm Anh nó làm V nhớ tới / content của Katy Fan và nó sẽ na ná
+- #286 27:35.9 3.8s — giống vậy vì nó rất là gần gũi rất là / chân thật trên V thch điều đó không biết
+- #287 27:39.7 27.8s — mọi người có đang nghe không nhưng mà ở / dưới mọi người đang có rất là nhiều chữ / Địch mẹ mày đang được nói ở bên dưới / đường Trời ơi ai chửi lộn với nhau từ / sáng đến giờ luôn Má Ok cái phim ngày / hôm nay á cái cái ý tưởng bộ đồ ngày hôm / nay á là còn cái gì sạch thì mặc cái đó / còn cái gì Thơm thì mặc cái đó bây giờ V / mang đúng ít đồ luôn á và mấy hôm nay Vy / cũng chưa có đ Giặt đồ chưa có thời gian / á mà một cái áo trễ vai này của messy / Club cái quần này thôi th quá quen thuộc / hôm trước mới mặc xong của laman apparel / với lại là cái túi coach này ê th thiệt
+- #288 28:07.5 2.9s — là bộ đồ hôm nào c v nó cũng giống nhau / á má giờ đi thôi chỉ CN nâ chợ gì C Gọi
+- #289 28:10.4 0.7s — á má giờ đi thôi chỉ CN nâ chợ gì C Gọi
+- #290 28:11.0 2.4s
+- #291 28:13.4 1.5s — đ
+- #292 28:15.0 1.6s
+- #293 28:16.6 1.8s
+- #294 28:18.4 2.0s — [âm nhạc]
+- #295 28:20.5 1.8s
+- #296 28:22.3 1.8s — để xin chào mọi người Mình là Trâm Anh
+- #297 28:24.1 4.2s — mình là khách mới của kênh chị h v hôm
+- #298 28:28.3 6.1s — nay chúng mình đang ngồi ăn ở piz forby / Và mình sẽ gắp cho chị Vi một đĩa salad / thật là ngon lành nha thô rồi em Em
+- #299 28:34.4 2.0s — không biết nói gì nữa đâu ê ng Ngày hôm
+- #300 28:36.4 12.6s — qua tao cũng gặp kiểu với với bạn / content creater khác á mà tao phải sao / cái nghề là cái nghề nói chuyện với / camera mà tự nh tao giơ camera lên nhìn / mặt ai cũng xưởng mà mặc đơ đ nóng băng / hết luôn Không thực ra em em chỉ bị buồn / cười thôi Hôm qua ta đ nói mọi người á
+- #301 28:49.0 63.5s — là mỗi người mu đến Hà Nội á là tao đến / Hà Nội á là mỗi bạn mỗi bạn mà tao gặp á / là đều dẫn ta đem món Hà Nội có mình mày / t nhên chị ăn Phi không làm như trong / Sài Gòn không có phi ấ là ta thấy mà / nhiệt tình với ta kiểu thôi đồng ý thc / ra em em ít đi ăn ngoài thế nên là kiểu / bình thường nếu mà đi ăn bạn bé thứ em / toàn kiểu chọn th kiểu nhà hàng như này / ấ nó dễ ngồi nói chuyện hơn Đúng rồi / Đúng rồi nó không gian người ta cũng hết / vậy tức là kiểu Nếu mà đi ăn những cái / món Hà Nội các thứ đồ thì kiểu mỗi người / sẽ ví dụ một bát phở bát ng ngồ ng không / đúng không đấy Kiểu thế Em thấy ngồi như / này nó dẽ nói chuyện các thứ hơn ý đúng / rồi không mà tao đồng ý Cái đó cái không / gian nó B trọng á hơi hơi góp n thôi mề / lựa chọn nhất em nghĩ ra luô chọ tay / nhất để ta xếp hạn mấy cái nhà hàng mà / các bạn Nhữ ta đi mày là đứng bé một lát / nữa mà hai chị em đống starbu đi nó gõ / đầu mày liền ủ ủ lần cuối mà và Sài Gòn / là khi nào vậy em kh vào và Sài Gòn Ơ em / em ăn Việ Nam B nhớ nhắng ta không Yeah / ta dẫ mình đ ăn món Sài Gòn chứ Bây giờ
+- #302 29:52.5 5.6s — chúng mình đã ăn xong rồi và mình có một / món quà mình đã chuẩn bị cho chị Vi
+- #303 29:58.2 1.4s — dễ thương vãi chào mừng chị Vi Ra Hà Nội
+- #304 29:59.6 4.5s — nha Mình rất là yêu chị Vi em mọi người
+- #305 30:04.1 11.9s — ơ Hà Nội đúng dễ thương luôn Ôi chị cả / ơn em nhiều Em mong chị sẽ thích bởi vì / là em vẫn còn giấy gói quà từ dáng xh / Thế là em cũng muốn gói cho nó kiểu một / cách như một món quà để chị unbox không
+- #306 30:16.0 4.0s — em không Chôn chị đâu không phải sợi hơi / hơi rế nha mình thường tặng quà cho
+- #307 30:20.0 5.6s — người khác bằng những cái thứ mà mình / thích thế nên là mình H vọng chị viy / cũng sẽ thích món quà này đương nhiên
+- #308 30:25.6 3.3s — luôn m tắng gì tao cũng thích đ tắng gì / ta mày khó lo Ê tao
+- #309 30:28.9 27.2s — rung gì R em gói hơi kỹ nên / là mày sợ tao tao thấy quà hay gì / mày Cái gì vậy Sao nhiều lớp vậy mày Nó / vẫn chưa ra luôn Mọi người Ê xin vậ ô n / là lip mas ủ h háng này là hạng nướ nước / nào vậy too tocobo tocobo hả Ê xả Ok l / rồi ê em thấy cái này mọi người bảo rất / là ok và em cũng thử rồi như em cũng / đang mua cho em oh my god chị cả ơn / nhiều em x quá của của hàng hả Vâng trờ
+- #310 30:56.1 5.5s — ch cả ơn Đây là lần đầu với gặp châ anh
+- #311 31:01.6 3.9s — luôn và vi thề trên mạng châ anh như thế / nào thì ngoài đời còn mắc cười và dễ
+- #312 31:05.5 1.9s — thương gấp ngàn lần mà V kiểu là người
+- #313 31:07.4 1.9s — có gì nó đó Trứ không có phóng đại đâu
+- #314 31:09.3 1.4s — bởi vì viy nghĩ là do tính cách cho ma
+- #315 31:10.7 2.8s — nó rất là dễ mến nhưng mà hơi hơi láo / cho nên là hai chị em nó chuyện hợp rất
+- #316 31:13.5 3.0s — cho nên là hai chị em nó chuyện hợp rất / nhanh và rất nhiều kiểu vi với châ anh / có khá nhiều điểm tương đồng về góc nhìn
+- #317 31:16.5 4.7s — có khá nhiều điểm tương đồng về góc nhìn / với lại định hướng trong công việc của / hai tổ vi á cho nên là Vi rất quý điều / đó luôn
+- #318 31:21.2 3.0s
+- #319 31:24.2 2.5s
+- #320 31:26.7 2.8s
+- #321 31:29.5 3.0s — không biết
+- #322 31:32.5 2.5s — thiệt Cái này là phở trộn đùi Còn cái
+- #323 31:35.0 3.8s — này là phở trộn cái này phở trộn đùi và
+- #324 31:38.8 1.4s — lường xong rồi bạn vi gọi sữa đậu vi gọi
+- #325 31:40.2 1.7s — lường xong rồi bạn vi gọi sữa đậu vi gọi
+- #326 31:41.9 3.6s — chà đá nữa em Má nhìn ngon vãi kiểu đúng / hợp với thời tiết bây giờ luôn trờ mà
+- #327 31:45.6 35.8s — hôm nay trời nó cũng lạnh hơn một xíu / nữa lạnh hơn so với hôm qua nhưng mà / trời nó vẫn rất âm u nha Hà Nội mấy hôm / nay âm u vãi Kể như không có một miếng / nắng nà luôn nó chụp hình nào lên xấu / hình đó C có vi với bạn vi Hồi sáng giờ / chụp hình chụp hình vào lúc bao nhiêu 9 / 10:00 sáng đâu 1200 trưa 12:00 trưa Ừ / không Tí nắng rồi luôn á tụ vi chụp lên / mặt tối tối ầm lại luôn Tối sầm L luôn / nhưng mà vẫn được có thời tiết rất là / mát và không chảy mồ hôi cho nên là ăn / cái gì cũng ngon hết ăn đồ nóng là ngon / em và trong Sài Gòn vi cũng thích phở / trộn vãi luôn ở trong Sài còn có quán / phở xích nho Phú Mỹ Hưng ngon mà hơi mắc / nha hơi us Ừ giá hơi đô la đúng là giá / Phú hươ có khác một tô đó nhớ là tầm / 80.000đ nhưng mà nó thiệt là ngon cho / nên là thấy xứng
+- #328 32:21.4 3.3s — đáng cái nước ngon á đú mà ăn phở trộn
+- #329 32:24.7 15.8s — phải Húp một miếng nước B cảm giác như / con chuột trong ra tui á cái lúc mà nó / ăn phô ma với dâu á b thích cái cái xốp / trong cái vở trỗ mà kiểu ăn nó không bị / gắt họng á ăn nó không bị gấy nhanh có / nhiều cái nó làm bị mặn dữ quá xong rồi / ăn được vài miếng là bị ngấy xong rồi / cái họng mình nó gắt lại nó khô lại á Ừ / thiệt Michelin kả không Ủa này chong
+- #330 32:40.4 2.3s — thiệt Michelin kả không Ủa này chong / Michelin guide đó hả trù Ê lần đầu tiên
+- #331 32:42.8 19.5s — ta quán Michelin guide luôn ở đâu lần / thứ hai là l t m ăn cái gì oris ở trong / Sài Gòn ĩ là nó nó đó là một cái Menu / siêu bự luôn nó có rất là nhiều câu / chuyện trong từng món ăn thế cũng hay mà / thật sự V nghĩ V không hợp để ăn pha / đình cái kiểu lắc nhắc như vậy lắm kể V / không biết hưởng thụ lắm V thích ăn cho / no thôi à thời tiết lạnh như vậy Ở Hà / Nội á thì có một vấn đề là ăn không bao
+- #332 33:02.2 3.5s — Nội á thì có một vấn đề là ăn không bao / giờ no hết v thề một ngày ở đây V ăn
+- #333 33:05.7 2.4s — phải năm bữa không thì cũng sấu bảy do
+- #334 33:08.1 2.8s — trời lạnh á cho nên là cứ đi mấy cái / quán Vĩ hè ăn hưởng không khí nó rất là
+- #335 33:10.9 4.2s — đã luôn á V nhớ tổ vi đi ăn xong rồi cứ / ăn xong một chỗ nào là lại im xong rồi
+- #336 33:15.1 2.0s — lại nhìn nhau nha Ba rồi Kiểu nào cũng
+- #337 33:17.1 2.7s — sẽ có một đứa hỏi H ăn thêm bữa nữa / không Mày là cái đám tự động đứng dậy đi
+- #338 33:19.7 2.7s — không Mày là cái đám tự động đứng dậy đi / ăn tiếp và lượng phố và mùa này nó cũng
+- #339 33:22.5 2.6s — rất rất là đã nữa Lúc này là cũng khuya
+- #340 33:25.0 2.5s — á cho nên là hồ gươ nó cũng phắn hẳn / luôn đi xe máy thôi mà K cảm giác tóc
+- #341 33:27.6 2.6s — bay như đang đóng Em Vi thất tình chịu / đôi vậy á má và bây giờ á viy sẽ đi một
+- #342 33:30.2 3.6s — đôi vậy á má và bây giờ á viy sẽ đi một / cái chỗ phải gọi là đỉnh cao bởi vì là / viy vốn không thích ăn cháo nhưng mà
+- #343 33:33.8 2.3s — viy vốn không thích ăn cháo nhưng mà / cháo sườn ở đây thì lại làm vi tới giờ
+- #344 33:36.1 2.3s — vẫn thèm V nhớ hồi đó Vi có ăn cháo sườn
+- #345 33:38.4 1.9s — một lần rồi ở trong Sài Gòn nhưng mà nó / khác ở đây á là cháo sườn vị ăn trong
+- #346 33:40.3 1.8s — khác ở đây á là cháo sườn vị ăn trong
+- #347 33:42.1 1.9s — Sài Gòn thì nó x cả sườn ở trong cháo / luôn còn ở đây á thì sườn được hầm nhừ
+- #348 33:44.0 2.0s — luôn còn ở đây á thì sườn được hầm nhừ / rồi và nó vẫn còn từng cục luôn V biết
+- #349 33:45.9 2.3s — rồi và nó vẫn còn từng cục luôn V biết / phải nói gì đúng không nữa Nhưng mà khi
+- #350 33:48.2 1.6s — mà ăn thì V vừa ăn vừa gặm Vi ăn á
+- #351 33:49.8 3.8s — thường là Vi rất ghét gặm nhưng mà cái / tô này nó ngon quá luôn Má V bất chấp
+- #352 33:53.6 2.6s — luôn V thêm một ít tiêu xong thêm một ít / quẩy ăn vô nó ấm bụng vô C mà kiểu như
+- #353 33:56.2 1.8s — quẩy ăn vô nó ấm bụng vô C mà kiểu như
+- #354 33:58.0 2.2s — cái tô cháo nó ấm á Xong rồi nó có hơi / nóng cho nên là cả tay cả mặt mình nó
+- #355 34:00.2 13.8s — nóng cho nên là cả tay cả mặt mình nó / đều được sưởi ấm ow vì cảm giác lúc này / như đang trên chín tầng mây vậy Kiểu hồi / sáng còn đang đau họng Nhưng mà giờ nuốt / miếng nào là hết đau họng miếng đó / [âm nhạc]
+- #356 34:14.0 2.5s
+- #357 34:16.5 2.5s — [âm nhạc]
+- #358 34:18.9 2.1s — luôn mình c t
+- #359 34:21.0 2.5s — luôn mình c t
+- #360 34:23.5 2.4s
+- #361 34:25.9 2.2s — bây giờ tụ vi sẽ đi ăn bánh cuốn và lúc
+- #362 34:28.1 1.8s — bây giờ tụ vi sẽ đi ăn bánh cuốn và lúc
+- #363 34:29.9 1.1s — 11:00 trưa th ra thường mọi người sẽ ăn
+- #364 34:30.9 1.5s — bánh cuốn buổi sáng nhưng mà hôm nay tụ
+- #365 34:32.4 4.0s — vi không dậy nổi một buổi sáng cho là / phải ăn buổi trưa V lại b mong ăn bánh
+- #366 34:36.4 5.0s — cuốn phải bây giờ ăn bánh cuốn nó nóng / mà trong cái thời tiết này nó lạnh nó / đang rất là lạnh nhưng mà tiện tiện tiện
+- #367 34:41.4 4.5s — các tụ vi ở trong gần phố cổ cho nên đi / bộ đi ăn được hết không cần phải đặt xe
+- #368 34:46.0 3.5s — hay gì mẹ chết đặt xe mười mấy ngày chắc / người ta chửi chết quá nhưng mà trờ bữ
+- #369 34:49.5 3.2s — ny vẫn không nắng nha không nắng một xíu / nữ luôn
+- #370 34:52.7 2.0s
+- #371 34:54.7 2.0s — [âm nhạc]
+- #372 34:56.7 1.9s
+- #373 34:58.6 1.9s
+- #374 35:00.5 2.0s
+- #375 35:02.4 2.6s
+- #376 35:05.1 1.8s — Bây giờ tôi V đang đi ăn bánh cuốn V gọi
+- #377 35:06.9 89.4s — Bây giờ tôi V đang đi ăn bánh cuốn V gọi / bánh cuốn / trẻ một cái thật ra bánh cuốn ở đâu có / ngon kểu như là nó khó để làm sai t ăn / cái gì V thế vị ăn bánh cuốn 10 hàng 10 / hàng ngon hết X mà M thích ăn bánh cuốn / phả có thật thật thật nhiều hành phi ăn / mà nó giòn trong miệng xong nó thơm / trong miệng á trời ơi siêu đã luôn có / ngày hôm nay á Hà Nội tự nhiên nó chuyển / mùa gắt kinh khủng luôn nghĩa là tầm hai / ba hôm trước á là mọi người vẫn mặc áo / cọt tay ra ngoài đường được hoặc là mặc / một áo lớp tay dài mỏng hơi nhưng mà tự / nhiên sáng nay á là viy bị xổ mũi Vi bị / khô họng kểu vừa mới mở mắt dậy cái là / bị đau họng liền luôn xong rồi cảm nhận / được là nó lạnh đột ngột luôn á x hôm / nay là hôm đầu tiên mà viy phải mặc hai / lớp áo dày như vậy chữ H đi với lại cái / áo phao nữa giờ mà sáng giờ cứ sụp xịt / mũi nhiều / vãi với lại do hôm nay nó nó Trời nó / lạnh xong rồi sáng hôm nay là lần đầu / tiên vi gọi cà phê nóng sâu phải 4 5 năm / t như cái lần cuối Vi uống cà phê nóng á / là Vi uống ở bên Sa bx bên Nhật bởi vì / Vi khỏi bằng tiếng Nhật mà người ta nghe / lộn nóng thành đá à lộn nghe lộn đá / Thành nóng sân vi C không biết sửa sao / Xân Vi Cầm mẻ luôn cái ly cà phê nóng và / nó rất là nóng luôn kiểu uống mà nó rác / họng luôn á đế hiểu luôn mới nhà ba tự / nhiên người ta đưa xong rồi B Thấy khó / bốc lên được cái ly luôn mà b cũng không / biết phải nói làm sao để sữa V vì đợ có / là vi mới đ tậ đó là vi mới qua v chỉ / biết mỗi ti tiếng Nhật để gọi thôi chứ / vi không biết tiếng nhập để mà sửa / lỗi không biết Vi Cầm mới uống luôn / Nhưng mà thường có lý do duy nhất nếu mà / vi có gọi cà phê nóng á là để cầm cho nó / ấm tay Lúc đi
+- #378 36:36.3 2.2s — bộ ê ê ê ê ê nó đang có tàu chạy trên
+- #379 36:38.4 7.9s — mình nè Ê đá có tàu chạy nè / Ô phải Ê nhìn lạ hả V tính quay fit
+- #380 36:46.4 3.3s — check tự nhiên ngước lên thấy Quyến đàn / tàu chạy luôn nhưng mà hôi để fit check
+- #381 36:49.6 11.9s — lệ nè hôm nay trờ lại nho nên là Vi mặc / một cái Hood đy đen vi mua của Zara cũng / phải một thập kỷ trước à kh phao mua / shopee 300.000đ hợp lý ha như mà nó cũng / ấm á Xong rồi cái quần dài này của dotty
+- #382 37:01.5 8.2s — ấm á Xong rồi cái quần dài này của dotty / được tặng lâu lắm rồi xong rồi vi mang / đôi Samba vi hay mang thôi à và tướ
+- #383 37:09.7 21.4s — coach của Vi Và bây giờ một lát nữa vi / tính là sẽ đi ăn bún đậu Thật ra V muốn / ăn cái gì nó nóng á Nhưng mà cá nhân vi / vi lại không thích ăn đồ nước kiểu ăn đồ / nước nó cứ dính vào quần áo này nọ tùm / lum á V thích ăn đồ khô mà ăn theo miếng / miếng miếng kiểu gà ráng hay là bánh / cuốn hay là hay là giấ búm đậu Á và sau
+- #384 37:31.1 9.3s — đó có thể là đi ăn mấy cái bánh gối bánh / lạc vặt gì đó ế cái đàn Tàu nó vẫn đi / luôn / nè cái đàn tàu đẹp
+- #385 37:40.4 2.8s
+- #386 37:43.2 2.7s — vậ đông hơn mấy người người
+- #387 37:45.9 6.0s — vậ đông hơn mấy người người / à Ngon / [âm nhạc]
+- #388 37:51.9 2.4s — quá / [âm nhạc]
+- #389 37:54.3 3.0s — Ok anh anh em nói cái này là bún đậu
+- #390 37:57.4 5.2s — ngon nhất Hà Nội An Ờ ngon nhất trong / trong trong lòng anh em này là có chả
+- #391 38:02.6 5.5s — giò có thịt nè có rau có bún cái này là / cái gì ta cái đen đen này là cái gì ta
+- #392 38:08.0 6.6s — gan à có gan lại thịt nữa ờ đậu hũ ráng / dồi Ê cái gì nó cũng có hết á mà cái này
+- #393 38:14.7 4.1s — là múc độ mắm tôm đúng không thừ mình ăn / với mắm tôm nha mọi người coi anh Nam Ăn / với cái gì nè Ê Đế ngườio kỳ thị vậy
+- #394 38:18.8 0.5s
+- #395 38:19.3 6.9s — kiểu kiểu như đế Người Hà Nội á những / người ăn nước mắm hãy comment cho tôi ạ / hãy comment phím một để tôi nhận ra các / bạn ê mấy cái này là đi ra ngoài đường
+- #396 38:26.2 2.6s — bạn ê mấy cái này là đi ra ngoài đường / dễ bị quánh lắm á Ăn ăn búc đổ mắm tôm
+- #397 38:28.8 2.2s — với nước mắm với lại là ăn cơm tấm với
+- #398 38:31.0 1.8s — nước tương Ê như cơm tấm nước tương là
+- #399 38:32.8 3.6s — kinh nha À vậy là anh cũng có tiêu chuẩn / ha anh Nam nói chỗ này còn ngon hơn cả
+- #400 38:36.4 2.5s — ha anh Nam nói chỗ này còn ngon hơn cả / bốn độ Hàng Khay nữa ho Hàng Khay là đáy
+- #401 38:38.8 6.3s — xã hội anh Nam đ Hàng Khay là đáy xã hội / th nhưng mà trong khi bạn bạn bạn bè em / lại nói Hàng Khay ngon để xem sao em mà
+- #402 38:45.1 0.6s
+- #403 38:45.7 1.8s — kiểu em pha mắm tôi không Dì nếm Nhưng
+- #404 38:47.5 8.0s — mà em lại không ăn gan với dồi này nọ / được ù đi không ăn được ữ chứ ơi kiểu / giống như anh đé mắm tôm vậy á Hay hay / kêu người ta thử ăn thử mắm tôm đi ủ
+- #405 38:55.5 0.9s
+- #406 38:56.4 1.4s — thực ngon ngon vải tr mnh tôn ngon luô
+- #407 38:57.8 1.0s — đồ hũ
+- #408 38:58.8 0.8s — đồ hũ
+- #409 38:59.6 1.7s — ráng siêu giòn luôn á như bim bim vậy á
+- #410 39:01.3 12.3s — ư cái này là cái gì vậy em Ăn thăm đi / anh Nội cho hả em Ăn thăm đi An Nội cho / cái này nè ă thăm đi An Nội cho sao đ / biết là cái gì ch gì mà CH giò nem mà
+- #411 39:13.6 0.7s
+- #412 39:14.4 6.3s — bắt cả nê mày sao gọi chả giò nhì có giò / trong mày đâu hiểu không đâu có giò / trong mày đâu đ em cứ thư đ h búc em hỏi
+- #413 39:20.6 1.5s — trong mày đâu đ em cứ thư đ h búc em hỏi
+- #414 39:22.1 18.9s — nhà em ta gọi là trả giò không à Em biết / ngọi là ngoài Nam ngoài này thì gọi là / Nam bởi vì hôm trước là em đang bún trả / chị đó hỏi là em có muốn xin nem không / Em hỏi nem là cái gì ch B đó bả chả giò / em bi cuối du lịch mà ở ở Cửa Đông Á em / gọi không cái này là cái em thích nhất / luôn á Cái này là chả cốm Ừ chả cốm ngon / hả chả cốm ngon Ok mà đúng không ngon ê
+- #415 39:41.0 6.2s — hả chả cốm ngon Ok mà đúng không ngon ê / thiệt á / Em đây là chè xoài em m Nhị
+- #416 39:47.2 1.2s
+- #417 39:48.3 2.4s — ngon như mà nó không rõ vị xoài như em
+- #418 39:50.7 5.2s — tử nhiều xoài mà ă nhiều xoài vào nhiều / xoài vào / hả này có hai hàng một hàng là Ghế Đỏ
+- #419 39:55.9 2.8s — hả này có hai hàng một hàng là Ghế Đỏ
+- #420 39:58.7 2.0s — một hàng là ghế xanh thì mình thấy hàng
+- #421 40:00.7 2.0s — ghế xanh ngon hơn Tại mình đang ngồi
+- #422 40:02.7 4.5s — hàng ghế xanh ghế màu xanh nh mọi người / b cạnh kia đ anh Nam biết nhiều quán ở
+- #423 40:07.2 2.3s — Hà Nội / vã bây giờ mà kêu dẫn em ơi khi cái
+- #424 40:09.5 0.9s — vã bây giờ mà kêu dẫn em ơi khi cái
+- #425 40:10.4 10.9s — video được e lên ý mà có lo này này tất / cả lú sẽ comment thật ý h thế Sao bọn ta / chể / đi Có nghĩa là cái đợt này là vi ra là
+- #426 40:21.3 10.8s — Vi bắt anh Nam vẫn đi món Hà Nội trong / khi là cái đám mà chê xì chế đ ra tàng / bị anh Nam dẫn đi ăn hai dư lao chà cá / chà cá hoặ là for em mà Kiểu cái này là
+- #427 40:32.1 1.3s — nó là chè xoài mà dưới nó có một cái lớp
+- #428 40:33.4 4.4s — nó là chè xoài mà dưới nó có một cái lớp / pudding dẻo dẻo ở dưới nữa Không phải
+- #429 40:37.8 4.8s — dẻo dẻo mềm mềm giống như cái cái / texture nó hơi giống tàu phớ giờ mình sẽ
+- #430 40:42.6 2.3s — thử bánh bán plăng Mọi người ơi góc quay
+- #431 40:44.9 2.8s — sáng tạo rết ở trong Vlog này nha mọi / người An Mà người này nó gọi là caramel
+- #432 40:47.7 1.6s — người An Mà người này nó gọi là caramel / nhiều hơn ha tà gọi là bán plăng không à
+- #433 40:49.3 1.3s
+- #434 40:50.5 9.3s — bá này có chư Fly cam đấy biết đâu là / sao cái độ cái độ Fly cam là cái gì em / Thổi đi Thổi đi / cục Ăn mấy cái này nó ăn đứt mấy cái món
+- #435 40:59.8 42.3s — tráng miệng giố mấy cái nhà hàng đẹp đẹp / luôn em biết trán miệng đâu Dở không / chắc bị phi cũng được mà bánh cũng được / mà ô điên bánh nào được lav t chưa ăn â / giờ fy m lav chân và trê vậy fy cái sữa / cái sữa chua dở nè cái món cái món chán / bị cái gì bốn bốn cái phô mai gì Dở nè Ê / cái đ thờ nha Ừ dở đúng không ă Toàn cái / S caramel ngon Tiramisu cũng dở nữa s t / ô bánh Lava và caramel ở đấy Lava V / caramel Ê chưa ăn hai cái đó luôn á Có / phải cái bánh cái bánh hình trụ hình đâu / Ê nhìn nhìn cái đó nhìn nhìn ngấy không / bao giờ / gọi em nữa / khôngc quá th rồi niot first noota ở đây
+- #436 41:42.1 2.0s — khôngc quá th rồi niot first noota ở đây
+- #437 41:44.0 4.0s — noota đầu tiên luôn Tao muốn cái nào mà
+- #438 41:48.1 2.5s — có con mèo á Cái nào có con mèo là được / là có tầm bao nhiêu cái bốn này 1 2 3
+- #439 41:50.5 6.1s — là có tầm bao nhiêu cái bốn này 1 2 3 / bốn cái b n cái này có mè trên đầu nè / xui lòm mới không vào vào ấ Ừ Ê xui lắm
+- #440 41:56.6 10.5s — xui lòm mới không vào vào ấ Ừ Ê xui lắm / luôn á Em mà yếu cái yếu ng à này mở mở / sao có giì B po đâu ơi Em ơi đây này có / cái Đây này cái này nó mượt / lắm đừng xem cạ nhá Đừng xem cạc nhá
+- #441 42:07.1 22.0s — chắc lần thứ hai em mở po thôi à Đừng / xem cạc nhá Bình thườ chơi smy không lấy / con ra đi lấy con X quả không cho C đúng / không Ok Ok Ok đ chắc chắc là được ấ / Chắc là được ấ này con mèo sẽ ở riêng ấ / ở ngoài chứ Ê con mèo n c m c m c mào / trên đầu ê dễ đẹp thế Hồng nha cái màu / pastel đẹp quá hả Ê Ê cái màu pastel đẹp
+- #442 42:29.1 1.4s — quá hả Nè trong chóng này trong chóng
+- #443 42:30.5 2.7s — này ê vãi Ê một con t Hùng đấy em ơi
+- #444 42:33.2 2.6s — Hùng hott lắm à t Hùng hot r emo ngă ngắ
+- #445 42:35.8 3.4s — là sao đẹp Wow đúng mà xịn hơn xị xị xị
+- #446 42:39.2 6.4s — xịn hơn smy hơn smy đ trơ tuột tuột tuột / anh hui đi Ann phộc em t em thôi anem
+- #447 42:45.6 7.3s — anh hui đi Ann phộc em t em thôi anem / Không thích mì hồng tặng cái gì nữa hôm / trước mới tắng cho em rồi mà anh bảo lúc
+- #448 42:52.9 1.1s — em trả tiền cho anh Anh sợ em mở ra
+- #449 42:54.0 2.2s — không Ra mèo th mua cho nữ không mèo em
+- #450 42:56.2 1.3s — chọn đi em chọn con em chí đi Trời ơi
+- #451 42:57.5 2.2s — Ngãi Ơ mẹ n an an anh thích con nào thô
+- #452 42:59.7 4.5s — anh anh nghĩ anh anh thích nước mũi nhất / thôi nhá nước mũi đúng không Ok nước mũi / nha đâ mở ra là ảo lắm luôn h trước bọn
+- #453 43:04.1 9.7s — nha đâ mở ra là ảo lắm luôn h trước bọn / em chơi cái trò mà sa chí Ê sao em giật / nó nà nó ghê cái đó vậ chị Ê sợ bật mắng / mà qu ai vơi em không có ăn á rồi con
+- #454 43:13.8 23.2s — này có cạp không ạ Đừng xem cạ đừng xem / cạ Ok không xem cạ không xem cạ đừng nắn / đừng có nắn CN nước mũi đúng không Đừng / có nắn đừng có nắn CN nước mũi đúng / không Đừng có nắn đừng ngắn qu à Con cao / cao ch K số nhất nhau ú ôi ôi gê à đứng / v ê nh nó con đẹp nhất Em nhìn xem ô c t / h ch đỉnh ê cho vào cái cút chù em đi / nhanh lên ơ c ơ ấ cốt Te Con mèo xinh
+- #455 43:37.1 2.7s — nhanh lên ơ c ơ ấ cốt Te Con mèo xinh
+- #456 43:39.7 7.1s — nha xin đ Ui Đẹp vãi Ê đ luôn á / Ê cái chân nó nè NT có chân chư ê ê cái
+- #457 43:46.8 2.3s — Ê cái chân nó nè NT có chân chư ê ê cái
+- #458 43:49.1 5.8s — nít giống Bin á / nin cườm bóc bóc cho đã C là nó ngồi nó
+- #459 43:54.9 6.8s — sẽ vững xuống Ế nó là bông nó sẽ / [âm nhạc]
+- #460 44:01.7 1.8s
+- #461 44:03.4 3.5s
+- #462 44:07.0 3.5s
+- #463 44:10.5 4.0s
+- #464 44:14.6 1.6s
+- #465 44:16.2 4.1s
+- #466 44:20.3 1.7s — [âm nhạc]
+- #467 44:22.0 6.2s — bị Al
+- #468 44:28.1 5.1s
+
+## Gemini (`gemini.json`, timestamps approximate ±1-2s)
+
+### Chunk from 00:00.0
+
+- **structure**: The clip follows a classic vlog structure: an energetic intro montage (0:00-0:15), a long 'get ready with me' style chat and room tour in an Airbnb (0:15-3:52), travel through the city (3:52-4:19), visits to two distinct thrift shops (4:19-7:48), and concluding with a dinner scene (7:48-8:00).
+- **pacing**: The pacing is varied; it starts very fast during the intro, slows down significantly for the conversational to-camera segments, and picks up again during shopping montages and travel transitions.
+- **music**: The music is primarily lo-fi and chill-hop, providing a relaxed but trendy atmosphere. It is carefully ducked under speech and brought to the forefront during non-verbal b-roll sequences.
+- **voice**: The creator's voice is casual, friendly, and highly personal. She speaks in Vietnamese, often using humor and expressive facial expressions to engage the audience directly.
+- **sound_design**: Sound design is minimal, relying mostly on natural ambient sounds from the environments (street noise, shop chatter) and a recurring camera shutter sound to punctuate cuts.
+- **text_style**: The text style uses a mix of a stylized yellow script for titles and a clean, modern sans-serif font for location information, typically placed in the upper corners of the frame.
+- **visual_style**: The visual style is handheld and intimate, characteristic of lifestyle vlogs. It features a warm color grade and a mix of wide environmental shots and very tight close-ups of products and clothing details.
+- **signature_moves**: Signature moves include the use of punch-in zooms for comedic emphasis during talking segments and the habit of showing a shopping bag to the camera to signal the end of a shopping sequence.
+
+- 00:00.0 music: Lo-fi beat with female vocals starts; upbeat and chill.
+- 00:00.0 text: Yellow script title: 'Hà Nội' with subtitle '5 ngày ở... là không đủ'.
+- 00:00.0 broll: Fast-paced intro montage showing food, friends, and city sights.
+- 00:15.8 sfx: Camera shutter click sound effect.
+- 00:15.8 talk_to_camera: Creator introduces the vlog from her Airbnb room.
+- 00:46.5 zoom: Punch-in zoom on the creator's face for emphasis.
+- 01:04.4 cut: Cut to a wider shot of the creator sitting in the room.
+- 01:20.5 text: Location tag: 'Airbnb apartment | 40C Hàng Vải, Hoàn Kiếm'.
+- 01:20.5 voiceover: Creator describes the apartment features over b-roll of the interior.
+- 01:48.7 talk_to_camera: Creator stands up and continues talking to the camera.
+- 02:18.1 zoom: Close-up shot as she applies lip balm while talking.
+- 03:02.6 talk_to_camera: Showing a pink shopping bag of socks she just bought.
+- 03:24.1 talk_to_camera: Holding a coffee cup and discussing the cold weather.
+- 03:43.4 music: Music transition to a more rhythmic, upbeat lo-fi track.
+- 03:43.4 broll: Short montage of her fixing her hair and getting ready.
+- 03:52.3 voiceover: Talking about Hanoi traffic over b-roll of a motorbike ride.
+- 04:19.4 broll: Walking through a narrow alleyway leading to a shop.
+- 04:30.4 text: Location tag: 'Angel's House | 120 Hàng Bông, Hoàn Kiếm'.
+- 04:30.4 voiceover: Reviewing the first thrift shop over interior b-roll.
+- 04:40.5 talk_to_camera: Showing specific clothing items to the camera in the shop.
+- 05:12.6 talk_to_camera: Trying on a patterned hat in front of a mirror.
+- 05:35.1 other: Captured live dialogue with her friend about a Santa-themed outfit.
+- 05:46.5 music: Music volume increases for a quick fashion montage.
+- 05:55.6 talk_to_camera: Mirror shots of the creator trying on various lace tops.
+- 06:27.6 other: Captured live audio of the creator paying at the counter.
+- 06:37.9 text: Location tag: 'Cyberslot Thrift | 2 Ngõ Hàng Bún, Ba Đình'.
+- 06:37.9 voiceover: Reviewing the second thrift shop over b-roll of the racks.
+- 06:55.6 other: Live reaction and laughter at a Woody from Toy Story shirt.
+- 07:41.5 talk_to_camera: Showing the final shopping bag from the second store.
+- 07:48.1 text: Location tag: 'Bò Nầm Nướng | 54 Hàng Giầy, Hoàn Kiếm'.
+- 07:48.1 music: Music shifts to a chill jazz-hop style for the dinner scene.
+- 07:48.1 broll: B-roll of the street food restaurant and the meal being served.
+
+### Chunk from 08:00.0
+
+- **structure**: The clip follows a day in Hanoi: a late-night dinner (0:00-1:06), a morning coffee run and reflection (1:08-3:22), a Bun Cha lunch (3:22-5:04), meeting friends at a cafe and walking by the lake (5:04-6:10), a dessert stop (6:10-6:48), and a final evening reflection before heading out again (6:48-8:05).
+- **pacing**: The pacing is dynamic, using fast-cut b-roll and photo montages for food and travel transitions, contrasted with longer, steady shots for personal reflections and to-camera storytelling.
+- **music**: The music is a curated mix of lo-fi, jazzy, and acoustic tracks that change with each new location to set a specific mood, always ducked significantly under speech.
+- **voice**: The creator uses a casual, intimate tone, alternating between live 'in-the-moment' speech and reflective voiceovers that provide deeper context to her experiences.
+- **sound_design**: Minimalist but effective, featuring camera shutter sounds for photo transitions and well-balanced ambient street noise to maintain a sense of place.
+- **text_style**: Consistent location tagging using a yellow cursive font for the venue name and a white serif font for the address, positioned in the top corners.
+- **visual_style**: A warm, vlog-style aesthetic with handheld camera work that feels personal. It mixes close-up food shots with wide street views and medium-shot talking segments.
+- **signature_moves**: The use of a camera shutter sound paired with a rapid photo montage to transition out of a meal segment is a recurring stylistic choice.
+
+- 08:00.0 music: Upbeat, jazzy lo-fi music starts, ducked under live speech.
+- 08:00.0 text: Yellow cursive text '@ Bò Nầm Nướng' top left; white serif text '54 Hàng Giầy, Hoàn Kiếm' top right.
+- 08:00.0 talk_to_camera: Live conversation while eating grilled meat with a friend.
+- 09:06.5 sfx: Camera shutter sound effect.
+- 09:06.5 transition: Rapid photo montage of the meal.
+- 09:08.5 music: Music changes to a light, acoustic piano melody.
+- 09:08.5 text: Yellow cursive text 'A quick coffee run' top left; white serif text 'Phê La' top right.
+- 09:08.5 broll: Shots of the street and the interior of a coffee shop.
+- 09:18.0 talk_to_camera: Creator walks through Hanoi streets talking to the camera about her coffee run.
+- 10:06.5 talk_to_camera: Cut to the creator sitting in her room, drinking coffee and sharing stories about her trip.
+- 11:22.5 music: Music changes to a playful, bouncy tune with pizzicato strings.
+- 11:22.5 text: Yellow cursive text '@ Bún chả Cửa Đông' top left; white serif text '41 Cửa Đông, Hoàn Kiếm' top right.
+- 11:22.5 broll: Street view and food preparation at the Bun Cha shop.
+- 11:33.5 voiceover: Creator provides a voiceover reflection on the food while shots of her eating are shown.
+- 13:04.5 music: Music changes to an upbeat, modern pop/indie track.
+- 13:04.5 text: Yellow cursive text '@ hermanos cafe' top left; white serif text '6 Nam Tràng, Ba Đình' top right.
+- 13:04.5 broll: Meeting friends at a modern cafe.
+- 13:17.5 voiceover: Voiceover continues over shots of the creator and friends chatting.
+- 13:48.5 talk_to_camera: Live audio of the creator and friends walking by Ho Guom (Sword Lake).
+- 14:10.5 music: Music shifts to a light, rhythmic beat.
+- 14:10.5 text: Yellow cursive text '@ Xôi chè Bà Thìn' top left; white serif text '1 Bát Đàn, Hoàn Kiếm' top right.
+- 14:11.5 voiceover: Voiceover describing the dessert experience over b-roll of the shop and food.
+- 14:48.5 music: Music changes to a soft, reflective lo-fi piano track.
+- 14:48.5 talk_to_camera: Creator back in her room, reflecting on her love for Hanoi and meeting other creators.
+- 15:54.5 ambient: Music stops; ambient street and car noise as the creator gets into a car at night.
+
+### Chunk from 16:00.0
+
+- **structure**: The clip is divided into four main segments: a car ride (0:00-1:31), a birthday dinner with gift opening (1:32-4:56), a visit to a gashapon shop (4:57-6:08), and a late-night pho meal (6:09-7:59).
+- **pacing**: The pacing is generally brisk, with frequent cuts between the vloggers talking and close-up b-roll of food or items. The birthday segment slows down slightly for a reflective voiceover.
+- **music**: The music changes to match the mood of each segment: upbeat pop for the car, jazzy lounge music for the meals, and electronic game music for the gashapon shop. Music is always ducked under speech.
+- **voice**: The tone is high-energy, casual, and humorous. Vi and Nam have a playful dynamic with lots of laughter. Vi uses a more sentimental tone during her voiceover.
+- **sound_design**: The audio is primarily live-captured vlog audio, including ambient street and restaurant sounds. There are no prominent artificial sound effects.
+- **text_style**: Location information is consistently displayed in the top corners using a simple, yellow sans-serif font at the start of each new scene.
+- **visual_style**: The video uses a handheld vlog style with a mix of medium shots for dialogue and tight close-ups for food and objects. Occasional dashcam footage adds variety.
+- **signature_moves**: The editor uses location titles to anchor each segment and frequently punches in (digital zoom) on faces or objects for emphasis or comedic effect.
+
+- 16:00.0 music: Upbeat pop music with vocals starts, ducked under speech.
+- 16:00.0 talk_to_camera: Vi and Nam talking and laughing in the car at night.
+- 16:11.0 zoom: Punch-in on Nam's face as he laughs.
+- 16:12.0 cut: Cut to dashcam view of Hanoi streets at night.
+- 16:13.0 cut: Cut back to interior vlog view.
+- 16:20.0 talk_to_camera: Nam starts singing along to K-pop songs.
+- 16:39.0 music: Music fades out as they continue talking.
+- 17:32.0 music: Jazzy, upbeat instrumental music starts.
+- 17:32.0 text: Yellow location text: '@Bếp Cô Linh' and '42C Lý Thường Kiệt, Hoàn Kiếm' top left/right.
+- 17:32.0 broll: Wide shot of the outdoor street food stall.
+- 17:36.0 broll: Close-up of the menu.
+- 17:38.0 broll: Close-up of meat grilling on a pan.
+- 17:41.0 talk_to_camera: Nam and Vi sitting at the table, Nam starts opening a gift box.
+- 17:51.0 zoom: Punch-in on the cake inside the box.
+- 17:57.0 talk_to_camera: Nam presents a large wrapped gift to Vi.
+- 18:18.0 talk_to_camera: Vi unwraps the gift to reveal a 'Người Đẹp Don't Cry' poster.
+- 18:34.0 talk_to_camera: Vi shows off several keychains Nam gave her.
+- 18:55.0 broll: Close-up of the birthday cake with a '3' candle.
+- 19:00.0 talk_to_camera: Nam cooks meat on the grill while they talk.
+- 19:12.0 talk_to_camera: Nam does a funny bit, pretending to be a different vlogger from a previous video.
+- 20:11.0 voiceover: Vi's voiceover starts, reflecting on her friendship with Nam over b-roll of them eating.
+- 20:36.0 talk_to_camera: Vi holds her birthday cake and poses for the camera.
+- 20:56.0 music: Jazzy music stops.
+- 20:57.0 music: Upbeat, electronic game-like music starts.
+- 20:57.0 text: Yellow location text: 'Gashapon Bandai Shop' and 'Nhà Sách Phương Nam, Lotte Center'.
+- 20:57.0 talk_to_camera: Vi at a gashapon machine, explaining what she wants to win.
+- 21:07.0 talk_to_camera: Vi turns the dial and gets excited as the capsule drops.
+- 21:28.0 talk_to_camera: Vi and Nam sit down to unbox the gashapon toys.
+- 21:43.0 talk_to_camera: Nam tries his luck at a Pikachu gashapon machine.
+- 22:08.0 music: Electronic music stops.
+- 22:09.0 music: Slow, jazzy instrumental music starts.
+- 22:09.0 text: Yellow location text: '@Phở Gánh' and '61 Hàng Ngang, Hoàn Kiếm'.
+- 22:09.0 broll: Shots of the late-night pho stall on the sidewalk.
+- 22:20.0 broll: Close-up of a bowl of pho.
+- 22:22.0 talk_to_camera: Vi shows her phone screen displaying 4:14 AM.
+- 22:31.0 talk_to_camera: Nam talks to the camera, looking tired but happy.
+- 22:43.0 broll: Close-up of mixing the pho with chopsticks.
+- 23:23.0 talk_to_camera: Vi tells a story about looking for 'bún riêu' earlier that night.
+
+### Chunk from 24:00.0
+
+- **structure**: The clip follows a day in Hanoi: late-night street food (0:00-1:47), a morning 'get ready with me' segment (1:48-4:10), lunch at a modern pizza restaurant with a guest (4:11-7:20), and dinner at a famous chicken pho spot (7:21-end).
+- **pacing**: The pacing is relaxed, matching the lifestyle vlog genre. Eating segments feature longer takes of conversation, while the morning routine uses quicker cuts and punch-ins to maintain energy.
+- **music**: Lo-fi hip-hop and jazzy tracks are used throughout, providing a consistent, chill atmosphere. The music shifts slightly in mood to match the time of day or location.
+- **voice**: The creator uses a casual, friendly tone, speaking directly to the camera or interacting naturally with her companions. The dialogue is captured live.
+- **sound_design**: Natural ambient sounds of the city and restaurants are present. Whoosh sound effects are used consistently to signal transitions between different locations/times.
+- **text_style**: Location and restaurant names are displayed in the top corners using an elegant, yellow serif font.
+- **visual_style**: The video has a handheld, authentic feel. It mixes wide shots of the environment with close-ups of food and medium shots for talking segments. Lighting varies from the harsh night lights of the street to the soft natural light of the mall.
+- **signature_moves**: The use of whoosh transitions combined with location text in the corners is a recurring stylistic choice. Frequent punch-ins during talking segments are used to emphasize points or reactions.
+
+- 24:00.0 music: Upbeat, lo-fi hip-hop track starts, no vocals, ducked under speech.
+- 24:00.0 talk_to_camera: The creator is eating at a street stall at night, talking to someone off-camera.
+- 24:02.8 cut: Cut to a slightly different angle of the same scene.
+- 24:15.0 broll: Close-up of the noodles being lifted with chopsticks.
+- 24:21.5 cut: Back to the main shot of the creator talking.
+- 24:28.5 broll: Close-up of the creator eating noodles.
+- 24:34.0 cut: Back to the main shot.
+- 25:08.0 broll: Close-up of a fried dough stick (quẩy).
+- 25:10.0 cut: Back to the main shot.
+- 25:30.0 broll: Close-up of the creator dipping the dough stick into the soup.
+- 25:40.0 cut: Back to the main shot.
+- 25:47.5 sfx: Whoosh sound effect for transition.
+- 25:48.0 music: Music changes to a more upbeat, acoustic pop-style lo-fi track.
+- 25:48.0 talk_to_camera: The creator is getting ready in front of a mirror, applying makeup and talking to the camera.
+- 26:06.0 zoom: Punch-in for emphasis as she speaks.
+- 26:32.0 zoom: Punch-in for emphasis.
+- 27:01.0 zoom: Punch-in for emphasis.
+- 27:39.0 cut: Cut to a wider shot of her in the room, showing her outfit.
+- 28:10.5 sfx: Whoosh sound effect for transition.
+- 28:11.0 music: Music changes to a chill, jazzy lo-fi track.
+- 28:11.0 text: Yellow serif text: 'Pizza 4P's' (top left), 'Lotte Mall Tây Hồ' (top right).
+- 28:11.0 broll: Montage of the restaurant interior and food.
+- 28:20.5 talk_to_camera: The creator and her guest are eating and talking at the restaurant.
+- 28:24.0 talk_to_camera: The guest introduces herself to the camera.
+- 28:48.5 cut: Wide shot of the two women eating and chatting.
+- 29:52.5 talk_to_camera: The guest presents a gift to the creator.
+- 31:01.5 broll: Short montage of them finishing their meal.
+- 31:20.5 sfx: Whoosh sound effect for transition.
+- 31:21.0 music: Music changes to a mellow lo-fi track.
+- 31:21.0 text: Yellow serif text: 'Phở Gà Nguyệt' (top left), '5b Phủ Doãn, Hoàn Kiếm' (top right).
+- 31:21.0 broll: Shots of the restaurant exterior and menu.
+- 31:28.5 talk_to_camera: The creator is eating chicken pho with a friend.
+- 31:34.5 broll: Close-up shots of the pho bowls.
+
+### Chunk from 32:00.0
+
+- **structure**: The clip follows a food-focused itinerary in Hanoi, moving from night snacks (noodles, porridge) to morning coffee, then lunch (Banh Cuon, Bun Dau), and finally dessert.
+- **pacing**: The pacing is relaxed, typical of a lifestyle vlog. It balances long conversational segments with quick B-roll montages to introduce new locations.
+- **music**: The music is used to set the mood: upbeat acoustic pop for the night and day segments, transitioning to a slower lo-fi jazz vibe for the morning cafe scene.
+- **voice**: Vy uses a friendly, conversational tone, speaking directly to her audience. She mixes live commentary while eating with descriptive voiceovers during B-roll transitions.
+- **sound_design**: Natural ambient sounds like street traffic, the train passing, and eating sounds are kept in the mix. A signature camera shutter sound is used for major transitions.
+- **text_style**: Handwritten-style yellow and white text is used consistently to identify food items and restaurant locations, usually placed in the upper corners.
+- **visual_style**: The visual style is handheld and intimate. It features many close-ups of food ('food porn' style) and wide shots of the bustling Hanoi streets.
+- **signature_moves**: The editor uses a camera shutter flash effect and sound to transition between different times of day or major locations, creating a 'photo album' feel.
+
+- 32:00.0 talk_to_camera: Vy eating noodles and talking to the camera. Music starts: upbeat acoustic pop, no vocals.
+- 32:21.0 zoom: Punch-in zoom on Vy eating noodles.
+- 33:01.5 broll: Night street food scene in Hanoi. Voiceover begins.
+- 33:08.0 text: Yellow script text identifying food: 'Nem nướng', 'Xoài', 'Trà quất'.
+- 33:11.0 talk_to_camera: Vy eating fried snacks at a sidewalk stall.
+- 33:15.0 zoom: Close-up shot of the fried snack on a stick.
+- 33:21.5 broll: Motorbike ride through Hanoi streets at night. Voiceover continues.
+- 33:35.5 broll: Exterior of the porridge shop. Voiceover continues.
+- 33:36.0 text: Location text: 'Cháo sườn sụn Huyền Anh', 'Chợ đêm Đồng Xuân'.
+- 33:39.5 talk_to_camera: Vy eating porridge at the night market.
+- 33:55.5 zoom: Close-up of adding pepper to the porridge.
+- 34:10.0 transition: Camera shutter flash effect with shutter sound.
+- 34:11.0 broll: Morning street scene. Music changes to cozy lo-fi jazz.
+- 34:11.0 text: Stylized text: 'A cozy morning', 'Tiệm nhà Bắp Bơ'.
+- 34:16.0 talk_to_camera: Vy sitting in a cafe, checking her phone.
+- 34:19.0 zoom: Close-up of coffee being stirred.
+- 34:28.0 talk_to_camera: Vy walking and talking to the camera about her next meal.
+- 34:54.5 broll: Steaming Banh Cuon being prepared. Voiceover begins.
+- 34:55.0 text: Location text: 'Bánh cuốn Hồng Anh', 'S74 Hàng Vải, Hoàn Kiếm'.
+- 35:06.5 talk_to_camera: Vy eating Banh Cuon and talking about the cold weather.
+- 36:38.5 talk_to_camera: Vy reacts to a train passing on the tracks above her.
+- 36:50.0 talk_to_camera: Outfit check segment showing her hoodie, jacket, and shoes.
+- 37:40.0 transition: Camera shutter flash effect with shutter sound.
+- 37:43.5 broll: Walking into a narrow alleyway restaurant. Voiceover begins.
+- 37:44.0 text: Location text: 'Bún đậu mẹt Tuấn Trọc', '23 Phan Huy Ích, Ba Đình'.
+- 37:57.0 broll: Close-up of the Bun Dau platter. Voiceover continues.
+- 38:19.0 talk_to_camera: Vy and her friend talking and joking while eating.
+- 39:47.0 talk_to_camera: Vy eating dessert on the sidewalk.
+- 39:47.5 text: Location text: 'Caramen Kim Yến', '21 Hàng Than, Ba Đình'.
+- 39:48.0 broll: Close-up of the caramel dessert. Voiceover begins.
+
+### Chunk from 40:00.0
+
+- **structure**: The clip is divided into three distinct segments: a food review at Caramen Kim Yen (0:00-1:43), a high-energy blind box unboxing at an art toy shop (1:43-3:58), and a sentimental outro montage of packing and leaving Hanoi (3:58-4:32).
+- **pacing**: The pacing is moderate during the food segment, following the natural flow of conversation. It speeds up significantly during the unboxing with quick cuts and high-energy reactions, then slows down for a rhythmic, reflective montage in the outro.
+- **music**: The first segment uses only ambient street noise. The toy shop segment features upbeat lo-fi pop to match the excitement. The outro shifts to a soft piano piece to evoke a sense of nostalgia and closure.
+- **voice**: The creator uses casual, live captured speech for the majority of the clip, characterized by friendly banter and humorous observations. The outro transitions to a scripted, warm voiceover reflecting on the trip.
+- **sound_design**: Natural ambient sounds are used initially. Key sound effects include the tactile 'pop' of unboxing and the loud, layered cheering during the toy reveal. The 'flycam' joke is accompanied by a quick zoom effect.
+- **text_style**: Consistent yellow subtitles at the bottom center translate the spoken Vietnamese. Location tags and social media handles are placed in the top corners in a clean, sans-serif font.
+- **visual_style**: The visual style is classic handheld vlog, utilizing a mix of medium shots for interaction and close-ups for food and products. The outro uses a more composed montage style with fixed camera positions.
+- **signature_moves**: The 'flycam' zoom-out triggered by blowing on the lens is a distinctive creative touch. The use of high-energy reaction shots during unboxing is also a staple of this style.
+
+- 40:00.0 broll: Shot of a storefront 'CARAMEN KIM YEN' with ambient street noise.
+- 40:00.0 text: '@ Caramen Kim Yen' and '31 Hang Than, Ba Dinh' in top corners.
+- 40:01.2 cut: Cut to the menu board of the shop.
+- 40:02.5 talk_to_camera: The couple sits outside eating from white cups, speaking to the camera.
+- 40:03.2 text: Yellow subtitle: 'tại tụi mình đang ngồi ở hàng ghế xanh'
+- 40:11.8 zoom: Punch-in on the couple as they continue talking.
+- 40:21.0 cut: Cut back to the original wider angle.
+- 40:32.5 cut: Close-up of a mango pudding dessert being stirred with a spoon.
+- 40:37.5 cut: Cut back to the couple talking about the texture.
+- 40:42.5 cut: Close-up of a flan (caramen) on a small plate.
+- 40:44.5 cut: The woman holds the flan and talks to the camera.
+- 40:55.5 zoom: The woman blows on the camera, and it zooms out/moves away quickly as a 'flycam' joke.
+- 40:59.5 cut: Low angle shot looking up at the couple as they eat and talk.
+- 41:37.5 cut: Close-up of the woman taking a bite of the caramen.
+- 41:41.5 cut: Shot of empty dessert cups on a blue tray.
+- 41:43.5 music: Upbeat, lo-fi pop music starts as they enter a toy shop.
+- 41:43.5 text: '@ Art Toys' and '70 Thi Sach, Hai Ba Trung' in top corners.
+- 41:44.0 text: 'Molly_Lily Art Toys' in top left corner.
+- 41:44.5 talk_to_camera: The couple sits at a table in the toy shop to unbox blind boxes.
+- 42:04.5 sfx: Pop/tear sound as the box is opened.
+- 42:23.5 cut: Close-up of the first toy (pink hair with a cat on top).
+- 42:45.5 cut: Medium shot of the couple as the man prepares to open another box.
+- 43:26.5 sfx: Loud cheering and shouting as they reveal the desired toy.
+- 43:26.5 cut: Close-up of the plush cat toy with a blue 'snot' bubble.
+- 43:37.5 cut: Shot of them hanging the toy on the woman's handbag.
+- 43:47.0 cut: Close-up of the toy's face and paws.
+- 43:58.5 music: Music changes to a soft, sentimental piano melody.
+- 43:58.5 voiceover: The woman begins a reflective voiceover about her trip.
+- 43:59.0 broll: Montage of the woman packing her laptop and bags in a bedroom.
+- 44:15.0 cut: Shot of her closing and standing up her suitcases.
+- 44:20.0 cut: She wheels her luggage out of the room.
+- 44:26.5 transition: Fade to black.
+- 44:27.5 cut: Quick cut back to her grabbing a final bag and leaving the room.
+

@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#474 34:04.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in glasses and white shirt talking on tree-lined sidewalk",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing, daylight, slightly warm grade, walking forward and speaking to camera"
+  },
+  {
+   "label": "#475 34:08.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same woman mid-sentence, looking off to side on street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight crop on face, continuous walk-and-talk"
+  },
+  {
+   "label": "#476 34:14.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman gazing upward while speaking, tree-lined street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Similar framing to previous, bright natural light"
+  },
+  {
+   "label": "#477 34:18.0",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Woman turning head to look at traffic on wide urban road",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hair blowing, camera turns with her, transitional movement"
+  },
+  {
+   "label": "#478 34:19.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman looking left at street with cars and tall towers",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hair in motion, wide-angle distortion at edges"
+  },
+  {
+   "label": "#479 34:20.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman speaking to camera with flower planters and traffic behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slightly wider than previous, overcast sky"
+  },
+  {
+   "label": "#480 34:21.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman glancing sideways at buses and high-rise towers",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Quick cut rhythm, grey muted grade"
+  },
+  {
+   "label": "#481 34:23.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman looking up-left, street with crosswalk and towers",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hair blown by wind, cool tones"
+  },
+  {
+   "label": "#482 34:26.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in profile against busy intersection with cars",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight crop, background traffic gives motion"
+  },
+  {
+   "label": "#483 34:30.2",
+   "shot": "screen",
+   "camera": "handheld",
+   "subject": "Hand holding phone showing payment app with ranking badge over greenery",
+   "text_on_screen": "个人新纪录 15 (app banner); 15.7 (large figure on app)",
+   "text_style": "Chinese UI text, white and blue app text on dark blue screen, large bold numerals, centered on phone screen",
+   "notes": "Phone screen recording inserted into footage, sidewalk and plants behind"
+  },
+  {
+   "label": "#484 34:32.3",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Phone held up over tiled pavement and bushes, screen mostly out of focus",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Walking POV, shallow focus"
+  },
+  {
+   "label": "#485 34:33.5",
+   "shot": "screen",
+   "camera": "handheld",
+   "subject": "Phone with same app screen held over sidewalk and plants",
+   "text_on_screen": "个人新纪录 15 (app banner)",
+   "text_style": "Chinese UI text, white on blue, centered on phone screen",
+   "notes": "Same app insert as previous frame, slightly different angle"
+  },
+  {
+   "label": "#486 34:35.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Restaurant storefront interior with food display and cook at counter",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior lighting, slow pan across counter"
+  },
+  {
+   "label": "#487 34:36.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Cook stirring large pot of braised food with ladle",
+   "text_on_screen": "Ziwu Road Zhang (faint watermark)",
+   "text_style": "Small yellow semi-transparent watermark, sans-serif, centre-right",
+   "notes": "Warm grade, steam visible, kitchen ambience"
+  },
+  {
+   "label": "#488 34:37.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Staff in apron serving food at counter to customer in foreground",
+   "text_on_screen": "Ziwu Road Zhang (faint watermark)",
+   "text_style": "Small yellow semi-transparent watermark, sans-serif, centre",
+   "notes": "Customer silhouetted in foreground, documentary feel"
+  },
+  {
+   "label": "#489 34:39.5",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Bowl of diced meat and vegetables with spoon, hand reaching in",
+   "text_on_screen": "Ziwu Road Zhang (faint watermark)",
+   "text_style": "Small yellow semi-transparent watermark, sans-serif, centre-right",
+   "notes": "Food closeup as payoff shot, warm saturated colours"
+  }
+ ]
+}

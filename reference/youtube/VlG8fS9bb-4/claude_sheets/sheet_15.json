@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#154 11:42.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman holding up orange blind-box card with character figures",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Indoor cafe, striped sofa background, warm natural light"
+  },
+  {
+   "label": "#155 11:47.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Hand fanning orange blind-box card of character figures",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing on product card, slightly soft focus"
+  },
+  {
+   "label": "#156 11:49.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman opening small orange blind-box package",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Medium close framing, cafe interior"
+  },
+  {
+   "label": "#157 11:52.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman lifting white plush toy from packaging, Snoopy-style shirt",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Unboxing sequence continues"
+  },
+  {
+   "label": "#157 11:57.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman peeling foil wrapper on small white item",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Eyes on hands, cafe setting"
+  },
+  {
+   "label": "#157 12:01.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman showing blonde cartoon figure toy to camera while talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head reaction"
+  },
+  {
+   "label": "#158 12:04.8",
+   "shot": "black",
+   "camera": "unknown",
+   "subject": "Solid black screen",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Transition or pause between segments"
+  },
+  {
+   "label": "#159 12:06.0",
+   "shot": "closeup",
+   "camera": "tripod",
+   "subject": "Table with coffee mug, bowl of noodle soup with greens, steamed buns",
+   "text_on_screen": "ngày | hai",
+   "text_style": "Small lowercase sans-serif white labels, placed over mug and bowl",
+   "notes": "Food overhead-angle table shot, warm wood tones"
+  },
+  {
+   "label": "#160 12:07.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman eating from spoon at table with bowl and white cup",
+   "text_on_screen": "ngày | hai",
+   "text_style": "Small lowercase sans-serif white labels over cup and bowl",
+   "notes": "Eyes closed while eating, warm tones"
+  },
+  {
+   "label": "#161 12:10.8",
+   "shot": "pov",
+   "camera": "gimbal",
+   "subject": "Handlebar view of blue shared bike riding along tree-lined street",
+   "text_on_screen": "ngày | hai",
+   "text_style": "Small lowercase sans-serif white labels, same style as previous shots",
+   "notes": "Riding POV, handlebars in foreground"
+  },
+  {
+   "label": "#162 12:13.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman smiling beside blue shared bike on wide road",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Street scene with motorbike and buildings in background"
+  },
+  {
+   "label": "#163 12:15.6",
+   "shot": "pov",
+   "camera": "gimbal",
+   "subject": "Cyclist's legs and blue bike on yellow-lined road",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low angle riding shot, bright daylight"
+  },
+  {
+   "label": "#164 12:17.6",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Handlebars and rider passing green trees, blurred motion",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Motion blur, tilted framing"
+  },
+  {
+   "label": "#165 12:19.2",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Tree-lined street with cyclists and parked cars ahead",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Forward-facing ride view, natural green grade"
+  },
+  {
+   "label": "#166 12:21.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman locking blue shared bike by red brick building and yellow pole",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Street-level, documentary feel"
+  },
+  {
+   "label": "#167 12:25.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman talking to camera beside bike lane on sunny street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Direct-to-camera talking head, shallow depth of field"
+  }
+ ]
+}

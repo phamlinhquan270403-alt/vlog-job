@@ -1,0 +1,315 @@
+{
+ "start": 480,
+ "events": [
+  {
+   "t": 480.0,
+   "type": "broll",
+   "what": "Wide aerial drone shot panning over dramatic limestone peaks and green valley in the Dolomites."
+  },
+  {
+   "t": 484.0,
+   "type": "cut",
+   "what": "Cut to handheld ground b-roll of hiker traversing rocky scree trail toward mountain gap."
+  },
+  {
+   "t": 486.0,
+   "type": "broll",
+   "what": "Panning panoramic shot of rugged Dolomite peaks under partly cloudy sky."
+  },
+  {
+   "t": 489.0,
+   "type": "text",
+   "what": "Yellow italicized serif text overlay: 'we\\'ve come all the way up this way' as hand points back across the valley."
+  },
+  {
+   "t": 491.0,
+   "type": "cut",
+   "what": "Cut to male hiking companion standing on trail, smiling at camera."
+  },
+  {
+   "t": 492.5,
+   "type": "talk_to_camera",
+   "what": "Hand points up steep gully; creator remarks on camera: 'And we\\'re going to go all the way up to the top.'"
+  },
+  {
+   "t": 496.0,
+   "type": "talk_to_camera",
+   "what": "Selfie shot of creator hiking uphill discussing elevation gain."
+  },
+  {
+   "t": 500.5,
+   "type": "text",
+   "what": "Yellow serif capital text overlay: 'WORTH THE VIEW' as creator gestures to the peaks behind."
+  },
+  {
+   "t": 502.0,
+   "type": "music",
+   "what": "Indie folk acoustic track with soft female vocals fades in as energetic hiking montage begins."
+  },
+  {
+   "t": 502.5,
+   "type": "broll",
+   "what": "Wide shot of creator carefully descending boulder field using large wooden branch as hiking staff."
+  },
+  {
+   "t": 505.0,
+   "type": "broll",
+   "what": "Companion navigating loose scree alongside a snow patch."
+  },
+  {
+   "t": 506.5,
+   "type": "talk_to_camera",
+   "what": "Selfie angle showing snowy trail; creator exclaims: 'Through the ice!'"
+  },
+  {
+   "t": 509.0,
+   "type": "broll",
+   "what": "High perspective looking back down along snowfield and steep scree trail to the valley."
+  },
+  {
+   "t": 513.0,
+   "type": "broll",
+   "what": "Creator walking down packed snow using her wooden stick for balance."
+  },
+  {
+   "t": 520.0,
+   "type": "broll",
+   "what": "Companion walks through a narrow mountain pass opening up to a wide vista on the opposite side."
+  },
+  {
+   "t": 523.0,
+   "type": "text",
+   "what": "Yellow cursive text overlay: '...and now back down the other side' over shot of creator hiking down scree."
+  },
+  {
+   "t": 527.0,
+   "type": "broll",
+   "what": "Downward perspective revealing alpine lake (Lago di Lagazuoi) nestled deep in the gorge."
+  },
+  {
+   "t": 534.0,
+   "type": "cut",
+   "what": "Companion pauses on path overlooking the green valley, remarking 'Very cool.'"
+  },
+  {
+   "t": 538.0,
+   "type": "broll",
+   "what": "Couple resting on grass bank next to emerald alpine lake, relaxing after steep descent."
+  },
+  {
+   "t": 543.0,
+   "type": "talk_to_camera",
+   "what": "Handheld POV tracing the massive mountain route traversed and pointing up toward the next refuge."
+  },
+  {
+   "t": 554.5,
+   "type": "cut",
+   "what": "Cut to hiking up barren limestone slope beneath vertical cliffs."
+  },
+  {
+   "t": 564.0,
+   "type": "talk_to_camera",
+   "what": "Companion asks 'Helena, almost there?'; creator laughs, removes sunglasses, and talks about exhaustion and finding the stick."
+  },
+  {
+   "t": 580.0,
+   "type": "text",
+   "what": "Yellow serif overlay: 'I COULDN\\'T HAVE DONE THIS HIKE WITHOUT THIS STICK'."
+  },
+  {
+   "t": 587.0,
+   "type": "broll",
+   "what": "Wooden trail trailpost showing directions to Rifugio Lagazuoi and surrounding passes."
+  },
+  {
+   "t": 590.0,
+   "type": "cut",
+   "what": "Creator reaches the terrace stairs of Rifugio Lagazuoi smiling: 'We made it!'"
+  },
+  {
+   "t": 594.0,
+   "type": "broll",
+   "what": "Spectacular 360-degree panorama from summit ridge overlooking cloud-dappled Dolomite mountain ranges."
+  },
+  {
+   "t": 596.5,
+   "type": "talk_to_camera",
+   "what": "Creator sits at outdoor picnic tables outside Rifugio Lagazuoi, recapping their 5-hour, 10-mile trek and explaining transit logistics."
+  },
+  {
+   "t": 622.0,
+   "type": "music",
+   "what": "Uplifting cinematic indie pop track swells with lush drone landscape sweep of mountain ridges."
+  },
+  {
+   "t": 629.0,
+   "type": "talk_to_camera",
+   "what": "Companion on observation platform recaps reaching 2,752 meters and sore legs."
+  },
+  {
+   "t": 650.0,
+   "type": "broll",
+   "what": "Cable car descending cable wires steeply toward green valley floor."
+  },
+  {
+   "t": 652.0,
+   "type": "other",
+   "what": "Split screen: scenic cable car descent on left; couple smiling selfie video inside car on right."
+  },
+  {
+   "t": 660.0,
+   "type": "talk_to_camera",
+   "what": "Couple walking along gravel road laughing about missing their second cable car due to marathon traffic."
+  },
+  {
+   "t": 684.0,
+   "type": "talk_to_camera",
+   "what": "Hand points up steep ski slope path: 'Say a prayer to our legs... Oh my god.'"
+  },
+  {
+   "t": 689.0,
+   "type": "broll",
+   "what": "Drone footage tracking along cliffside trail above green valley while pop song continues."
+  },
+  {
+   "t": 699.0,
+   "type": "talk_to_camera",
+   "what": "Selfie handheld walking up steep scree slope: 'We\\'re just walking up a giant ski hill...'"
+  },
+  {
+   "t": 708.0,
+   "type": "talk_to_camera",
+   "what": "Creator stops at ridge after an hour of steep switchbacks, gives thumbs up to camera."
+  },
+  {
+   "t": 716.0,
+   "type": "broll",
+   "what": "Cinematic aerial b-roll of misty alpine peaks at dusk."
+  },
+  {
+   "t": 719.0,
+   "type": "other",
+   "what": "Split screen: Rifugio terrace at sunset on left; two glasses of red wine overlooking glowing peaks on right with text: '& finally arrived at the refugio an hour later'."
+  },
+  {
+   "t": 723.0,
+   "type": "broll",
+   "what": "Timelapse of golden hour sunlight fading over Dolomite peaks into soft evening blues."
+  },
+  {
+   "t": 731.0,
+   "type": "transition",
+   "what": "Warm film burn/light leak transition to the following morning."
+  },
+  {
+   "t": 733.0,
+   "type": "talk_to_camera",
+   "what": "Morning vlog inside rustic wooden bedroom, text overlay: 'RIFUGIO POMEDES'."
+  },
+  {
+   "t": 740.0,
+   "type": "broll",
+   "what": "POV opens door to sunlit terrace overlooking panoramic mountain vistas."
+  },
+  {
+   "t": 746.0,
+   "type": "talk_to_camera",
+   "what": "Creator filming from chairlift ride down the mountain in the morning."
+  },
+  {
+   "t": 755.0,
+   "type": "text",
+   "what": "Yellow italic serif text overlay: '& we\\'re off to roadtrip around the rest of the dolomites' over chairlift descent."
+  },
+  {
+   "t": 758.0,
+   "type": "title",
+   "what": "Full-screen title card with sage green border: 'now let\\'s talk about...' transitioning to 'tips & tricks: everything I learned the hard way so you don\\'t have to'."
+  },
+  {
+   "t": 764.0,
+   "type": "talk_to_camera",
+   "what": "Creator sits down on terrace holding Rode wireless mic, speaking directly to camera to introduce the tips guide."
+  },
+  {
+   "t": 768.0,
+   "type": "other",
+   "what": "Subscribe and Like button animated overlay pops in at bottom screen corners."
+  },
+  {
+   "t": 778.0,
+   "type": "photo",
+   "what": "Picture-in-picture video insert showing previous Catalina Island backpacking vlog on screen."
+  },
+  {
+   "t": 792.0,
+   "type": "title",
+   "what": "Vintage film-frame graphic title card with horses in pasture: 'TIP 1: BOOK FAR IN ADVANCE'."
+  },
+  {
+   "t": 794.0,
+   "type": "talk_to_camera",
+   "what": "Creator explains booking logistics, hut pipeline challenges, long email response times, and booking options."
+  },
+  {
+   "t": 805.0,
+   "type": "broll",
+   "what": "Scenic b-roll insert of Passo Giau and alpine meadows illustrating trail routes."
+  },
+  {
+   "t": 812.0,
+   "type": "broll",
+   "what": "Aerial b-roll of Tre Cime di Lavaredo at golden hour."
+  },
+  {
+   "t": 817.0,
+   "type": "talk_to_camera",
+   "what": "Returns to talking head explaining hut availability bottlenecks and booking strategies."
+  },
+  {
+   "t": 885.0,
+   "type": "title",
+   "what": "Film strip title card: 'TIP 2: GET THE RIGHT GEAR BUT YOU DON\\'T NEED AS MUCH AS YOU THINK'."
+  },
+  {
+   "t": 887.0,
+   "type": "talk_to_camera",
+   "what": "Discussion of shoe choices (Hoka running shoes), walking poles, water capacity, and checking for Via Ferratas."
+  },
+  {
+   "t": 901.0,
+   "type": "other",
+   "what": "Picture-in-picture video inset showing creator with wooden stick on trail with text: 'I HIGHLY RECOMMEND HIKING POLES (OR A WALKING STICK OFC)'."
+  },
+  {
+   "t": 918.0,
+   "type": "title",
+   "what": "Film strip title card: 'TIP 3: RENT A CAR' over photo of creator sitting on mountain summit cliff."
+  },
+  {
+   "t": 920.0,
+   "type": "talk_to_camera",
+   "what": "Creator discusses navigating the region, public transit limitations, and hotel luggage storage."
+  },
+  {
+   "t": 939.0,
+   "type": "title",
+   "what": "Film strip title card: 'TIP 4: BUDGET ACCORDINGLY'."
+  },
+  {
+   "t": 941.0,
+   "type": "talk_to_camera",
+   "what": "Creator discusses cost comparisons between hut trekking and tent camping, including half-board pricing."
+  }
+ ],
+ "summary": {
+  "structure": "The video follows a two-part travel vlog structure: 00:00-04:37 is a cinematic and experiential montage of a challenging hut-to-hut hike in the Dolomites (hiking over two mountain passes, visiting Rifugio Lagazuoi, missing the cable car, hiking up ski slopes to Rifugio Pomedes, and enjoying sunset wine); 04:38-08:00 shifts to a sit-down 'Tips & Tricks' guide structured by numbered chapter title cards (Booking in Advance, Gear, Renting a Car, Budgeting).",
+  "pacing": "Montage segments feature medium-to-quick cuts (2-4 seconds) alternating between handheld vlog check-ins, tracking hiking shots, and sweeping drone landscape b-roll. The talking-head advice portion is moderately paced with occasional cutaways to b-roll, picture-in-picture video references, and graphic title cards.",
+  "music": "Starts with ambient instrumental background, transitioning to gentle indie folk with acoustic guitar and female vocals during the hike, swelling cinematic indie-pop during summit views, and soft upbeat acoustic underlay during the talking-head guide.",
+  "voice": "Casual, relatable, candid, and conversational. The creator openly shares fatigue, humorous misadventures (missing the cable car, relying on a makeshift wooden stick), and gives pragmatic, organized advice for fellow travelers.",
+  "sound_design": "Minimal artificial sound effects; relies heavily on natural ambient wind, crunching gravel footsteps, chairlift machinery, and smooth music ducking beneath speech.",
+  "text_style": "Golden-yellow retro serif font (often italicized or small caps) overlaid during the experiential vlog for witty commentary; olive green framed graphic title cards with gothic/serif lettering and film perforation borders for educational tips.",
+  "visual_style": "Warm natural color grade emphasizing golden limestone, deep alpine greens, and warm sunset glows. Mix of ultra-wide drone aerials, POV trail footage, and eye-level wide-aperture talking head.",
+  "signature_moves": "Split-screen comparisons (e.g. scenic view paired with selfie video inside cable car; sunset view paired with wine glasses); handwritten/serif aesthetic text captions; vintage film strip chapter transition cards; candid handheld stick-vlogging."
+ }
+}

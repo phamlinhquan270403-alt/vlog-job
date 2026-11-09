@@ -1,0 +1,49 @@
+{
+ "frames": [
+  {
+   "label": "#481 26:20.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in dark jacket and beanie arms outstretched beside Mount Kilimanjaro sign",
+   "text_on_screen": "MOUNT KILIMANJARO, UHURU PEAK TANZANIA, 4934",
+   "text_style": "Hand-painted wooden sign lettering, yellow and white, mixed sizes, top-left and bottom placement",
+   "notes": "Bright overcast daylight, slightly washed colours, subject centred-right, sign fills background"
+  },
+  {
+   "label": "#482 26:23.3",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Three people in dark jackets sitting on rocks beneath summit signpost in fog",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide static framing, misty grey sky, volcanic black rock foreground, subjects small in lower centre"
+  },
+  {
+   "label": "#483 26:27.1",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman in navy jacket and beanie with hands behind head, smiling, summit sign behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth handheld-stabilised framing, pale overcast background, subject centred, cool grade"
+  },
+  {
+   "label": "#484 26:30.7",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Snow-capped volcanic mountain peak above dark clouds at dusk",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Establishing landscape shot, muted purple-grey grade, mountain upper-centre-right"
+  },
+  {
+   "label": "#485 26:35.9",
+   "shot": "title_card",
+   "camera": "drone",
+   "subject": "Aerial view over New York City skyline with title and handle overlay",
+   "text_on_screen": "ELENA TABER @ELENATABER",
+   "text_style": "Bold white sans-serif capitals, letter-spaced, centred top for name and bottom for handle, over hazy city image",
+   "notes": "Title card overlaid on aerial city footage, hazy warm grade, text fades in over sky area"
+  }
+ ]
+}

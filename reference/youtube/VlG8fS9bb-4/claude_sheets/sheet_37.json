@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#419 30:36.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in white shirt and glasses walking outdoors past a grey building entrance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slightly low angle, daylight, tiled plaza ground, natural colour"
+  },
+  {
+   "label": "#420 30:37.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman looking up beside an escalator, grey concrete wall behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Candid turn of head, natural daylight, handheld movement"
+  },
+  {
+   "label": "#421 30:41.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman adjusting e-scooter handlebar near green trees, smiling",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright sky, slightly overexposed highlights, wide angle"
+  },
+  {
+   "label": "#422 30:47.1",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Phone showing a map app with a leisure park listing, hand holding it",
+   "text_on_screen": "Qiantan Leisure Park; Widebeast - Binjiang Park; Sprint Rail (partly legible Chinese UI text)",
+   "text_style": "Small sans-serif UI text, white and blue on dark screen, top-right of frame",
+   "notes": "Insert shot showing app for location info, close framing"
+  },
+  {
+   "label": "#422 30:52.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman behind scooter handlebar, looking down at phone mount",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Green foliage background, cut from previous insert"
+  },
+  {
+   "label": "#422 30:56.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman raising arm behind scooter handlebar, cheerful gesture",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Similar framing to previous, jump-cut continuity"
+  },
+  {
+   "label": "#422 31:01.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman pointing upward beside scooter, green trees behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, bright daylight"
+  },
+  {
+   "label": "#423 31:06.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Empty park path with white railing, hand entering frame from right pointing",
+   "text_on_screen": "Qiantan Park (small, partly visible on right)",
+   "text_style": "Small white sans-serif sign text, low right of frame",
+   "notes": "Hand gesture pointing to scenery, transition into walking segment"
+  },
+  {
+   "label": "#424 31:09.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in white shirt with glasses, selfie-style, garden and path behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle selfie perspective, overcast sky"
+  },
+  {
+   "label": "#425 31:12.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman talking to camera on a path with trees and bare branches",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie arm extended, slight warm grade"
+  },
+  {
+   "label": "#426 31:15.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Walking path past modern glass building and rounded tree, yellow-clad cyclist ahead",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright green foliage, natural colour, forward-moving shot"
+  },
+  {
+   "label": "#427 31:17.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Bike lane through park with trees and a grey modern building on right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overcast, lane markings visible, pedestrian path"
+  },
+  {
+   "label": "#428 31:19.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Riverside path with white railing, city skyline across water in distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Muted overcast colour, slight wide angle"
+  },
+  {
+   "label": "#429 31:21.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Waterfront with skyline across river, hedge in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Grey overcast sky, desaturated, establishing feel"
+  },
+  {
+   "label": "#430 31:25.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in white shirt talking to camera on riverside path with skyline behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie framing, glasses, bright natural light"
+  },
+  {
+   "label": "#430 31:31.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman talking to camera on riverside walkway with city skyline",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Second selfie take of same segment, similar framing, possible jump cut"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#292 13:27.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Man standing on volcanic rock ridge with mountain landscape behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, warm natural grade, rugged dark rock edge on right"
+  },
+  {
+   "label": "#293 13:30.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Two hikers resting on grass beside large rock arch, tent area distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide establishing shot, sunlit grassy slope"
+  },
+  {
+   "label": "#294 13:32.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman smiling and waving at camera while companion lies on grass behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie arm framing, wide-angle distortion, casual energetic feel"
+  },
+  {
+   "label": "#295 13:35.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Close smiling woman with backpack straps, lying on grass looking up",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overhead POV-style angle, fisheye-like wide distortion"
+  },
+  {
+   "label": "#296 13:37.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Woman with sunglasses on head looking toward companion lying on grass",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Over-shoulder style, candid interaction, bright highlights"
+  },
+  {
+   "label": "#297 13:39.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Red and green tents pitched on sandy campsite with other tents behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static-feeling establishing shot of camp, warm sunlight"
+  },
+  {
+   "label": "#298 13:41.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Misty barren mountain slopes fading into hazy sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Cool desaturated grade, atmospheric B-roll transition shot"
+  },
+  {
+   "label": "#299 13:43.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in dark clothing holding blue notebook while walking on rocky terrain",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Cropped at right edge, cool grade, mountain slope behind"
+  },
+  {
+   "label": "#300 13:46.0",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated on rock holding blue notebook, speaking to camera",
+   "text_on_screen": "so, you're entering right now",
+   "text_style": "small white sans-serif subtitle, yellow-ish tint, bottom center",
+   "notes": "Interview-style talking head with burned-in subtitles, bright overcast sky"
+  },
+  {
+   "label": "#301 13:49.6",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated on rock gesturing with hands while speaking",
+   "text_on_screen": "human desire to push yourself",
+   "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+   "notes": "Static interview framing, subtitles one line per shot"
+  },
+  {
+   "label": "#301 13:53.8",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated on rock looking up thoughtfully with hands together",
+   "text_on_screen": "to those physical and mental limits",
+   "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+   "notes": "Static framing, neutral daylight"
+  },
+  {
+   "label": "#301 13:58.0",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated on rock smiling and holding notebook",
+   "text_on_screen": "go on these adventures that force you",
+   "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+   "notes": "Static framing, subtitles follow speech"
+  },
+  {
+   "label": "#301 14:02.2",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated on rock looking to side holding notebook",
+   "text_on_screen": "f*ckin beautiful",
+   "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+   "notes": "Static framing, slightly off-center subject"
+  },
+  {
+   "label": "#301 14:06.4",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated on rock gesturing with one hand while talking",
+   "text_on_screen": "outline, I'm fine",
+   "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+   "notes": "Static framing, subtitles partly obscured by rock"
+  },
+  {
+   "label": "#301 14:10.6",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated on rock with hand on chest speaking earnestly",
+   "text_on_screen": "as someone who",
+   "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+   "notes": "Static framing, cropped subject centre"
+  },
+  {
+   "label": "#301 14:14.7",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated on rock with expressive face speaking to camera",
+   "text_on_screen": "excited about the future but also feels a ton of anxiety",
+   "text_style": "small yellow-ish sans-serif subtitle, bottom center, longer line",
+   "notes": "Static framing, subtitle text small and partly hard to read"
+  }
+ ]
+}

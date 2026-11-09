@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#16 02:57.8",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Car side mirror view of roadside trees and guardrail, daytime",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, slightly cool grade, shot through passenger window with mirror in frame"
+  },
+  {
+   "label": "#17 02:59.6",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Freeway overpass view with city buildings and hills at dusk, side mirror in frame",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm sunset sky contrasts with cool road tones"
+  },
+  {
+   "label": "#18 03:01.8",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Windshield view of freeway traffic, white pickup truck ahead, hills on left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overcast sky, flat grade; green highway sign visible"
+  },
+  {
+   "label": "#19 03:04.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Freeway ahead with white pickup truck and distant city skyline",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overcast, desaturated grade"
+  },
+  {
+   "label": "#20 03:06.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in car raising fist and gesturing, seatbelt on, talking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Interior cabin shot, natural light, beige hoodie with colorful graphic"
+  },
+  {
+   "label": "#21 03:09.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in car raising fist, grimacing expressively while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight framing from driver seat, reaction-style emphasis; likely jump cut from #20"
+  },
+  {
+   "label": "#22 03:11.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Red-orange interior of a restaurant with rows of orange chairs and a sign on glass door",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Strong red-orange color cast, B-roll cutaway, window frame in foreground"
+  },
+  {
+   "label": "#23 03:14.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in driver seat looking down and speaking, steering wheel visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright overexposed daylight through windshield"
+  },
+  {
+   "label": "#24 03:18.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in driver seat gesturing with hands while talking, bright sky behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Night-style interior with bright exterior glare; repeated interview framing"
+  },
+  {
+   "label": "#24 03:23.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in driver seat facing camera with hand on steering wheel",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same segment as previous, different angle or jump cut"
+  },
+  {
+   "label": "#24 03:28.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in driver seat gesturing with one hand toward the wheel while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same segment, wider framing; jump cut continuity"
+  },
+  {
+   "label": "#25 03:32.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in driver seat looking to the right and speaking, close framing",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight crop, bright exterior window on right"
+  },
+  {
+   "label": "#26 03:36.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in driver seat speaking, parking structure visible through window",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Indoor garage light, slightly cool tone"
+  },
+  {
+   "label": "#27 03:39.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in driver seat speaking with hand on steering wheel, garage behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuous interview framing"
+  },
+  {
+   "label": "#28 03:43.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in driver seat gesturing with open palm while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide cabin view, interview-style talking head"
+  },
+  {
+   "label": "#29 03:47.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in driver seat looking right, red sign visible through window, steering wheel in frame",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Pixelated sign blurred for privacy; transition candidate to next scene"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#562 42:15.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Plane tree trunks and old apartment balconies on a tree-lined street",
+   "text_on_screen": "Yuyuan Road",
+   "text_style": "small white semi-transparent watermark, right of centre",
+   "notes": "Natural daylight, green-leaning grade, slight handheld sway"
+  },
+  {
+   "label": "#563 42:17.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Tree trunk beside an ivy-covered wall and building facade",
+   "text_on_screen": "Yuyuan Road",
+   "text_style": "small white semi-transparent watermark, right of centre",
+   "notes": "Same walk as previous shot, continuous movement, green tones"
+  },
+  {
+   "label": "#564 42:18.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Blue-awning cafe storefront with parked shared bikes and scooter",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Street-level walk, bright sunlight, blue awning dominates frame"
+  },
+  {
+   "label": "#565 42:20.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in mint top looking aside beside a brick wall",
+   "text_on_screen": "Yuyuan Road",
+   "text_style": "small white semi-transparent watermark, lower right",
+   "notes": "Off-centre framing, subject turns to look sideways, shallow background"
+  },
+  {
+   "label": "#566 42:22.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Large tree and stone gate pillar on a shaded street",
+   "text_on_screen": "Vietnamese subtitle along bottom, partly legible",
+   "text_style": "small white sans-serif subtitle, bottom centre",
+   "notes": "Vietnamese voiceover subtitles, cool green grade"
+  },
+  {
+   "label": "#567 42:24.3",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Interior of a homeware shop with shelves, sink and jars",
+   "text_on_screen": "Vietnamese subtitle along bottom, partly legible",
+   "text_style": "small yellow-white sans-serif subtitle, bottom centre",
+   "notes": "Smooth gimbal move through interior, warm neutral grade"
+  },
+  {
+   "label": "#568 42:27.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Smiling woman looking up on a street outside a cafe",
+   "text_on_screen": "Vietnamese caption along bottom, partly legible",
+   "text_style": "small white sans-serif caption, bottom centre",
+   "notes": "Presenter to camera, looking off-frame, warm tones"
+  },
+  {
+   "label": "#569 42:29.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Long street with pedestrians, cyclists and tree canopy",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Establishing walking shot, deep perspective, natural colour"
+  },
+  {
+   "label": "#570 42:31.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Storefront with plush toys, flowers and parked scooter",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static-feeling street view, soft shade, slight warm grade"
+  },
+  {
+   "label": "#571 42:33.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in green top holding phone beside plush toys and gate",
+   "text_on_screen": "...SHOP (partial painted wall lettering)",
+   "text_style": "large white painted lettering on wall, top right",
+   "notes": "Full-body framing, subject faces camera, bright daylight"
+  },
+  {
+   "label": "#572 42:36.2",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Red wooden door with hanging red paper couplets on an old house",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Detail shot of doorway, warm sunlit wall, vertical framing"
+  },
+  {
+   "label": "#573 42:38.9",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Hand holding a small plush keychain in front of a colourful shop display",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Macro-style detail, shallow focus, saturated colours"
+  },
+  {
+   "label": "#574 42:40.9",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Shelves packed with small plush dolls and figurines",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Dense product wall, bright and saturated, quick pan"
+  },
+  {
+   "label": "#575 42:43.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Bagged plush toys of cartoon characters stacked in a shop",
+   "text_on_screen": "Small Vietnamese caption at bottom, partly legible",
+   "text_style": "small white sans-serif caption, bottom centre",
+   "notes": "Tight product close-up, vivid pastel colours"
+  },
+  {
+   "label": "#576 42:45.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Brick gate pillar opening onto a residential lane with a white car",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Forward walk toward a gate, soft natural light"
+  },
+  {
+   "label": "#577 42:47.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Tree-lined lane beside a long red brick wall with walkers",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Closing shot of walk, warm sunlit brick, leading lines"
+  }
+ ]
+}

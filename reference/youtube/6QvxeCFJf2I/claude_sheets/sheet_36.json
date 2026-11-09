@@ -1,0 +1,67 @@
+{
+ "frames": [
+  {
+   "label": "#524 19:26.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two young women posing side by side in front of a tower, grassy field behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright natural daylight, slightly warm grade; one woman has arm around the other's shoulder; spiral staircase tower visible at left"
+  },
+  {
+   "label": "#525 19:29.6",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Aerial view of a town on a lake shore with snow-capped mountains beyond",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide drone shot descending or panning over water and tan hillside settlement; clear sky, muted colours"
+  },
+  {
+   "label": "#526 19:31.7",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Drone flying over green grassy hillside with dirt track and rocks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Forward-moving drone shot over lush green slope under low cloud; soft overcast light"
+  },
+  {
+   "label": "#527 19:33.7",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Aerial view of a blue lake shoreline with sandy beach and cattle or structures",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "High drone angle over pale shore meeting deep blue water; saturated blue, sunny"
+  },
+  {
+   "label": "#528 19:35.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Same two women posing together by the tower, one leaning toward the other",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of the posing shot from #524 with a different framing; tighter crop, natural light"
+  },
+  {
+   "label": "#529 19:39.5",
+   "shot": "title_card",
+   "camera": "drone",
+   "subject": "Aerial city skyline of tall buildings with channel name overlay",
+   "text_on_screen": "ELENA TABER / @ELENATABER",
+   "text_style": "White bold spaced sans-serif capitals, centred; name at top, handle at bottom, over hazy sky and buildings",
+   "notes": "Channel intro/outro branding over a drone shot of a city; hazy, desaturated grade"
+  },
+  {
+   "label": "#529 19:43.9",
+   "shot": "title_card",
+   "camera": "drone",
+   "subject": "Same city skyline aerial with channel name overlay",
+   "text_on_screen": "ELENA TABER / @ELENATABER",
+   "text_style": "White bold spaced sans-serif capitals, centred; name at top, handle at bottom, over hazy sky and buildings",
+   "notes": "Same branding card held over a slightly different moment of the city drone shot; likely a repeated lower-third or end card"
+  }
+ ]
+}

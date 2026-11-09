@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#364 34:31.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in black hooded puffer talking to camera on Hanoi street",
+   "text_on_screen": "nơi bánh cuốn vào buổi sáng",
+   "text_style": "small yellow subtitle text, bottom center",
+   "notes": "wide-angle lens, street trees and buildings behind, natural daylight"
+  },
+  {
+   "label": "#365 34:34.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in hood and glasses speaking, shophouses and signs behind",
+   "text_on_screen": "cái lý không dậy sớm vào buổi sáng",
+   "text_style": "small white subtitle text, bottom center",
+   "notes": "wide-angle selfie framing, slight tilt"
+  },
+  {
+   "label": "#366 34:38.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Close framing of woman gesturing with hand while talking, red sign behind",
+   "text_on_screen": "trong chất thất tiết này",
+   "text_style": "small white subtitle text, bottom center",
+   "notes": "tighter framing than previous, hand gesture in frame"
+  },
+  {
+   "label": "#367 34:43.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman talking with old crumbling Hanoi buildings and motorbikes behind",
+   "text_on_screen": "trong phố cổ nơi đi bộ đi ăn được bốc",
+   "text_style": "small white subtitle text, bottom center",
+   "notes": "wide-angle, weathered architecture background"
+  },
+  {
+   "label": "#368 34:47.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman talking close up, blurred street shop sign behind",
+   "text_on_screen": "chỉ đắt ăn 10 đầy người tụ chối chết mùi",
+   "text_style": "small yellow subtitle text, bottom center",
+   "notes": "shallow depth, blurred background, warm street light"
+  },
+  {
+   "label": "#369 34:51.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman speaking with a man behind her near vertical Chinese-style signboard",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "framing slightly off-center, bystander visible"
+  },
+  {
+   "label": "#370 34:53.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in hood looking up at old French-colonial style buildings",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "b-roll style, looking upward, overcast sky"
+  },
+  {
+   "label": "#371 34:55.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Street food stall with steam, cook working, motorbikes parked in front",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "busy street, handheld movement, natural light"
+  },
+  {
+   "label": "#372 34:57.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Interior of bánh cuốn restaurant, cook at counter, sign BÁNH CUỐN NÓNG",
+   "text_on_screen": "BÁNH CUỐN NÓNG; 70 HÀNG VÀI",
+   "text_style": "bold red and white block lettering on sign, upper center-right",
+   "notes": "establishing shot of shop, bright fluorescent light"
+  },
+  {
+   "label": "#373 34:59.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Empty restaurant interior with blue stools, tables and fans",
+   "text_on_screen": "Hồng Anh; Bán Kiêm",
+   "text_style": "small white signage text, top edge",
+   "notes": "wide establishing, interior tidy, cool-toned light"
+  },
+  {
+   "label": "#374 35:01.5",
+   "shot": "closeup",
+   "camera": "tripod",
+   "subject": "Plates of bánh cuốn with herbs and dipping sauce bowls on steel table",
+   "text_on_screen": "Hồng Anh; Bán Kiêm",
+   "text_style": "small white text, top edge",
+   "notes": "overhead-angle food shot, clean steel surface"
+  },
+  {
+   "label": "#375 35:03.7",
+   "shot": "closeup",
+   "camera": "tripod",
+   "subject": "Hand with chopsticks lifting bánh cuốn above plate with herbs",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "food macro, hand enters from right"
+  },
+  {
+   "label": "#376 35:06.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in hood drinking from a bottle with bánh cuốn sign behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "sign partially cropped, cartoon-decorated wall"
+  },
+  {
+   "label": "#377 35:08.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman seated at table eating with chopsticks, bowls and herbs in front",
+   "text_on_screen": "10K",
+   "text_style": "small white sign text on wall, top",
+   "notes": "street-facing seating, bright daylight"
+  },
+  {
+   "label": "#377 35:13.0",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in hood eating bánh cuốn with chopsticks at table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "tighter framing, shallow focus on face"
+  },
+  {
+   "label": "#377 35:17.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in hood with chopsticks picking food, plates and herbs on table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "over-shoulder style, street background blurred"
+  }
+ ]
+}

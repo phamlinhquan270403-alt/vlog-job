@@ -1,0 +1,175 @@
+{
+ "start": 0,
+ "events": [
+  {
+   "t": 0.0,
+   "type": "music",
+   "what": "Lo-fi beat with female vocals starts; upbeat and chill."
+  },
+  {
+   "t": 0.0,
+   "type": "text",
+   "what": "Yellow script title: 'Hà Nội' with subtitle '5 ngày ở... là không đủ'."
+  },
+  {
+   "t": 0.0,
+   "type": "broll",
+   "what": "Fast-paced intro montage showing food, friends, and city sights."
+  },
+  {
+   "t": 15.8,
+   "type": "sfx",
+   "what": "Camera shutter click sound effect."
+  },
+  {
+   "t": 15.8,
+   "type": "talk_to_camera",
+   "what": "Creator introduces the vlog from her Airbnb room."
+  },
+  {
+   "t": 46.5,
+   "type": "zoom",
+   "what": "Punch-in zoom on the creator's face for emphasis."
+  },
+  {
+   "t": 64.4,
+   "type": "cut",
+   "what": "Cut to a wider shot of the creator sitting in the room."
+  },
+  {
+   "t": 80.5,
+   "type": "text",
+   "what": "Location tag: 'Airbnb apartment | 40C Hàng Vải, Hoàn Kiếm'."
+  },
+  {
+   "t": 80.5,
+   "type": "voiceover",
+   "what": "Creator describes the apartment features over b-roll of the interior."
+  },
+  {
+   "t": 108.7,
+   "type": "talk_to_camera",
+   "what": "Creator stands up and continues talking to the camera."
+  },
+  {
+   "t": 138.1,
+   "type": "zoom",
+   "what": "Close-up shot as she applies lip balm while talking."
+  },
+  {
+   "t": 182.6,
+   "type": "talk_to_camera",
+   "what": "Showing a pink shopping bag of socks she just bought."
+  },
+  {
+   "t": 204.1,
+   "type": "talk_to_camera",
+   "what": "Holding a coffee cup and discussing the cold weather."
+  },
+  {
+   "t": 223.4,
+   "type": "music",
+   "what": "Music transition to a more rhythmic, upbeat lo-fi track."
+  },
+  {
+   "t": 223.4,
+   "type": "broll",
+   "what": "Short montage of her fixing her hair and getting ready."
+  },
+  {
+   "t": 232.3,
+   "type": "voiceover",
+   "what": "Talking about Hanoi traffic over b-roll of a motorbike ride."
+  },
+  {
+   "t": 259.4,
+   "type": "broll",
+   "what": "Walking through a narrow alleyway leading to a shop."
+  },
+  {
+   "t": 270.4,
+   "type": "text",
+   "what": "Location tag: 'Angel's House | 120 Hàng Bông, Hoàn Kiếm'."
+  },
+  {
+   "t": 270.4,
+   "type": "voiceover",
+   "what": "Reviewing the first thrift shop over interior b-roll."
+  },
+  {
+   "t": 280.5,
+   "type": "talk_to_camera",
+   "what": "Showing specific clothing items to the camera in the shop."
+  },
+  {
+   "t": 312.6,
+   "type": "talk_to_camera",
+   "what": "Trying on a patterned hat in front of a mirror."
+  },
+  {
+   "t": 335.1,
+   "type": "other",
+   "what": "Captured live dialogue with her friend about a Santa-themed outfit."
+  },
+  {
+   "t": 346.5,
+   "type": "music",
+   "what": "Music volume increases for a quick fashion montage."
+  },
+  {
+   "t": 355.6,
+   "type": "talk_to_camera",
+   "what": "Mirror shots of the creator trying on various lace tops."
+  },
+  {
+   "t": 387.6,
+   "type": "other",
+   "what": "Captured live audio of the creator paying at the counter."
+  },
+  {
+   "t": 397.9,
+   "type": "text",
+   "what": "Location tag: 'Cyberslot Thrift | 2 Ngõ Hàng Bún, Ba Đình'."
+  },
+  {
+   "t": 397.9,
+   "type": "voiceover",
+   "what": "Reviewing the second thrift shop over b-roll of the racks."
+  },
+  {
+   "t": 415.6,
+   "type": "other",
+   "what": "Live reaction and laughter at a Woody from Toy Story shirt."
+  },
+  {
+   "t": 461.5,
+   "type": "talk_to_camera",
+   "what": "Showing the final shopping bag from the second store."
+  },
+  {
+   "t": 468.1,
+   "type": "text",
+   "what": "Location tag: 'Bò Nầm Nướng | 54 Hàng Giầy, Hoàn Kiếm'."
+  },
+  {
+   "t": 468.1,
+   "type": "music",
+   "what": "Music shifts to a chill jazz-hop style for the dinner scene."
+  },
+  {
+   "t": 468.1,
+   "type": "broll",
+   "what": "B-roll of the street food restaurant and the meal being served."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a classic vlog structure: an energetic intro montage (0:00-0:15), a long 'get ready with me' style chat and room tour in an Airbnb (0:15-3:52), travel through the city (3:52-4:19), visits to two distinct thrift shops (4:19-7:48), and concluding with a dinner scene (7:48-8:00).",
+  "pacing": "The pacing is varied; it starts very fast during the intro, slows down significantly for the conversational to-camera segments, and picks up again during shopping montages and travel transitions.",
+  "music": "The music is primarily lo-fi and chill-hop, providing a relaxed but trendy atmosphere. It is carefully ducked under speech and brought to the forefront during non-verbal b-roll sequences.",
+  "voice": "The creator's voice is casual, friendly, and highly personal. She speaks in Vietnamese, often using humor and expressive facial expressions to engage the audience directly.",
+  "sound_design": "Sound design is minimal, relying mostly on natural ambient sounds from the environments (street noise, shop chatter) and a recurring camera shutter sound to punctuate cuts.",
+  "text_style": "The text style uses a mix of a stylized yellow script for titles and a clean, modern sans-serif font for location information, typically placed in the upper corners of the frame.",
+  "visual_style": "The visual style is handheld and intimate, characteristic of lifestyle vlogs. It features a warm color grade and a mix of wide environmental shots and very tight close-ups of products and clothing details.",
+  "signature_moves": "Signature moves include the use of punch-in zooms for comedic emphasis during talking segments and the habit of showing a shopping bag to the camera to signal the end of a shopping sequence."
+ }
+}

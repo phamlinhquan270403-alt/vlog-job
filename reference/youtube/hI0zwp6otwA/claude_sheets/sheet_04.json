@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#42 01:23.1",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman in black top seated in hotel room, talking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm indoor lighting, static framing, wall AC unit and wooden door in background"
+  },
+  {
+   "label": "#43 01:25.9",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Same woman seated, smiling and gesturing with hands while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing, warm grade"
+  },
+  {
+   "label": "#43 01:30.1",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated, hands clasped together while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#43 01:34.3",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated, fingertips pressed together while explaining",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#43 01:38.5",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman with both hands open wide, gesturing expressively",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#43 01:42.7",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated, hands together in front of chest, looking off-camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#43 01:46.9",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated, hands forming a triangle shape while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#44 01:50.1",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman with fingers spread, gesturing while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#45 01:53.2",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated, hand on chest, looking at camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#45 01:57.3",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated, hands clasped low, speaking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#45 02:01.4",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman seated, hand gesturing near lap, speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#45 02:05.5",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman smiling, hands raised near chest with fingers curled",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static interview framing"
+  },
+  {
+   "label": "#46 02:10.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman close to camera in hotel room, pointing finger and talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Handheld selfie-style framing, arm-length distance, warm grade"
+  },
+  {
+   "label": "#47 02:17.1",
+   "shot": "screen",
+   "camera": "unknown",
+   "subject": "Old-style footage of snow-capped mountain with dirt track, appears to be archival TV-style clip",
+   "text_on_screen": "IN SWAHILI IT'S CALLED",
+   "text_style": "White uppercase sans-serif subtitle-style text, small, centered near bottom of frame",
+   "notes": "Letterboxed clip with black bars, dated video look, slight blur"
+  },
+  {
+   "label": "#48 02:21.2",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Herd of zebras walking across dry golden savanna",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Drone-style high angle, warm golden grade, mountain visible at top edge"
+  },
+  {
+   "label": "#49 02:23.4",
+   "shot": "wide",
+   "camera": "unknown",
+   "subject": "Snow-capped Mount Kilimanjaro above green treeline under blue sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Film-like vintage look with slight border and scratches, bright contrast, black side bars"
+  }
+ ]
+}

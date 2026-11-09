@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#92 02:28.2",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Animated historical map of Asia showing trade routes and empires",
+   "text_on_screen": "HAN EMPIRE; Silk Road routes; India; Mumbai; Kabul; Delhi",
+   "text_style": "serif map labels, mostly dark brown/black on beige map, title-like Han Empire label in large caps",
+   "notes": "Map animation with orange and red highlighted territories and route lines; cartographic style"
+  },
+  {
+   "label": "#93 02:30.6",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Illustrated Chinese palace building with two figures in front on black background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Cartoon-style illustration in rounded white frame centered on black; likely a Ming-era theme card"
+  },
+  {
+   "label": "#94 02:32.0",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Aerial view of sand dunes with green scrub and a winding path",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, muted green and tan tones, slow overhead drone movement"
+  },
+  {
+   "label": "#95 02:33.0",
+   "shot": "closeup",
+   "camera": "gimbal",
+   "subject": "Ornate blue and gold tiled interior dome with geometric patterns and window",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Upward-angled architectural detail, saturated blue and warm gold colour grade"
+  },
+  {
+   "label": "#96 02:34.2",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Tall brick minaret and domed mosque structure with blue tiled portal under clear sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm sunlit exterior, low angle, sky mostly clear"
+  },
+  {
+   "label": "#97 02:35.5",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Large madrasa facade with central arched portal flanked by minarets and domes",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Frontal symmetrical framing, warm golden-tan colour grade"
+  },
+  {
+   "label": "#98 02:37.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Crowd of people in traditional dress and camels in front of blue-tiled gateway",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, busy street scene, may be a reenactment or festival"
+  },
+  {
+   "label": "#99 02:40.9",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Painting of a Mongol rider in red robe on white horse in rounded frame on black",
+   "text_on_screen": "MONGOL",
+   "text_style": "sans-serif white caps, small, centered on horse's flank area",
+   "notes": "Illustrated still image in rounded white frame on black background, used as chapter label"
+  },
+  {
+   "label": "#100 02:42.8",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Historical painting of Chinese court figures in robes inside rounded frame over red and blue gradient",
+   "text_on_screen": "CHI (partially obscured)",
+   "text_style": "small white caps, partially hidden behind frame edge",
+   "notes": "Colourful gradient background with red, orange and blue smear transition, frame pops in"
+  },
+  {
+   "label": "#101 02:43.8",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Flock of sheep grazing on rolling steppe hills under overcast sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Muted olive and grey colour grade, steady wide landscape shot"
+  },
+  {
+   "label": "#102 02:46.2",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Horses galloping through dusty golden steppe at sunset",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm backlit dust cloud, slow motion feel, tracking movement"
+  },
+  {
+   "label": "#103 02:48.7",
+   "shot": "closeup",
+   "camera": "tripod",
+   "subject": "Painted portrait of a bearded man in dark cap against dark background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Historical portrait illustration with vignette, centered framing"
+  },
+  {
+   "label": "#104 02:50.6",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Map of Mongol Empire highlighted in red over blue and grey base map",
+   "text_on_screen": "MONGOL EMPIRE",
+   "text_style": "white sans-serif caps, large, centered on red territory",
+   "notes": "Animated map graphic, red fill covering Eurasia, flat graphic style"
+  },
+  {
+   "label": "#105 02:52.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Dry desert valley with distant mountains and small buildings",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hazy light, warm beige tones, landscape establishing shot"
+  },
+  {
+   "label": "#106 02:54.7",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Camel caravan with riders crossing red desert sand",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm saturated orange grade, tracking shot following camels"
+  },
+  {
+   "label": "#107 02:56.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Hanging colourful patterned textiles or fabrics in a shop",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shallow focus, vibrant pink and red patterns, market interior"
+  }
+ ]
+}

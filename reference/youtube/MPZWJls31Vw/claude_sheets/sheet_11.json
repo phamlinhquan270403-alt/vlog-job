@@ -1,0 +1,76 @@
+{
+ "frames": [
+  {
+   "label": "#115 08:33.4",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Open book pages being read, hand turning page, grey blanket edge at right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, slightly warm, shallow focus on printed text"
+  },
+  {
+   "label": "#116 08:36.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Hand in green sleeve placing lettuce leaf over bowl of cooked meat on plate",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Pink floral tablecloth, bright natural light, overhead angle"
+  },
+  {
+   "label": "#117 08:38.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Lettuce wraps and plate of brown meat, bowls of kimchi and greens behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overhead table shot, pink floral cloth, slightly warm grade"
+  },
+  {
+   "label": "#118 08:40.7",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Plain white card with closing caption",
+   "text_on_screen": "i didn't film anything after dinner",
+   "text_style": "small bold italic sans-serif, black, centered near middle",
+   "notes": "Text card on white background, likely dissolve or cut"
+  },
+  {
+   "label": "#118 08:45.3",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Plain white card with reflective caption",
+   "text_on_screen": "i hope i was able to show you guys that no one's life is perfect!!",
+   "text_style": "small bold italic sans-serif, black, centered, two lines",
+   "notes": "White background, minimal design"
+  },
+  {
+   "label": "#118 08:49.9",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Plain white card with caption",
+   "text_on_screen": "no one's life is as aesthetic as it seems online",
+   "text_style": "small bold italic sans-serif, black, centered",
+   "notes": "White background, minimal design"
+  },
+  {
+   "label": "#118 08:54.5",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Plain white card with sign-off",
+   "text_on_screen": "thank you for watching <3",
+   "text_style": "small bold italic sans-serif, black, centered",
+   "notes": "White background, end card"
+  },
+  {
+   "label": "",
+   "shot": "black",
+   "camera": "unknown",
+   "subject": "Solid black frame, end of sheet padding",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "No label visible; likely empty cell or final black fade"
+  }
+ ]
+}

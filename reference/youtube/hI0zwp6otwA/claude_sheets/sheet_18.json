@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#239 10:34.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Silhouetted hiker beside Kilimanjaro park gate sign, tents behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm daylight, snowy mountain backdrop, slight hazy grade"
+  },
+  {
+   "label": "#240 10:38.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Hikers posing at Machame gate sign with Kilimanjaro behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Group framing, one person posing with arms out, similar wide framing to previous shot"
+  },
+  {
+   "label": "#241 10:42.0",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Two tents at dusk on scrubland with clouds and a tripod in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static establishing shot, muted blue-orange evening light"
+  },
+  {
+   "label": "#242 10:45.1",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Orange dome tent on trail with red-jacketed person walking away",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Moving tracking shot, slight motion blur, warm grade"
+  },
+  {
+   "label": "#243 10:49.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Person in black standing by teal tent under cloudy sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Cool desaturated tones, low angle"
+  },
+  {
+   "label": "#244 10:52.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Orange dome tent with Kilimanjaro glowing pink at dusk, person nearby",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Sunset pink mountain glow, cool shadows"
+  },
+  {
+   "label": "#245 10:56.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Person in tan jacket pouring from pink thermos beside metal pots",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm tent interior lighting, shallow depth of field"
+  },
+  {
+   "label": "#246 10:58.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Steaming pot of porridge on table with blurred person behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shallow focus, warm amber grade, soft foreground blur"
+  },
+  {
+   "label": "#247 10:59.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Person in tan jacket stirring food in tent, smiling",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior, teal tent fabric at left, shallow focus"
+  },
+  {
+   "label": "#248 11:01.0",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Ladle pouring porridge into steaming metal bowls",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Steam visible, warm tones, tight framing on food"
+  },
+  {
+   "label": "#249 11:02.6",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman with long hair sipping from bowl inside tent",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight face and bowl framing, warm tent light"
+  },
+  {
+   "label": "#250 11:05.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black jacket eating from bowl at tent table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior, dome tent ceiling visible"
+  },
+  {
+   "label": "#251 11:10.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in sleeping bag in tent, arm outstretched, eyes closed",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Teal and red tent interior, cool-warm contrast, selfie angle"
+  },
+  {
+   "label": "#251 11:14.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hooded sleeping bag grimacing in tent",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same selfie setup, slight change in pose"
+  },
+  {
+   "label": "#251 11:18.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hood shivering with eyes squeezed shut in tent",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same selfie setup, tight framing"
+  },
+  {
+   "label": "#251 11:22.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hooded bag with eyes closed, arm extended toward camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same selfie setup, dim tent light"
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "start": 960,
+ "events": [
+  {
+   "t": 960.0,
+   "type": "talk_to_camera",
+   "what": "Elena talking to camera while walking. 'I'm just really happy to be here.'"
+  },
+  {
+   "t": 961.5,
+   "type": "transition",
+   "what": "Whoosh-zoom transition into b-roll."
+  },
+  {
+   "t": 961.5,
+   "type": "music",
+   "what": "Upbeat, acoustic guitar-driven travel music starts, ducked under voiceover."
+  },
+  {
+   "t": 961.5,
+   "type": "broll",
+   "what": "Montage of Kyrgyzstan landscapes: mountain roads, yaks, horse riding."
+  },
+  {
+   "t": 967.5,
+   "type": "voiceover",
+   "what": "Elena's voiceover starts over horse riding b-roll. 'It is... is replacing me.'"
+  },
+  {
+   "t": 975.6,
+   "type": "broll",
+   "what": "Shots of yurt camps in the mountains."
+  },
+  {
+   "t": 983.5,
+   "type": "talk_to_camera",
+   "what": "Elena sitting in a yurt doorway. 'Hello. From our yurt along Song-Kul Lake...'"
+  },
+  {
+   "t": 1007.5,
+   "type": "transition",
+   "what": "Whoosh-zoom transition."
+  },
+  {
+   "t": 1008.0,
+   "type": "music",
+   "what": "Music changes to a similar upbeat acoustic track with a more driving rhythm."
+  },
+  {
+   "t": 1008.0,
+   "type": "broll",
+   "what": "Montage of a road trip: driving, passing a cemetery, village scenes."
+  },
+  {
+   "t": 1011.0,
+   "type": "text",
+   "what": "White text on a hillside: 'КЫРГЫЗСТАН'."
+  },
+  {
+   "t": 1012.0,
+   "type": "voiceover",
+   "what": "Elena's voiceover: 'After taking the horses back down the mountain, we're heading on a multi-day road trip...'"
+  },
+  {
+   "t": 1022.1,
+   "type": "broll",
+   "what": "Sign for Burana Tower and shots of the surrounding landscape."
+  },
+  {
+   "t": 1030.5,
+   "type": "talk_to_camera",
+   "what": "Elena and Sage at Burana Tower. 'It's time for a little taste of the Silk Road in Kyrgyzstan.'"
+  },
+  {
+   "t": 1044.5,
+   "type": "talk_to_camera",
+   "what": "Sage standing by an information sign, joking about funding."
+  },
+  {
+   "t": 1052.5,
+   "type": "music",
+   "what": "Music shifts to an atmospheric, plucked-string track with a historical feel."
+  },
+  {
+   "t": 1053.5,
+   "type": "talk_to_camera",
+   "what": "The guide, Aman, explaining the history of nomadic tribes."
+  },
+  {
+   "t": 1057.8,
+   "type": "broll",
+   "what": "Aman showing maps of the region and the Silk Road."
+  },
+  {
+   "t": 1066.8,
+   "type": "broll",
+   "what": "Shots of Burana Tower and ancient stone statues (balbals)."
+  },
+  {
+   "t": 1075.8,
+   "type": "talk_to_camera",
+   "what": "Elena and Sage in front of the tower. 'Howdy! From the great Burana Tower.'"
+  },
+  {
+   "t": 1103.5,
+   "type": "talk_to_camera",
+   "what": "Sage explaining the Silk Road trade goods."
+  },
+  {
+   "t": 1105.0,
+   "type": "other",
+   "what": "Graphic of a wine jug appears on screen."
+  },
+  {
+   "t": 1106.5,
+   "type": "other",
+   "what": "Graphic of gunpowder appears on screen."
+  },
+  {
+   "t": 1107.5,
+   "type": "other",
+   "what": "Graphic of an iron sword appears on screen."
+  },
+  {
+   "t": 1142.0,
+   "type": "broll",
+   "what": "Drone shots of winding mountain roads and yurt camps."
+  },
+  {
+   "t": 1152.5,
+   "type": "talk_to_camera",
+   "what": "Elena and Sage concluding their visit to the tower."
+  },
+  {
+   "t": 1168.5,
+   "type": "music",
+   "what": "Main upbeat travel theme returns."
+  },
+  {
+   "t": 1169.0,
+   "type": "broll",
+   "what": "Drone shots of the lake and mountains."
+  },
+  {
+   "t": 1175.0,
+   "type": "talk_to_camera",
+   "what": "Elena and Sage: 'Okay, what's next?' 'I don't know, let's go find out!'"
+  },
+  {
+   "t": 1177.5,
+   "type": "title",
+   "what": "Outro card: 'ELENA TABER @ELENATABER' over a city skyline."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a travel vlog structure: an intro transition into a b-roll montage of mountain activities (0:01-0:23), a sit-down segment in a yurt (0:23-0:47), a road trip montage (0:47-1:10), and an educational visit to the Burana Tower (1:10-3:37), ending with a call to action and title card.",
+  "pacing": "The pacing is dynamic, alternating between fast-cut b-roll montages (1-2 seconds per shot) and longer, conversational to-camera segments that allow the hosts to explain the location's history.",
+  "music": "The music is primarily upbeat, acoustic, and folk-inspired, fitting the travel theme. It shifts to a more atmospheric, historical-sounding track during the educational segment at the Burana Tower to match the tone.",
+  "voice": "Elena and Sage use an enthusiastic, conversational, and educational tone. Elena acts as the primary host, while Sage provides more detailed historical context, often in a playful manner.",
+  "sound_design": "The sound design features prominent whoosh-zoom transitions between segments. Ambient sounds from the locations are occasionally audible but kept low under the music and speech.",
+  "text_style": "On-screen text is minimal, used for location markers on hillsides and simple graphics (wine, gunpowder, iron) to illustrate historical points. The outro features a clean, sans-serif font.",
+  "visual_style": "The visual style combines high-quality drone cinematography of vast landscapes with handheld, selfie-style talking segments. The color grade is warm and vibrant, emphasizing the natural beauty of Kyrgyzstan.",
+  "signature_moves": "Signature moves include the use of whoosh-zoom transitions to bridge different locations and the 'invisible mic' hand-off between the two hosts during to-camera segments."
+ }
+}

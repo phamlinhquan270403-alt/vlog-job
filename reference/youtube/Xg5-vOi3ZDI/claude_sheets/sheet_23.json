@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#300 14:14.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with long dark wavy hair talking to camera, hand gesturing at left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm yellow wall background, lapel mic visible, natural indoor light"
+  },
+  {
+   "label": "#300 14:19.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking to camera in front of yellow wall, window at left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head framing, slight push-in look"
+  },
+  {
+   "label": "#300 14:23.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking, hand entering frame from left pointing",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand gesture used as cut-in motion, same yellow backdrop"
+  },
+  {
+   "label": "#300 14:27.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with eyes half-closed mid-speech, hand raised at left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Jump-cut style talking head"
+  },
+  {
+   "label": "#300 14:31.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking, hand gesturing large at right edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand wave enters from right side"
+  },
+  {
+   "label": "#300 14:35.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman gesturing with both hands while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Expressive hand gestures, continuous talking head"
+  },
+  {
+   "label": "#300 14:39.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking to camera, looking slightly off-axis",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand partially visible at far right edge"
+  },
+  {
+   "label": "#300 14:43.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman smiling and gesturing with raised hand at right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm yellow grade, bright exposure"
+  },
+  {
+   "label": "#301 14:46.6",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Mountain meadow landscape inside film-strip frame with green side bar",
+   "text_on_screen": "GET THE RIGHT GEAR BUT YOU DON'T NEED AS MUCH AS YOU THINK",
+   "text_style": "Bold retro serif caps, cream/white, centered on landscape, small size; yellow-outlined 'TIP' vertical text on left green strip",
+   "notes": "Film-strip border with sprocket holes at top and bottom; muted vintage green-cream grade; tip-card graphic inserted over talking head"
+  },
+  {
+   "label": "#302 14:50.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking to camera with head tilted",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Returns to talking head after graphic card"
+  },
+  {
+   "label": "#302 14:55.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking, hand raised at right edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Gesture cut-in on right"
+  },
+  {
+   "label": "#302 15:00.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking to camera, slight smile",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Standard talking-head framing"
+  },
+  {
+   "label": "#303 15:04.0",
+   "shot": "split_screen",
+   "camera": "handheld",
+   "subject": "Woman talking in main frame; inset shows woman holding a hiking pole in mountains",
+   "text_on_screen": "I HIGHLY RECOMMEND HIKING POLES (OR A WALKING STICK ofc)",
+   "text_style": "Small white sans-serif caption at bottom left of inset, centered lines, drop shadow; inset is picture-in-picture top left with thin white border",
+   "notes": "Picture-in-picture B-roll inset over talking head; caption sits below inset on the yellow-grade frame"
+  },
+  {
+   "label": "#304 15:07.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking to camera, head slightly tilted",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking head resumes after PiP"
+  },
+  {
+   "label": "#304 15:11.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking to camera, mouth open mid-word",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Consistent framing and yellow backdrop"
+  },
+  {
+   "label": "#304 15:15.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman talking to camera, looking straight ahead",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Neutral expression, standard talking-head shot"
+  }
+ ]
+}

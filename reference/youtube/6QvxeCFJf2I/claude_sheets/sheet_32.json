@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#479 16:31.2",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman in black sweater talking seated in yurt doorway",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Yurt cream walls with brown ornament; daylight; static framing; same take as neighbouring frames"
+  },
+  {
+   "label": "#479 16:36.0",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman in black sweater gesturing while talking in yurt doorway",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same interview setup, slight gesture change; likely jump cut within one talking-head segment"
+  },
+  {
+   "label": "#479 16:40.7",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman in black sweater with hands clasped, talking in yurt",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same interview setup; continuous talking-head run"
+  },
+  {
+   "label": "#479 16:45.4",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman in black sweater smiling and talking in yurt doorway",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same interview setup; end of talking-head run before cut to black"
+  },
+  {
+   "label": "#480 16:48.0",
+   "shot": "black",
+   "camera": "unknown",
+   "subject": "Solid black frame",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Fade or cut to black as transition between interview and travel footage"
+  },
+  {
+   "label": "#481 16:48.9",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Green hillside with two riders on horseback in valley",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright natural daylight, lush green grass, slight warm grade"
+  },
+  {
+   "label": "#482 16:50.3",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "View through car windshield of yurts and green fields, driver silhouette",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Inside vehicle POV, dashboard visible at bottom, rearview mirror at top"
+  },
+  {
+   "label": "#483 16:51.5",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Brown hill with large white letters on slope, power pylon behind",
+   "text_on_screen": "KYRGYZSTAN DESTINATION",
+   "text_style": "white sans-serif capital letters, small, placed across hillside, low contrast",
+   "notes": "Drone flyover, hazy sky, warm desaturated grade"
+  },
+  {
+   "label": "#484 16:53.1",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Ornate mosque-style domed building behind iron fence",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Daylight, slightly warm, static or slow pan; tree foliage at edges"
+  },
+  {
+   "label": "#485 16:54.8",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Car interior view down tree-lined village road, driver silhouette",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Windshield POV, rearview mirror centre, slight motion"
+  },
+  {
+   "label": "#486 16:56.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Woman in passenger seat looking out window at green fields",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Side window framing, hazy sky, passenger profile on right"
+  },
+  {
+   "label": "#487 16:57.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Dirt road with parked car beside houses and mountains",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural light, muted colours, handheld walking or driving feel"
+  },
+  {
+   "label": "#488 16:58.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Teal gate and small building beside dirt road, trees and mountains",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Seen from moving vehicle, window edge at left, overcast light"
+  },
+  {
+   "label": "#489 17:00.2",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Woman in driver seat looking out side window, green trees outside",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Interior shot, motion blur on background, soft natural light"
+  },
+  {
+   "label": "#490 17:01.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Motion-blurred tree and green field seen from moving car window",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Strong motion blur, transitional b-roll"
+  },
+  {
+   "label": "#491 17:01.7",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hazy mountain valley with small tree, utility pole edge at left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shallow focus, misty muted grade, shot from moving vehicle window"
+  }
+ ]
+}

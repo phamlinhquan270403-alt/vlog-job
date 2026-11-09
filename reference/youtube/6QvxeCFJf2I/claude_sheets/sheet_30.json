@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#450 14:55.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women seated at a low table inside a yurt with bread and tea",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior light, lattice yurt wall visible, slightly wide framing"
+  },
+  {
+   "label": "#451 14:57.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Yellow flowering mustard plants in foreground with snowy mountains behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, soft focus foreground, nature establishing shot"
+  },
+  {
+   "label": "#452 14:59.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Yellow flowers framing a snow-capped mountain range and village",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overcast soft light, flowers used as foreground framing"
+  },
+  {
+   "label": "#453 15:01.3",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Dashboard view from inside vehicle looking at dirt road over green hills",
+   "text_on_screen": "TIME TO START OUR TREK VIA HORSEBACK",
+   "text_style": "white sans-serif uppercase, small, centered near lower middle",
+   "notes": "Windshield with rear-view mirror visible, red dashboard edge, transition from car ride"
+  },
+  {
+   "label": "#454 15:02.5",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Winding dirt road through green valley hills under pale sky",
+   "text_on_screen": "& RIDE 5 HOURS TO OUR CAMP FOR THE NIGHT",
+   "text_style": "white sans-serif uppercase, small, centered mid-lower frame",
+   "notes": "Continuation of previous caption; hazy washed-out grade"
+  },
+  {
+   "label": "#455 15:04.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two men adjusting a brown horse's saddle on a grassy hill",
+   "text_on_screen": "& RIDE 5 HOURS TO OUR CAMP FOR THE NIGHT",
+   "text_style": "white sans-serif uppercase, small, centered mid-lower frame",
+   "notes": "Caption persists across cut, same overlay carried over"
+  },
+  {
+   "label": "#456 15:06.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Rider on brown horse at hitching post with a man holding the reins",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright saturated grass, blue sky, slightly low angle"
+  },
+  {
+   "label": "#457 15:09.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Rider mounted on chestnut horse beside man with hitching post",
+   "text_on_screen": "Our horses are not fast but they are good for mountains",
+   "text_style": "small white sans-serif lowercase, bottom edge, low contrast",
+   "notes": "Subtitle-like caption at very bottom, same green grade"
+  },
+  {
+   "label": "#458 15:14.2",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Two riders on white horse following a dirt trail uphill from behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Follow shot from behind, trail leads toward center, bright green hills"
+  },
+  {
+   "label": "#459 15:17.1",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Flock of birds flying over rolling green hills under cloudy sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static establishing B-roll, muted colour, lots of sky"
+  },
+  {
+   "label": "#460 15:19.6",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Smiling man in cap and grey shirt riding brown horse on hillside",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Side-angle tracking, rider close to frame, bright green grass"
+  },
+  {
+   "label": "#461 15:22.8",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Man in red vest riding horse down a dirt path with grass banks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Follow shot from behind, warm saturated grade"
+  },
+  {
+   "label": "#462 15:25.4",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Winding road through green valley with snowy peaks in distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide aerial, snow peaks at left, moves across landscape"
+  },
+  {
+   "label": "#463 15:27.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with dark hair smiling and holding camera arm extended on green hill",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie arm framing, horse rider visible small in background"
+  },
+  {
+   "label": "#464 15:29.8",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Rider on brown horse heading down dirt road between green hills",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hazy distant mountains, slightly desaturated grade"
+  },
+  {
+   "label": "#465 15:33.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in black top smiling with arm extended, dirt road behind her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie continuation, mirrors previous selfie shot for match cut"
+  }
+ ]
+}

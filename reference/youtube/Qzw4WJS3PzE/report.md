@@ -1,0 +1,107 @@
+# (almost) unedited morning routine vlog: productive, healthy & raw
+
+- source: https://www.youtube.com/watch?v=Qzw4WJS3PzE
+- channel: Kenzie Elizabeth, uploaded 20210528, 22160 views
+- 1280x720, 590.3s, video: `G:\Vlog-job\reference\youtube\Qzw4WJS3PzE\video.mp4`
+- 84 shots (9/min), shot length p25/median/p75 2.16/4.02/9.96s, longest 50.6s
+- transcript: YouTube captions (video.en-orig.json3)
+
+## Contact sheets (`sheets/`, each label is `#shot mm:ss.s`)
+
+- `sheet_01.jpg`: shots 1–13
+- `sheet_02.jpg`: shots 14–19
+- `sheet_03.jpg`: shots 19–28
+- `sheet_04.jpg`: shots 28–41
+- `sheet_05.jpg`: shots 41–48
+- `sheet_06.jpg`: shots 49–61
+- `sheet_07.jpg`: shots 61–71
+- `sheet_08.jpg`: shots 71–74
+- `sheet_09.jpg`: shots 75–83
+- `sheet_10.jpg`: shots 84–84
+
+## Timeline (shot, start, length, speech during the shot)
+
+- #1 00:00.0 5.7s — good morning guys it's 7 00 am / and i just want to sleep
+- #2 00:05.7 4.4s — [Music]
+- #3 00:10.1 2.0s
+- #4 00:12.1 0.4s
+- #5 00:12.5 1.1s
+- #6 00:13.6 19.8s — oh yes my face is so puffy / hi guys if you're new here my name is / kenzie / i'm a 23 year old lifestyle vlogger in / dallas texas / subscribe if you're new here this / morning i'm just going to kind of take / you through and vlog / my morning which is basically like my / morning routine it's been super chill / lately but / i'm just gonna vlog and take you guys
+- #7 00:33.4 2.6s — i'm just gonna vlog and take you guys / through my morning okay guys
+- #8 00:36.0 5.0s — let's go hi buddy hi
+- #9 00:41.0 7.0s — big stretch big stretch huh boy okay off
+- #10 00:47.9 3.2s
+- #11 00:51.1 1.8s
+- #12 00:52.8 0.7s
+- #13 00:53.5 2.7s
+- #14 00:56.2 2.3s — [Music]
+- #15 00:58.5 2.6s — [Music]
+- #16 01:01.1 18.8s — i have my hyaluronic acid it's a minky / list / this stuff is 7.99 7.99 hyaluronic acid / guys and it's the best one it's better / than the really expensive ones / the dog's gonna walk so i'm gonna put on / super cute glow screen and my favorite / sunscreen i talk about it all the time
+- #17 01:19.9 25.2s — uh i'm gonna throw this jacket on i / pretty much always wake up and / immediately / put on my workout clothes i pretty much / always work out and immediately throw on / a workout set / so then i will go work out / the best cloth lamps ever i have a set / these actually hold your hair like they / will hold them while you work out it's / crazy / i'll link them below i have a lot of / hair too and it actually like stays / i'm just going to throw my soothies my
+- #18 01:45.1 5.4s — i'm just going to throw my soothies my / favorite shoes ever i know they're like / ugly / but they're just the best this is my
+- #19 01:50.5 21.1s — outfit so stylish i know everyone this / set / is year of ours i basically live in year / of our sets now / i am obsessed with them i love these / especially that have this like cross / over because they're really flattering / they're also really really comfortable / this is like a ten dollar jacket from / amazon that i just throw on over sets / sometimes when i go work out
+- #20 02:11.6 2.2s — and then my smoothies and cocoa we're
+- #21 02:13.8 1.9s — out i'm gonna grab my hydra jug / i tried to drink two of these a day i've
+- #22 02:15.7 10.0s — i tried to drink two of these a day i've / honestly been pretty bad about it / but i will fill this up in the morning / and / drink a ton at least before i actually / drink like my coffee / just roll up my face a little bit i
+- #23 02:25.7 5.6s — just roll up my face a little bit i / normally don't put sunscreen on before / this / but honestly i forgot i put in a podcast
+- #24 02:31.3 13.0s — i need the dogs on a walk / they're very excited fitz waits for me / every morning / until we go it's how you doing bud / are you ready you are so handsome
+- #25 02:44.3 2.2s
+- #26 02:46.4 4.4s — i'm back for my walk and i'm listening
+- #27 02:50.8 10.0s — i'm back for my walk and i'm listening / to a podcast the skinny confidential / with tim grover / i love listening to podcasts in the / morning especially like motivational / podcasts i feel like those are my / favorite in the morning it's now time to
+- #28 03:00.8 12.8s — make some breakfast / i make the same avocado toast every / single morning you guys have already / seen it a billion times / um and i've been really in the cool brew / too / with the glass straws from amazon i'll / show you guys
+- #29 03:13.7 4.1s — and this bun or what but you might / not see any other watch but forward and
+- #30 03:17.8 3.8s — not see any other watch but forward and / move forward / and stop which one you want to go left
+- #31 03:21.5 0.8s
+- #32 03:22.3 7.6s — all right and the people that are / constantly victims and then talk about / their circumstances / this is all i have left for coffee this
+- #33 03:29.9 2.7s — this is all i have left for coffee this / morning guys
+- #34 03:32.6 3.4s
+- #35 03:36.0 1.1s — what i want to do i want to earn this
+- #36 03:37.2 3.7s — all my / what i am and thanks here's my breakfast
+- #37 03:40.9 7.3s — we have some avocado toast with some / glaze and everything with a bagel / seasoning and then a little iced coffee
+- #38 03:48.2 2.7s — well it just started pouring outside / i've really been loving
+- #39 03:50.9 12.3s — i've really been loving / reading and journaling in the morning i / have my kindle i have a few non-fiction / books that i will read and just go / throughout i've actually been reading / multiple books / at the same time which i normally don't / do at all i'm normally like not a fan of / that i'm actually going to finish my
+- #40 04:03.2 2.8s — that i'm actually going to finish my / fiction book / i'm almost done with that then i'll get
+- #41 04:06.0 18.6s — started on a non-fiction book / i've been journaling a lot too and i / will just write random things especially / when i'm reading i'll take notes on / things / and it has helped me so much as far as / like gaining / any sort of clarity on my life or who i / am or / mental clarity at the very least um it's / been really helpful / i'm so bad about reading physical books
+- #42 04:24.6 3.0s — i'm so bad about reading physical books / if it's not my kindle but i have started
+- #43 04:27.7 5.7s — reading this book that i've seen / everywhere and i really like it so far / so if i'm trying to read like a business / book this is what i'll reach for
+- #44 04:33.4 6.5s — all right so i just started winning by
+- #45 04:39.9 3.2s — all right so i just started winning by / tim grover
+- #46 04:43.0 8.2s — i'm only a few pages into it and i love / it like honestly i wouldn't be surprised / if i ended up / finishing this tonight you guys know how / i am with reading today is
+- #47 04:51.2 27.4s — thursday that means a new podcast / episode went up today so i'm going to / post all the promo which takes a second / this episode is a really fun one it is / the hot girl summer episode / so it's me dom my sister it's really fun / so / i'm excited um and then i'm going to / leave for pilates in like 10 minutes / i'm going to like a hot pilates class / it's raining and all i want to do is / sleep / but now that i'm reading um winning by / tim grover i feel like i have my like / grit back you know
+- #48 05:18.6 1.9s — what do you guys feel like it's hard
+- #49 05:20.5 1.6s
+- #50 05:22.2 6.7s — i'm really having quite the tim grover / morning i'm now listening to him on at / my let's podcast which is another one of / my faves / this rain is really killing my vibe but
+- #51 05:28.8 6.6s — this rain is really killing my vibe but / i'm about to go / to class studios to pilates okay oh my
+- #52 05:35.4 11.4s — gosh so we're about to head off to / pilates / tim grover is like really whipping me / into shape what's the tech talk it's / like i feel like myself again you know / my hydra jug we're off to work out hi
+- #53 05:46.8 1.2s — [Music]
+- #54 05:47.9 2.6s
+- #55 05:50.5 0.7s — guys
+- #56 05:51.2 0.6s — guys
+- #57 05:51.8 0.6s
+- #58 05:52.4 5.5s — [Music] / not to become that person you you're a
+- #59 05:57.9 3.1s — not to become that person you you're a / big thing about i'm gonna grab
+- #60 06:01.0 4.4s — starbucks since i really only had half a / coffee and i'm out right now / i'm obviously out of pilates now it was
+- #61 06:05.5 18.0s — i'm obviously out of pilates now it was / such a good class it went by so fast / that's the best part when you do a / workout and then you realize you have / two minutes left and you hadn't even / thought about the class ending / also i am loving this podcast with tim / grover this whole video / is literally just tim grover on accident / but love / can i have egg white egg bites and then
+- #62 06:23.5 1.9s — can i have egg white egg bites and then
+- #63 06:25.4 11.9s — can i get / an almond milk cold brew with almond / milk cold / cold foam and sugar-free vanilla you did / a grundy cold brew with all my milk / thank you / there's rain getting inside my car on my
+- #64 06:37.3 12.7s — tick tock i've been trying out different / healthy starbucks drinks / i know that they're not like the / healthiest and i do drink black coffee a / lot / so for all you haters i don't need to / hear it i'm ordering a new drink / and you guys can see perfect
+- #65 06:50.0 13.1s — are you vlogging yeah are you a youtuber / yeah / that's so cool / perfect thank you have a good day
+- #66 07:03.0 3.2s — that has never happened to me in dallas / before okay this is my starbucks order
+- #67 07:06.3 1.8s — today i just filmed a tick tock taste
+- #68 07:08.1 1.9s — today i just filmed a tick tock taste / test / really good i would definitely recommend
+- #69 07:10.0 2.9s — test / really good i would definitely recommend / i don't know
+- #70 07:12.9 4.0s — i don't know / if these are actually healthy but it's a / really good drink / okay i'm out of the shower i'm drinking
+- #71 07:16.8 50.6s — okay i'm out of the shower i'm drinking / my coffee i'm about to get ready / it is raining and i'm working from home / so i'm going to stay really cozy and do / like the lightest of my makeup i'll show / you guys what i've been using i'm sure / you guys have already seen / i've been loving this milk makeup / bronzer / honestly just like cream products in / general i'm super into right now / so obviously that just gives me a little / bit of color um / then i will go in i love the tower 28 / cream blushes / this is like one of my latest favorite / products and i / will just go in with blush / next is the charlotte tilbury brow flick / i just brush up my brows i actually / really need to get my brows done but i'm / just putting that off it's new / okay if i'm like really feeling crazy / i'll do mascara i guess i will today / because i'm filming at first i didn't / like this mascara and now i love it and / for some reason that's like the marker
+- #72 08:07.5 10.8s — for some reason that's like the marker / if i like a mascara or not i / never like them immediately / my lip product is downstairs as always / i'm going to change / by the way right now i'm wearing my
+- #73 08:18.2 8.1s — by the way right now i'm wearing my / skin's robe this is the best thing that / ever happened to me / i also have my hair in a cloth clip / because i just can't be bothered to do / it / here's my outfit there's really nothing
+- #74 08:26.3 3.3s — it / here's my outfit there's really nothing / to see here
+- #75 08:29.6 12.2s — i have this really cute pullover it's / not available anymore / these are my lulu align dupes / from amazon i love them i got them in a / size medium originally / i would size down here's an overview of
+- #76 08:41.8 4.5s — the outfit / again it's it's truly nothing special / it's nothing to write home about
+- #77 08:46.3 8.6s — it's nothing to write home about / um but i'm not leaving my house so i / just wanted to be cozy okay so now i'm / gonna go downstairs / start some work here's fits i'll take
+- #78 08:54.8 7.4s — you guys through a little bit of how i / start my work day / i walk downstairs i have my coffee my / hydra drug / you know
+- #79 09:02.2 2.0s
+- #80 09:04.2 1.0s
+- #81 09:05.2 1.8s — i head over here i grab my laptop and i
+- #82 09:07.1 1.7s — get to work alright guys that is it for
+- #83 09:08.8 22.6s — today's video i hope you guys enjoyed / subscribe if you're new here it was just / a really chill morning in my life vlog / be sure to check out the podcast episode / i'm getting so much love from you guys / saying it's your favorite episode to / date / which i honestly almost scrapped the / episode because i thought it was like a / mess and / all over the place it is messy you guys / made it this far comment 777 / follow me on instagram tick tock all / that stuff i love you guys and i'll talk
+- #84 09:31.4 18.9s — to you soon / bye first thing we do we interpret labs / using a thinner / reference range so anybody that's / listening right now will know hey when i / get / my lab i'm being compared to this / reference range in my lab well we get / that reference range from a statistical / bell curve / average of people who go to lab

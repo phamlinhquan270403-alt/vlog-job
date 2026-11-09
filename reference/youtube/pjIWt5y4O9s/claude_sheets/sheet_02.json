@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#15 00:31.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in glasses and denim jacket holding a small object near her mouth, bright room behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior light, window light from left, slightly wide framing"
+  },
+  {
+   "label": "#15 00:36.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in denim jacket gesturing with hand, room with green table and bed behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, hand movement toward lens"
+  },
+  {
+   "label": "#15 00:40.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman holding a small object at chin, speaking to camera, room with TV and bed",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup as previous shot, mid-talk"
+  },
+  {
+   "label": "#15 00:44.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman holding object to face, bed and plant visible on right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slight tilt, arm reaching into frame"
+  },
+  {
+   "label": "#16 00:48.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses holding object near mouth, arm extended to right edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tighter framing than #15 shots"
+  },
+  {
+   "label": "#16 00:53.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman speaking with object at chin, room with plant and door behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Centered subject"
+  },
+  {
+   "label": "#16 00:57.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman holding object at mouth, looking at camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static talking-head"
+  },
+  {
+   "label": "#16 01:02.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman gesturing with hand extended to right, room behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Arm sweeps across frame"
+  },
+  {
+   "label": "#17 01:05.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in denim jacket holding object at face, seated in room with TV",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wider framing, room visible"
+  },
+  {
+   "label": "#18 01:09.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman seated on bed edge in denim jacket, room with TV and plant",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wider shot with light stand in foreground"
+  },
+  {
+   "label": "#18 01:14.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman seated on bed holding object, hands near chest",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Similar framing to previous, slight push"
+  },
+  {
+   "label": "#18 01:18.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman seated, gesturing with both hands, bed and window behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide framing with foreground wall edge"
+  },
+  {
+   "label": "#19 01:23.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Empty kitchen counter with sink and induction cooktop, window on left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Room tour, bright daylight, no people"
+  },
+  {
+   "label": "#19 01:28.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Apartment living area with green sofa, coffee table, bed and wooden wardrobe",
+   "text_on_screen": "Global apartment",
+   "text_style": "Small serif-style font, yellow-gold, top-center, small size",
+   "notes": "Room tour pan; faint overlay text at top, also tiny text near top right"
+  },
+  {
+   "label": "#20 01:32.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Bedroom with bed, desk and chair beside a window with city view",
+   "text_on_screen": "Global apartment",
+   "text_style": "Small serif-style font, yellow-gold, top-center, small size",
+   "notes": "Continued room tour, same overlay"
+  },
+  {
+   "label": "#21 01:36.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Street view of Hanoi-style buildings with signs, including a Lim sign and a BAY sign",
+   "text_on_screen": "Lim; BÁNH MÌ BAY",
+   "text_style": "Small signage text, white and red on storefronts, small size, mid-frame",
+   "notes": "Exterior establishing shot from balcony, daylight, cool tone"
+  }
+ ]
+}

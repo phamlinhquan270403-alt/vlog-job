@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#76 02:03.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Carpet shop interior with stacked rugs hanging on walls and piled on floor",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm indoor light, slightly soft focus, handheld pan feel"
+  },
+  {
+   "label": "#77 02:04.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Man lying on wooden daybed in carpeted room with TV in background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Candid, warm colour grade, casual observational framing"
+  },
+  {
+   "label": "#78 02:05.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Interior archway of old brick madrasa with visitors and tiled niche",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright sunlit entrance contrasting with darker interior, slight warm grade"
+  },
+  {
+   "label": "#79 02:06.7",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Ornate blue tiled portal of mosque with green dome visible at right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth gimbal push-in toward portal, saturated blues and clear sky"
+  },
+  {
+   "label": "#80 02:07.5",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Tiled mosque facade across open plaza with small figures walking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Symmetrical static-looking framing, wide establishing shot, clear sky"
+  },
+  {
+   "label": "#81 02:08.3",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Tourists walking in courtyard before domed mosque entrance",
+   "text_on_screen": "KALAN MOSQUE",
+   "text_style": "white bold sans-serif caps, centred in frame, medium size",
+   "notes": "Title-style lower overlay appearing over footage, warm tones"
+  },
+  {
+   "label": "#82 02:12.2",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Two women in white walking across plaza in front of tiled mosque",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tracking shot following walkers, bright daylight, blue sky"
+  },
+  {
+   "label": "#83 02:15.9",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Two women in white walking toward camera past arched colonnade",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Light leak or warm flare on left edge, bright high-key grade"
+  },
+  {
+   "label": "#84 02:16.3",
+   "shot": "black",
+   "camera": "unknown",
+   "subject": "Dark reddish-brown frame, nearly blank with faint vertical edge at left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Likely transition fade or dark interstitial; deep red-brown tone"
+  },
+  {
+   "label": "#85 02:17.6",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Camel caravan crossing sand dunes at dusk under pale sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm sunset grade, long establishing shot, soft haze"
+  },
+  {
+   "label": "#86 02:19.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Tourists riding camels in desert, guide in blue walking ahead",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright desert light, slightly low angle, lively travel-vlog feel"
+  },
+  {
+   "label": "#87 02:21.0",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Long mud-brick city wall with crenellated top running into distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth lateral move along wall, warm sandy grade"
+  },
+  {
+   "label": "#88 02:22.0",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Close view of brick wall with pale hazy sky and sand at base",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overexposed warm highlights, hazy washed-out look"
+  },
+  {
+   "label": "#89 02:22.7",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Aerial view of eroded striped sandstone hills and ridges",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm ochre tones, textured landscape, slow aerial glide"
+  },
+  {
+   "label": "#90 02:24.1",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Green mountain ridge with mist and a white waterfall stream",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Lush saturated greens, drone reveal, cloud drifting over ridge"
+  },
+  {
+   "label": "#91 02:25.9",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Historical map of Central Asia and Middle East with trade route lines",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Map graphic with muted colours, route lines suggest Silk Road explainer; may be a static graphic insert"
+  }
+ ]
+}

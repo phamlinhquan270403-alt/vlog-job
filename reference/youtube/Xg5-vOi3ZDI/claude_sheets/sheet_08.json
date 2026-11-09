@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#100 04:01.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in black jacket walking through alpine meadow with cows",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, green grass, slightly soft grade"
+  },
+  {
+   "label": "#101 04:02.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman walking toward camera past dark and brown cows on meadow",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Mountain ridge in background, tree line"
+  },
+  {
+   "label": "#102 04:04.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in black walking among grazing cows and horses near pond",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide establishing shot, rocky mountains above"
+  },
+  {
+   "label": "#103 04:05.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two palomino horses grazing beside a small pond",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low angle, bright green grass, calm water"
+  },
+  {
+   "label": "#104 04:07.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Dark cows and brown horses by a stream in green meadow",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Foreground shrubs framing, overcast light"
+  },
+  {
+   "label": "#105 04:09.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Horse and black cows on dirt path below jagged peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Pine trees, rocky foreground"
+  },
+  {
+   "label": "#106 04:10.6",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Dirt path winding down valley toward dolomite peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Aerial forward movement, cloudy sky"
+  },
+  {
+   "label": "#107 04:11.8",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Small figure walking on gravel trail with mountains behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Moody overcast grade, drone glide"
+  },
+  {
+   "label": "#108 04:12.8",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Turquoise alpine lake surrounded by green slopes and pale cliffs",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Vivid saturated water colour, top-down descent"
+  },
+  {
+   "label": "#109 04:13.8",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Same turquoise alpine lake from a closer angle",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of lake sequence, similar grade"
+  },
+  {
+   "label": "#110 04:14.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Hiker with backpack and yellow jacket looking at mountains",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Back to camera, forest valley below"
+  },
+  {
+   "label": "#111 04:16.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Rock spire emerging from thick fog and clouds",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Desaturated grey mood, misty atmosphere"
+  },
+  {
+   "label": "#112 04:18.5",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Wooden trail signposts pointing to Rif. Lavarella and another refuge",
+   "text_on_screen": "Rif. Lavarella",
+   "text_style": "Hand-painted serif-like lettering, red and white on weathered wood, placed left-centre",
+   "notes": "Forest background, shallow depth of field"
+  },
+  {
+   "label": "#113 04:20.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Mountain meadow with small wooden huts and stream",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Flat green grade, hut distant"
+  },
+  {
+   "label": "#114 04:22.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Wooden footbridge with log railing over stream toward chalet",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Leading lines from bridge, green meadow"
+  },
+  {
+   "label": "#115 04:23.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Stream over rocks with small white hut and jagged peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low angle over water, cloudy sky"
+  }
+ ]
+}

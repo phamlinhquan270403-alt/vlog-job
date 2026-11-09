@@ -1,0 +1,377 @@
+[
+ {
+  "start": 0,
+  "events": [
+   {
+    "t": 0.0,
+    "type": "title",
+    "what": "Circular vignette opens on a shot of the creator walking with a suitcase. Script font text 'Phú Quốc' appears in the center."
+   },
+   {
+    "t": 0.0,
+    "type": "music",
+    "what": "Upbeat, acoustic, instrumental music starts, set at a medium volume."
+   },
+   {
+    "t": 3.5,
+    "type": "talk_to_camera",
+    "what": "Creator speaks directly to the camera in a handheld vlog style, explaining she forgot her room key."
+   },
+   {
+    "t": 15.5,
+    "type": "cut",
+    "what": "Hard cut to the creator inside the room, showing the key to the camera."
+   },
+   {
+    "t": 17.5,
+    "type": "broll",
+    "what": "A quick montage of arrival scenes: entering the room, walking towards the beach, lounging, and eating."
+   },
+   {
+    "t": 34.0,
+    "type": "talk_to_camera",
+    "what": "Creator sits in her room and talks to the camera about her decision to visit Phu Quoc instead of Da Nang."
+   },
+   {
+    "t": 84.5,
+    "type": "photo",
+    "what": "Screenshots of her previous Instagram posts from Phu Quoc appear on screen as she references past trips."
+   },
+   {
+    "t": 106.5,
+    "type": "talk_to_camera",
+    "what": "Room tour begins; she walks around the suite, pointing out features like the TV, vanity, and bed while talking."
+   },
+   {
+    "t": 195.5,
+    "type": "music",
+    "what": "Music shifts to a slightly more rhythmic but still chill acoustic track."
+   },
+   {
+    "t": 195.5,
+    "type": "broll",
+    "what": "Fast-paced montage of unpacking her suitcase and laying out clothes."
+   },
+   {
+    "t": 207.0,
+    "type": "broll",
+    "what": "Mirror shots of her in a black one-piece swimsuit."
+   },
+   {
+    "t": 218.0,
+    "type": "talk_to_camera",
+    "what": "She packs her beach bag, showing items like a pouch, book, and wet wipes to the camera."
+   },
+   {
+    "t": 244.5,
+    "type": "voiceover",
+    "what": "Voiceover begins as she shows b-roll of the rainy weather outside, contrasting with her plans for the beach."
+   },
+   {
+    "t": 248.5,
+    "type": "broll",
+    "what": "Shot of her lying in bed under covers, looking at her phone because of the rain."
+   },
+   {
+    "t": 250.5,
+    "type": "broll",
+    "what": "She makes it to the beach despite the gloom, sitting under a large umbrella."
+   },
+   {
+    "t": 265.5,
+    "type": "broll",
+    "what": "Close-up of her reading a Kindle on the beach lounge chair."
+   },
+   {
+    "t": 270.5,
+    "type": "broll",
+    "what": "Cinematic shots of the resort at dusk and the sunset over the ocean."
+   },
+   {
+    "t": 281.5,
+    "type": "talk_to_camera",
+    "what": "Nighttime 'get ready with me' segment; she talks to the camera while doing her skincare and makeup at the desk."
+   },
+   {
+    "t": 355.5,
+    "type": "talk_to_camera",
+    "what": "She calls the front desk to request a buggy for breakfast the next morning."
+   },
+   {
+    "t": 376.5,
+    "type": "music",
+    "what": "Music changes to a light, whimsical acoustic guitar track."
+   },
+   {
+    "t": 376.5,
+    "type": "broll",
+    "what": "Montage of the buggy ride through the resort greenery and walking to the restaurant."
+   },
+   {
+    "t": 389.5,
+    "type": "voiceover",
+    "what": "Voiceover describes her breakfast choices over shots of her eating and the buffet spread."
+   },
+   {
+    "t": 414.5,
+    "type": "talk_to_camera",
+    "what": "She talks to the camera while eating breakfast, discussing her thoughts on solo travel and the resort's atmosphere."
+   },
+   {
+    "t": 462.5,
+    "type": "broll",
+    "what": "Final montage of the clip: putting on her robe, walking back to the room, and heading back to the beach."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a 'day in the life' format at a resort. It begins with arrival and a minor mishap (0:00-0:33), followed by a detailed room tour and context for the trip (0:34-3:14). The middle section covers a failed beach attempt due to rain and an evening routine (3:15-6:15). It concludes with a breakfast segment and reflections on solo travel (6:16-8:00).",
+   "pacing": "The pacing is generally relaxed and conversational, mirroring the 'slow living' theme of a resort vacation. Talk-to-camera segments are long and uncut, while transitions between activities are handled with short, rhythmic b-roll montages.",
+   "music": "The soundtrack consists of various lo-fi, acoustic, and chill-hop instrumental tracks. The music is always present but ducked significantly during speech, serving as a consistent atmospheric backdrop.",
+   "voice": "The creator uses a very casual, intimate tone, often speaking in a stream-of-consciousness style. She mixes direct to-camera addresses with reflective voiceovers that provide more structured information about her feelings and the location.",
+   "sound_design": "Sound design is minimal, relying mostly on the music and the creator's voice. Occasional ambient sounds from the environment (rain, birds, restaurant noise) are kept low in the mix.",
+   "text_style": "The video uses an elegant, thin script font for major titles ('Phú Quốc') and a simple, clean sans-serif font for smaller location tags or labels (e.g., 'The Shells Resort & Spa').",
+   "visual_style": "The visual style is typical of modern lifestyle vlogs: high-quality handheld footage, natural lighting, and a warm, slightly desaturated color grade. Framing is often tight on the creator during talk-to-camera segments.",
+   "signature_moves": "A key signature move is the circular vignette used for the opening title. The editor also frequently overlays social media screenshots to provide context for the creator's spoken narrative."
+  }
+ },
+ {
+  "start": 480,
+  "events": [
+   {
+    "t": 480.0,
+    "type": "music",
+    "what": "Chill, beachy electronic music starts, ducked under voiceover."
+   },
+   {
+    "t": 480.0,
+    "type": "voiceover",
+    "what": "Creator begins speaking over b-roll of herself at the beach."
+   },
+   {
+    "t": 491.8,
+    "type": "text",
+    "what": "Playlist tracks listed on screen: 'track 1 | ODESZA - Sundara', etc., in a clean sans-serif font."
+   },
+   {
+    "t": 503.5,
+    "type": "talk_to_camera",
+    "what": "Creator sits up on a beach chair, holding a small external microphone to her mouth."
+   },
+   {
+    "t": 519.8,
+    "type": "other",
+    "what": "Creator holds her phone up to the camera to show the time and music player."
+   },
+   {
+    "t": 565.8,
+    "type": "lcut",
+    "what": "Voiceover continues from the talk-to-camera segment over b-roll of the ocean."
+   },
+   {
+    "t": 591.8,
+    "type": "photo",
+    "what": "Small photo of sea urchins (nhum) overlaid on the screen."
+   },
+   {
+    "t": 598.8,
+    "type": "cut",
+    "what": "Scene change to hotel room. Talk-to-camera."
+   },
+   {
+    "t": 598.8,
+    "type": "music",
+    "what": "Music changes to a slightly more upbeat, lo-fi track."
+   },
+   {
+    "t": 614.8,
+    "type": "text",
+    "what": "Large text 'BÚN QUẬY' appears briefly."
+   },
+   {
+    "t": 623.8,
+    "type": "talk_to_camera",
+    "what": "Creator stands back to show her outfit."
+   },
+   {
+    "t": 624.8,
+    "type": "text",
+    "what": "Outfit labels with social handles: 'Áo @she.by.shi', 'Quần @easykaykay'."
+   },
+   {
+    "t": 661.8,
+    "type": "sfx",
+    "what": "Bell ring sound effect."
+   },
+   {
+    "t": 661.8,
+    "type": "music",
+    "what": "Music changes to a rhythmic, upbeat acoustic track."
+   },
+   {
+    "t": 661.8,
+    "type": "cut",
+    "what": "Rapid cuts of restaurant exterior and interior, synced with bell ring SFX."
+   },
+   {
+    "t": 667.0,
+    "type": "voiceover",
+    "what": "Voiceover begins over b-roll of food (Bánh xèo)."
+   },
+   {
+    "t": 696.8,
+    "type": "cut",
+    "what": "Scene change to Chùa Hộ Quốc temple. Voiceover continues."
+   },
+   {
+    "t": 719.8,
+    "type": "cut",
+    "what": "Scene change to evening restaurant. Voiceover continues."
+   },
+   {
+    "t": 749.8,
+    "type": "talk_to_camera",
+    "what": "Creator back in hotel room at night, explaining an 'ironing hack'."
+   },
+   {
+    "t": 749.8,
+    "type": "music",
+    "what": "Music changes to a quirky, investigative-style track."
+   },
+   {
+    "t": 777.8,
+    "type": "text",
+    "what": "Text overlay: 'ironing hack hotel room'."
+   },
+   {
+    "t": 811.8,
+    "type": "sfx",
+    "what": "Sound of a hairdryer starting."
+   },
+   {
+    "t": 838.8,
+    "type": "sfx",
+    "what": "Dull thud sound effect as creator drops the shirt into a trash can."
+   },
+   {
+    "t": 846.8,
+    "type": "talk_to_camera",
+    "what": "Creator outside in the morning sun."
+   },
+   {
+    "t": 846.8,
+    "type": "music",
+    "what": "Music changes to a bright, happy acoustic guitar track."
+   },
+   {
+    "t": 880.8,
+    "type": "text",
+    "what": "Outfit label: 'Váy @aufra.studio'."
+   },
+   {
+    "t": 901.8,
+    "type": "music",
+    "what": "Music swells, speech stops for a brief montage."
+   },
+   {
+    "t": 918.8,
+    "type": "voiceover",
+    "what": "Voiceover begins over b-roll of breakfast."
+   }
+  ],
+  "summary": {
+   "structure": "The clip follows a travel vlog format: relaxing at the beach (0:00-1:58), an outfit check and lunch (1:59-3:36), visiting a temple (3:37-3:59), dinner (4:00-4:29), a 'hotel hack' segment (4:30-6:06), and a final morning outfit check and breakfast (6:07-end).",
+   "pacing": "Moderate pacing. Talk-to-camera segments are longer and more personal, while b-roll montages (like the restaurant intro at 3:01) use faster cuts synced to sound effects.",
+   "music": "Uses a variety of chill, lo-fi, and acoustic tracks to match the mood of each segment (beachy, quirky for the hack, bright for the morning). Music is consistently ducked under speech.",
+   "voice": "Casual, friendly, and intimate. The creator uses a small external microphone held close to her mouth, giving the audio a 'podcast' or 'ASMR' quality.",
+   "sound_design": "Minimal but effective. Uses bell rings for transitions and natural sounds like the hairdryer or a thud to emphasize actions.",
+   "text_style": "Clean, minimalist sans-serif font. Used for track listings, brand handles for outfits, and emphasizing key locations or topics.",
+   "visual_style": "Warm, bright color grade. Mixes stable handheld shots with static tripod shots for talk-to-camera segments. Frequent use of low angles and close-ups of food.",
+   "signature_moves": "Holding a small microphone while talking to the camera, showing the phone screen to provide context (time/music), and tagging clothing brands with social handles on screen."
+  }
+ },
+ {
+  "start": 960,
+  "events": [
+   {
+    "t": 960.0,
+    "type": "talk_to_camera",
+    "what": "The creator talks to the camera while eating breakfast at a resort, discussing her schedule and social media habits."
+   },
+   {
+    "t": 1035.0,
+    "type": "talk_to_camera",
+    "what": "Transition to the hotel room where she shows various outfits from 'Lamin Apparel'."
+   },
+   {
+    "t": 1045.0,
+    "type": "cut",
+    "what": "A split-screen effect is introduced, showing the creator holding the clothes on the left and wearing them in a pre-recorded clip on the right."
+   },
+   {
+    "t": 1107.0,
+    "type": "talk_to_camera",
+    "what": "She talks about her hair texture and how it looks after being tied up all morning."
+   },
+   {
+    "t": 1173.0,
+    "type": "music",
+    "what": "Upbeat, acoustic guitar-driven music starts as a montage begins."
+   },
+   {
+    "t": 1173.0,
+    "type": "broll",
+    "what": "A fast-paced montage of activities: filming outfits, cleaning the room, folding clothes, and editing video on a laptop."
+   },
+   {
+    "t": 1173.0,
+    "type": "text",
+    "what": "Small green text overlays appear for each activity: '[ Quay thử đồ ]', '[ Dọn đồ ]', '[ Gấp đồ ]', '[ Edit video ]'."
+   },
+   {
+    "t": 1190.0,
+    "type": "talk_to_camera",
+    "what": "Music ducks as she talks about heading to the beach to catch the sunset."
+   },
+   {
+    "t": 1202.0,
+    "type": "broll",
+    "what": "Montage of walking through the resort grounds towards the beach."
+   },
+   {
+    "t": 1227.0,
+    "type": "talk_to_camera",
+    "what": "Sitting on a beach lounge chair, she delivers a long, reflective monologue about the 'fake' nature of social media and vlogging."
+   },
+   {
+    "t": 1317.0,
+    "type": "talk_to_camera",
+    "what": "She continues the reflection, specifically discussing skin texture and lighting tricks used in videos."
+   },
+   {
+    "t": 1375.0,
+    "type": "music",
+    "what": "The music changes to a more serene, slower acoustic track."
+   },
+   {
+    "t": 1375.0,
+    "type": "broll",
+    "what": "Final montage of the day: drinking water, beach views, walking into the sea, and the darkening sky at dusk."
+   },
+   {
+    "t": 1375.0,
+    "type": "text",
+    "what": "Green text overlays provide context: '[ Ai mà biết Vy cũng biết Vy cực thích thành phố biển ]', '[ Vy luôn nghĩ về việc chuyển đi ]', '[ vài tháng ở một thành phố biển nào đó ]', '[ hôm nay Vy ở biển cả chiều ]', '[ để chờ xem có hoàng hôn không ]', '[ Tuy không được hoàng hôn đó ]', '[ Vy vẫn rất mãn nguyện với chuyến đi này rồi ]'."
+   }
+  ],
+  "summary": {
+   "structure": "The clip is divided into three main parts: a morning routine/outfit prep (0:00-3:32), a productive work montage (3:33-4:26), and a reflective evening at the beach (4:27-7:25).",
+   "pacing": "The pacing is generally relaxed, driven by long-form talking segments. It speeds up significantly during the mid-video activity montage with quick cuts and timelapses.",
+   "music": "Uses light, acoustic background music that is upbeat during the work montage and becomes more atmospheric and serene during the sunset beach shots. Music is always ducked under speech.",
+   "voice": "The creator uses a very casual, intimate, and honest tone, often breaking the 'fourth wall' of vlogging to discuss the artifice of the medium itself.",
+   "sound_design": "Minimal sound design beyond the music and ambient resort/beach sounds. The focus is on the spoken word.",
+   "text_style": "Signature small, green, sans-serif font used for captions that describe actions or internal thoughts, usually placed in the bottom-left or center-bottom.",
+   "visual_style": "Handheld, vlog-style cinematography with natural lighting. Uses a split-screen technique to show clothing items and their 'on-body' look simultaneously.",
+   "signature_moves": "The use of split-screens for outfit reveals and the consistent placement of small green text captions are key stylistic markers."
+  }
+ }
+]

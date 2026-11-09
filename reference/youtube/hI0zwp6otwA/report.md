@@ -1,0 +1,704 @@
+# I spent 9 days climbing Mount Kilimanjaro...the HARDEST thing I've ever done. | Elena Taber
+
+- source: https://www.youtube.com/watch?v=hI0zwp6otwA
+- channel: Elena Taber, uploaded 20241025, 783345 views
+- 1280x720, 1599.0s, video: `G:\Vlog-job\reference\youtube\hI0zwp6otwA\video.mp4`
+- 485 shots (18/min), shot length p25/median/p75 1.25/1.79/2.96s, longest 57.2s
+- transcript: YouTube captions (video.en-orig.json3)
+
+## Contact sheets (`sheets/`, each label is `#shot mm:ss.s`)
+
+- `sheet_01.jpg`: shots 1–16
+- `sheet_02.jpg`: shots 17–32
+- `sheet_03.jpg`: shots 33–41
+- `sheet_04.jpg`: shots 42–49
+- `sheet_05.jpg`: shots 50–65
+- `sheet_06.jpg`: shots 66–81
+- `sheet_07.jpg`: shots 82–97
+- `sheet_08.jpg`: shots 98–113
+- `sheet_09.jpg`: shots 114–122
+- `sheet_10.jpg`: shots 123–136
+- `sheet_11.jpg`: shots 137–150
+- `sheet_12.jpg`: shots 151–165
+- `sheet_13.jpg`: shots 166–176
+- `sheet_14.jpg`: shots 177–192
+- `sheet_15.jpg`: shots 193–208
+- `sheet_16.jpg`: shots 209–224
+- `sheet_17.jpg`: shots 225–238
+- `sheet_18.jpg`: shots 239–251
+- `sheet_19.jpg`: shots 251–260
+- `sheet_20.jpg`: shots 261–275
+- `sheet_21.jpg`: shots 276–291
+- `sheet_22.jpg`: shots 292–301
+- `sheet_23.jpg`: shots 301–310
+- `sheet_24.jpg`: shots 310–323
+- `sheet_25.jpg`: shots 324–336
+- `sheet_26.jpg`: shots 337–342
+- `sheet_27.jpg`: shots 342–352
+- `sheet_28.jpg`: shots 353–368
+- `sheet_29.jpg`: shots 368–378
+- `sheet_30.jpg`: shots 379–392
+- `sheet_31.jpg`: shots 393–408
+- `sheet_32.jpg`: shots 409–411
+- `sheet_33.jpg`: shots 411–421
+- `sheet_34.jpg`: shots 422–436
+- `sheet_35.jpg`: shots 437–452
+- `sheet_36.jpg`: shots 453–464
+- `sheet_37.jpg`: shots 465–480
+- `sheet_38.jpg`: shots 481–485
+
+## Timeline (shot, start, length, speech during the shot)
+
+- #1 00:00.0 1.1s
+- #2 00:01.1 1.1s
+- #3 00:02.2 1.0s
+- #4 00:03.2 1.4s
+- #5 00:04.6 1.9s — [Music]
+- #6 00:06.5 1.2s — [Music]
+- #7 00:07.7 1.1s
+- #8 00:08.8 1.0s
+- #9 00:09.8 1.3s
+- #10 00:11.1 0.8s
+- #11 00:11.9 0.8s
+- #12 00:12.7 0.9s
+- #13 00:13.6 0.9s
+- #14 00:14.6 0.7s
+- #15 00:15.3 0.9s
+- #16 00:16.1 0.6s
+- #17 00:16.7 0.8s
+- #18 00:17.5 1.8s
+- #19 00:19.3 0.8s
+- #20 00:20.0 0.8s
+- #21 00:20.9 2.6s — this is the hardest thing I've ever done
+- #22 00:23.5 0.3s
+- #23 00:23.8 0.3s
+- #24 00:24.1 0.3s
+- #25 00:24.4 0.3s
+- #26 00:24.7 0.3s
+- #27 00:25.0 0.3s
+- #28 00:25.3 0.4s
+- #29 00:25.7 0.3s
+- #30 00:26.0 0.3s
+- #31 00:26.2 0.3s
+- #32 00:26.6 0.3s
+- #33 00:26.9 0.4s
+- #34 00:27.3 3.4s — [Music]
+- #35 00:30.7 3.4s
+- #36 00:34.2 28.6s — how do we get here what do I think I'm / doing so I've flown across the world to / uh come to East Africa to hike up the / tallest freestanding Mountain on this / continent um over the course of 9 days / like how did I get here at the end of / the day I'm just a city girl who for / some reason has this increasing desire / to put herself in very difficult / physical challenges to test the limits / of myself physically mentally and / emotionally so now I'm in t / and we're hiking Mount kilamanjaro
+- #37 01:02.8 1.5s
+- #38 01:04.3 1.3s — let's get comfortable shall we over the
+- #39 01:05.6 9.8s — next 9 days I'll be hiking Mount kjaro / there's about a 12,000 FT elevation gain / it will be at temperatures as low as / -20° F so that's going to be great I got
+- #40 01:15.5 1.3s
+- #41 01:16.7 5.7s — an email from Kelly Warriors inviting me / to come hike Mount Karo and I'm not / going to lie when I got the email I was / like uh thanks but no thanks knowing
+- #42 01:22.4 1.4s — like uh thanks but no thanks knowing
+- #43 01:23.8 25.2s — hell would I ever want to subject myself / to that and yet 9 months later here I am / things have changed and I so freaking / excited for this I am nervous I am / anxious I'm also so proud of myself so I / actually just got in today's my first / full day in Tanzania I'm going to head / to the market a little bit soz I had to / get so much gear and I still need more / gear because even though it's not / necessarily a technical client you do / face very very harsh conditions so you / need to make sure you have the right / gear so you don't get frostbite because
+- #44 01:49.0 2.2s — I want to keep my fingers in my toes / preferably I can't believe I'm doing
+- #45 01:51.2 16.3s — this only in the last few years have I / really gotten into these physical / challenges I'm a beach girl and a city / girl like I haven't had a lot of access / to like more intense outdoor adventuring / something I have been wanting to push / myself to get into if I can do this / thing I think you can as well but first
+- #46 02:07.5 6.3s — let's head to the local market we're / going to pick up some more gear as well / as pick up some of the food that we're / going to need for the hike so let's
+- #47 02:13.8 6.5s — go at 19,000 ft mount kjaro isn't just / Africa's highest peak it's also the / highest fre standing mountain in the
+- #48 02:20.3 1.7s — world and this mountain found in
+- #49 02:22.0 2.7s — Tanzania has long held spiritual and
+- #50 02:24.7 1.7s — cultural significance for the chaga
+- #51 02:26.4 4.9s — people who live in its Foothills
+- #52 02:31.3 1.8s
+- #53 02:33.2 1.7s — this truck really first gained popular
+- #54 02:34.9 1.7s — and Global attention back in 1889 when
+- #55 02:36.5 1.5s
+- #56 02:38.1 1.7s — the European explorer Hans Meyer became
+- #57 02:39.7 2.0s — the first on record to reach its Summit
+- #58 02:41.7 1.6s — and since then it's really become this
+- #59 02:43.3 5.8s — lifelong dream for adventurers worldwide / as you climb you also pass through these / five distinct ecosystems on your way up
+- #60 02:49.1 3.1s — five distinct ecosystems on your way up / which is fascinating from the Lush
+- #61 02:52.2 1.9s — rainforest to these open Moors into
+- #62 02:54.1 1.3s
+- #63 02:55.4 1.3s — Alpine desert until finally you reach an
+- #64 02:56.6 1.5s — Arctic Zone at the summit like we're
+- #65 02:58.1 1.0s — talking literal glaciers also no one is
+- #66 02:59.1 1.7s — talking literal glaciers also no one is
+- #67 03:00.8 3.1s — hiking this on their own Tanzania law
+- #68 03:03.9 1.5s — actually requires that all truers use a
+- #69 03:05.5 2.4s — licensed guide company and porters who
+- #70 03:07.9 1.3s — carry all your supplies and set up camp
+- #71 03:09.2 1.8s — and let me tell you they are truly the
+- #72 03:11.0 1.7s — real heroes of this trk I think one of
+- #73 03:12.7 3.2s — the most special and maybe unexpected / parts of this hike is the amazing
+- #74 03:15.9 1.2s — relationships you build with these
+- #75 03:17.1 2.4s — relationships you build with these / locals as you experience every high and
+- #76 03:19.5 1.8s — low of the TRU together the mountain is
+- #77 03:21.3 1.6s — a key source of income for many two so
+- #78 03:22.9 2.0s — please remember to budget tipping them
+- #79 03:24.9 2.2s — very well at the end of the hike as this / tourist industry really helps sustain
+- #80 03:27.1 3.3s — tourist industry really helps sustain / entire communities here
+- #81 03:30.5 2.0s
+- #82 03:32.4 2.0s
+- #83 03:34.4 1.3s
+- #84 03:35.7 0.9s
+- #85 03:36.6 0.7s
+- #86 03:37.3 0.5s
+- #87 03:37.8 1.0s
+- #88 03:38.8 1.3s
+- #89 03:40.2 0.7s
+- #90 03:40.9 0.6s — [Music]
+- #91 03:41.5 1.0s — [Music]
+- #92 03:42.5 0.7s
+- #93 03:43.2 0.6s
+- #94 03:43.8 1.1s
+- #95 03:44.8 0.7s
+- #96 03:45.6 0.6s
+- #97 03:46.1 0.5s
+- #98 03:46.6 0.6s
+- #99 03:47.2 0.6s
+- #100 03:47.9 1.0s
+- #101 03:48.9 0.6s
+- #102 03:49.4 0.7s
+- #103 03:50.1 0.9s
+- #104 03:51.0 0.7s
+- #105 03:51.7 0.6s
+- #106 03:52.4 1.1s
+- #107 03:53.5 2.7s — came here you have to explain how you / feel in your body and then local doctor
+- #108 03:56.2 1.5s
+- #109 03:57.6 1.0s — can make it okay special sticks we use
+- #110 03:58.6 1.4s — can make it okay special sticks we use
+- #111 04:00.0 5.1s — as a toothbrush this one toothbrush yeah / we Che more on the top then make it a / brush it's so cool walking to the market
+- #112 04:05.2 3.1s — brush it's so cool walking to the market / and seeing how fresh everything is this
+- #113 04:08.3 1.6s — going to be the freshest food I've ever
+- #114 04:09.9 2.8s — [Music]
+- #115 04:12.6 24.3s — had so here's my gear / and unfortunately this still isn't / everything but it's time to back this / up oh my gosh there she is the goods
+- #116 04:36.9 3.0s
+- #117 04:39.9 1.7s
+- #118 04:41.6 3.2s — this is
+- #119 04:44.7 13.3s — insane hello from the base of Mount / Killy lamoso gate is behind me which / means this is sort of the trail I cannot / believe we're here I'm kind of freaking / out I'm like 70% excited 30% super / nervous but we're doing this thing let's / go
+- #120 04:58.0 1.5s — go
+- #121 04:59.5 2.3s
+- #122 05:01.8 0.8s
+- #123 05:02.6 2.5s — we are starting kind of in this like / Forest Zone it's have to meet shedra
+- #124 05:05.1 10.0s — he's our guide so this is the one who's / going to be keeping us alive on this / journey what advice would you give for / someone who wants to do Killy first of / all you have to set your mind nothing
+- #125 05:15.1 1.7s — will stop me exactly that mental
+- #126 05:16.8 1.4s — strength and how many times have you
+- #127 05:18.2 1.7s — strength and how many times have you / climbed to this mountain I can guess
+- #128 05:19.9 3.1s — maybe it's 300 times 300 can you imagine
+- #129 05:23.1 1.2s
+- #130 05:24.2 1.9s — I'm just trying to do it once the crew
+- #131 05:26.1 8.5s — up guys Lindy it's the Three Musketeers / and we're going to take on KY keep going / through the
+- #132 05:34.6 1.2s — [Music]
+- #133 05:35.8 1.3s
+- #134 05:37.0 1.2s
+- #135 05:38.2 2.5s
+- #136 05:40.7 1.1s
+- #137 05:41.8 1.8s
+- #138 05:43.6 1.2s — jungle Elena's having a little bit of a
+- #139 05:44.8 15.2s — gear malfunction over here my cam back / is leaking oh my God everything is / so wet to a rough start 1 hour in we N9 / days left to go we're already having / issues something very critical would / break for me it's fine I don't even care
+- #140 06:00.0 1.3s — it's fine checking in we are about
+- #141 06:01.3 7.4s — halfway through the first day and what's / crazy about Mount kjaro is that you / Traverse so many different climates
+- #142 06:08.7 1.6s
+- #143 06:10.3 3.0s — right now I in a tropical rainforest we / just saw the most epic furry monkeys I
+- #144 06:13.4 1.6s — have no idea what they are but they're
+- #145 06:15.0 2.3s — have no idea what they are but they're / so cool that is the cutest little animal
+- #146 06:17.3 2.7s — I've ever seen look how stunning this is
+- #147 06:19.9 0.9s
+- #148 06:20.8 1.0s
+- #149 06:21.8 1.8s
+- #150 06:23.6 1.7s
+- #151 06:25.3 2.9s — [Music]
+- #152 06:28.3 1.5s
+- #153 06:29.7 1.7s
+- #154 06:31.4 1.3s
+- #155 06:32.6 1.4s
+- #156 06:34.0 1.0s — we've made it day one made it to mua
+- #157 06:35.1 1.5s
+- #158 06:36.6 1.0s — Camp wasn't too bad for a first day so
+- #159 06:37.6 2.0s — Camp wasn't too bad for a first day so
+- #160 06:39.6 0.9s — beautiful out we beat it signing in we
+- #161 06:40.5 0.5s
+- #162 06:41.0 1.3s
+- #163 06:42.3 2.2s — made / it they won in the Box welcome to my
+- #164 06:44.4 5.8s — humble about which is H pretty cute and
+- #165 06:50.3 11.8s — they just brought me / water and soap so it's time for our / skincare routine / and by that we're going to wash all this
+- #166 07:02.1 3.4s — mud off my hands and hopefully out of my / fingers but actually feels so
+- #167 07:05.6 1.8s
+- #168 07:07.3 20.0s — nice I read as you do a million Reddit / threads about how to pack for killy and / I think my favorite advice was to bring / Stacks that bring you Joy and I am the / biggest Haribo fan like Haribo if you / see this I have given so much money to / your / company life is all about balance
+- #169 07:27.3 12.2s — it's time for my glamorous little / sleep see / you
+- #170 07:39.5 2.8s — morning good morning we have our hot
+- #171 07:42.4 3.8s — water are we doing our skin care where / is my invite step one cleanser c eye
+- #172 07:46.2 0.7s
+- #173 07:46.9 2.4s — cream and Road the shortest routine I
+- #174 07:49.3 2.3s
+- #175 07:51.6 7.7s — think I've ever had you guys pack way / more stuff than I did I got a toothbrush / and deodorant
+- #176 07:59.3 1.3s
+- #177 08:00.6 1.4s — clean apparently today is a very exposed
+- #178 08:02.0 1.0s
+- #179 08:03.0 3.4s — day it's cold like it was cold as hell / last night we're going to be exposed to
+- #180 08:06.4 3.0s — last night we're going to be exposed to / the Sun so got to get some sunscreen / going as well like G it's so good I
+- #181 08:09.4 1.6s — going as well like G it's so good I
+- #182 08:11.0 1.2s — thought it'd be like soup every
+- #183 08:12.2 1.0s — thought it'd be like soup every
+- #184 08:13.2 0.8s — meal morning good
+- #185 08:14.0 3.4s — meal morning good
+- #186 08:17.3 2.0s — morning good morning this African fruit
+- #187 08:19.3 2.8s — juice is where it's at
+- #188 08:22.1 1.0s
+- #189 08:23.1 1.2s
+- #190 08:24.3 1.8s — [Music]
+- #191 08:26.2 2.8s — [Music]
+- #192 08:29.0 2.5s
+- #193 08:31.4 1.8s
+- #194 08:33.2 1.3s
+- #195 08:34.5 1.4s
+- #196 08:35.9 1.5s
+- #197 08:37.5 5.5s — hello from day two on the trail we're / about to leave the forest and so far / Spirits are high feeling
+- #198 08:43.0 1.8s — Spirits are high feeling
+- #199 08:44.7 1.5s — [Music]
+- #200 08:46.2 1.3s — [Music]
+- #201 08:47.6 1.3s
+- #202 08:48.9 2.2s
+- #203 08:51.1 1.1s
+- #204 08:52.2 1.0s — good as you can
+- #205 08:53.2 7.8s — see we've lost some layers it is so hot / I can't believe how cold I was this / morning comparison let's go
+- #206 09:01.1 1.5s
+- #207 09:02.6 2.0s — TW people who are bad smiling cut the
+- #208 09:04.6 6.5s — leaves and then new so I think we all / need this all right guys going to be
+- #209 09:11.1 0.6s
+- #210 09:11.7 1.5s — smelling much better now African
+- #211 09:13.2 1.1s — warmwood time to freshen up make me
+- #212 09:14.3 1.4s
+- #213 09:15.7 4.3s — smell good getting flashbacks to doing / our makeup in Jordan yes I'll insert
+- #214 09:20.1 2.3s — that clip this is part
+- #215 09:22.3 0.6s
+- #216 09:22.9 1.9s — two you can barely see it but at the
+- #217 09:24.8 4.8s — tippy top is where our lunch break is
+- #218 09:29.5 3.7s — it's lunch time we made it to lunch hey
+- #219 09:33.2 1.5s — y'all so amazed so far how they're
+- #220 09:34.7 1.2s
+- #221 09:35.9 1.0s
+- #222 09:37.0 1.3s — feeding us and really easily able to get
+- #223 09:38.3 2.2s — fresh water cuz they have like a water
+- #224 09:40.5 2.0s — fresh water cuz they have like a water / pump I just feel really taken care of so
+- #225 09:42.5 13.2s — I'm so glad that I went with Killy / Warriors for such an amazing team like / the guides are incredible and so / knowledgeable the porters are blowing my / mind so Fring to just be completely / immersed in nature completely / disconnected and all you can focus on is / just one foot in front of the other
+- #226 09:55.7 3.8s — just one foot in front of the other / pully pully as they say which means / slowly slowly and enjoy it along long
+- #227 09:59.5 2.6s — the way like I'm having a lot of fun
+- #228 10:02.1 6.7s — hi we have Kongo you want to say hi hi / he's the
+- #229 10:08.9 2.1s — [Music]
+- #230 10:11.0 2.0s
+- #231 10:12.9 1.5s
+- #232 10:14.4 1.5s
+- #233 10:15.9 0.8s
+- #234 10:16.7 1.2s
+- #235 10:17.9 1.1s
+- #236 10:19.0 8.0s — [Music]
+- #237 10:26.9 1.2s — best so there is our camp and there's
+- #238 10:28.1 5.8s — Killy this is the best you have
+- #239 10:33.9 1.3s
+- #240 10:35.2 6.0s — [Music] / gotten made it home sweet home for the
+- #241 10:41.2 1.5s
+- #242 10:42.7 4.8s — night and we have an insane view of
+- #243 10:47.5 3.1s — Mount kjaro
+- #244 10:50.6 4.0s — [Music]
+- #245 10:54.6 2.8s
+- #246 10:57.4 1.4s
+- #247 10:58.8 1.2s
+- #248 10:60.0 2.0s
+- #249 11:02.0 1.3s
+- #250 11:03.3 4.6s
+- #251 11:07.9 37.6s — it's only night two and I am shocked at / how cold I am it's like 3 or 4 Celsius / so like in the low 20s in the S night / too we have a six more nights of just / increasing altitude they gave us a hot / water bottle and this is my new / boyfriend just going to cuddle It Off / all night and so today we went from / 9,000 FT elevation to 11,000 FT / elevation and so far no altitude / symptoms feeling good I'm taking diox / and at the end of this trip I'll be / taking doxy cycling for malaria / sexy the other night in my humble / abode one me sleep
+- #252 11:45.5 2.1s — abode one me sleep
+- #253 11:47.5 3.3s — tight good
+- #254 11:50.8 7.3s — morning she has risen can't say I slept / very well last night bringing sexy / back I see ice outside that's why I was
+- #255 11:58.1 2.6s — back I see ice outside that's why I was
+- #256 12:00.7 1.8s — so cold day three
+- #257 12:02.6 1.5s
+- #258 12:04.1 2.0s — baby we're like it's one thing to track
+- #259 12:06.1 13.6s — 9 days through Wilderness another thing / to do it in freezing temperatures every / day really adds to the whole / experience okay I believe in myself we / got this let's
+- #260 12:19.7 1.6s
+- #261 12:21.3 1.0s
+- #262 12:22.4 6.3s — go feeling / clean ready for a new day they morning
+- #263 12:28.7 2.9s — this is the only mirror we have only / mirror looking kind of cute all
+- #264 12:31.5 1.4s — mirror looking kind of cute all
+- #265 12:33.0 3.3s — right I've looked better but is my
+- #266 12:36.2 2.0s — Diamox King Bottoms Up time for my
+- #267 12:38.3 1.0s
+- #268 12:39.2 1.3s — medical check check oxygen levels and
+- #269 12:40.6 3.3s — heart rate to make sure everything's
+- #270 12:43.8 0.8s — okay 9280 you're in the '90s feel good
+- #271 12:44.6 1.9s — okay 9280 you're in the '90s feel good
+- #272 12:46.6 1.0s — about that
+- #273 12:47.6 1.7s — about that
+- #274 12:49.3 1.5s
+- #275 12:50.8 8.7s — good we have the monster of Mount kraw / behind us and uh let's hit the Rope
+- #276 12:59.5 1.6s — [Music]
+- #277 13:01.1 1.2s
+- #278 13:02.2 1.3s
+- #279 13:03.5 1.1s
+- #280 13:04.6 1.2s
+- #281 13:05.8 2.4s
+- #282 13:08.2 2.5s
+- #283 13:10.7 2.9s — [Music]
+- #284 13:13.6 1.0s
+- #285 13:14.6 1.0s
+- #286 13:15.6 1.5s
+- #287 13:17.1 0.9s
+- #288 13:18.0 3.1s
+- #289 13:21.1 1.3s
+- #290 13:22.5 1.3s — [Applause]
+- #291 13:23.8 2.8s — [Music]
+- #292 13:26.6 2.5s — he
+- #293 13:29.0 3.0s
+- #294 13:32.0 1.1s
+- #295 13:33.1 3.8s — this cool little cave can take a little / backpack nap this is my home now we're
+- #296 13:36.9 2.2s — living here forever we made
+- #297 13:39.0 1.6s — living here forever we made
+- #298 13:40.6 2.6s
+- #299 13:43.2 1.3s — it hello so I'm journaling right now
+- #300 13:44.6 2.9s — it hello so I'm journaling right now / wanting to get to the bottom of this
+- #301 13:47.5 54.5s — wanting to get to the bottom of this / human desire to push yourself to these / physical and mental limits go on these / Adventures that force you to reach into / like the deepest part within yourself / it's so beautiful not we already getting / emotional it's the altitude I'm fine I'm / fine as someone who is really hard on / themselves excited about the future but / also feels a ton of anxiety about not / knowing where I'm going or who I'm going / with doing something like this reminds / me I'm going to be okay I'm so capable / we are capable of so much more than we / realize like we limit ourselves so much / I think I'm feeling myself tap into this / strong and overwhelming and empowering / feeling okay that's enough for me let me / show you the
+- #302 14:42.0 1.9s — [Music]
+- #303 14:43.9 1.4s — [Music]
+- #304 14:45.3 1.4s
+- #305 14:46.7 1.2s
+- #306 14:47.9 1.0s
+- #307 14:48.9 2.0s
+- #308 14:50.9 3.5s
+- #309 14:54.4 6.2s — view Sun
+- #310 15:00.6 22.1s — SAA good morning from day four no days / off with skin care even though I've / never been dirtier in my life I think / what's beautiful about these hikes is / how you gain so much gratitude for the / little things that I would never think / twice that like a bowl of hot / water this towel is absolutely covered / in dirt at this point but we make do day / four making progress let's get it
+- #311 15:22.7 6.3s
+- #312 15:29.1 2.5s — oh
+- #313 15:31.6 2.4s
+- #314 15:33.9 3.4s — [Music]
+- #315 15:37.3 2.3s
+- #316 15:39.6 1.5s
+- #317 15:41.0 1.4s
+- #318 15:42.4 2.0s
+- #319 15:44.4 1.9s
+- #320 15:46.3 3.8s
+- #321 15:50.2 2.3s
+- #322 15:52.4 1.5s
+- #323 15:53.9 1.4s
+- #324 15:55.3 1.5s
+- #325 15:56.9 2.1s
+- #326 15:59.0 16.3s — I saw these St and take their CLS out I / was like what are they doing like more / rocks we've been looking at rocks and I / realized that's the cloud we are like / above the clouds these little legs of / mine car Me Above the
+- #327 16:15.3 4.0s — Clouds proud of us / [Music]
+- #328 16:19.3 2.8s — [Music]
+- #329 16:22.1 1.9s
+- #330 16:24.0 1.2s
+- #331 16:25.2 1.4s
+- #332 16:26.6 2.2s
+- #333 16:28.8 3.4s
+- #334 16:32.2 1.4s
+- #335 16:33.6 1.5s
+- #336 16:35.1 1.8s
+- #337 16:36.9 5.2s — the fog just rolled in so you can see / Mount KY behind me I got to say today
+- #338 16:42.1 38.7s — was definitely a bit more challenging / I'm finally feeling the symptoms of / altitude sickness pretty gnarly headache / and just the fatigue like the sleepiness / like you're really sleepy and you have / really weird dreams I have had some of / the most Vivid strange dreams I may have / ever had we started with hikers and / we're down to three the fourth actually / also dropped off today she just felt / like it was too much and you know I / respect that decision you have to trust / your body on something like this and / sometimes the altitude does get the best / of you cuz if you're just throwing up / nonstop and you're not sleeping at night / like you don't have the energy to keep / going we have two more days until it's / finally Summit day can't believe we're
+- #339 17:20.8 4.7s — at like 14,000 elevation we are up here / we're Above the Clouds
+- #340 17:25.5 2.0s
+- #341 17:27.6 1.6s
+- #342 17:29.2 38.7s — so windy it's literally shaking the ca I / had to just scoop out a massive spider / that was about to crawl into my sleeping / bag and throw it outside thankfully for / helped and put it on my oh God I will / say we're checking with our guide and I / feel like some of the stories we talked / about started to Spook us all a little / bit people getting sick and issues that / arise I think I've been a little / lighthearted about it you all need to be / paying attention to your energy and your / heart and your breathing and your / headaches cuz these are all things that / could potentially be really really / dangerous was bit sobering going bed / tonight hope they don't blow away / tonight we'll
+- #343 18:08.0 0.3s
+- #344 18:08.3 2.6s — see rice how's everyone doing a little
+- #345 18:10.9 2.6s — cold but you
+- #346 18:13.5 1.1s — cold but you
+- #347 18:14.6 2.2s — know hi
+- #348 18:16.8 2.0s
+- #349 18:18.8 1.7s — [Music]
+- #350 18:20.6 1.5s
+- #351 18:22.0 1.6s — hi good
+- #352 18:23.6 3.1s — morning day five look at this I feel
+- #353 18:26.7 2.1s — like I'm in the middle of a Han Zimmer
+- #354 18:28.8 2.0s — soundtrack right now so otherworldly
+- #355 18:30.8 2.6s — every day offer something
+- #356 18:33.4 5.3s — [Music] / new feeling really good today just
+- #357 18:38.7 4.7s — intense that we're in like the abyss of / a cloud a little harder to breathe today
+- #358 18:43.4 3.1s — a cloud a little harder to breathe today / we're taking it slow pulley pulley
+- #359 18:46.5 2.8s
+- #360 18:49.3 1.7s — [Music]
+- #361 18:51.0 1.0s
+- #362 18:52.0 1.8s
+- #363 18:53.8 0.9s
+- #364 18:54.6 2.7s
+- #365 18:57.3 0.9s
+- #366 18:58.2 5.0s — [Music]
+- #367 19:03.2 1.8s
+- #368 19:05.1 14.4s — all these in Paris and they forgot to / take I swear to you I'm not a thief I / got to walk around with this tag
+- #369 19:19.4 1.8s — on we're doing the pit check I got my
+- #370 19:21.2 14.9s — Poncho here keeping me dry I have my / arcx shell and my waterproof pants / apparently I stole have my North Face / shell REI pants and my little bag rain / cover and then / shedrock what are we wearing here I just
+- #371 19:36.1 5.8s — shedrock what are we wearing here I just / have still have my pathy because I think / the fog is not too strong this is
+- #372 19:41.9 2.0s — Colombia this is Colombia love the fit
+- #373 19:43.9 1.6s — man did we make it we made
+- #374 19:45.5 12.8s — it that was so I think we're the last / people on Earth on Mars I think we're on / [Music]
+- #375 19:58.2 0.4s — [Music]
+- #376 19:58.7 3.1s
+- #377 20:01.7 6.6s — hey guys hi good morning oh my
+- #378 20:08.4 3.1s — God oh my wow I look czy I look so crazy
+- #379 20:11.5 3.7s
+- #380 20:15.1 3.0s — to be climbing that climb that be 24 / hours it's our last full day before
+- #381 20:18.1 8.3s — hours it's our last full day before / summiting the tallest pal in Africa I'm / mentally preparing myself but honestly / feeling good it's looking very steep
+- #382 20:26.4 2.5s — though I can't Li
+- #383 20:29.0 4.3s — I miss / you I miss you m I miss you get in there
+- #384 20:33.3 6.0s
+- #385 20:39.3 1.6s — [Applause]
+- #386 20:40.9 1.9s
+- #387 20:42.8 3.2s — [Music]
+- #388 20:46.0 1.9s — [Music]
+- #389 20:47.8 1.7s
+- #390 20:49.5 8.1s
+- #391 20:57.6 1.4s
+- #392 20:59.0 6.8s — I didn't know Lindy was such a good / dancer dance party at what are we at / 13,000 definitely a little bit
+- #393 21:05.8 1.1s — [Music]
+- #394 21:06.9 0.9s
+- #395 21:07.8 1.3s
+- #396 21:09.1 1.4s
+- #397 21:10.5 2.9s
+- #398 21:13.4 1.3s — [Music]
+- #399 21:14.7 1.2s — [Music]
+- #400 21:15.9 2.7s
+- #401 21:18.6 1.9s
+- #402 21:20.4 2.0s — loopy hey hey we got backup dancers
+- #403 21:22.4 5.0s — coming in
+- #404 21:27.4 1.0s
+- #405 21:28.4 2.6s
+- #406 21:31.0 2.0s — [Music]
+- #407 21:33.0 1.8s
+- #408 21:34.7 2.8s
+- #409 21:37.5 57.2s — hello day six we made it to school Hut / which is the last base camp before we / Summit I am so in awe of my little body / for getting me up here and we're / salmoning tomorrow at 3:00 / a.m. so you have to get up at 3:00 a.m. / you can obviously hear my voice like the / elevation gate is no joke like so much / harder to breathe up here and before we / head off on our acclamation hike I want / to thank today's sponsor which is Better / Health doing something like this is / really like a test of the human Spirit / part of the reason why I have built up / the confidence to do something like this / that I would have never done years ago / is thanks to therapy and speaking with / someone who's helped me develop the / confidence and give me the tools to feel / comfortable believing in myself so if / you've never heard of betterhelp / betterhelp helps connect you to a / licensed therapist who's trained to / basically talk to you and listen to you / and give you unbiased advice just go to / their site you answer a few questions / and better heal connects you with a / therapist who has years of experience / helping people with struggles just like / yours what I love is that you can do it / all from your phone or computer I say / this every time but like clearly I be
+- #410 22:34.7 0.9s — traveling the world it's so helpful for
+- #411 22:35.6 23.7s — me to be able to speak with people on / the road and maybe prefer messaging or / video messaging or phone call like you / have all the options at your disposal / it's the easiest way to start talking / with therapist so let betterhelp help / you help yourself and start speaking / with a licensed therapist today you can / go to betterhelp to sign up today and / get started and if it's your first time / and you sign up with a link in my / description below you'll get a little / discount on your first month and on that / note we got to get back to hiking y'all
+- #412 22:59.3 1.8s — we're doing our acclamation look at this
+- #413 23:01.1 2.3s — view are you kidding
+- #414 23:03.5 2.7s
+- #415 23:06.1 1.7s — me
+- #416 23:07.8 1.3s — [Music]
+- #417 23:09.2 2.1s
+- #418 23:11.3 5.6s — crazy oh my go my God are we going to / blow away we're somewhat alive it's 2:3
+- #419 23:16.9 15.2s — blow away we're somewhat alive it's 2:3 / a.m. we decided to have a sleepover / how's / feeling now we have to get out and go / how m for I guess collectively 12 hours / let's go
+- #420 23:32.1 2.0s
+- #421 23:34.1 5.6s — [Music]
+- #422 23:39.7 6.5s
+- #423 23:46.2 3.1s
+- #424 23:49.3 3.5s
+- #425 23:52.8 1.3s
+- #426 23:54.1 2.2s
+- #427 23:56.2 3.7s
+- #428 23:59.9 5.2s
+- #429 24:05.1 3.0s
+- #430 24:08.1 1.6s
+- #431 24:09.7 1.4s
+- #432 24:11.1 1.4s
+- #433 24:12.5 1.6s
+- #434 24:14.1 2.5s — 5 to 6 more hours of going up about 45
+- #435 24:16.6 8.8s — to 50% / incline this is really hard God
+- #436 24:25.4 6.9s — [Music] / I think I underestimated
+- #437 24:32.3 3.1s — it this is hard
+- #438 24:35.4 3.1s — [Music]
+- #439 24:38.5 2.3s
+- #440 24:40.7 3.7s
+- #441 24:44.4 2.6s
+- #442 24:47.0 1.3s — [Music]
+- #443 24:48.2 1.3s — [Music]
+- #444 24:49.5 2.4s
+- #445 24:51.9 1.0s
+- #446 24:52.9 1.3s
+- #447 24:54.2 1.0s
+- #448 24:55.2 1.1s
+- #449 24:56.3 1.3s
+- #450 24:57.6 1.4s
+- #451 24:59.0 1.8s
+- #452 25:00.7 1.5s
+- #453 25:02.3 21.3s — nothing could have prepared me for this / landscape I feel like we've transported / to a whole another / Universe now I'm surrounded fields of / sculptures I think I'm in Antarctica / I've literally never seen anything like / this in my life I'm like a might / hallucinating
+- #454 25:23.6 2.1s — baby this truck is about mental
+- #455 25:25.7 1.6s — resilience more than anything else else
+- #456 25:27.3 1.3s
+- #457 25:28.7 2.1s — each step increasingly is more strenuous
+- #458 25:30.7 1.4s — oxygen becomes thinner your legs feel
+- #459 25:32.2 1.5s — oxygen becomes thinner your legs feel
+- #460 25:33.7 2.5s — heavier and it's that determination and / inner strength that really kicks in and
+- #461 25:36.2 1.4s — inner strength that really kicks in and
+- #462 25:37.6 1.7s — I'm learning that reaching the top isn't
+- #463 25:39.3 1.2s — about just conquering a mountain it's
+- #464 25:40.5 1.9s — overcoming these inner doubts and fully
+- #465 25:42.3 2.2s — and completely trusting in yourself and
+- #466 25:44.5 2.9s — after well over a week of camping and
+- #467 25:47.4 2.7s — hiking and then finally an additional 9 / hours of hiking Through The Dark Night
+- #468 25:50.1 2.3s — hours of hiking Through The Dark Night / and the freezing cold wind storms
+- #469 25:52.4 1.8s — finally peaked through the fog signaling
+- #470 25:54.2 1.2s — finally peaked through the fog signaling
+- #471 25:55.4 4.5s — making it to the roof of Africa / I immediately felt overwhelmed with the
+- #472 25:59.8 2.3s — feeling of being enough being more
+- #473 26:02.1 1.8s — capable and more strong than I've ever
+- #474 26:03.9 1.4s — capable and more strong than I've ever
+- #475 26:05.2 2.8s — given myself credit / for ultimately summoning Mount kjaro is
+- #476 26:08.0 2.6s — for ultimately summoning Mount kjaro is
+- #477 26:10.6 3.4s — a reminder that while the journey is / difficult the rewards of self-discovery
+- #478 26:14.0 1.3s
+- #479 26:15.4 2.0s — of a greater purpose and feeling fully
+- #480 26:17.4 1.8s — human in a lot are worth every step it
+- #481 26:19.2 1.9s — human in a lot are worth every step it
+- #482 26:21.0 4.5s — takes courage to leave your comfort zone / but I think that's what life is all
+- #483 26:25.5 3.0s — about
+- #484 26:28.6 4.2s — [Music]
+- #485 26:32.8 6.3s — oh / [Music]
+
+## Gemini (`gemini.json`, timestamps approximate ±1-2s)
+
+### Chunk from 00:00.0
+
+- **structure**: The clip follows a classic vlog structure: a high-energy teaser montage (0:00-0:30), a sit-down 'prep' segment in a hotel (0:30-2:13), an educational history interlude (2:13-3:30), a local cultural experience at a market (3:30-4:12), a packing segment (4:13-4:34), and finally the start of the multi-day hike (4:34-8:00).
+- **pacing**: The pacing is dynamic. The intro and market segments are very fast-paced with cuts every 1-2 seconds. The talk-to-camera and hiking segments are more relaxed, allowing for storytelling and character development.
+- **music**: Music is a primary driver of the edit, with distinct genre shifts for every segment (tribal, pop, retro-doc, folk) to signal a change in mood or topic. It is frequently ducked under speech but swells during transitions and montages.
+- **voice**: The creator uses an enthusiastic, relatable tone. She balances informative voiceover during the history segment with candid, humorous live dialogue and to-camera addresses that emphasize her vulnerability and excitement.
+- **sound_design**: The most prominent sound design element is the 'camera shutter' sound used for major transitions. Ambient forest sounds and live market noise are used to ground the b-roll.
+- **text_style**: The vlog uses a mix of elegant serif fonts for main titles and clean sans-serif fonts for informational captions and social handles. A progress bar graphic is used to track the hike's duration.
+- **visual_style**: The visual style is high-production travel vlog, featuring sweeping drone shots, handheld vlogging, archival footage, and top-down flat lays. The color grade is bright and natural.
+- **signature_moves**: Signature moves include the shutter-sound transitions, the use of a progress bar to gamify the hike, and the stop-motion packing sequence.
+
+- 00:00.0 music: Upbeat, rhythmic, tribal-inspired music starts; drone shots of the mountain and forest.
+- 00:01.3 text: Centered serif text: 'MOUNT KILIMANJARO'.
+- 00:04.3 text: Coordinates and a brief description of the mountain appear below the title.
+- 00:20.5 talk_to_camera: Live audio of the creator hiking in fog: 'This is the hardest thing I've ever done.' Text overlay matches the quote.
+- 00:26.5 text: Centered serif text: 'CLIMBING AFRICA'S TALLEST MOUNTAIN IN 8 DAYS'.
+- 00:30.0 transition: Camera shutter sound effect with a quick white flash transition.
+- 00:30.5 music: Music changes to an upbeat, indie-pop style.
+- 00:37.0 talk_to_camera: Creator in a hotel room, speaking directly to the camera about her motivations and background as a 'city girl'.
+- 01:01.5 text: Text overlay: 'LET'S HIKE'.
+- 01:03.5 text: Text overlay: 'LET'S HIKE MOUNT KILIMANJARO' over a drone shot.
+- 02:13.5 title: Title card: 'BUT FIRST A HISTORY LESSON' in a bold, retro font.
+- 02:13.5 music: Music changes to a retro, documentary-style track.
+- 02:15.5 voiceover: Voiceover begins over archival footage and modern b-roll, explaining the mountain's history and ecosystems.
+- 03:29.5 transition: Camera shutter sound effect transition.
+- 03:30.5 music: Music changes to an upbeat track with African-inspired rhythms.
+- 03:30.5 text: Text overlay: 'ARUSHA' with a location pin icon.
+- 03:34.5 broll: Fast-paced montage of a local market, cutting on the beat of the music.
+- 03:53.0 talk_to_camera: Live audio at a market stall; a local man explains traditional remedies.
+- 04:12.5 transition: Camera shutter sound effect transition.
+- 04:13.5 music: Music changes to an upbeat synth-pop track.
+- 04:13.5 speed: Stop-motion style flat lay of gear being packed on the floor. Text: 'TIME TO PACK'.
+- 04:34.0 transition: Camera shutter sound effect transition.
+- 04:34.5 music: Music changes to an upbeat, acoustic folk track.
+- 04:34.5 text: Text overlay: 'STARTING AT LEMOSHO BASE CAMP' with elevation details.
+- 04:42.5 talk_to_camera: Creator at the trailhead, expressing nerves and excitement.
+- 05:03.0 talk_to_camera: Creator hiking and introducing her guide, Shedrack.
+- 05:25.5 text: Text overlays introducing friends Brett and Lindsay with their social handles.
+- 05:44.5 ambient: Live audio of a 'gear malfunction' where a water bladder leaked.
+- 06:34.5 talk_to_camera: Creator arriving at the first camp, reflecting on the day's hike.
+- 06:46.5 talk_to_camera: Inside the tent; creator shows the washing routine and snacks.
+- 07:27.0 music: Music shifts to a soft, ambient track as she writes in her journal at night.
+- 07:39.5 music: Music returns to an upbeat folk style for the start of Day 2.
+- 07:39.5 text: Text overlay: 'MTI MKUBWA CAMP DAY 2' with a circular progress bar showing hike completion percentage.
+- 07:41.5 talk_to_camera: Morning routine at camp; washing faces and joking with friends.
+
+### Chunk from 08:00.0
+
+- **structure**: The clip follows a chronological progression of a multi-day hike up Kilimanjaro, covering parts of Day 2, Day 3, and the start of Day 4. Each day follows a pattern: morning routine/skincare, hiking montage, and camp reflections.
+- **pacing**: The pacing is dynamic, alternating between fast-cut hiking montages synced to rhythmic music and slower, intimate talk-to-camera segments where the creator shares her thoughts and feelings.
+- **music**: The music is primarily acoustic indie-folk, featuring rhythmic guitar and percussion that builds momentum during hiking scenes and softens during reflective moments.
+- **voice**: Elena's tone is personal, enthusiastic, and occasionally vulnerable. She speaks directly to the camera as if talking to a friend, mixing practical information with emotional insights.
+- **sound_design**: Natural ambient sounds like wind, footsteps on gravel, and water splashing are layered with the music to ground the viewer in the environment.
+- **text_style**: Minimalist sans-serif fonts are used for location titles. Playful, lower-case captions (e.g., 'oxygen level slay') add a modern, relatable vlog touch.
+- **visual_style**: The visual style combines handheld 'vlog-style' footage with cinematic wide shots and drone-like vistas of the mountain landscape. The color grade is natural but vibrant, emphasizing the earth tones of the trail.
+- **signature_moves**: Signature moves include the 'hand-to-lens' transition to start/end segments, pointing at landmarks, and the use of a circular graphic overlay to track altitude and progress.
+
+- 08:00.0 ambient: Natural sounds of water splashing and birds chirping as the group washes their faces.
+- 08:02.0 talk_to_camera: Elena talks to the camera about the cold night and the upcoming sun exposure.
+- 08:09.0 broll: Close-up shots of a hearty breakfast being served: eggs, toast, bacon, and fruit.
+- 08:13.0 talk_to_camera: Elena and her friends in the dining tent, joking about the quality of the food.
+- 08:22.0 music: Upbeat, rhythmic acoustic guitar music begins, setting an adventurous tone.
+- 08:22.0 broll: Montage of the group hiking through a lush, mossy forest.
+- 08:37.0 talk_to_camera: Elena pauses in the forest to give a quick update on Day 2.
+- 08:43.0 broll: Shots of porters carrying heavy loads and the group continuing their ascent.
+- 08:52.0 talk_to_camera: Elena talks about the heat and removing layers as they climb higher.
+- 09:04.0 talk_to_camera: The guide shows the group 'African Wormwood' and explains its use as a natural deodorant.
+- 09:21.0 photo: A brief screenshot of a previous video titled 'this is what Jordan is really like' is shown for context.
+- 09:24.0 broll: Wide shots of the trail and the distant mountain peaks.
+- 09:33.0 talk_to_camera: Elena talks about the amazing support from the Kili Warriors team during lunch.
+- 09:55.0 broll: Close-up of hiking boots on the rocky trail.
+- 10:02.0 talk_to_camera: Elena introduces Kilongo, one of the porters, to the camera.
+- 10:08.0 broll: Cinematic shots of the changing landscape and Elena sitting on a rock overlooking the valley.
+- 10:28.0 talk_to_camera: Elena points out Mount Kilimanjaro in the distance.
+- 10:32.0 broll: The group arrives at Shira Camp; shots of the camp sign and tents.
+- 10:41.0 talk_to_camera: Elena shows the view from the camp as the sun begins to set.
+- 10:54.0 broll: Dinner is served in the tent; Elena eats soup and bread.
+- 11:07.0 talk_to_camera: Elena records a vlog from inside her sleeping bag, shivering and talking about the extreme cold.
+- 11:47.0 title: Graphic overlay: 'SHIRA CAMP DAY 3' with altitude and progress stats.
+- 11:50.0 talk_to_camera: Elena wakes up in the tent, talking about the frost outside.
+- 12:21.0 talk_to_camera: Elena brushes her teeth and prepares for the day outside her tent.
+- 12:28.0 talk_to_camera: The group uses metal plates as makeshift mirrors while getting ready.
+- 12:39.0 text: Elena gets her oxygen levels checked. Text: 'oxygen level slay' appears on screen.
+- 12:50.0 talk_to_camera: Elena stands in front of the mountain, ready to start the day's hike.
+- 12:59.0 music: Music shifts to a more driving, rhythmic beat.
+- 12:59.0 broll: Extensive hiking montage through rocky, volcanic terrain and past stone cairns.
+- 13:31.0 talk_to_camera: The group takes a break in a small cave; Elena jokes about it being her new home.
+- 13:44.0 talk_to_camera: Elena sits alone on a rock journaling, sharing an emotional reflection on pushing her limits.
+- 14:41.0 broll: Sweeping drone-like shots of the mountain and the camp.
+- 14:50.0 title: Graphic overlay: 'MOIR HUT DAY 4' with altitude stats.
+- 15:01.0 talk_to_camera: Elena performs her morning skincare/washing routine outside her tent.
+- 15:22.0 broll: Final hiking montage of the day through a desolate, high-altitude landscape.
+
+### Chunk from 16:00.0
+
+- **structure**: The clip covers Days 4 through 6 of a Kilimanjaro trek. It begins with the realization of being above the clouds, moves through a difficult Day 5 characterized by heavy fog and altitude sickness, and concludes with the arrival at School Hut on Day 6, featuring a celebratory dance party and preparation for the summit.
+- **pacing**: The pacing is moderate, alternating between long-form talk-to-camera segments that provide emotional depth and faster-paced hiking montages or group interactions that maintain energy.
+- **music**: The music is highly varied, using acoustic guitar for general hiking, atmospheric synths for foggy/difficult sections, cinematic orchestral pieces for grand views, and local music for cultural celebrations.
+- **voice**: Elena's voice is personal and relatable. She is vulnerable about her physical struggles (altitude sickness) but maintains an adventurous and appreciative tone throughout.
+- **sound_design**: Natural sounds like wind and the crunch of boots on gravel are used to ground the b-roll, but the edit is primarily driven by the music and Elena's narration.
+- **text_style**: The video uses a consistent, clean sans-serif font for location markers, altitude readings, and a percentage-based progress tracker in the top left corner.
+- **visual_style**: The visual style combines handheld vlogging shots for intimacy with high-quality drone footage and cinematic b-roll of the landscape and group dynamics.
+- **signature_moves**: Key signature moves include the altitude/progress graphic, the 'fit check' segments, and the inclusion of high-energy interactions with the local guides.
+
+- 16:00.0 music: Upbeat, acoustic guitar-driven track starts, ducked under speech.
+- 16:00.0 talk_to_camera: Elena talks to the camera while hiking, expressing surprise at being above the clouds.
+- 16:15.0 broll: Hikers celebrating on a ridge above a sea of clouds.
+- 16:18.8 broll: Drone shot of the landscape above the cloud line.
+- 16:26.7 talk_to_camera: Elena continues talking while hiking.
+- 16:36.7 voiceover: Elena describes the fog rolling in as she walks towards the campsite.
+- 16:42.0 talk_to_camera: Elena stands at the campsite in heavy fog, discussing her altitude sickness symptoms (headache, fatigue, vivid dreams).
+- 17:25.5 talk_to_camera: Elena talks to the camera from inside her tent at night, mentioning a spider and the sobering reality of the climb's dangers.
+- 18:08.0 text: Overlay: '3,930 M 12,700 FT', '71% -> 76%', 'THIRD CAVE DAY 5'.
+- 18:08.0 music: Music shifts to a more atmospheric, synth-based track.
+- 18:10.5 ambient: Captured live audio of Elena and friends eating and greeting the camera in a dining tent.
+- 18:23.7 talk_to_camera: Elena vlogs while hiking in thick fog, comparing the atmosphere to a Hans Zimmer soundtrack.
+- 18:38.8 ambient: Captured live audio of Elena fist-bumping her guides in the fog.
+- 18:48.8 broll: Montage of hiking through rocky, foggy terrain.
+- 19:05.5 ambient: Elena jokes about 'stealing' waterproof pants while putting them on in the field.
+- 19:20.8 ambient: The group does a 'fit check' of their rain gear in the fog.
+- 19:50.5 photo: Group photo at a signpost in the fog.
+- 19:58.0 text: Overlay: '4,800 M 15,600 FT', '78% -> 80%', 'SCHOOL HUT DAY 6'.
+- 19:58.0 music: Music changes to a cinematic, orchestral piece.
+- 20:01.5 ambient: Morning at the campsite; Elena and friends admire the clear view of the mountain peak.
+- 20:18.0 talk_to_camera: Elena talks about the upcoming summit day with the mountain in the background.
+- 20:28.8 music: Lively local song with vocals starts for the dance party.
+- 20:28.8 ambient: The hikers and guides have a dance party at the campsite.
+- 21:05.5 music: Music transitions to a driving, rhythmic instrumental track.
+- 21:05.5 broll: Montage of the final approach to School Hut.
+- 21:37.5 talk_to_camera: Elena sits on rocks at School Hut, delivering a sponsored segment for BetterHelp.
+- 22:59.0 music: Music changes to an epic, cinematic orchestral track.
+- 22:59.0 talk_to_camera: Elena vlogs during an acclimation hike, showing the view above the clouds.
+- 23:08.0 title: Overlay: '4,800 M | 15748 FT SUMMIT DAY'.
+
+### Chunk from 24:00.0
+
+- **structure**: The clip follows the final ascent of Mount Kilimanjaro. 0:00-0:16 sets the scene with a night hike and sunrise. 0:16-1:03 documents the grueling morning climb and physical exhaustion. 1:03-1:46 focuses on the surreal landscape and mental resilience. 1:46-2:28 captures the emotional summit arrival and celebration. 2:28-end is the channel outro.
+- **pacing**: The pacing is varied; it uses slow, atmospheric shots for the sunrise, quick-cut montages for the difficult climb to emphasize effort, and longer, more intimate shots at the summit to capture the emotional payoff.
+- **music**: Starts with an atmospheric, ethereal synth track that builds tension. It transitions into a more rhythmic and uplifting anthem as they approach the summit, finally switching to a signature lo-fi beat for the outro.
+- **voice**: The creator uses a mix of raw, breathless to-camera clips that show her immediate struggle and a polished, philosophical voiceover that provides deeper reflection on the experience.
+- **sound_design**: Natural sounds like heavy breathing, wind, and crunching gravel are layered with the music to maintain a sense of realism and immersion in the harsh environment.
+- **text_style**: Minimalist white sans-serif text is used for time stamps to ground the timeline. Speech captions are used during windy segments for clarity. A custom graphic overlay marks the summit achievement.
+- **visual_style**: A blend of handheld 'run-and-gun' vlog footage and cinematic wide shots. The color palette is dominated by the muted tones of the rocky terrain and the bright white of the glaciers and mist.
+- **signature_moves**: The use of chronological time stamps to build a narrative of endurance, and the juxtaposition of raw physical vulnerability with high-level philosophical reflection.
+
+- 24:00.0 ambient: Group singing and chanting in the dark while hiking with headlamps.
+- 24:04.5 music: Atmospheric, synth-heavy instrumental music begins, ducked under ambient sounds.
+- 24:04.5 cut: Hard cut from the dark hike to a wide shot of the mountain at sunrise.
+- 24:16.5 talk_to_camera: Elena speaks directly to the camera about the difficulty of the 45-50% incline.
+- 24:16.5 text: Time stamp "7:15 AM" appears in white sans-serif font in the center.
+- 24:24.5 text: Captions for speech: "this is absolutely insane", "I think I underestimated it", "this is the hardest thing I've ever done".
+- 24:35.0 text: Time stamp "9:15 AM" appears.
+- 24:40.5 text: Time stamp "10:00 AM" appears as Elena and a companion lie exhausted on the ground.
+- 24:54.5 text: Time stamp "11:00 AM" appears.
+- 24:58.5 voiceover: Elena's reflective voiceover begins over b-roll of the group hiking through mist.
+- 25:03.5 talk_to_camera: Elena talks to the camera while walking through a field of snow formations.
+- 25:03.5 text: Captions: "nothing could have prepared me for this landscape", "I feel like we've transported to a whole different universe", "now I'm surrounded by fields of snow sculptures", "I think I'm in antarctica", "I've literally never seen anything like this in my life", "am I hallucinating? maybe".
+- 25:23.5 music: Music shifts to a more rhythmic, inspiring, and triumphant tone.
+- 25:23.5 voiceover: Voiceover continues, discussing mental resilience and overcoming inner doubts.
+- 25:49.5 other: Graphic overlay: a circular progress bar showing "5895m", "19341 FT", and "100%".
+- 26:00.0 talk_to_camera: Elena at the summit, emotional and crying, saying she feels "enough".
+- 26:05.0 voiceover: Final voiceover reflections on the rewards of self-discovery over footage of group hugs.
+- 26:32.5 music: Music changes to a lo-fi hip-hop beat for the outro.
+- 26:32.5 title: Outro text: "ELENA TABER" and "@ELENATABER" over a city skyline.
+

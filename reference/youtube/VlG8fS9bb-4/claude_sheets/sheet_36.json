@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#403 30:10.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Clothing store interior with mannequins in lingerie-style display, hanging lights",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm indoor tones, wide establishing shot, slightly tilted framing"
+  },
+  {
+   "label": "#404 30:12.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white top and black shorts browsing folded clothes on a table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Candid browsing shot, shallow depth of field with foreground blur"
+  },
+  {
+   "label": "#405 30:14.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "White tiled storefront wall with a small sign and a window to a street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static architectural framing, neutral daylight grade"
+  },
+  {
+   "label": "#406 30:15.6",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in oval sunglasses adjusting them, speaking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight face shot, vlog-style talking head, bright skin tones"
+  },
+  {
+   "label": "#407 30:16.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in glasses photographing herself in mirror-style shot with phone, cabinet wall behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Mirror-selfie framing, background people blurred, cut on phone raise"
+  },
+  {
+   "label": "#408 30:18.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same woman lowering phone, two people walking behind in street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of mirror selfie, background blur used for privacy"
+  },
+  {
+   "label": "#409 30:19.2",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman in white top standing beside escalator with red and white signage",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth gimbal move, slight low angle, warm-cool contrast"
+  },
+  {
+   "label": "#410 30:20.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Subway gate area with yellow caution sign and passengers beyond glass",
+   "text_on_screen": "请勿靠近 站台门 (platform screen door caution sign, Chinese)",
+   "text_style": "Bold black sans-serif on yellow sign, mid-frame, small",
+   "notes": "Bright red foreground edge, transit-environment B-roll"
+  },
+  {
+   "label": "#411 30:22.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Interior of train car with route map screen and courtesy seat sign",
+   "text_on_screen": "座位专席 COURTESY SEAT (seat sign, Chinese and English)",
+   "text_style": "Small white and green sans-serif on screen and wall sign",
+   "notes": "Interior transit B-roll, cool fluorescent grade"
+  },
+  {
+   "label": "#412 30:23.5",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Looking down at woman's black heels and legs while seated on train floor",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "POV downward angle, gray floor, transit travel mood"
+  },
+  {
+   "label": "#413 30:24.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Hand holding phone with QR code at a fare gate reader",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Centered symmetrical gate framing, green indicator lights"
+  },
+  {
+   "label": "#414 30:25.9",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Phone showing QR code screen at turnstile with green light",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Insert shot of phone UI, green accent light, tight framing"
+  },
+  {
+   "label": "#415 30:27.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in glasses and white blouse gesturing with arm behind head outside station",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Outdoor daylight, tree background, casual talking-head energy"
+  },
+  {
+   "label": "#416 30:29.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in glasses and white blouse speaking with hand near ear outside station",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle handheld, slight tilt, natural daylight"
+  },
+  {
+   "label": "#417 30:32.3",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand pointing toward escalator and station entrance on plaza",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Pointing gesture as directional cue, cut to next location"
+  },
+  {
+   "label": "#418 30:34.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in glasses and white blouse walking and speaking toward camera outside station",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Walking-forward energy, low angle, outdoor daylight grade"
+  }
+ ]
+}

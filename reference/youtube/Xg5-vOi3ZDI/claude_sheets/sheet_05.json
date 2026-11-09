@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#54 02:17.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in cream cap and black jacket adjusting cap in forest",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie arm framing, green forest background, natural daylight"
+  },
+  {
+   "label": "#55 02:21.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in cap walking on gravel forest path, looking at camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle selfie, path leading into trees"
+  },
+  {
+   "label": "#56 02:25.4",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Woman in black jacket walking on grassy gravel trail, looking down",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Side-angle handheld follow shot, backpack visible"
+  },
+  {
+   "label": "#57 02:27.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in cap talking to camera on grassy forest trail",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie with wide lens distortion, bright green grade"
+  },
+  {
+   "label": "#58 02:29.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in cap looking left on forest trail",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie framing, conifers behind, cut on gaze direction"
+  },
+  {
+   "label": "#59 02:32.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in cap speaking, pointing toward parked car and path",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie, path and car in background"
+  },
+  {
+   "label": "#59 02:36.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in cap at Rifugio Lavarella location title",
+   "text_on_screen": "RIFUGIO LAVARELLA 46.611253 12.006905 2045 m",
+   "text_style": "Serif gold/yellow caps for name, smaller white-ish coordinates and altitude below, centered lower third",
+   "notes": "Location caption overlay on forest scene"
+  },
+  {
+   "label": "#60 02:40.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in cap talking, wooden fence and path behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie, wide angle, fence and building in background"
+  },
+  {
+   "label": "#61 02:44.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in cap speaking, forest clearing with path behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie framing, cloudy sky, muted colours"
+  },
+  {
+   "label": "#61 02:49.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in cap raising finger while talking, forest and road behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie, finger gesture emphasis point"
+  },
+  {
+   "label": "#62 02:52.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Hiker on rocky mountain trail with railing, misty peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide landscape, low cloud, dramatic scale"
+  },
+  {
+   "label": "#63 02:54.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Rocky peak above conifer forest with clouds",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Landscape establishing shot, misty grade"
+  },
+  {
+   "label": "#64 02:55.4",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "Forested valley with misty mountain peaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Aerial-style landscape, cool green-grey grade"
+  },
+  {
+   "label": "#65 02:56.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Wooden railing along rocky cliff with mountain views",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Landscape walking shot, clouds in valley"
+  },
+  {
+   "label": "#66 02:59.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Misty mountain slope with pine trees and rock face",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Atmospheric landscape, fog emphasis"
+  },
+  {
+   "label": "#67 03:03.1",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman with backpack standing on stone steps looking at mountains",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Full-body framing, rocky wall and greenery, smooth movement"
+  }
+ ]
+}

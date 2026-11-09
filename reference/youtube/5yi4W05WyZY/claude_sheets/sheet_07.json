@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#63 05:44.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white robe applying makeup at wooden desk with laptop, holding compact mirror",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior light, curtains and bed in background, soft warm grade"
+  },
+  {
+   "label": "#63 05:49.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Same woman in white robe holding mirror up, doing makeup at desk",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuous take, slight reframing from previous shot"
+  },
+  {
+   "label": "#63 05:53.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white robe at desk looking into mirror, applying eye makeup",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same continuous setup, jump-cut candidate with previous frame"
+  },
+  {
+   "label": "#63 05:57.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in white top on phone call standing by bed in hotel room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight through sheer curtains, warm natural grade"
+  },
+  {
+   "label": "#63 06:01.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman with glasses on phone beside bed in sunlit hotel room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same room as previous shot, slight reframe"
+  },
+  {
+   "label": "#64 06:04.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses talking to camera, hand raised near head, hotel room behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie-style talking head, shallow depth of field"
+  },
+  {
+   "label": "#65 06:08.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses speaking to camera in hotel room with bed behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie talking head, warm grade"
+  },
+  {
+   "label": "#65 06:14.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses and shoulder tattoo speaking to camera, sunlit room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie talking head, bright window light"
+  },
+  {
+   "label": "#66 06:17.6",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Lush green tropical garden path between tall hedges and trees",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth walking shot, vibrant saturated greens"
+  },
+  {
+   "label": "#67 06:19.4",
+   "shot": "pov",
+   "camera": "gimbal",
+   "subject": "Man in white shirt driving golf cart past green shrubs and lawn",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Moving vehicle POV from behind driver, bright greens"
+  },
+  {
+   "label": "#68 06:21.5",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Walking along paved path lined with palm trees toward sea",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Forward motion, blue sky and ocean horizon, vivid grade"
+  },
+  {
+   "label": "#69 06:24.6",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Paved path between palm trees toward beach with distant person and golf cart",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of forward walk, blue sky"
+  },
+  {
+   "label": "#70 06:27.7",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Curved white staircase and walkway through lush tropical plants",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Architectural reveal, clean white against green"
+  },
+  {
+   "label": "#71 06:29.5",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Curved white staircase beside palm trees and empty outdoor table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Pan or walk past resort architecture, bright daylight"
+  },
+  {
+   "label": "#72 06:33.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with glasses eating breakfast with fork at restaurant table by sea",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Seated eating shot, resort terrace and ocean behind"
+  },
+  {
+   "label": "#73 06:39.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with glasses talking and gesturing over breakfast plate at beachside restaurant",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup as previous, continuous dining segment"
+  }
+ ]
+}

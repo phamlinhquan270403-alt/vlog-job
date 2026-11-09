@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#33 00:17.8",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Two women riding horses along a grassy green hillside trail",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, green hills, slight warm grade; tracking follow shot"
+  },
+  {
+   "label": "#34 00:19.9",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Registan-style madrasa facade with turquoise domes, two people walking below",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Golden hour warm grade, symmetrical framing centered on portal"
+  },
+  {
+   "label": "#35 00:21.6",
+   "shot": "black",
+   "camera": "unknown",
+   "subject": "Solid black frame",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Transition gap between scenes"
+  },
+  {
+   "label": "#36 00:22.7",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Wooden-roofed white courtyard building with carved wooden balcony railings",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright sunlight, high contrast, blue sky"
+  },
+  {
+   "label": "#37 00:24.3",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Empty courtyard of brick arched architecture with teal cushioned chairs",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static establishing shot, warm tones"
+  },
+  {
+   "label": "#38 00:27.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women smiling together under a tree in a brick courtyard",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, shallow depth, interview-style two-shot"
+  },
+  {
+   "label": "#39 00:33.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women side by side in courtyard, one looking off to the side and talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup as previous; natural light"
+  },
+  {
+   "label": "#40 00:38.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women laughing in courtyard, one in white sleeveless top",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same two-shot framing continues"
+  },
+  {
+   "label": "#41 00:42.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women seated facing camera, one speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head style with tree and brick background"
+  },
+  {
+   "label": "#42 00:46.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white sleeveless top speaking, companion in white shirt beside her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tighter framing, cut between speakers"
+  },
+  {
+   "label": "#43 00:48.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman on left turned toward companion who is listening",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Conversational two-shot"
+  },
+  {
+   "label": "#44 00:51.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white shirt gesturing with hands while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand gestures, natural light"
+  },
+  {
+   "label": "#44 00:56.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women seated, one looking at companion who is speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same courtyard interview setup"
+  },
+  {
+   "label": "#44 01:00.5",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman speaking to camera with word appearing at bottom",
+   "text_on_screen": "BUKHARA",
+   "text_style": "White uppercase sans-serif, small size, centered near bottom edge, letter-spaced",
+   "notes": "Location title caption appears on speaker; tighter framing"
+  },
+  {
+   "label": "#44 01:05.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women, one gesturing with hand and looking up while talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Interview continues"
+  },
+  {
+   "label": "#44 01:09.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women seated, one speaking, other listening with hands in lap",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Ends interview segment"
+  }
+ ]
+}

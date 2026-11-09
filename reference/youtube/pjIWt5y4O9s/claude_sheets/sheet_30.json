@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#288 28:08.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in glasses and black off-shoulder top, hand near mouth, bedroom behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm indoor light, slightly wide selfie framing"
+  },
+  {
+   "label": "#289 28:10.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same woman pointing sideways, bedroom behind her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuous with previous shot, jump-cut style"
+  },
+  {
+   "label": "#290 28:12.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Empty cafe interior with wooden tables, chairs, pendant lights, large windows",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Small faded watermark-like text at top center, unreadable"
+  },
+  {
+   "label": "#291 28:14.2",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Bar counter with stools, colourful mural overhead, pizza oven area",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth pan of restaurant interior"
+  },
+  {
+   "label": "#292 28:15.8",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Large indoor plants and glass walls with diners in background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Green, natural tones"
+  },
+  {
+   "label": "#293 28:17.5",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Hand placing salad with salmon and avocado on plate on wooden table",
+   "text_on_screen": "",
+   "text_style": "Small faded watermark at top, unreadable",
+   "notes": "Overhead-angle food shot"
+  },
+  {
+   "label": "#294 28:19.5",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Pizza with cheese, herbs and dark seaweed topping on wooden table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight food close-up, warm tones"
+  },
+  {
+   "label": "#295 28:21.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in glasses eating at table with salad and drinks, plants behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Eating reaction shot"
+  },
+  {
+   "label": "#296 28:23.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman eating at table with salad, juice glass and soda can, greenery behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-ish table framing"
+  },
+  {
+   "label": "#297 28:26.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman smiling and eating with fork, salad and juice on table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, slightly warm grade"
+  },
+  {
+   "label": "#298 28:31.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman reaching toward salad plate, pizza and condiments on table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Over-shoulder-like table angle"
+  },
+  {
+   "label": "#299 28:35.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman cutting pizza with knife, juice and soda can on table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuous eating sequence"
+  },
+  {
+   "label": "#300 28:38.5",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in glasses holding hand to head, eating, bright window background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Reaction close-up, off-shoulder top"
+  },
+  {
+   "label": "#300 28:42.7",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman talking with food in hand, hand in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-to-camera segment"
+  },
+  {
+   "label": "#300 28:46.9",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in glasses chewing and gesturing, bright window background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same segment, tight framing"
+  },
+  {
+   "label": "#301 28:51.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman at table with pizza and drinks, plant-filled restaurant, second woman in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide closing shot of the meal, possible blur transition"
+  }
+ ]
+}

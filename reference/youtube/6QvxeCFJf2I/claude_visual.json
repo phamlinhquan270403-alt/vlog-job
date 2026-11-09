@@ -1,0 +1,5105 @@
+[
+ {
+  "label": "#1 00:00.9",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Turquoise lake surface with distant yurt camp on far shore",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide drone shot, teal-green water, slightly hazy grade"
+ },
+ {
+  "label": "#2 00:04.6",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Lake shoreline with several white yurts on green grassland under cloudy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low drone glide over water toward shore, bright sky, soft warm grade"
+ },
+ {
+  "label": "#3 00:07.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in black walking past two yurts across grassy field",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered horizontally near lower-middle of frame",
+  "notes": "Tracking side profile walk; title text overlaid on footage"
+ },
+ {
+  "label": "#4 00:07.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in long patterned dress walking across plaza before ornate madrasa facade",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, spanning frame width near middle-lower area",
+  "notes": "Smooth gimbal tracking, warm sunlit grade on brick architecture"
+ },
+ {
+  "label": "#5 00:08.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in white top and black shorts walking under pointed brick arches",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Side tracking walk, same title overlay style repeated across shots"
+ },
+ {
+  "label": "#6 00:08.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in white hijab and white outfit walking across courtyard with tiled portal behind",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Side tracking walk, cooler grade"
+ },
+ {
+  "label": "#7 00:08.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in black walking on red rock dirt path with eroded sandstone formations",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Side tracking walk, saturated red-orange landscape"
+ },
+ {
+  "label": "#8 00:09.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in black walking under covered colonnade with marble edge and crowd",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Walking shot, neutral daylight grade"
+ },
+ {
+  "label": "#9 00:09.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in long dress walking across plaza with blue-domed madrasa and seated people",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Tracking side walk, warm sunlit grade"
+ },
+ {
+  "label": "#10 00:09.9",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in white top and black skirt walking past brick arches",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Side tracking walk, warm grade"
+ },
+ {
+  "label": "#11 00:10.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in long dress walking toward camera across plaza before ornate facade",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Frontal approach walk, muted green-gold grade"
+ },
+ {
+  "label": "#12 00:10.6",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in black walking past white yurt on green hillside",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Side tracking walk, green-tinted grade"
+ },
+ {
+  "label": "#13 00:10.9",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in black walking under colonnade with marble ledge and people",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Side tracking walk, neutral grade"
+ },
+ {
+  "label": "#14 00:11.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in black dress and boots walking before geometric tiled wall",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Side tracking walk, warm grade"
+ },
+ {
+  "label": "#15 00:11.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in black and white outfit walking toward camera under brick arches",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Frontal walk, warm grade"
+ },
+ {
+  "label": "#16 00:12.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in long dress walking across plaza toward blue-domed madrasa",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+  "notes": "Side tracking walk, warm sunset grade"
+ },
+ {
+  "label": "#17 00:12.4",
+  "shot": "title_card",
+  "camera": "handheld",
+  "subject": "Woman in white top walking past red rock formation, with title text",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "bold white sans-serif, large, centered across lower third",
+  "notes": "Warm daylight grade, wide framing; title overlay over clip"
+ },
+ {
+  "label": "#18 00:12.7",
+  "shot": "title_card",
+  "camera": "handheld",
+  "subject": "Woman in black walking past a yurt on green hills, with title text",
+  "text_on_screen": "SILK ROAD",
+  "text_style": "bold white sans-serif, large, centered lower third",
+  "notes": "Same title overlay as previous shot; continuity of text position suggests a title sequence"
+ },
+ {
+  "label": "#19 00:13.1",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Aerial view of dense adobe town with domed mosque and minaret",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, slow forward drone movement"
+ },
+ {
+  "label": "#20 00:13.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Market vendor behind piles of potatoes, cabbages and produce in sacks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm saturated colours, vendor seated at center"
+ },
+ {
+  "label": "#21 00:13.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in dark dress looking sideways in front of historic tiled architecture",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Golden hour backlight, warm grade, shallow depth of field"
+ },
+ {
+  "label": "#22 00:13.9",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Winding road through green valley toward snow-capped mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide landscape, clear blue sky, natural colour"
+ },
+ {
+  "label": "#23 00:14.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Man seated on bench beside ornate turquoise mosaic facade",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Strong colour contrast between turquoise tiles and warm brick"
+ },
+ {
+  "label": "#24 00:14.6",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "White yurt on yellow-green steppe with distant hills",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Soft natural light, pale sky, slow lateral movement"
+ },
+ {
+  "label": "#25 00:14.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Group of women in headscarves walking through a park",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid, natural light, shallow depth of field"
+ },
+ {
+  "label": "#26 00:15.3",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Three women in white tops chatting in ornate tiled hall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior lighting, follows subjects"
+ },
+ {
+  "label": "#27 00:15.6",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Young man in embroidered jacket and kalpak with a dark eagle",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, eagle filling left of frame, desert backdrop"
+ },
+ {
+  "label": "#28 00:15.9",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Person crouching among ancient stone markers on dry grassland",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing view, natural colour"
+ },
+ {
+  "label": "#29 00:16.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Domed mausoleum with blue mosaic tiles and a passing person",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, tall framing, architectural focus"
+ },
+ {
+  "label": "#30 00:16.5",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Three women walking through a covered market aisle",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Following shot, wide bright interior"
+ },
+ {
+  "label": "#31 00:17.0",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Aerial view of town, lake and snowy mountain range",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide landscape, slow movement, natural colour"
+ },
+ {
+  "label": "#32 00:17.2",
+  "shot": "closeup",
+  "camera": "tripod",
+  "subject": "Market stall with sacks of dried fruit, prunes, potatoes and carrots",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close static framing, vivid produce colours"
+ },
+ {
+  "label": "#33 00:17.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Two women riding horses along a grassy green hillside trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, green hills, slight warm grade; tracking follow shot"
+ },
+ {
+  "label": "#34 00:19.9",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Registan-style madrasa facade with turquoise domes, two people walking below",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Golden hour warm grade, symmetrical framing centered on portal"
+ },
+ {
+  "label": "#35 00:21.6",
+  "shot": "black",
+  "camera": "unknown",
+  "subject": "Solid black frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Transition gap between scenes"
+ },
+ {
+  "label": "#36 00:22.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Wooden-roofed white courtyard building with carved wooden balcony railings",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright sunlight, high contrast, blue sky"
+ },
+ {
+  "label": "#37 00:24.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Empty courtyard of brick arched architecture with teal cushioned chairs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static establishing shot, warm tones"
+ },
+ {
+  "label": "#38 00:27.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women smiling together under a tree in a brick courtyard",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, shallow depth, interview-style two-shot"
+ },
+ {
+  "label": "#39 00:33.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women side by side in courtyard, one looking off to the side and talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup as previous; natural light"
+ },
+ {
+  "label": "#40 00:38.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women laughing in courtyard, one in white sleeveless top",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same two-shot framing continues"
+ },
+ {
+  "label": "#41 00:42.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women seated facing camera, one speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head style with tree and brick background"
+ },
+ {
+  "label": "#42 00:46.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white sleeveless top speaking, companion in white shirt beside her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tighter framing, cut between speakers"
+ },
+ {
+  "label": "#43 00:48.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman on left turned toward companion who is listening",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Conversational two-shot"
+ },
+ {
+  "label": "#44 00:51.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt gesturing with hands while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand gestures, natural light"
+ },
+ {
+  "label": "#44 00:56.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women seated, one looking at companion who is speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same courtyard interview setup"
+ },
+ {
+  "label": "#44 01:00.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman speaking to camera with word appearing at bottom",
+  "text_on_screen": "BUKHARA",
+  "text_style": "White uppercase sans-serif, small size, centered near bottom edge, letter-spaced",
+  "notes": "Location title caption appears on speaker; tighter framing"
+ },
+ {
+  "label": "#44 01:05.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women, one gesturing with hand and looking up while talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Interview continues"
+ },
+ {
+  "label": "#44 01:09.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women seated, one speaking, other listening with hands in lap",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Ends interview segment"
+ },
+ {
+  "label": "#45 01:12.3",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Animated world map, dark blue continents on pale background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Map animation, paper-textured pale blue backdrop, likely zoom or pan transition"
+ },
+ {
+  "label": "#46 01:12.9",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Zoomed world map centred on Asia and Africa",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of map move, zooming toward destination region"
+ },
+ {
+  "label": "#47 01:15.1",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Map of Central Asia with highlighted Uzbekistan region",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Grey-blue muted palette, region highlighted in dark navy, stylised map graphic"
+ },
+ {
+  "label": "#47 01:19.3",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Uzbekistan map with city markers Bukhara and Samarkand",
+  "text_on_screen": "BUKHARA SAMARKAND",
+  "text_style": "small serif caps, white, placed over map near centre-left",
+  "notes": "Map zoom in on Uzbekistan, city labels appear as pins"
+ },
+ {
+  "label": "#48 01:23.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women seated on a bench under a shaded courtyard with trees",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, warm tones, casual conversational framing"
+ },
+ {
+  "label": "#49 01:26.4",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in white adjusting her sandal or clothing on a bench",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight cut from previous wide, same location, warm natural grade"
+ },
+ {
+  "label": "#50 01:27.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Market street with colourful textiles and tall turquoise minaret",
+  "text_on_screen": "OUR JOURNEY BEGINS",
+  "text_style": "white sans-serif caps, thin, centred lower-middle",
+  "notes": "Title overlay on establishing shot, bright sunny grade"
+ },
+ {
+  "label": "#51 01:28.8",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Aerial view over adobe rooftops of old Bukhara city",
+  "text_on_screen": "BUKHARA",
+  "text_style": "large white bold sans-serif caps, centred, drop shadow",
+  "notes": "Drone flyover, title card over footage, warm desert colour grade"
+ },
+ {
+  "label": "#52 01:30.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Narrow sunlit alley between pale walls",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth walking shot, strong shadows, high contrast"
+ },
+ {
+  "label": "#53 01:30.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Archway entrance to a plaza with shops and trees beyond",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Forward walking move through arch, warm grade"
+ },
+ {
+  "label": "#54 01:31.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Walking through the same archway with shop fronts on left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuous forward motion matching previous shot, good match-cut candidate"
+ },
+ {
+  "label": "#55 01:32.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two women walking in a park, one pointing ahead, market tents behind",
+  "text_on_screen": "FT. OUR LOCAL GUIDE FOR THE MORNING: BEXRUZA",
+  "text_style": "small white sans-serif caps, centred lower area, two lines",
+  "notes": "Lower-third style caption introducing guide, bright daylight"
+ },
+ {
+  "label": "#56 01:34.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Smiling woman with dark hair turning, green garden behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, soft bokeh background"
+ },
+ {
+  "label": "#57 01:36.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Lyabi Khauz pond with madrasa and tree-lined banks",
+  "text_on_screen": "LYABI KHAUSE SQUARE",
+  "text_style": "white sans-serif caps, medium weight, centred lower-middle, slight shadow",
+  "notes": "Location caption over establishing shot of water and historic facade"
+ },
+ {
+  "label": "#58 01:38.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Pond edge with weeping willows and teahouse building",
+  "text_on_screen": "LYABI KHAUSE SQUARE",
+  "text_style": "white sans-serif caps, medium weight, centred lower-middle, slight shadow",
+  "notes": "Same caption repeated across consecutive shots, consistent placement"
+ },
+ {
+  "label": "#59 01:39.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Covered terrace restaurant beside willows along water",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Caption removed, slow lateral move, warm afternoon grade"
+ },
+ {
+  "label": "#60 01:40.2",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Courtyard pool with green water, tables and carved wooden benches in shade",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, warm natural colour, slightly washed highlights"
+ },
+ {
+  "label": "#61 01:40.7",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Tiled madrasa facade with tourists walking, white globe lamp in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Turquoise and blue mosaic tilework dominates; lamp partially blurs frame edge"
+ },
+ {
+  "label": "#62 01:41.4",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Symmetrical portal entrance of madrasa with visitors crossing courtyard",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Centered symmetrical framing, static shot"
+ },
+ {
+  "label": "#63 01:42.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Brick street with domed gateway, people walking away from camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Walking-style movement, leading lines toward arch, warm grade"
+ },
+ {
+  "label": "#64 01:43.6",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Ornate brick mausoleum facade with domed tops under blue sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, hard sunlight, strong shadows"
+ },
+ {
+  "label": "#65 01:44.1",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman in sunglasses walking past blue tiled wall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject small in frame, tile pattern as backdrop"
+ },
+ {
+  "label": "#66 01:46.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman talking to camera in plaza with passersby behind her",
+  "text_on_screen": "OUR FIRST HISTORY LESSON OF THE DAY",
+  "text_style": "white thin sans-serif caps, small, centered lower third",
+  "notes": "Wide-angle selfie arm framing, natural daylight"
+ },
+ {
+  "label": "#67 01:48.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman gesturing with hand beside tree-lined street and bench",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie, sunny, bright sky"
+ },
+ {
+  "label": "#68 01:50.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman pointing toward camera with a playful expression in plaza",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight selfie framing, arm in foreground"
+ },
+ {
+  "label": "#69 01:52.4",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Pond with small domed pavilion, willow tree and cafe terrace",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Green water and foliage, warm saturated colour"
+ },
+ {
+  "label": "#70 01:54.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling and holding up a wooden bracelet arm toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide selfie, bright exposure"
+ },
+ {
+  "label": "#71 01:56.4",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Ornate blue tiled archway detail with sky above",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle tilt, smooth movement, high contrast"
+ },
+ {
+  "label": "#72 01:57.7",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Domed brick building with arched entrance, man walking, blue truck parked",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static wide, clear sky, person small in frame"
+ },
+ {
+  "label": "#73 01:59.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Walk through arched brick passage toward bright street, textile stalls on left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Forward movement, tunnel framing, exposure brightens toward exit"
+ },
+ {
+  "label": "#74 02:01.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Street between old buildings with parked cars and pedestrians",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Framed through archway, slightly desaturated"
+ },
+ {
+  "label": "#75 02:02.5",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Interior shop stacked with carpets and rugs hanging from walls",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior light, dense colourful patterns"
+ },
+ {
+  "label": "#76 02:03.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Carpet shop interior with stacked rugs hanging on walls and piled on floor",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm indoor light, slightly soft focus, handheld pan feel"
+ },
+ {
+  "label": "#77 02:04.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man lying on wooden daybed in carpeted room with TV in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid, warm colour grade, casual observational framing"
+ },
+ {
+  "label": "#78 02:05.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Interior archway of old brick madrasa with visitors and tiled niche",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright sunlit entrance contrasting with darker interior, slight warm grade"
+ },
+ {
+  "label": "#79 02:06.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Ornate blue tiled portal of mosque with green dome visible at right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth gimbal push-in toward portal, saturated blues and clear sky"
+ },
+ {
+  "label": "#80 02:07.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Tiled mosque facade across open plaza with small figures walking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Symmetrical static-looking framing, wide establishing shot, clear sky"
+ },
+ {
+  "label": "#81 02:08.3",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Tourists walking in courtyard before domed mosque entrance",
+  "text_on_screen": "KALAN MOSQUE",
+  "text_style": "white bold sans-serif caps, centred in frame, medium size",
+  "notes": "Title-style lower overlay appearing over footage, warm tones"
+ },
+ {
+  "label": "#82 02:12.2",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two women in white walking across plaza in front of tiled mosque",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking shot following walkers, bright daylight, blue sky"
+ },
+ {
+  "label": "#83 02:15.9",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two women in white walking toward camera past arched colonnade",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Light leak or warm flare on left edge, bright high-key grade"
+ },
+ {
+  "label": "#84 02:16.3",
+  "shot": "black",
+  "camera": "unknown",
+  "subject": "Dark reddish-brown frame, nearly blank with faint vertical edge at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Likely transition fade or dark interstitial; deep red-brown tone"
+ },
+ {
+  "label": "#85 02:17.6",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Camel caravan crossing sand dunes at dusk under pale sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm sunset grade, long establishing shot, soft haze"
+ },
+ {
+  "label": "#86 02:19.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Tourists riding camels in desert, guide in blue walking ahead",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright desert light, slightly low angle, lively travel-vlog feel"
+ },
+ {
+  "label": "#87 02:21.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Long mud-brick city wall with crenellated top running into distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth lateral move along wall, warm sandy grade"
+ },
+ {
+  "label": "#88 02:22.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Close view of brick wall with pale hazy sky and sand at base",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overexposed warm highlights, hazy washed-out look"
+ },
+ {
+  "label": "#89 02:22.7",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Aerial view of eroded striped sandstone hills and ridges",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm ochre tones, textured landscape, slow aerial glide"
+ },
+ {
+  "label": "#90 02:24.1",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Green mountain ridge with mist and a white waterfall stream",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Lush saturated greens, drone reveal, cloud drifting over ridge"
+ },
+ {
+  "label": "#91 02:25.9",
+  "shot": "screen",
+  "camera": "phone_screen",
+  "subject": "Historical map of Central Asia and Middle East with trade route lines",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Map graphic with muted colours, route lines suggest Silk Road explainer; may be a static graphic insert"
+ },
+ {
+  "label": "#92 02:28.2",
+  "shot": "screen",
+  "camera": "phone_screen",
+  "subject": "Animated historical map of Asia showing trade routes and empires",
+  "text_on_screen": "HAN EMPIRE; Silk Road routes; India; Mumbai; Kabul; Delhi",
+  "text_style": "serif map labels, mostly dark brown/black on beige map, title-like Han Empire label in large caps",
+  "notes": "Map animation with orange and red highlighted territories and route lines; cartographic style"
+ },
+ {
+  "label": "#93 02:30.6",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Illustrated Chinese palace building with two figures in front on black background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cartoon-style illustration in rounded white frame centered on black; likely a Ming-era theme card"
+ },
+ {
+  "label": "#94 02:32.0",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Aerial view of sand dunes with green scrub and a winding path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, muted green and tan tones, slow overhead drone movement"
+ },
+ {
+  "label": "#95 02:33.0",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Ornate blue and gold tiled interior dome with geometric patterns and window",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Upward-angled architectural detail, saturated blue and warm gold colour grade"
+ },
+ {
+  "label": "#96 02:34.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Tall brick minaret and domed mosque structure with blue tiled portal under clear sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm sunlit exterior, low angle, sky mostly clear"
+ },
+ {
+  "label": "#97 02:35.5",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Large madrasa facade with central arched portal flanked by minarets and domes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Frontal symmetrical framing, warm golden-tan colour grade"
+ },
+ {
+  "label": "#98 02:37.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Crowd of people in traditional dress and camels in front of blue-tiled gateway",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, busy street scene, may be a reenactment or festival"
+ },
+ {
+  "label": "#99 02:40.9",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Painting of a Mongol rider in red robe on white horse in rounded frame on black",
+  "text_on_screen": "MONGOL",
+  "text_style": "sans-serif white caps, small, centered on horse's flank area",
+  "notes": "Illustrated still image in rounded white frame on black background, used as chapter label"
+ },
+ {
+  "label": "#100 02:42.8",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Historical painting of Chinese court figures in robes inside rounded frame over red and blue gradient",
+  "text_on_screen": "CHI (partially obscured)",
+  "text_style": "small white caps, partially hidden behind frame edge",
+  "notes": "Colourful gradient background with red, orange and blue smear transition, frame pops in"
+ },
+ {
+  "label": "#101 02:43.8",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Flock of sheep grazing on rolling steppe hills under overcast sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Muted olive and grey colour grade, steady wide landscape shot"
+ },
+ {
+  "label": "#102 02:46.2",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Horses galloping through dusty golden steppe at sunset",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm backlit dust cloud, slow motion feel, tracking movement"
+ },
+ {
+  "label": "#103 02:48.7",
+  "shot": "closeup",
+  "camera": "tripod",
+  "subject": "Painted portrait of a bearded man in dark cap against dark background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Historical portrait illustration with vignette, centered framing"
+ },
+ {
+  "label": "#104 02:50.6",
+  "shot": "screen",
+  "camera": "phone_screen",
+  "subject": "Map of Mongol Empire highlighted in red over blue and grey base map",
+  "text_on_screen": "MONGOL EMPIRE",
+  "text_style": "white sans-serif caps, large, centered on red territory",
+  "notes": "Animated map graphic, red fill covering Eurasia, flat graphic style"
+ },
+ {
+  "label": "#105 02:52.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dry desert valley with distant mountains and small buildings",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hazy light, warm beige tones, landscape establishing shot"
+ },
+ {
+  "label": "#106 02:54.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Camel caravan with riders crossing red desert sand",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm saturated orange grade, tracking shot following camels"
+ },
+ {
+  "label": "#107 02:56.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hanging colourful patterned textiles or fabrics in a shop",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus, vibrant pink and red patterns, market interior"
+ },
+ {
+  "label": "#108 02:57.1",
+  "shot": "closeup",
+  "camera": "unknown",
+  "subject": "Two gold dinar coins with Arabic inscriptions on black background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Studio-style product shot, black backdrop, coins lit to glint; static"
+ },
+ {
+  "label": "#109 02:59.3",
+  "shot": "closeup",
+  "camera": "unknown",
+  "subject": "Painted Buddhist thangka of seated figure in ornate border, on black",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rounded-corner framing, black surround, static museum-style shot"
+ },
+ {
+  "label": "#110 03:02.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Market vendor woman with headscarf at produce stall; man in white shirt bagging tomatoes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid documentary observation, natural daylight, warm colours"
+ },
+ {
+  "label": "#111 03:04.4",
+  "shot": "closeup",
+  "camera": "unknown",
+  "subject": "Black ink carved inscriptions on weathered grey stone surface",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Textured close-up, high contrast black and white, possibly transition candidate"
+ },
+ {
+  "label": "#112 03:06.4",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Classical painting of two women in green and blue taking tea with man in red coat",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Historical painting insert, muted warm tones, static"
+ },
+ {
+  "label": "#113 03:08.5",
+  "shot": "other",
+  "camera": "unknown",
+  "subject": "Botticelli Birth of Venus painting detail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Artwork insert, static, pastel tones"
+ },
+ {
+  "label": "#114 03:11.0",
+  "shot": "other",
+  "camera": "unknown",
+  "subject": "Michelangelo Creation of Adam fresco, hands nearly touching",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Artwork insert, static, warm ochre tones"
+ },
+ {
+  "label": "#115 03:13.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of people seated at long table with tea and food in carpeted room with large windows",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Interior hospitality scene, natural window light, colourful rugs"
+ },
+ {
+  "label": "#116 03:14.5",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Young man in red traditional jacket holding large eagle on arm",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth tracking shot, blue-tinted sky background, cinematic grade"
+ },
+ {
+  "label": "#117 03:16.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Three men in traditional hats with eagles and dog walking across dry hillside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Desert-brown palette, steady follow shot"
+ },
+ {
+  "label": "#118 03:19.1",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Rider on brown horse galloping across green grassy hills",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial follow of rider, lush green palette, smooth motion"
+ },
+ {
+  "label": "#119 03:22.0",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Forested valley with mountains and scattered yurt camps",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Sunlit hazy mountains, slow aerial glide, warm grade"
+ },
+ {
+  "label": "#120 03:24.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Herd of horses kicking up dust on dirt road beside river",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dusty golden light, moving subjects, wide landscape"
+ },
+ {
+  "label": "#121 03:26.7",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Silhouette of person and camel against orange sunset sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Strong orange grade, silhouette composition, sunset ending mood"
+ },
+ {
+  "label": "#122 03:29.6",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Turquoise lake in green mountain valley with rocky shoreline",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone reveal, saturated greens and teal water, smooth forward move"
+ },
+ {
+  "label": "#123 03:34.2",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Glowing yellow sun setting over dark red gradient background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Abstract graphic end card, red gradient, minimal motion"
+ },
+ {
+  "label": "#124 03:38.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Yellow Matiz taxi parked on brick-paved street, woman with bag beside it",
+  "text_on_screen": "BUKHARA → SAMARKAND",
+  "text_style": "white sans-serif, medium size, lower left-center over car",
+  "notes": "Bright daylight, warm sunny grade, slightly wide framing"
+ },
+ {
+  "label": "#125 03:40.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person in red top loading a suitcase into the trunk of yellow taxi",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Handheld follow feel, sunny daylight, cut in mid-action"
+ },
+ {
+  "label": "#126 03:42.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman in back seat of car wearing seatbelt, looking at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Interior car POV, natural warm daylight"
+ },
+ {
+  "label": "#127 03:44.1",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "View through car windshield of street with hanging charm and dashboard",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Windshield POV transition shot, bright highlights"
+ },
+ {
+  "label": "#128 03:46.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in back seat gesturing with arms raised while talking, street passing outside",
+  "text_on_screen": "IT IS A WHOPPING 95 DEGREES FAHRENHEIT",
+  "text_style": "small white sans-serif caption, lower center, subtle",
+  "notes": "Subtitle-style caption, car interior, bright daylight"
+ },
+ {
+  "label": "#129 03:50.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in back seat talking, green gate and trees outside window",
+  "text_on_screen": "NOW WE'RE ON OUR WAY TO THE TRAIN STATION",
+  "text_style": "small white sans-serif caption, lower center, subtle",
+  "notes": "Caption over car interior selfie, continuous narration"
+ },
+ {
+  "label": "#130 03:53.7",
+  "shot": "pov",
+  "camera": "gimbal",
+  "subject": "Wide city avenue through windshield with white cars and multistory buildings",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dashcam-style forward view, clear blue sky"
+ },
+ {
+  "label": "#131 03:54.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "White minivan parked by curb with domed building and tree behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, clean composition"
+ },
+ {
+  "label": "#132 03:57.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses smiling at station plaza with sunshade structure",
+  "text_on_screen": "VERY GLASSY HONESTLY",
+  "text_style": "small white sans-serif caption, lower center, subtle",
+  "notes": "Close selfie framing, caption as quip"
+ },
+ {
+  "label": "#133 04:00.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two women walking with suitcase and backpack across station plaza",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot, slight tilt, bright daylight"
+ },
+ {
+  "label": "#134 04:02.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black top walking with companion pulling suitcase on plaza",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie-arm perspective, daylight"
+ },
+ {
+  "label": "#135 04:04.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black top smiling beside companion with suitcase on plaza",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing, daylight"
+ },
+ {
+  "label": "#136 04:09.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with backpack walking toward camera on plaza path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Handheld walking shot, slight motion blur"
+ },
+ {
+  "label": "#137 04:13.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Interior station hall with stairs, shop sign, and waiting passengers",
+  "text_on_screen": "Mayo",
+  "text_style": "green and white sign lettering, small, top left of shop front",
+  "notes": "Indoor lighting, cooler tone, transition into terminal"
+ },
+ {
+  "label": "#138 04:14.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with backpack and suitcase walking through terminal past drink fridges",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Indoor follow shot, fluorescent light"
+ },
+ {
+  "label": "#139 04:16.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand reaching into refrigerator filled with water bottles and soda",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close detail insert, cool blue fridge light"
+ },
+ {
+  "label": "#140 04:18.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hand reaching for a Coca-Cola-style bottle beside water bottles in a fridge",
+  "text_on_screen": "Asfibek",
+  "text_style": "white script-like logo on red bottle, small size, centre-right",
+  "notes": "Close, warm-lit interior with bright LED strip on right; quick cut feel"
+ },
+ {
+  "label": "#141 04:20.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Train carriage interior with passengers seated and a man standing in aisle",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overhead luggage racks and ceiling lights; cool-neutral grade"
+ },
+ {
+  "label": "#142 04:24.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women seated by train window, one touching her hair, speaking",
+  "text_on_screen": "it feels like I'm on the Amtrak in New York City",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Subtitle-style captions used throughout; bright window light"
+ },
+ {
+  "label": "#143 04:29.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "View through train window of rural fields, trees and power pylons",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape b-roll; natural daylight, warm earth tones"
+ },
+ {
+  "label": "#144 04:31.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt receiving a cup of ice cream from train attendant",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior grade; attendant in white uniform with tray"
+ },
+ {
+  "label": "#145 04:32.8",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Smiling woman holding striped paper cup of ice cream on train",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field; earbud visible"
+ },
+ {
+  "label": "#146 04:34.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Tray of ice cream cups on table beside passenger by window",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm grade, sea visible through window"
+ },
+ {
+  "label": "#147 04:36.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hands holding ice cream cup next to open laptop showing video",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overhead-angle insert; cut-in detail shot"
+ },
+ {
+  "label": "#148 04:39.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women on train by window, one speaking, other eating ice cream",
+  "text_on_screen": "Are you kidding me?",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Subtitle captions; cool daylight grade"
+ },
+ {
+  "label": "#148 04:44.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women holding striped ice cream cup, talking on train",
+  "text_on_screen": "This man came out of nowhere with cold ice cream",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Same scene continues; caption timed to speech"
+ },
+ {
+  "label": "#148 04:48.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman gesturing with ice cream spoon beside seated companion",
+  "text_on_screen": "actually, on second thought.",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Comedic beat; caption adds punchline"
+ },
+ {
+  "label": "#149 04:51.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Blurred hand and face close to window with bright light",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Transition-like whip or motion blur; warm overexposed grade"
+ },
+ {
+  "label": "#150 04:51.7",
+  "shot": "other",
+  "camera": "handheld",
+  "subject": "Extreme close-up of pale, washed-out hand against bright background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overexposed flash-like transition into black"
+ },
+ {
+  "label": "#151 04:52.1",
+  "shot": "black",
+  "camera": "unknown",
+  "subject": "Fully black frame with faint speck",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cut to black, transition between scenes"
+ },
+ {
+  "label": "#152 04:53.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with dark hair and backpack talking in station hall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Station interior with platform and signage in background; natural light"
+ },
+ {
+  "label": "#153 04:57.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with backpack speaking to camera in station concourse",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continues station scene; arched architecture behind"
+ },
+ {
+  "label": "#154 05:00.7",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Woman with backpack walking through airport hall, looking aside, ceiling and columns visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle lens, slight warm tones, handheld walking movement"
+ },
+ {
+  "label": "#155 05:01.9",
+  "shot": "screen",
+  "camera": "phone_screen",
+  "subject": "Hand holding phone showing a app screen with green and red panels, rolling suitcase beside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close insert of phone UI, likely a flight or map app; cut on action"
+ },
+ {
+  "label": "#156 05:04.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt and backpack gesturing in airport arrivals hall with carousel",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Handheld walking shot, warm daylight from windows"
+ },
+ {
+  "label": "#157 05:07.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Smiling woman in white shirt with backpack beside baggage carousel",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth gimbal follow, bright exposure, possibly continuation of previous shot"
+ },
+ {
+  "label": "#158 05:10.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with backpack talking to camera outside airport, blurred light panel at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Arm-length selfie, direct address, shallow depth of field"
+ },
+ {
+  "label": "#159 05:12.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Same woman speaking to camera in front of airport entrance with signage",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie continuation, jump cut style from previous talking shot"
+ },
+ {
+  "label": "#160 05:14.1",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Driver's view from inside car looking at Hamkor Bank building and traffic",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Windshield POV, dashboard visible, daylight, slight tilt"
+ },
+ {
+  "label": "#161 05:15.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Car interior windshield view of tree-lined road with white bus ahead",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dashboard and steering wheel in frame, green natural tones"
+ },
+ {
+  "label": "#162 05:17.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Hotel room with bed, pillows and warm glowing light through frosted window",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slow establishing interior shot, warm grade, muted tones"
+ },
+ {
+  "label": "#163 05:18.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Sunset view over trees toward a multi-storey building and mountains in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Golden hour, slow reveal, soft haze, warm grade"
+ },
+ {
+  "label": "#164 05:19.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Dashboard view of tree-lined boulevard with car navigation screen",
+  "text_on_screen": "& THEN OFF TO...",
+  "text_style": "white uppercase sans-serif, medium size, centered in upper middle",
+  "notes": "Driving POV, text overlay as narration bridge, fades in and out"
+ },
+ {
+  "label": "#165 05:21.7",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "White minibus driving on road past green trees and a fence",
+  "text_on_screen": "& THEN OFF TO...",
+  "text_style": "white uppercase sans-serif, medium size, centered in upper middle",
+  "notes": "Continuation of same overlay across cut, exterior follow shot"
+ },
+ {
+  "label": "#166 05:23.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in long dress walking along a park path lined with trees and lamps",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, soft green grade, slight low angle"
+ },
+ {
+  "label": "#167 05:24.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Pedestrians and a family walking in a plaza with a boy and a woman in headscarf",
+  "text_on_screen": "REGISTAN SQUARE",
+  "text_style": "white uppercase bold sans-serif, large, centered lower third",
+  "notes": "Location title caption, held for several seconds"
+ },
+ {
+  "label": "#168 05:25.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "People walking on a paved plaza with flower beds and benches",
+  "text_on_screen": "REGISTAN SQUARE",
+  "text_style": "white uppercase bold sans-serif, large, centered lower third",
+  "notes": "Same caption persists across cut, warm sunlit grade"
+ },
+ {
+  "label": "#169 05:26.9",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two older women in headscarves sitting on a bench near flower planters",
+  "text_on_screen": "REGISTAN SQUARE",
+  "text_style": "white uppercase bold sans-serif, large, centered lower third",
+  "notes": "Caption ends on this shot, candid documentary feel, warm grade"
+ },
+ {
+  "label": "#170 05:28.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Older women in headscarves gathered on a park path, woman in green bag walking past",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, slightly warm grade, candid street feel"
+ },
+ {
+  "label": "#171 05:30.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in green dress talking with group of locals beside a canal path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, trees in background, bright exposure"
+ },
+ {
+  "label": "#172 05:31.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with green bag walking beside elderly woman in patterned hat",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follows subject from behind, crowd of people in background"
+ },
+ {
+  "label": "#173 05:33.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with sunglasses on head speaking, turquoise-domed building behind",
+  "text_on_screen": "I'm so big here.",
+  "text_style": "small white sans-serif subtitle-style caption, lower right area, low on frame",
+  "notes": "Caption appears to be a spoken line; bright daylight, cool-neutral grade"
+ },
+ {
+  "label": "#174 05:36.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Smiling woman with wind-blown hair, silver necklace, steps behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight framing, soft background blur, warm natural light"
+ },
+ {
+  "label": "#175 05:40.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman smiling and gesturing with hand while speaking, wind in hair",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand gesture in foreground, pedestrians blurred behind, golden tones"
+ },
+ {
+  "label": "#175 05:45.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in profile raising hand to talk, looking off-frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same interview-style sequence as previous, soft warm grade"
+ },
+ {
+  "label": "#176 05:48.6",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Ornate tiled madrasa facade with tall portal and turquoise domes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Golden-hour light, low angle, establishing shot of landmark"
+ },
+ {
+  "label": "#177 05:50.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Symmetrical madrasa facade with arched portals and tiled mosaics",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cooler shaded light, slow push or static framing, tourists small at entrance"
+ },
+ {
+  "label": "#178 05:51.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in black standing before large arched portal, arms open",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm sunlit tilework, subject framed centrally, leans toward camera"
+ },
+ {
+  "label": "#179 05:52.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman leaning against tiled pillar beside minaret and dome",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Backlit golden hour, warm flare, dome behind subject"
+ },
+ {
+  "label": "#180 05:53.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Tiled arched portal with minaret and turquoise dome at right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Architectural detail shot, warm golden grade, slow movement"
+ },
+ {
+  "label": "#181 05:54.2",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Low-angle view of tall portal flanked by two minarets",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Upward-tilting or rising move, golden hour sky, symmetrical composition"
+ },
+ {
+  "label": "#182 05:55.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black spreading arms in courtyard in front of tiled building",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tourists seated in background, warm daylight, slight low angle"
+ },
+ {
+  "label": "#183 05:59.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Smiling woman with short dark hair and silver necklace looking aside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight talking-head framing, soft blurred background, warm light"
+ },
+ {
+  "label": "#184 06:04.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman with short hair smiling and speaking to camera outdoors",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bag strap visible on shoulder, plaza and trees blurred behind, bright exposure"
+ },
+ {
+  "label": "#185 06:06.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "woman in long skirt and boots walking across a plaza toward a madrasa",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "warm golden-hour light, people sitting on the plaza, slight tracking movement"
+ },
+ {
+  "label": "#186 06:08.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "woman walking past plaza with monumental arches behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "follows subject from side, warm sunset grade, shallow depth"
+ },
+ {
+  "label": "#187 06:09.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "tall ornate tiled portal and turquoise dome with minaret",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "static architectural reveal, low sun glow, possibly tilt-up feel"
+ },
+ {
+  "label": "#188 06:10.8",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "detailed tiled iwan archway with calligraphy bands",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "slow push toward arch, cool shadowed tones"
+ },
+ {
+  "label": "#189 06:12.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "turquoise dome beside a tiled facade and tower",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "static framing, warm evening light"
+ },
+ {
+  "label": "#190 06:16.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "people walking in front of a large tiled madrasa portal, a man on right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "golden light, slight camera drift"
+ },
+ {
+  "label": "#191 06:21.0",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "illuminated facade with pointed arches dusk, figures at entrance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "blue-hour dusk grade, locked off"
+ },
+ {
+  "label": "#192 06:22.1",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "madrasa facade lit in pink, red and green light show at night",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "saturated colour-changing projection lighting, dark sky"
+ },
+ {
+  "label": "#193 06:23.9",
+  "shot": "closeup",
+  "camera": "tripod",
+  "subject": "projection-lit arched iwan in blue, green and pink",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "colour-cycling light show, vivid saturated grade"
+ },
+ {
+  "label": "#194 06:27.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "two women smiling and posing in front of colourful lit facade",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "selfie-style close framing, handheld, night light show behind"
+ },
+ {
+  "label": "#195 06:30.3",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "night view of Registan madrasa lit green and red with twin minarets",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "locked off, dark blue sky, colour-shifting lights"
+ },
+ {
+  "label": "#196 06:32.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "two women in a car, one looking out window, close to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "natural daylight through car window, tight framing"
+ },
+ {
+  "label": "#197 06:37.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "two women in car talking to camera, one with eyes closed",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "interview-style vlog talk, soft natural light"
+ },
+ {
+  "label": "#198 06:42.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "woman talking animatedly while other woman smiles in car",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "close selfie framing, cabin light, cut on speech"
+ },
+ {
+  "label": "#199 06:46.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "two women in car, one gesturing with hand while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "hand gesture, side window daylight"
+ },
+ {
+  "label": "#200 06:48.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "two women close together in car smiling at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "warm closing shot, cheek-to-cheek framing"
+ },
+ {
+  "label": "#201 06:52.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women in a car backseat talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, car interior, slightly warm grade"
+ },
+ {
+  "label": "#202 06:56.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with dark wavy hair speaking in car",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight framing, window light on left"
+ },
+ {
+  "label": "#203 06:57.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in black walking across plaza past parked white van",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright sunny outdoor, neutral grade"
+ },
+ {
+  "label": "#204 06:59.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black touching memorial plaque reading Amir Temur",
+  "text_on_screen": "AMIR TEMUR; AMIR TEMUR (Uzbek/English plaque text, partially legible)",
+  "text_style": "Engraved metal plaque, dark grey, white/gold lettering, mid-frame right",
+  "notes": "Pan or push toward plaque; sunny exterior"
+ },
+ {
+  "label": "#205 07:01.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman walking toward ornate blue-tiled madrasa portal",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing shot; saturated blue tiles, clear sky"
+ },
+ {
+  "label": "#206 07:02.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in black walking across courtyard with mausoleum behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot; green-tile planters in frame"
+ },
+ {
+  "label": "#207 07:02.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black close to camera, courtyard behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Quick cut from follow shot; partial framing on left edge"
+ },
+ {
+  "label": "#208 07:04.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women hugging near trees and fountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm reunion moment; shallow depth of field"
+ },
+ {
+  "label": "#209 07:07.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in white shirt and sunglasses gesturing while talking",
+  "text_on_screen": "I messaged you.",
+  "text_style": "White sans-serif subtitle, small, bottom centre",
+  "notes": "Subtitle-style captions used for on-camera dialogue; hand enters frame left"
+ },
+ {
+  "label": "#210 07:09.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black and woman in white talking in courtyard",
+  "text_on_screen": "We've been following your content for such a long time.",
+  "text_style": "White sans-serif subtitle, small, bottom centre",
+  "notes": "Two-shot, conversational"
+ },
+ {
+  "label": "#211 07:10.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black gesturing with woman in white beside her",
+  "text_on_screen": "We've been following your content for such a long time.",
+  "text_style": "White sans-serif subtitle, small, bottom centre",
+  "notes": "Subtitle persists across cut, same line"
+ },
+ {
+  "label": "#212 07:11.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in black walking away from camera, woman in white beside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot, subject exits right of frame"
+ },
+ {
+  "label": "#213 07:14.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt shading eyes beside a street sign",
+  "text_on_screen": "Born and raised in Uzbekistan.",
+  "text_style": "White sans-serif subtitle, small, bottom centre",
+  "notes": "Sunny street; caption is a bio-style line"
+ },
+ {
+  "label": "#214 07:16.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two women walking along street past white van and traffic light",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Street-level walking shot, slight tilt"
+ },
+ {
+  "label": "#215 07:17.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in grey suit and woman seated near carved wooden bench in courtyard",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Interior-style courtyard with warm stone; information sign on left"
+ },
+ {
+  "label": "#216 07:18.0",
+  "shot": "title_card",
+  "camera": "handheld",
+  "subject": "Walking shot of plaza with title overlay on wall",
+  "text_on_screen": "NECROPOLIS SHAH-I-ZINDA / a complex of mausoleums from the 14th-15th centuries",
+  "text_style": "Thin white serif caps title, small, lower right over wall",
+  "notes": "Location title card; wall and trees in background, warm grade"
+ },
+ {
+  "label": "#217 07:18.9",
+  "shot": "title_card",
+  "camera": "handheld",
+  "subject": "Stone staircase lined with trees leading to Necropolis entrance, title overlay",
+  "text_on_screen": "NECROPOLIS SHAH-I-ZINDA / a complex of mausoleums from the 14 & 15th centuries",
+  "text_style": "white serif caps title with italic subtitle, centered over footage",
+  "notes": "Establishing shot with green tree canopy; slightly warm grade, bright daylight"
+ },
+ {
+  "label": "#218 07:20.1",
+  "shot": "title_card",
+  "camera": "handheld",
+  "subject": "Tiled wall entrance with a seated man on a bench, title still overlaid",
+  "text_on_screen": "NECROPOLIS SHAH-I-ZINDA / a complex of mausoleums from the 14 & 15th centuries",
+  "text_style": "white serif caps title with italic subtitle, centered over footage",
+  "notes": "Same title card carried over from previous shot, suggesting a held overlay across cuts"
+ },
+ {
+  "label": "#219 07:21.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Turquoise domed mausoleums and tiled facades with people walking in courtyard",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth forward movement, bright sunlight, saturated blue tiles"
+ },
+ {
+  "label": "#220 07:21.8",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in sunglasses and white top standing before ornate blue mosaic wall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tilted or low angle framing, vivid blue tile contrast"
+ },
+ {
+  "label": "#221 07:22.5",
+  "shot": "closeup",
+  "camera": "tripod",
+  "subject": "Geometric star mosaic tile pattern in purple, blue and white",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static detail shot used as a B-roll insert, symmetrical framing"
+ },
+ {
+  "label": "#222 07:23.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Two women walking toward a doorway across a courtyard with stone steps",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Following shot from behind, warm sunlit brick architecture"
+ },
+ {
+  "label": "#223 07:24.4",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two women walking through a courtyard past tiled walls and domes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking shot, follows subjects into doorway area"
+ },
+ {
+  "label": "#224 07:27.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses gesturing while speaking to camera beside friend",
+  "text_on_screen": "we would come to places like this, madrasas",
+  "text_style": "small white sans-serif subtitle, bottom center over footage",
+  "notes": "Conversational talking-head style with live subtitles at bottom"
+ },
+ {
+  "label": "#225 07:31.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women in white tops speaking inside a white-walled hall, one partly in frame",
+  "text_on_screen": "and then make a wish",
+  "text_style": "small white sans-serif subtitle, bottom center",
+  "notes": "Over-the-shoulder framing, bright interior, shallow depth of field"
+ },
+ {
+  "label": "#225 07:36.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses speaking, friend beside her, tiled interior behind",
+  "text_on_screen": "They have a very high spiritual power",
+  "text_style": "small white sans-serif subtitle, bottom center",
+  "notes": "Subtitles match spoken dialogue, medium close framing"
+ },
+ {
+  "label": "#226 07:39.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman gesturing and talking, companion in black top listening",
+  "text_on_screen": "Every that we wished, it actually came true.",
+  "text_style": "small white sans-serif subtitle, bottom center",
+  "notes": "Subtitle appears mid-sentence; shot carries dialogue continuity"
+ },
+ {
+  "label": "#227 07:41.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women in light outfits smiling and talking in a stone archway interior",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wider two-shot, people in background, warm lighting"
+ },
+ {
+  "label": "#228 07:43.6",
+  "shot": "other",
+  "camera": "handheld",
+  "subject": "Person holding phone near a woman in white walking down a dim arched corridor",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Moody low-light corridor, warm lamp glow, shallow focus"
+ },
+ {
+  "label": "#229 07:44.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two women climbing stone stairs in a bright arched passage, one taking photo",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright white walls, symmetrical framing, strong highlights"
+ },
+ {
+  "label": "#230 07:45.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Interior dome with green mosaic ceiling and visitors at a doorway",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Upward-tilted framing emphasizing ornate ceiling, cool green grade"
+ },
+ {
+  "label": "#231 07:46.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Ornate star-patterned dome ceiling with chandelier, looking upward",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Extreme upward angle, detailed mosaic, warm chandelier highlight"
+ },
+ {
+  "label": "#232 07:47.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two women in a tiled mausoleum interior, one walking past a seated woman",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm colour grade, ornate blue and orange tile walls, handheld movement"
+ },
+ {
+  "label": "#233 07:49.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Four young women seated on a wooden bench under tiled niche",
+  "text_on_screen": "MAKING OUR WISHES",
+  "text_style": "white sans-serif caps, small, centered near upper middle",
+  "notes": "Title-style caption overlay; static framing"
+ },
+ {
+  "label": "#234 07:52.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt walking past a bench in tiled room",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follows subject across frame, tiled walls behind"
+ },
+ {
+  "label": "#235 07:54.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt leaning over a green table, reaching toward it",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close-ish framing, action of touching table; saturated teal and red tones"
+ },
+ {
+  "label": "#236 07:56.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Smiling woman laughing in front of tiled wall",
+  "text_on_screen": "All of... 80 cents.",
+  "text_style": "small white sans-serif subtitle, bottom center, low-contrast",
+  "notes": "Dialogue subtitle style; shallow framing on face"
+ },
+ {
+  "label": "#237 07:57.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman's chin and neck with necklace, camera tilted to chest, strap across body",
+  "text_on_screen": "10,000 Uzbek Som.",
+  "text_style": "small white sans-serif subtitle, bottom center",
+  "notes": "Tight crop on lower face; subtitle repeats price joke"
+ },
+ {
+  "label": "#238 07:59.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman smiling and looking off-frame beside colourful tile pattern",
+  "text_on_screen": "I don't think you're really dedicated to our dreams coming true",
+  "text_style": "small white sans-serif subtitle, bottom center",
+  "notes": "Profile closeup, ornate tile background; subtitle is spoken line"
+ },
+ {
+  "label": "#239 08:01.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Ornate pointed archway leading to a corridor, vendor stall with textiles at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Symmetrical architectural framing, warm natural light"
+ },
+ {
+  "label": "#240 08:02.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Looking through a pointed archway toward a sunlit street with people",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright exposure through arch, strong backlight"
+ },
+ {
+  "label": "#241 08:04.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women walking in front of a tiled portal entrance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subjects cross frame left to right; teal tiles"
+ },
+ {
+  "label": "#242 08:05.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women walking toward a dark doorway in a tiled facade",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subjects seen from behind, moving into doorway"
+ },
+ {
+  "label": "#243 08:06.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Women standing inside a carved wooden-ceilinged hall looking at wall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm golden tones, ornate carved wood ceiling"
+ },
+ {
+  "label": "#244 08:07.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with long hair looking up at green tiled wall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth movement, green and cream tilework"
+ },
+ {
+  "label": "#245 08:08.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in black top looking up and smiling beside green tiled wall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth tracking shot, shallow depth of field"
+ },
+ {
+  "label": "#246 08:09.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of tourists walking on a path toward domed brick buildings",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Elevated view, trees and domes in background"
+ },
+ {
+  "label": "#247 08:10.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two men seated on a bench in a green park with trees",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, natural greens, calm ending shot"
+ },
+ {
+  "label": "#248 08:12.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two women walking outdoors near a large stone monument with trees",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, natural colour grade"
+ },
+ {
+  "label": "#249 08:16.2",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in sunglasses gesturing while speaking to companion on grass path",
+  "text_on_screen": "It comes from during the Soviet Union and after the war.",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Interview-style street talk with subtitles"
+ },
+ {
+  "label": "#250 08:20.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two women talking on park path, one gesturing with hands",
+  "text_on_screen": "So we're kind of known for being very hospitable.",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Shallow depth of field, trees behind"
+ },
+ {
+  "label": "#251 08:24.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two women walking and talking along tree-lined park",
+  "text_on_screen": "lots of expats started moving to Tashkent & Samarkand.",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Walking interview"
+ },
+ {
+  "label": "#252 08:27.5",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Woman with hair up looking sideways, companion hand visible at right",
+  "text_on_screen": "Is there much cultural tension?",
+  "text_style": "white sans-serif subtitle, small, bottom left",
+  "notes": "Over-shoulder style question framing"
+ },
+ {
+  "label": "#253 08:29.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in white shirt answering, companion in sunglasses listening",
+  "text_on_screen": "Maybe religious, a little bit.",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Tree-lined park, soft green tones"
+ },
+ {
+  "label": "#254 08:32.3",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman gesturing with both hands while talking outdoors",
+  "text_on_screen": "But in terms of cultural acceptance,",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Cut from question to answer"
+ },
+ {
+  "label": "#255 08:37.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman in white walking and gesturing on park path, one hand near face",
+  "text_on_screen": "your main responsibility is to life as a married...",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Subtitle is cut off at frame edge"
+ },
+ {
+  "label": "#256 08:42.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses gesturing with open hands under trees",
+  "text_on_screen": "It is like a whole cultural concept.",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Bright sun, street with parked cars"
+ },
+ {
+  "label": "#257 08:44.3",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Car window view driving down narrow street with white buildings",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shot from inside a moving vehicle through windshield, slightly hazy tone"
+ },
+ {
+  "label": "#258 08:45.6",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Street view with pedestrian and overpass, car window in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Driving footage continues, cool-toned grade"
+ },
+ {
+  "label": "#259 08:47.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman opening car door and getting in, passenger seat view",
+  "text_on_screen": "NEXT UP",
+  "text_style": "white sans-serif, small, centre-left overlay",
+  "notes": "Transition into next segment from inside car"
+ },
+ {
+  "label": "#260 08:48.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in white walking across parking area toward market",
+  "text_on_screen": "NEXT UP",
+  "text_style": "white sans-serif, small, centre overlay",
+  "notes": "Carries over the NEXT UP graphic; bright daylight"
+ },
+ {
+  "label": "#261 08:48.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Crowded produce market stalls with vendors and fruit piles",
+  "text_on_screen": "SIAB BAZAAR",
+  "text_style": "large white bold sans-serif caps, centre",
+  "notes": "Title card style overlay on busy market footage"
+ },
+ {
+  "label": "#262 08:49.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Stack of bagels in close-up with vendor background",
+  "text_on_screen": "SIAB BAZAAR",
+  "text_style": "large white bold sans-serif caps, centre",
+  "notes": "Same title overlay persists across cuts"
+ },
+ {
+  "label": "#263 08:49.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor handing bagels to a woman at market stall",
+  "text_on_screen": "SIAB BAZAAR",
+  "text_style": "large white bold sans-serif caps, centre",
+  "notes": "Title overlay ends this sequence; warm natural colour"
+ },
+ {
+  "label": "#264 08:50.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in headscarf walking past bazaar street with bicycle",
+  "text_on_screen": "SIAB BAZAAR",
+  "text_style": "bold white sans-serif, large, centered across top-middle",
+  "notes": "Title overlay across full width; bright daylight, slightly warm grade"
+ },
+ {
+  "label": "#265 08:50.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor arranging melons and watermelons on a cart",
+  "text_on_screen": "SIAB BAZAAR",
+  "text_style": "bold white sans-serif, large, centered across top-middle",
+  "notes": "Title overlay persists from previous shot"
+ },
+ {
+  "label": "#266 08:51.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Stall of plums, potatoes, carrots, and green produce",
+  "text_on_screen": "SIAB BAZAAR",
+  "text_style": "bold white sans-serif, large, centered across top-middle",
+  "notes": "Title overlay persists; produce close-up"
+ },
+ {
+  "label": "#267 08:51.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in red coat under umbrella among market crowd",
+  "text_on_screen": "SIAB BAZAAR",
+  "text_style": "bold white sans-serif, large, centered across top-middle",
+  "notes": "Title overlay ends this sequence; umbrellas and crowd in background"
+ },
+ {
+  "label": "#268 08:52.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Market entrance area with stalls and mosque dome in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth forward movement; bright sky, blue-green dome visible"
+ },
+ {
+  "label": "#269 08:52.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Entrance arch sign reading Siyob Dehqon Bozori with minarets behind",
+  "text_on_screen": "SIYOB DEHQON BOZORI",
+  "text_style": "white capitalized serif-like sign lettering on dark arch, small, top-center of arch",
+  "notes": "Sign is physical signage, not an overlay; low-angle view"
+ },
+ {
+  "label": "#270 08:55.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in sunglasses gesturing toward market, speaking to camera",
+  "text_on_screen": "It's called Siab Bazaar.",
+  "text_style": "small white sans-serif subtitle, lower-center",
+  "notes": "Interview-style subtitle; warm sunlight, shallow depth of field"
+ },
+ {
+  "label": "#271 08:59.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman walking through parking area near market with vendors behind",
+  "text_on_screen": "It has fruits, vegetables, everything you need.",
+  "text_style": "small white sans-serif subtitle, lower-center",
+  "notes": "Subtitle over walking shot; tracking shot following subject"
+ },
+ {
+  "label": "#272 09:02.2",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two women in sunglasses walking through market street",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking shot, natural daylight; trees and parked cars in background"
+ },
+ {
+  "label": "#273 09:05.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Vendors under blue tent beside truck loaded with watermelons",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing of produce trucks; slight tilt"
+ },
+ {
+  "label": "#274 09:06.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Men unloading watermelons from truck at market",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Documentary feel; natural light"
+ },
+ {
+  "label": "#275 09:06.9",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Stacks of striped watermelons with a cut watermelon in frame",
+  "text_on_screen": "AND WE'RE GOING TO TASTE TEST AS MUCH AS WE CAN...",
+  "text_style": "small white sans-serif subtitle, lower-center",
+  "notes": "Voiceover subtitle; saturated greens and reds"
+ },
+ {
+  "label": "#276 09:07.8",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Pile of pale yellow melons",
+  "text_on_screen": "AND WE'RE GOING TO TASTE TEST AS MUCH AS WE CAN...",
+  "text_style": "small white sans-serif subtitle, lower-center",
+  "notes": "Subtitle continues over melon close-up"
+ },
+ {
+  "label": "#277 09:09.0",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman and two men walking along market street",
+  "text_on_screen": "AND WE'RE GOING TO TASTE TEST AS MUCH AS WE CAN...",
+  "text_style": "small white sans-serif subtitle, lower-center",
+  "notes": "Subtitle continues across cut"
+ },
+ {
+  "label": "#278 09:10.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor in white shirt handing fruit to customer at stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Exchange of produce; watermelons and melons displayed behind"
+ },
+ {
+  "label": "#279 09:12.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in white top biting into a green-fleshed fruit",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Reaction shot; green produce background, shallow depth of field"
+ },
+ {
+  "label": "#280 09:13.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses eating food outdoors, street with parked taxis behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, slightly warm grade, arm-length selfie framing with companion visible at right"
+ },
+ {
+  "label": "#281 09:15.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman in sunglasses talking to camera on a busy street",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing, background of parked cars and yellow taxis, bright natural light"
+ },
+ {
+  "label": "#282 09:18.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman tasting food beside a blue-canopied fruit stall with melons",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder-ish medium framing, shallow depth of field, market background"
+ },
+ {
+  "label": "#283 09:20.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman holding food near a melon stall with a vendor behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar setup to previous shot, slight reframe, used as continuation cut"
+ },
+ {
+  "label": "#284 09:21.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman gesturing at a pile of yellow fruit on a market stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Street-side stall, traffic and pedestrians in background, bright exposure"
+ },
+ {
+  "label": "#285 09:23.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top biting food under a blue canopy, companion behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Eating reaction shot, parked cars and buildings in background"
+ },
+ {
+  "label": "#286 09:25.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top smiling while eating, companion in grey eating",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Reaction framing, blue canopy top edge, shallow focus"
+ },
+ {
+  "label": "#287 09:27.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black eating, companion in grey and woman in white nearby",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wider street framing with pedestrians and cars, continuous eating sequence"
+ },
+ {
+  "label": "#288 09:27.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black eating under blue canopy with companions",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight cut on the eating action, quick transition from previous shot"
+ },
+ {
+  "label": "#289 09:29.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand pouring red cherries into a bowl over a box of yellow fruit",
+  "text_on_screen": "You can try anything you want.",
+  "text_style": "White small sans-serif subtitle-style caption, lower center-left, thin, unobtrusive",
+  "notes": "Low-angle product-style close shot, captions used as narration subtitles"
+ },
+ {
+  "label": "#290 09:31.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor in white leaning over a stall of green beans, cherries and fruit",
+  "text_on_screen": "You just ask and you can try anything.",
+  "text_style": "White small sans-serif subtitle-style caption, lower center, thin, unobtrusive",
+  "notes": "Market stall with bags and crates, pedestrian in pink pants behind"
+ },
+ {
+  "label": "#291 09:32.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Crates of green plums and apricots with a hand holding a bowl",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight product-detail shot of produce, saturated colours"
+ },
+ {
+  "label": "#292 09:33.8",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Bowls and crates of green fruit with a salt dish in foreground",
+  "text_on_screen": "We usually eat this with salt.",
+  "text_style": "White small sans-serif subtitle-style caption, lower left, thin, unobtrusive",
+  "notes": "Overhead-angle product shot, caption explains the food"
+ },
+ {
+  "label": "#293 09:35.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white walking past an elderly vendor buying fruit beside white vans",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Street market candid, medium framing, parked vans in background"
+ },
+ {
+  "label": "#294 09:36.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses with bag watching elderly vendor weigh fruit",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid street-market moment, shallow depth of field"
+ },
+ {
+  "label": "#295 09:37.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses holding a green fruit and speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head style close to camera, ends the sequence with a presenter moment"
+ },
+ {
+  "label": "#296 09:38.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black tee eating a green fruit at roadside market",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, slight warm grade, arm-extended selfie framing with parked van behind"
+ },
+ {
+  "label": "#297 09:40.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black tee talking while holding a green fruit",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing, same location as previous shot, continuous talking-to-camera"
+ },
+ {
+  "label": "#298 09:41.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling and lifting a green fruit near market street",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wider selfie with crowd and buildings in background, sunny high-contrast look"
+ },
+ {
+  "label": "#299 09:43.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling, holding up a green fruit to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same selfie setup; likely ends segment with fruit presentation"
+ },
+ {
+  "label": "#300 09:45.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Three women walking down a street past an arched gate",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, bright sun, arch sign with Cyrillic-like lettering in background"
+ },
+ {
+  "label": "#301 09:47.5",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two women seated beside a pile of watermelons",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm colour grade, shallow depth of field on watermelon foreground"
+ },
+ {
+  "label": "#302 09:48.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Elderly woman in headscarf standing on a dusty market road",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static-ish wide, truck and stalls in background, muted tones"
+ },
+ {
+  "label": "#303 09:50.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women at a bread stall, one in green patterned top",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight framing with bread on right, vibrant clothing colours"
+ },
+ {
+  "label": "#304 09:51.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Market counters with vendors and a seated elderly man in foreground",
+  "text_on_screen": "SOVO QAVAT MIJ ... (multi-line Uzbek signage on top banner)",
+  "text_style": "Printed signage, white and blue banner, small text across top of stalls",
+  "notes": "Wide establishing shot of market street, flat daylight"
+ },
+ {
+  "label": "#305 09:52.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Vendor in blue shirt and red apron working at meat counter",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Colourful striped awning above, steady framing"
+ },
+ {
+  "label": "#306 09:53.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Shoppers walking under green shade netting in covered market",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Green shade-cloth ceiling, dappled light, moderate depth"
+ },
+ {
+  "label": "#307 09:54.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Vendor at cabbage and tomato stall, passersby in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus, bright produce colours"
+ },
+ {
+  "label": "#308 09:55.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Crates of ripe red tomatoes in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Saturated reds, tight close-up, possible cut-in B-roll"
+ },
+ {
+  "label": "#309 09:57.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white top holding a red tomato, vendor behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Presenter-to-camera, soft background blur, vivid produce"
+ },
+ {
+  "label": "#310 10:01.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white top touching her face while holding a large tomato",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Reaction gesture, mid-shot, handheld movement"
+ },
+ {
+  "label": "#311 10:06.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top holding a red tomato at covered market",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-ish framing under market roof, closing shot of segment"
+ },
+ {
+  "label": "#312 10:08.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with sunglasses on head biting a tomato at a market",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Indoor covered market, bright natural light, slightly warm grade"
+ },
+ {
+  "label": "#313 10:09.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman covering mouth with hand while chewing, looking at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close framing, wide-angle distortion, market stalls behind"
+ },
+ {
+  "label": "#314 10:11.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top holding a red tomato, market crowd behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Eyes half-closed, relaxed mood"
+ },
+ {
+  "label": "#315 10:13.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman laughing while holding a tomato near her face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, background vendors blurred"
+ },
+ {
+  "label": "#316 10:15.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt lifting a red tomato toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side angle, colourful produce stalls in background"
+ },
+ {
+  "label": "#317 10:16.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in white shirt biting a red tomato",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight crop on face and fruit, cut on bite action"
+ },
+ {
+  "label": "#318 10:18.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses on head touching her face, eating",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Green produce stalls behind, slightly soft focus"
+ },
+ {
+  "label": "#319 10:21.2",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in white shirt smiling beside leafy greens and vegetables",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth walking-style movement, bright daylight grade"
+ },
+ {
+  "label": "#320 10:22.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two women in white shirts walking and eating through market aisle",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot, crowd and produce visible, good for transition"
+ },
+ {
+  "label": "#321 10:23.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Watermelon stall with vendor, young man in brown shirt walking past",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Busy street-market energy, natural colours"
+ },
+ {
+  "label": "#322 10:24.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Older vendor arranging red tomatoes in crates beside watermelons",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid documentary feel, mild cut from previous wide"
+ },
+ {
+  "label": "#323 10:25.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Vendor behind table of yellow and red fruit with scale",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright white tablecloth, wide establishing feel"
+ },
+ {
+  "label": "#324 10:26.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Three blue bowls of dark cherries on white-draped table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static product-style framing, neutral grade"
+ },
+ {
+  "label": "#325 10:27.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand scooping cherries from blue bowl, scale in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close action insert, good for quick cut"
+ },
+ {
+  "label": "#326 10:28.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand reaching for bananas and cherries on market table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder style insert, yellow and dark red contrast"
+ },
+ {
+  "label": "#327 10:29.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women in white shirts at market, one in sunglasses eating cherries",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Ends the sequence, warm daylight, watermelons in background"
+ },
+ {
+  "label": "#328 10:30.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with sunglasses on head eating food at market stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, outdoor market, warm natural colour grade"
+ },
+ {
+  "label": "#329 10:32.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women smiling in selfie at covered bazaar with crowd behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie framing, shallow depth of field on background crowd"
+ },
+ {
+  "label": "#330 10:33.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand pouring dark cherries from blue bowl",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Macro close-up of fruit, saturated red and blue tones"
+ },
+ {
+  "label": "#331 10:34.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Two women walking through fruit and vegetable market aisle",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, smooth gimbal movement, colourful produce stalls"
+ },
+ {
+  "label": "#332 10:35.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor in red apron preparing flatbread at bakery counter, woman watching",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder style framing, market ambience"
+ },
+ {
+  "label": "#333 10:37.1",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Stack of round flatbreads being handed over at counter",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand enters frame reaching for bread, warm tones"
+ },
+ {
+  "label": "#334 10:38.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman walking past sweets and spice stalls in indoor market",
+  "text_on_screen": "ADORIX",
+  "text_style": "Small white sans-serif sign text, top of frame, background signage",
+  "notes": "Tracking shot following subject through aisle"
+ },
+ {
+  "label": "#335 10:40.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Packet of Rollton noodles beside piles of red chili powder and spices",
+  "text_on_screen": "ROLLTON",
+  "text_style": "White and red sans-serif logo on yellow packaging, centre-left of frame, medium size",
+  "notes": "Product close-up, vivid red and orange spice colours"
+ },
+ {
+  "label": "#336 10:42.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman buying packaged snacks from older male vendor",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand-to-hand exchange, candy and snack displays in foreground"
+ },
+ {
+  "label": "#337 10:43.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman talking and gesturing toward dried goods at stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head style within market, shallow focus background"
+ },
+ {
+  "label": "#338 10:45.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman holding cinnamon sticks while second woman sniffs them",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Two-shot reaction moment, bright natural light"
+ },
+ {
+  "label": "#339 10:48.2",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman looking up under covered market roof with blue patterned banners",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, metal roof structure visible, cool blue accents"
+ },
+ {
+  "label": "#340 10:49.9",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Shelves of bagged dried fruits, spices and candies",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slow pan across merchandise, bright saturated colours"
+ },
+ {
+  "label": "#341 10:54.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top holding bag of dried herbs and talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Direct-to-camera presenter shot, market background softly blurred"
+ },
+ {
+  "label": "#342 10:58.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman presenting bag of dried herbs, spice piles visible below",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup as previous shot, continuous presenter segment"
+ },
+ {
+  "label": "#343 11:01.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman smiling and holding herb bag toward camera, man walking behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Ends on smile, transition to next scene likely"
+ },
+ {
+  "label": "#344 11:05.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with sunglasses on head smiling at market stalls",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, covered market canopy, natural colour grade"
+ },
+ {
+  "label": "#345 11:06.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman holding and showing a bag of dried goods to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Speaking to camera, tight framing on hands and bag"
+ },
+ {
+  "label": "#346 11:07.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Vendor in headscarf and apron arranging carrots at stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Colourful patterned tablecloth, shallow depth of field"
+ },
+ {
+  "label": "#347 11:09.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor preparing bowls of salads and carrots at counter",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright saturated colours, tracking movement across stall"
+ },
+ {
+  "label": "#348 11:10.9",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Close view of bowls of carrot salad, cabbage and pickled dishes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus, food detail shots"
+ },
+ {
+  "label": "#349 11:12.4",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hands stirring large bowl of shredded orange carrot salad",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close food insert, warm colour"
+ },
+ {
+  "label": "#350 11:15.3",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in black seen from behind walking through market, vendor at left",
+  "text_on_screen": "Comes to our culture from Korean culture",
+  "text_style": "small white sans-serif subtitle-style text, centred lower area (English)",
+  "notes": "Over-the-shoulder walking shot, subtitle-like caption"
+ },
+ {
+  "label": "#351 11:19.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women in white tops, one with sunglasses, pointing in market",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slightly off-centre framing, tourists exploring"
+ },
+ {
+  "label": "#352 11:23.0",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in black speaking to camera with companion behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Two-shot transition, companion partly out of focus"
+ },
+ {
+  "label": "#353 11:26.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Covered market aisle with vendors and shoppers, blue pennant decorations",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing wide shot of market interior"
+ },
+ {
+  "label": "#354 11:27.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor in red dress and headscarf behind piles of potatoes, onions and greens",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dense produce display, natural light"
+ },
+ {
+  "label": "#355 11:28.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Sacks of eggplant, carrots, potatoes and green peppers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static produce inserts, vivid colours"
+ },
+ {
+  "label": "#356 11:28.9",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Crates of onions and yellow squash-like vegetables",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight produce close-up"
+ },
+ {
+  "label": "#357 11:29.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Vendor in headscarf behind greens and vegetables stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Medium-wide framing, lush green produce"
+ },
+ {
+  "label": "#358 11:31.0",
+  "shot": "aerial",
+  "camera": "gimbal",
+  "subject": "Elevated view down crowded produce aisles with shoppers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "High angle overview, forward movement"
+ },
+ {
+  "label": "#359 11:32.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor behind cabbage and cauliflower display with sacks of produce",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Ends sequence on stall display, neutral grade"
+ },
+ {
+  "label": "#360 11:32.7",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Busy covered market interior with produce stalls and shoppers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing wide shot; bright natural light through green-tinted roof, slightly elevated angle"
+ },
+ {
+  "label": "#361 11:33.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Crowded market aisle with vendors and shoppers among fruit piles",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide shot, dense crowd, colourful produce; likely walking-pace movement"
+ },
+ {
+  "label": "#362 11:34.9",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with long brown hair walking through market, looking to side",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot tracking presenter from behind-side; shallow market background"
+ },
+ {
+  "label": "#363 11:36.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Smiling older vendor in leopard top and headscarf beside scale showing 1286",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Yellow price tag 1286 visible; bright window light on right"
+ },
+ {
+  "label": "#364 11:38.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor in green shirt and apron at white cheese display, presenter's arm in frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground blurred arm for transition/framing; white cheese on red tray"
+ },
+ {
+  "label": "#365 11:39.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Vendor in green apron tasting or holding a utensil with cheese",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight framing on vendor reacting; warm natural colour"
+ },
+ {
+  "label": "#366 11:41.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Presenter eating a small piece of food from a spoon-like item",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close-up on face, reaction tasting moment; dark clothing against pale background"
+ },
+ {
+  "label": "#367 11:45.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Presenter with food near mouth beside vendors, older woman on right",
+  "text_on_screen": "She's asking if you guys are single",
+  "text_style": "White sans-serif subtitle, small size, centred lower third, thin shadow",
+  "notes": "Subtitle-style captions used for dialogue; cut from tasting to conversation"
+ },
+ {
+  "label": "#368 11:49.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Presenter talking to camera holding food, vendors in background",
+  "text_on_screen": "This is the most common question you get in Uzbekistan.",
+  "text_style": "White sans-serif subtitle, small size, lower centre, thin shadow",
+  "notes": "Caption-based dialogue; soft pale colour grade"
+ },
+ {
+  "label": "#369 11:52.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Presenter in sunglasses gesturing while second woman speaks beside her",
+  "text_on_screen": "She has only one single son.",
+  "text_style": "White sans-serif subtitle, small size, lower centre, thin shadow",
+  "notes": "Two-shot conversation; caption reflects speech"
+ },
+ {
+  "label": "#370 11:56.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Presenter gesturing with hand raised toward vendor area",
+  "text_on_screen": "Is her son tall enough for me though?",
+  "text_style": "White sans-serif subtitle, small size, lower centre, thin shadow",
+  "notes": "Quick cut rhythm, playful tone"
+ },
+ {
+  "label": "#370 12:00.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt smiling and gesturing while speaking to vendor",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Reverse-angle reaction shot; cut on same beat as previous line"
+ },
+ {
+  "label": "#371 12:04.4",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Presenter with sunglasses on head explaining, holding food",
+  "text_on_screen": "They're asking why would you fix your eyebrows",
+  "text_style": "White sans-serif subtitle, small size, lower centre, thin shadow",
+  "notes": "Tight framing, caption continues conversation"
+ },
+ {
+  "label": "#371 12:08.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Presenter gesturing with both hands while explaining, vendors behind",
+  "text_on_screen": "Because in Uzbekistan, it's by religion.",
+  "text_style": "White sans-serif subtitle, small size, lower centre, thin shadow",
+  "notes": "Caption text as written; note subtitle reads 'by religion'"
+ },
+ {
+  "label": "#371 12:12.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Presenter looking aside, holding food, expressing reaction",
+  "text_on_screen": "I should be having a unibrow right now?",
+  "text_style": "White sans-serif subtitle, small size, lower centre, thin shadow",
+  "notes": "Comedic punchline shot; tight closeup"
+ },
+ {
+  "label": "#372 12:16.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt with sunglasses on head looking toward presenter",
+  "text_on_screen": "Is this why all the ladies have such good eyebrows?",
+  "text_style": "White sans-serif subtitle, small size, lower centre, thin shadow",
+  "notes": "Closing shot of segment; bright window light, cool grade"
+ },
+ {
+  "label": "#373 12:18.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Red crates of peeled garlic and onions at market stall, vendor's hand reaching in",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm natural daylight, slightly saturated colour, handheld movement"
+ },
+ {
+  "label": "#374 12:19.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Stacked bags and bins of garlic and dried goods at market stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, shallow depth of field, green sacks in background"
+ },
+ {
+  "label": "#375 12:19.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor in white shirt and gloves packing goods into bag at counter",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hazy bright light from windows, warm grade"
+ },
+ {
+  "label": "#376 12:20.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hands placing garlic into paper bag on weighing scale",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Red crate in background, shallow focus, quick cut feel"
+ },
+ {
+  "label": "#377 12:21.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Older vendor in gloves holding up plastic bag of garlic",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright window light, slightly warm grade"
+ },
+ {
+  "label": "#378 12:22.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand pouring garlic into plastic bag over red crate",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, warm tones"
+ },
+ {
+  "label": "#379 12:23.0",
+  "shot": "closeup",
+  "camera": "tripod",
+  "subject": "Wooden frame holding honeycomb with bees",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static macro-style shot, warm amber colour, good B-roll insert"
+ },
+ {
+  "label": "#380 12:24.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in red patterned shirt and white apron serving customer at stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright market interior, natural light, slight pan"
+ },
+ {
+  "label": "#381 12:25.9",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Vlogger's hand holding fork with food, dark blurred background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus, dark frame, tasting moment"
+ },
+ {
+  "label": "#382 12:26.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with long dark hair tasting food on fork and speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright bright background, natural light, presenter talking head"
+ },
+ {
+  "label": "#383 12:29.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman tasting food with hand near face, smiling reaction",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright indoor light, reaction shot"
+ },
+ {
+  "label": "#384 12:33.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman chewing and gesturing while speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright market background, natural colour"
+ },
+ {
+  "label": "#385 12:35.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman walking past sacks of dried herbs and spices, holding phone",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide framing, depth with market crowd behind, slight haze"
+ },
+ {
+  "label": "#386 12:36.4",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Red crates and sacks of dried herbs, tea and spices",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Colourful close framing, shallow depth of field"
+ },
+ {
+  "label": "#387 12:39.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women talking to camera in busy covered market",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie-style framing, bright background, slight blur of crowd"
+ },
+ {
+  "label": "#387 12:43.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women speaking side by side in covered market aisle",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same scene as previous, later moment, crowd blurred behind"
+ },
+ {
+  "label": "#388 12:46.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women talking in a covered market, one gesturing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, slightly warm grade, shallow depth with market stalls blurred behind"
+ },
+ {
+  "label": "#389 12:47.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Women walking through a bustling market aisle past vendors and produce",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot of market interior, bright overhead lighting"
+ },
+ {
+  "label": "#390 12:49.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Three women walking down market aisle lined with colorful goods",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind-front, smooth movement, symmetrical framing"
+ },
+ {
+  "label": "#391 12:51.0",
+  "shot": "pov",
+  "camera": "unknown",
+  "subject": "View through car windshield toward historic madrasa with yellow wall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Clear blue sky, bright exposure, transitional driving shot"
+ },
+ {
+  "label": "#392 12:52.3",
+  "shot": "closeup",
+  "camera": "unknown",
+  "subject": "Driver's hands on steering wheel inside car interior",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cut-in detail shot for in-car sequence, cool neutral tones"
+ },
+ {
+  "label": "#393 12:54.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Three women in back seat of car, one speaking, subtitles shown",
+  "text_on_screen": "What is the marriage age and what someone would get married?",
+  "text_style": "White sans-serif subtitle, small, bottom center, no box",
+  "notes": "Interior back-seat framing, soft daylight through side windows"
+ },
+ {
+  "label": "#393 12:59.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women in back seat, one gesturing while talking",
+  "text_on_screen": "So people normally do have love marriages",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Same interview sequence as previous, tree-lined street visible through window"
+ },
+ {
+  "label": "#393 13:03.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt looking sideways while another speaks beside her",
+  "text_on_screen": "almost like 90% of the country would do arranged marriages",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Subtitle appears to contain a mistranscribed or approximate phrase; match cut from same sequence"
+ },
+ {
+  "label": "#394 13:06.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Three women in back seat smiling and talking",
+  "text_on_screen": "Just like the lady tried to set you up",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Warm sunlight from side window, slight lens flare"
+ },
+ {
+  "label": "#395 13:08.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black top speaking to camera from back seat, others behind",
+  "text_on_screen": "I almost got married off",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Direct-to-camera talking head inserted into car interview, cooler tones"
+ },
+ {
+  "label": "#396 13:12.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Three women in back seat, one looking toward others while talking",
+  "text_on_screen": "Our dad kept saying to be from a young age.",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Wider interior framing, dark seat headrest in foreground"
+ },
+ {
+  "label": "#397 13:16.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women in back seat, one holding a bag and smiling",
+  "text_on_screen": "There's a huge stigma in the society",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Street visible through window, bright exterior light"
+ },
+ {
+  "label": "#398 13:19.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Three women in back seat, one touching her face while listening",
+  "text_on_screen": "who are educated, started businesses",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Subtitle is partial sentence continuing from prior shot"
+ },
+ {
+  "label": "#399 13:22.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in sunglasses gesturing while speaking in back seat",
+  "text_on_screen": "but still money, like 90%",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Outdoor street light visible through window, natural grade"
+ },
+ {
+  "label": "#400 13:24.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Three women in back seat, one gesturing and talking",
+  "text_on_screen": "are still living in survival mode",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Continuous interview sequence with subtitle lines bridging cuts"
+ },
+ {
+  "label": "#401 13:26.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Three women in back seat, one resting chin on hand, listening",
+  "text_on_screen": "in what ways have you like the country changed?",
+  "text_style": "White sans-serif subtitle, small, bottom center",
+  "notes": "Ends interview sequence with a question; subtitle wording may be imperfect"
+ },
+ {
+  "label": "#402 13:31.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Three women in a car backseat, one gesturing while talking",
+  "text_on_screen": "And so many opportunities for small and mid-sized businesses to start",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Interior car light, warm natural grade, subtitles used as narration"
+ },
+ {
+  "label": "#403 13:36.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Same three women in car, woman in middle looking ahead, one gesturing",
+  "text_on_screen": "A lot of people started moving back",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Continuation of previous car interview shot, slightly different framing"
+ },
+ {
+  "label": "#404 13:39.1",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "View through car windshield of city street with white and grey cars",
+  "text_on_screen": "Like a lot of Uzbeks started moving back from the US to Tashkent",
+  "text_style": "white sans-serif subtitle, small, bottom centre",
+  "notes": "Dashboard visible at bottom, driving POV, daylight"
+ },
+ {
+  "label": "#405 13:41.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman walking along street past ornate cream building with cars parked",
+  "text_on_screen": "IT'S TIME FOR A PROPER LUNCH",
+  "text_style": "white bold sans-serif caps, medium, centre",
+  "notes": "Title-style overlay introducing lunch segment, bright daylight"
+ },
+ {
+  "label": "#406 13:42.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white walking through ornate restaurant doorway",
+  "text_on_screen": "IT'S TIME FOR A PROPER LUNCH",
+  "text_style": "white bold sans-serif caps, medium, centre",
+  "notes": "Overlay persists from previous shot, carries title across cuts"
+ },
+ {
+  "label": "#407 13:43.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Ornate dark wooden doors with gold carving opening to hallway with people",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior lighting, decorative architecture establishing shot"
+ },
+ {
+  "label": "#408 13:43.9",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Large decorated dining hall with tables, woman walking in",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth gimbal movement, warm tungsten grade, ornate ceilings"
+ },
+ {
+  "label": "#409 13:44.9",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Wide view of ornate restaurant hall with columns and balcony",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continues dining hall sequence, warm grade"
+ },
+ {
+  "label": "#410 13:45.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women walking through restaurant past gold chairs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, tracking movement"
+ },
+ {
+  "label": "#411 13:46.8",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Table with salad plates, glasses and hand reaching in",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Food insert, shallow depth of field"
+ },
+ {
+  "label": "#412 13:48.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Plate of fresh salad with cucumber and tomato",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Top-down food close-up, warm natural grade"
+ },
+ {
+  "label": "#413 13:49.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand with fork over salad plate with tomato and cucumber",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Eating insert, cut from previous food shot"
+ },
+ {
+  "label": "#414 13:51.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt speaking at restaurant table gesturing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head on location, ornate background"
+ },
+ {
+  "label": "#415 13:53.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Bowl of red soup with herbs and oil",
+  "text_on_screen": "MASTAVA",
+  "text_style": "white sans-serif caps, small, centre of bowl",
+  "notes": "Dish name label introducing food item"
+ },
+ {
+  "label": "#416 13:55.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Bowl of soup with meat pieces and spoon",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Second soup insert, same grade as previous"
+ },
+ {
+  "label": "#417 13:57.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt at table speaking with restaurant interior behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head continuation of restaurant segment"
+ },
+ {
+  "label": "#418 13:58.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women at a restaurant table, one talking, one eating, ornate interior",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm indoor tones, ornate Central Asian-style decor, casual vlog framing"
+ },
+ {
+  "label": "#419 14:02.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black top talking to camera at restaurant table with food",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie-style framing, diners blurred in background"
+ },
+ {
+  "label": "#420 14:05.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black top gesturing while speaking, food on table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar angle to previous shot, warm grade"
+ },
+ {
+  "label": "#421 14:08.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women at table eating, one in white blouse, plates of food",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior colour grade, slight push-in"
+ },
+ {
+  "label": "#422 14:10.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white shirt gesturing while dancing or talking, group behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dark backdrop with colourful tiled wall, group activity"
+ },
+ {
+  "label": "#423 14:12.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Women walking across ornate hall past balcony and stairs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot of restaurant interior"
+ },
+ {
+  "label": "#424 14:13.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of people dancing and clapping in ornate hall with white chairs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Energetic movement, warm colour grade"
+ },
+ {
+  "label": "#425 14:15.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women dancing in front of dark stage, one in white, one in black",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dark backdrop, mirrored dance moves"
+ },
+ {
+  "label": "#426 14:18.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in white gesturing beside pillar, large black circle overlay covering frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Black circle graphic transition mask, likely wipe or iris cut"
+ },
+ {
+  "label": "#427 14:20.7",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Train window view of passing buildings and railway tracks",
+  "text_on_screen": "AND THE JOURNEY CONTINUES",
+  "text_style": "White sans-serif uppercase, small, centered near lower middle of frame",
+  "notes": "Interior train window framing, daylight, text overlay as chapter transition"
+ },
+ {
+  "label": "#428 14:21.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Woman in black looking out train window, orange tree and buildings outside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-the-shoulder style, soft natural light"
+ },
+ {
+  "label": "#429 14:23.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women smiling and posing together on airplane seats",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing, cabin passengers blurred behind"
+ },
+ {
+  "label": "#430 14:25.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Airplane cabin aisle with flight attendant in red uniform and passengers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cool blue cabin lighting, wide angle"
+ },
+ {
+  "label": "#431 14:27.3",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Car dashboard view of green hills and road through windshield",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rearview mirror visible, hand on steering wheel, natural daylight"
+ },
+ {
+  "label": "#432 14:28.9",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Aerial view of mountain ridge above turquoise lake and winding road",
+  "text_on_screen": "KYRGYZSTAN",
+  "text_style": "Large white bold sans-serif uppercase, centered, title card style",
+  "notes": "Destination title card over drone footage, bright saturated colours"
+ },
+ {
+  "label": "#433 14:30.2",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Aerial view of city with mosque minarets and mountains in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Daytime high angle, clear sky, bright grade"
+ },
+ {
+  "label": "#434 14:31.2",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "White yurt camp on green meadow at forest edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aerial-style wide establishing shot, natural daylight, saturated greens"
+ },
+ {
+  "label": "#435 14:32.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Town street with cars, trees, and traffic lights",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Street-level walking or driving footage, bright daylight"
+ },
+ {
+  "label": "#436 14:33.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Storefront with fast food signage and menu boards",
+  "text_on_screen": "ШАУРМА, ГАМБУРГЕР, НОГОЙ сабвэй, якоо пицца шашлык, суши роллы, KFC",
+  "text_style": "Mixed Russian and Latin signage, white and red lettering on green and cream facade, sign text, not added overlay",
+  "notes": "Static storefront shot, street-level, bright daylight"
+ },
+ {
+  "label": "#437 14:34.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man with child at open car trunk beside green fence",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid street scene, natural light, slight handheld movement"
+ },
+ {
+  "label": "#438 14:35.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Large mosaic-style sign with Kyrgyz text on hillside, power pylon behind",
+  "text_on_screen": "КЫРГЫЗ ТЕКЕСИ, ЖЫЛ, ЖАНЫ ДАЙЫНДАЛ",
+  "text_style": "White and blue stones on hillside, large sign lettering, sign text not overlay",
+  "notes": "Landmark establishing shot, bright daylight, cool blue sky"
+ },
+ {
+  "label": "#439 14:37.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women in car selfie, one talking, one smiling",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Interior car selfie, wide angle, natural light, dark clothing"
+ },
+ {
+  "label": "#440 14:38.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Same two women in car, one speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of selfie interview, cut on speech"
+ },
+ {
+  "label": "#441 14:39.5",
+  "shot": "black",
+  "camera": "unknown",
+  "subject": "Black screen",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Fade to black transition or gap between segments"
+ },
+ {
+  "label": "#442 14:41.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women in car, subtitle caption about full Kyrgyzstan video",
+  "text_on_screen": "THERE WILL BE A FULL VIDEO ON KYRGYZSTAN COMING SOON",
+  "text_style": "White bold sans-serif caps, centered lower third, with dark outline",
+  "notes": "Lower-third caption over selfie footage"
+ },
+ {
+  "label": "#443 14:43.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women in car making exaggerated angry faces",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Comedic reaction shot, quick cut"
+ },
+ {
+  "label": "#444 14:43.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women in car screaming with exaggerated expressions",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Comedic reaction shot, tight framing, quick cut"
+ },
+ {
+  "label": "#445 14:46.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women in car, one hand raised to head, looking aside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Relaxed reaction, same interior setting"
+ },
+ {
+  "label": "#446 14:49.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women in car looking upward, talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Interview-style selfie, natural light"
+ },
+ {
+  "label": "#447 14:50.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Yellow flower field with mountains and village behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape establishing shot, hazy mountains, natural colour grade"
+ },
+ {
+  "label": "#448 14:52.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Person walking past white yurts toward mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide travel shot, bright daylight, mountain backdrop"
+ },
+ {
+  "label": "#449 14:54.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Row of white yurts on grass under blue sky with clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot, bright daylight, saturated colours"
+ },
+ {
+  "label": "#450 14:55.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women seated at a low table inside a yurt with bread and tea",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior light, lattice yurt wall visible, slightly wide framing"
+ },
+ {
+  "label": "#451 14:57.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Yellow flowering mustard plants in foreground with snowy mountains behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, soft focus foreground, nature establishing shot"
+ },
+ {
+  "label": "#452 14:59.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Yellow flowers framing a snow-capped mountain range and village",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overcast soft light, flowers used as foreground framing"
+ },
+ {
+  "label": "#453 15:01.3",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Dashboard view from inside vehicle looking at dirt road over green hills",
+  "text_on_screen": "TIME TO START OUR TREK VIA HORSEBACK",
+  "text_style": "white sans-serif uppercase, small, centered near lower middle",
+  "notes": "Windshield with rear-view mirror visible, red dashboard edge, transition from car ride"
+ },
+ {
+  "label": "#454 15:02.5",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Winding dirt road through green valley hills under pale sky",
+  "text_on_screen": "& RIDE 5 HOURS TO OUR CAMP FOR THE NIGHT",
+  "text_style": "white sans-serif uppercase, small, centered mid-lower frame",
+  "notes": "Continuation of previous caption; hazy washed-out grade"
+ },
+ {
+  "label": "#455 15:04.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two men adjusting a brown horse's saddle on a grassy hill",
+  "text_on_screen": "& RIDE 5 HOURS TO OUR CAMP FOR THE NIGHT",
+  "text_style": "white sans-serif uppercase, small, centered mid-lower frame",
+  "notes": "Caption persists across cut, same overlay carried over"
+ },
+ {
+  "label": "#456 15:06.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Rider on brown horse at hitching post with a man holding the reins",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright saturated grass, blue sky, slightly low angle"
+ },
+ {
+  "label": "#457 15:09.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Rider mounted on chestnut horse beside man with hitching post",
+  "text_on_screen": "Our horses are not fast but they are good for mountains",
+  "text_style": "small white sans-serif lowercase, bottom edge, low contrast",
+  "notes": "Subtitle-like caption at very bottom, same green grade"
+ },
+ {
+  "label": "#458 15:14.2",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Two riders on white horse following a dirt trail uphill from behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, trail leads toward center, bright green hills"
+ },
+ {
+  "label": "#459 15:17.1",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Flock of birds flying over rolling green hills under cloudy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static establishing B-roll, muted colour, lots of sky"
+ },
+ {
+  "label": "#460 15:19.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Smiling man in cap and grey shirt riding brown horse on hillside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side-angle tracking, rider close to frame, bright green grass"
+ },
+ {
+  "label": "#461 15:22.8",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Man in red vest riding horse down a dirt path with grass banks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, warm saturated grade"
+ },
+ {
+  "label": "#462 15:25.4",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Winding road through green valley with snowy peaks in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide aerial, snow peaks at left, moves across landscape"
+ },
+ {
+  "label": "#463 15:27.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with dark hair smiling and holding camera arm extended on green hill",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie arm framing, horse rider visible small in background"
+ },
+ {
+  "label": "#464 15:29.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Rider on brown horse heading down dirt road between green hills",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hazy distant mountains, slightly desaturated grade"
+ },
+ {
+  "label": "#465 15:33.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black top smiling with arm extended, dirt road behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie continuation, mirrors previous selfie shot for match cut"
+ },
+ {
+  "label": "#465 15:38.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling in selfie framing on dirt track through green hills",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie arm extended, bright sky with clouds, slight low angle"
+ },
+ {
+  "label": "#466 15:43.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black sleeveless top talking to camera on dirt road",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie arm extended, green slope behind, natural daylight"
+ },
+ {
+  "label": "#467 15:47.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman crouching beside dirt road, reaching toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie framing, hillside background, warm natural grade"
+ },
+ {
+  "label": "#467 15:53.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman looking down at road while holding selfie camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie arm extended, rutted dirt road, green hill behind"
+ },
+ {
+  "label": "#468 15:59.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling at camera, wind in hair, green hills and clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie close framing, slight wind movement, bright saturated colours"
+ },
+ {
+  "label": "#469 16:04.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Herd of cattle and sheep moving along dirt track through hills",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind livestock, muted greens, natural grade"
+ },
+ {
+  "label": "#470 16:06.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Two riders on horses trotting across yellow-flowered meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side tracking shot, bright meadow, cut on rhythm of horse motion"
+ },
+ {
+  "label": "#471 16:08.5",
+  "shot": "pov",
+  "camera": "gimbal",
+  "subject": "Rider on brown horse following track through yellow flower field",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rear-follow angle over horse, wide sky, smooth motion"
+ },
+ {
+  "label": "#472 16:10.6",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in black riding brown horse across flowered hillside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rear follow shot, yellow flowers, dirt track leading forward"
+ },
+ {
+  "label": "#473 16:13.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Two riders in dark clothing on horses following track",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rear follow shot, shallow depth, green hill background"
+ },
+ {
+  "label": "#474 16:15.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Empty grassland with snowy mountain range on horizon",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static-feeling landscape, hazy light, distant herd dots, good establishing shot"
+ },
+ {
+  "label": "#475 16:17.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in green coat walking toward yurt in flower meadow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject walks toward camera, yurt in background, soft overcast light"
+ },
+ {
+  "label": "#476 16:19.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in green coat walking past rows of yurts",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Walking subject crosses frame, yurt camp layout, overcast"
+ },
+ {
+  "label": "#477 16:20.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "White yurt camp in grassy valley with hills behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slow forward push, muted colours, overcast sky"
+ },
+ {
+  "label": "#478 16:22.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Yurts with ornamental doors on green rolling hills",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static establishing wide, desaturated grade"
+ },
+ {
+  "label": "#479 16:26.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman seated in yurt doorway with hands clasped, speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Eye-level medium close-up framed by yurt door ornament, likely closing or interview segment"
+ },
+ {
+  "label": "#479 16:31.2",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in black sweater talking seated in yurt doorway",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Yurt cream walls with brown ornament; daylight; static framing; same take as neighbouring frames"
+ },
+ {
+  "label": "#479 16:36.0",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in black sweater gesturing while talking in yurt doorway",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same interview setup, slight gesture change; likely jump cut within one talking-head segment"
+ },
+ {
+  "label": "#479 16:40.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in black sweater with hands clasped, talking in yurt",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same interview setup; continuous talking-head run"
+ },
+ {
+  "label": "#479 16:45.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in black sweater smiling and talking in yurt doorway",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same interview setup; end of talking-head run before cut to black"
+ },
+ {
+  "label": "#480 16:48.0",
+  "shot": "black",
+  "camera": "unknown",
+  "subject": "Solid black frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Fade or cut to black as transition between interview and travel footage"
+ },
+ {
+  "label": "#481 16:48.9",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Green hillside with two riders on horseback in valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright natural daylight, lush green grass, slight warm grade"
+ },
+ {
+  "label": "#482 16:50.3",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "View through car windshield of yurts and green fields, driver silhouette",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Inside vehicle POV, dashboard visible at bottom, rearview mirror at top"
+ },
+ {
+  "label": "#483 16:51.5",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Brown hill with large white letters on slope, power pylon behind",
+  "text_on_screen": "KYRGYZSTAN DESTINATION",
+  "text_style": "white sans-serif capital letters, small, placed across hillside, low contrast",
+  "notes": "Drone flyover, hazy sky, warm desaturated grade"
+ },
+ {
+  "label": "#484 16:53.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Ornate mosque-style domed building behind iron fence",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Daylight, slightly warm, static or slow pan; tree foliage at edges"
+ },
+ {
+  "label": "#485 16:54.8",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Car interior view down tree-lined village road, driver silhouette",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Windshield POV, rearview mirror centre, slight motion"
+ },
+ {
+  "label": "#486 16:56.1",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Woman in passenger seat looking out window at green fields",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side window framing, hazy sky, passenger profile on right"
+ },
+ {
+  "label": "#487 16:57.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dirt road with parked car beside houses and mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural light, muted colours, handheld walking or driving feel"
+ },
+ {
+  "label": "#488 16:58.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Teal gate and small building beside dirt road, trees and mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Seen from moving vehicle, window edge at left, overcast light"
+ },
+ {
+  "label": "#489 17:00.2",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Woman in driver seat looking out side window, green trees outside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Interior shot, motion blur on background, soft natural light"
+ },
+ {
+  "label": "#490 17:01.1",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Motion-blurred tree and green field seen from moving car window",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Strong motion blur, transitional b-roll"
+ },
+ {
+  "label": "#491 17:01.7",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hazy mountain valley with small tree, utility pole edge at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus, misty muted grade, shot from moving vehicle window"
+ },
+ {
+  "label": "#492 17:02.7",
+  "shot": "screen",
+  "camera": "unknown",
+  "subject": "Wooden sign for Burana Tower Republican Archeological and Architectural Museum Complex",
+  "text_on_screen": "\"BURANA\" TOWER REPUBLICAN ARCHEOLOGICAL AND ARCHITECTURAL MUSEUM COMPLEX",
+  "text_style": "Engraved blue serif-style capitals on tan wooden board, centered, small size",
+  "notes": "Static establishing shot of entrance sign, overcast sky; sign edge fills frame left"
+ },
+ {
+  "label": "#493 17:03.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dry irrigation channel lined with concrete through green grass and trees",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, slightly muted green tones; walking-pace framing"
+ },
+ {
+  "label": "#494 17:04.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Open grassy field with a lone tree and misty mountain range behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hazy, cool-toned grade; soft atmospheric depth"
+ },
+ {
+  "label": "#495 17:06.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hazy mountain ridges with a small tree in foreground grass",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Desaturated, overcast look; landscape pan-style B-roll"
+ },
+ {
+  "label": "#496 17:09.3",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Burana Tower brick minaret standing against mountains and cloudy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static establishing shot of the monument; muted overcast colour grade"
+ },
+ {
+  "label": "#497 17:12.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women smiling, one with arm around the other, outdoors on a path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Arm-length selfie framing; natural light; cut in sequence with later #497 shots"
+ },
+ {
+  "label": "#497 17:17.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Same two women laughing close together on a park path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of same clip at a later moment; tighter crop"
+ },
+ {
+  "label": "#497 22.1 17:22.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Two women walking and talking, one looking at the other, wooden railing behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wider reframe, the woman on right dominates; casual vlog warmth"
+ },
+ {
+  "label": "#498 17:25.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in light top gesturing toward information board in a park",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Presenter-to-camera style; bright daylight; board visible on right"
+ },
+ {
+  "label": "#499 17:29.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in light top walking and looking toward an information board",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow-shot of presenter; board text is in Russian and English with flags and logos"
+ },
+ {
+  "label": "#500 17:32.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Metal tree-shaped sculpture framing a plaque on a park path",
+  "text_on_screen": "Plaque text in Kyrgyz and Russian (illegible at thumbnail size)",
+  "text_style": "Small engraved white-on-grey plaque lettering, centered in sculpture cutout",
+  "notes": "Detail insert shot; sculpture silhouette fills frame edges"
+ },
+ {
+  "label": "#501 17:34.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in grey cap and t-shirt speaking, holding a water bottle, outdoors",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Local guide interview style; trees behind; natural light"
+ },
+ {
+  "label": "#502 17:35.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Same man in grey cap gesturing while talking in a park",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slightly wider framing than previous; continuous guide narration"
+ },
+ {
+  "label": "#503 17:36.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in grey cap holding water bottle and gesturing while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Centered framing; mid-talk cut"
+ },
+ {
+  "label": "#504 17:37.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in grey cap gesturing with hand, water bottle in other hand",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Jump-cut style within the same interview"
+ },
+ {
+  "label": "#505 17:38.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hands unfolding a colourful paper map on a table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Insert detail shot; shallow focus; cutaway for map explanation"
+ },
+ {
+  "label": "#506 17:40.8",
+  "shot": "closeup",
+  "camera": "unknown",
+  "subject": "Folded paper map with orange terrain and blue lakes spread out",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm orange-tinted colour grade, static framing"
+ },
+ {
+  "label": "#507 17:44.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand holding and pointing at a map near a blue lake",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm colour grade, shallow framing on the map and fingers"
+ },
+ {
+  "label": "#508 17:47.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Burana minaret tower on flat grassland under overcast sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Desaturated, muted grey-green grade"
+ },
+ {
+  "label": "#509 17:48.2",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Tall brick minaret tower with decorative banding against pale sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle looking upward, muted tones"
+ },
+ {
+  "label": "#510 17:49.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Field of carved stone balbal statues on dry grass",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slightly hazy, washed-out grade"
+ },
+ {
+  "label": "#511 17:49.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in black walking away across grassy field toward trees",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, subject small in frame"
+ },
+ {
+  "label": "#512 17:51.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman crouching among stone statues on a grassy mound",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide framing with statues in foreground"
+ },
+ {
+  "label": "#513 17:52.2",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Carved stone statue with a face, woman-free background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slow push-in style, bright green grass"
+ },
+ {
+  "label": "#514 17:53.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in cap bending over a stone statue while woman in black watches",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Two-person framing, daylight grade"
+ },
+ {
+  "label": "#515 17:54.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Close view of carved stone statue face with a person's legs beside it",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Statue fills frame, warm tone"
+ },
+ {
+  "label": "#516 17:55.0",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman walking past minaret and stone statue toward mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking shot with mountains in background"
+ },
+ {
+  "label": "#517 17:59.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women posing arm in arm in front of minaret and spiral staircase",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Posed couple shot, bright daylight"
+ },
+ {
+  "label": "#518 18:06.2",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Drone view of minaret over green fields with snowy mountains and ruins",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing shot, saturated blue sky and greens"
+ },
+ {
+  "label": "#519 18:12.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in grey top gesturing with open hand in front of minaret",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-to-camera style, slight tilt"
+ },
+ {
+  "label": "#520 18:17.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women posing cheek to cheek, one with hand on chin, minaret behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Playful pose, shallow depth of field"
+ },
+ {
+  "label": "#520 18:21.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in grey top with hand near chin in front of minaret",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup as previous, label repeats #520 in source sheet"
+ },
+ {
+  "label": "#520 18:26.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in grey tee speaking in front of brick minaret, cutaway vase graphic top-left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Pottery vase cutout overlaid on upper left; natural daylight, grassy field background"
+ },
+ {
+  "label": "#520 18:30.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman gesturing with hands, vase, horn and dark seeds graphics overlaid",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cutout product-style images (vase, horn cup, seeds) composited around her; sequence of illustrated objects"
+ },
+ {
+  "label": "#520 18:34.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking with hands raised, spiral staircase tower visible left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static framing, slightly wide, natural light"
+ },
+ {
+  "label": "#520 18:38.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in grey tee with hands clasped, speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slight push-in framing, plain background"
+ },
+ {
+  "label": "#520 18:43.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with eyes half-closed, gesturing palm up, spiral staircase left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Jump-cut style continuity with previous shot"
+ },
+ {
+  "label": "#520 18:47.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman speaking, hand gesture at waist level",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tighter framing than previous"
+ },
+ {
+  "label": "#520 18:51.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in grey tee gesturing with both hands, tower and staircase behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight colour grade"
+ },
+ {
+  "label": "#520 18:55.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman speaking with slight smile, tower behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Framing right of centre"
+ },
+ {
+  "label": "#520 18:59.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with pursed expression, hands together, wide landscape behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wider framing, grass and minaret visible"
+ },
+ {
+  "label": "#521 19:03.1",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Mountain valley with snow-capped peaks and winding dirt road",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth drone flight, natural colour, likely B-roll cutaway"
+ },
+ {
+  "label": "#522 19:05.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Horses standing beside a rustic stone barn with tin roof",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Stable steady B-roll, natural light"
+ },
+ {
+  "label": "#523 19:07.1",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Forested valley with stream, grazing sheep, and dirt track",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Descending drone shot, slightly warm grade"
+ },
+ {
+  "label": "#524 19:10.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in grey tee gesturing with open palm, tower behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Return to talking-head interview setup"
+ },
+ {
+  "label": "#524 19:14.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women standing together, one in grey tee and one in black top, smiling",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Second presenter introduced; two-shot framing"
+ },
+ {
+  "label": "#524 19:18.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women clapping hands, one back to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Playful interaction moment"
+ },
+ {
+  "label": "#524 19:22.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women posing with arms out, one gesturing, tower behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Closing two-shot, hands on hips and gesture"
+ },
+ {
+  "label": "#524 19:26.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two young women posing side by side in front of a tower, grassy field behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright natural daylight, slightly warm grade; one woman has arm around the other's shoulder; spiral staircase tower visible at left"
+ },
+ {
+  "label": "#525 19:29.6",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Aerial view of a town on a lake shore with snow-capped mountains beyond",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide drone shot descending or panning over water and tan hillside settlement; clear sky, muted colours"
+ },
+ {
+  "label": "#526 19:31.7",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Drone flying over green grassy hillside with dirt track and rocks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Forward-moving drone shot over lush green slope under low cloud; soft overcast light"
+ },
+ {
+  "label": "#527 19:33.7",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Aerial view of a blue lake shoreline with sandy beach and cattle or structures",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "High drone angle over pale shore meeting deep blue water; saturated blue, sunny"
+ },
+ {
+  "label": "#528 19:35.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Same two women posing together by the tower, one leaning toward the other",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of the posing shot from #524 with a different framing; tighter crop, natural light"
+ },
+ {
+  "label": "#529 19:39.5",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Aerial city skyline of tall buildings with channel name overlay",
+  "text_on_screen": "ELENA TABER / @ELENATABER",
+  "text_style": "White bold spaced sans-serif capitals, centred; name at top, handle at bottom, over hazy sky and buildings",
+  "notes": "Channel intro/outro branding over a drone shot of a city; hazy, desaturated grade"
+ },
+ {
+  "label": "#529 19:43.9",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Same city skyline aerial with channel name overlay",
+  "text_on_screen": "ELENA TABER / @ELENATABER",
+  "text_style": "White bold spaced sans-serif capitals, centred; name at top, handle at bottom, over hazy sky and buildings",
+  "notes": "Same branding card held over a slightly different moment of the city drone shot; likely a repeated lower-third or end card"
+ }
+]

@@ -1,0 +1,5375 @@
+[
+ {
+  "label": "#1 00:00.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers walk on dirt trail toward snow-capped Kilimanjaro across savanna",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, blue sky, warm earthy grade; wide establishing shot"
+ },
+ {
+  "label": "#2 00:01.7",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Aerial view of dirt path through scrub with Kilimanjaro summit behind",
+  "text_on_screen": "MOUNT KILIMANJARO",
+  "text_style": "White serif all-caps title, centered, large; partially cut off mid-animation",
+  "notes": "Title fading in/wipe reveal; drone forward movement"
+ },
+ {
+  "label": "#3 00:02.7",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Aerial over green forest canopy with clouds over mountain",
+  "text_on_screen": "MOUNT KILIMANJARO",
+  "text_style": "White thin serif all-caps, centered, large",
+  "notes": "Title fully visible over footage; cool hazy grade"
+ },
+ {
+  "label": "#4 00:03.9",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Aerial over rocky hilltop with dirt trail and distant hills",
+  "text_on_screen": "MOUNT KILIMANJARO",
+  "text_style": "White thin serif all-caps, centered, large",
+  "notes": "Title holds over drone footage, drone glides forward"
+ },
+ {
+  "label": "#5 00:05.6",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Overhead view of pale rocky ground with small text block",
+  "text_on_screen": "MOUNT KILIMANJARO. Small coordinates above (3°07'S 37°21'E) and a multi-line paragraph of small descriptive text below",
+  "text_style": "White serif, title large centered; coordinates and body text tiny, low contrast, centered",
+  "notes": "Washed-out bright grade; text-heavy informational card"
+ },
+ {
+  "label": "#6 00:07.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in dark jacket and black pants standing on rocky plain with hills behind",
+  "text_on_screen": "MOUNT KILIMANJARO. Coordinates (3°07'S 37°21'E) above and small paragraph below",
+  "text_style": "White serif all-caps title, large, centered over subject; small body text",
+  "notes": "Title overlaps presenter; hazy sky grade"
+ },
+ {
+  "label": "#7 00:08.3",
+  "shot": "title_card",
+  "camera": "handheld",
+  "subject": "Hiker with backpack walking on dry scrubland past boulders",
+  "text_on_screen": "KILIMANJARO (only partial 'IANJARO' visible)",
+  "text_style": "White thin serif all-caps, large, centered",
+  "notes": "Title partially revealed by wipe; wide shot"
+ },
+ {
+  "label": "#8 00:09.3",
+  "shot": "closeup",
+  "camera": "gimbal",
+  "subject": "Woman in profile looking left, dark jacket and backpack straps",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, soft background; warm natural light"
+ },
+ {
+  "label": "#9 00:10.5",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Dusty dirt path across barren rocky terrain under hazy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Desaturated, hazy grade; slow drone movement"
+ },
+ {
+  "label": "#10 00:11.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker in dark clothing examining mossy tree trunk in forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Green foliage, natural lighting; subject partially framed by branches"
+ },
+ {
+  "label": "#11 00:12.3",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with backpack and trekking pole looking up in green forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth tracking shot, green lush background"
+ },
+ {
+  "label": "#12 00:13.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Line of hikers ascending rocky slope toward distant mountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright sky with clouds; warm grade; mountain as background reveal"
+ },
+ {
+  "label": "#13 00:14.1",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Hikers walking down dirt trail into barren crater with rock formations",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot, muted earth tones"
+ },
+ {
+  "label": "#14 00:14.9",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Silhouetted hikers walking on rocky ground against blue sky and clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Backlit silhouettes, high contrast"
+ },
+ {
+  "label": "#15 00:15.7",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with backpack smiling on rocky trail, porter carrying load behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus on subject, bright daylight, vegetation on rocks"
+ },
+ {
+  "label": "#16 00:16.4",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in beanie and blue jacket with backpack looking back at camera on plain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright sky, low angle; closing-style portrait shot"
+ },
+ {
+  "label": "#17 00:17.1",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Dark volcanic ridge with clouds over barren landscape",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Muted, desaturated grade; low clouds at top"
+ },
+ {
+  "label": "#18 00:18.4",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Vast dry brown plain under pale blue sky, distant mountain ridge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot; warm earthy tones"
+ },
+ {
+  "label": "#19 00:19.6",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Hiker in distance on rocky terrain with cloud-covered volcano",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Small figure for scale; hazy atmosphere"
+ },
+ {
+  "label": "#20 00:20.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with backpack and trekking poles beside large boulder, mountain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject framed right of centre; snowy peak in background"
+ },
+ {
+  "label": "#21 00:22.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in grey hooded jacket close to camera, misty background",
+  "text_on_screen": "THIS IS THE HARDEST THING I'VE EVER DONE",
+  "text_style": "Sans-serif caps, small, yellow, centred near lower third",
+  "notes": "Selfie close-up; caption sits over the subject's chest area"
+ },
+ {
+  "label": "#22 00:23.6",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Dusty trail winding across barren slope toward cloud bank, tiny figure",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Long-lens or wide landscape; cloud drifting across frame"
+ },
+ {
+  "label": "#23 00:23.9",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman raising arm beside green tent, snow-capped mountain with cloud cap",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject standing near tent; bright daylight"
+ },
+ {
+  "label": "#24 00:24.2",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Campsite of tents among shrubs under overcast sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low contrast, muted grey sky"
+ },
+ {
+  "label": "#25 00:24.5",
+  "shot": "other",
+  "camera": "unknown",
+  "subject": "Group of people eating in a dome-shaped shelter with food on table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm orange interior light, sun flare through opening"
+ },
+ {
+  "label": "#26 00:24.8",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman with backpack standing before large snowy mountain and rock cairn",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject placed left of frame; mountain dominates"
+ },
+ {
+  "label": "#27 00:25.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in orange jacket walking up rocky ridge in mist",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind; hazy grey tones"
+ },
+ {
+  "label": "#28 00:25.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman sitting on rocks writing in a notebook, snowy ground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Relaxed pose; bright overexposed sky"
+ },
+ {
+  "label": "#29 00:25.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers with backpacks on rocky trail, woman in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Vibrant saturated blue sky; diagonal composition"
+ },
+ {
+  "label": "#30 00:26.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Three friends posing together with arms around each other, one kicking leg",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Playful group pose; mountain behind"
+ },
+ {
+  "label": "#31 00:26.4",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Group of trekkers walking across dark volcanic ground near snowfield",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Misty, cool grade"
+ },
+ {
+  "label": "#32 00:26.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in hood and black beanie waving at camera, grey landscape",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing; outstretched arm gesture"
+ },
+ {
+  "label": "#33 00:27.1",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Silhouetted hiker with trekking poles at sunrise over mountain ridge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm orange sunrise grade, deep shadows, low sun backlighting"
+ },
+ {
+  "label": "#34 00:29.0",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Woman with backpack sitting on rock overlooking green valley and clouds",
+  "text_on_screen": "CLIMBING AFRICA'S TALLEST MOUNTAIN IN 8 DAYS",
+  "text_style": "White sans-serif caps, thin small line 'CLIMBING' top-left, large title across middle, smaller 'IN 8 DAYS' right; white text over sky",
+  "notes": "Title overlay on landscape footage, bright saturated grade"
+ },
+ {
+  "label": "#35 00:32.4",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Hotel exterior with parked vans and trees, seen through window or glass frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Framed by dark foreground edge, natural daylight"
+ },
+ {
+  "label": "#36 00:36.2",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in dark outfit with backpack standing in hotel room by wooden door",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior lighting, wall sconce, static framing"
+ },
+ {
+  "label": "#36 00:40.3",
+  "shot": "closeup",
+  "camera": "tripod",
+  "subject": "Woman talking to camera in hotel room, close framing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head interview, warm yellow tones, slight cut-in framing"
+ },
+ {
+  "label": "#36 00:44.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, hands together, in hotel room",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head, warm grade, jump-cut candidate"
+ },
+ {
+  "label": "#36 00:48.5",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman gesturing animatedly while talking in hotel room",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Expressive talking-head, warm interior"
+ },
+ {
+  "label": "#36 00:52.6",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera with backpack straps visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head, warm interior grade"
+ },
+ {
+  "label": "#36 00:56.6",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman talking to camera, hands gesturing at lower frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head, warm interior grade"
+ },
+ {
+  "label": "#36 01:00.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman smiling with arms spread wide in hotel room",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Celebratory gesture, likely end-of-segment beat, warm grade"
+ },
+ {
+  "label": "#37 01:03.5",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Aerial view of Mount Kilimanjaro over dry savanna with dirt track",
+  "text_on_screen": "LET'S HIKE MOUNT KILIMANJARO",
+  "text_style": "White thin sans-serif caps, centered, lower-middle of frame",
+  "notes": "Drone establishing shot, desaturated natural grade"
+ },
+ {
+  "label": "#38 01:05.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman leaning over a chair in hotel room, backpack on",
+  "text_on_screen": "LET'S HIKE MOUNT KILIMANJARO",
+  "text_style": "White thin sans-serif caps, centered, same style as previous title, over room footage",
+  "notes": "Title carried over from previous shot as overlay, likely cross-fade or hard cut"
+ },
+ {
+  "label": "#39 01:08.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in dark top seated on chair in hotel room talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head, warm interior, centered framing"
+ },
+ {
+  "label": "#39 01:13.0",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated talking to camera, hands low in frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head, continuous with previous shot"
+ },
+ {
+  "label": "#40 01:16.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated smiling and talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head, warm grade"
+ },
+ {
+  "label": "#41 01:19.6",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated talking to camera, hands gesturing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head, likely outro segment, warm grade"
+ },
+ {
+  "label": "#42 01:23.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in black top seated in hotel room, talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm indoor lighting, static framing, wall AC unit and wooden door in background"
+ },
+ {
+  "label": "#43 01:25.9",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Same woman seated, smiling and gesturing with hands while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing, warm grade"
+ },
+ {
+  "label": "#43 01:30.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated, hands clasped together while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#43 01:34.3",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated, fingertips pressed together while explaining",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#43 01:38.5",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman with both hands open wide, gesturing expressively",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#43 01:42.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated, hands together in front of chest, looking off-camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#43 01:46.9",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated, hands forming a triangle shape while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#44 01:50.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman with fingers spread, gesturing while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#45 01:53.2",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated, hand on chest, looking at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#45 01:57.3",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated, hands clasped low, speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#45 02:01.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated, hand gesturing near lap, speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#45 02:05.5",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman smiling, hands raised near chest with fingers curled",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static interview framing"
+ },
+ {
+  "label": "#46 02:10.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman close to camera in hotel room, pointing finger and talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Handheld selfie-style framing, arm-length distance, warm grade"
+ },
+ {
+  "label": "#47 02:17.1",
+  "shot": "screen",
+  "camera": "unknown",
+  "subject": "Old-style footage of snow-capped mountain with dirt track, appears to be archival TV-style clip",
+  "text_on_screen": "IN SWAHILI IT'S CALLED",
+  "text_style": "White uppercase sans-serif subtitle-style text, small, centered near bottom of frame",
+  "notes": "Letterboxed clip with black bars, dated video look, slight blur"
+ },
+ {
+  "label": "#48 02:21.2",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Herd of zebras walking across dry golden savanna",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Drone-style high angle, warm golden grade, mountain visible at top edge"
+ },
+ {
+  "label": "#49 02:23.4",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Snow-capped Mount Kilimanjaro above green treeline under blue sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Film-like vintage look with slight border and scratches, bright contrast, black side bars"
+ },
+ {
+  "label": "#50 02:25.5",
+  "shot": "other",
+  "camera": "unknown",
+  "subject": "Three people in sepia vintage photo, wrapped in cloth, posed side by side",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Aged sepia photograph with black border and worn film edges; archival still"
+ },
+ {
+  "label": "#51 02:28.9",
+  "shot": "medium",
+  "camera": "unknown",
+  "subject": "Woman in orange garment seated and speaking indoors beside a pillar",
+  "text_on_screen": "HOW DOES IT HELP YOU, SINCE YOU LIVE HERE AT ITS BASE?",
+  "text_style": "white sans-serif subtitle caps, centered bottom, small",
+  "notes": "Interview-style footage with subtitle captions; warm grade, letterboxed black bars"
+ },
+ {
+  "label": "#52 02:32.2",
+  "shot": "other",
+  "camera": "unknown",
+  "subject": "Aerial-like view of clouds or misty plain",
+  "text_on_screen": "SO THERE IS PLENTY OF GRASS FOR OUR CATTLE.",
+  "text_style": "white sans-serif subtitle caps, centered bottom, small",
+  "notes": "Cool blue tones; subtitle overlay continues from interview narration"
+ },
+ {
+  "label": "#53 02:34.0",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "People standing around a large thatched hut, sepia archival scene",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Old black-and-white or sepia archival image with vignette and black frame"
+ },
+ {
+  "label": "#54 02:35.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in blue jacket standing on dry plain before snow-capped mountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Full-frame landscape, warm natural grade; subject small in mid-frame"
+ },
+ {
+  "label": "#55 02:37.3",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Black-and-white view of mountain above acacia trees on plain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Archival print framed with white border on black background"
+ },
+ {
+  "label": "#56 02:38.9",
+  "shot": "other",
+  "camera": "unknown",
+  "subject": "Antique map of Kilima Njaro mountain with inset chart",
+  "text_on_screen": "KILIMA NJARO M'T",
+  "text_style": "black serif caps on cream map, mid-right",
+  "notes": "Historical engraved map, scanned and framed flat"
+ },
+ {
+  "label": "#57 02:40.7",
+  "shot": "closeup",
+  "camera": "unknown",
+  "subject": "Sepia portrait of a man in dark suit with moustache",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Vintage studio portrait with rounded vignette on black background"
+ },
+ {
+  "label": "#58 02:42.5",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Hikers walking along trail toward mountain across scrubland",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cool daylight grade, mountain in background, rocky foreground"
+ },
+ {
+  "label": "#59 02:46.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person in striped jacket walking through green hillside vegetation",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Older film look with saturated greens and warm yellow cast; letterboxed inset"
+ },
+ {
+  "label": "#60 02:50.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers standing on dark volcanic terrain with winding trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide landscape, blue sky at top, cool grade"
+ },
+ {
+  "label": "#61 02:53.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Group of hikers with backpacks on red-dirt path through green bush",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Vibrant natural greens, warm earth tones, candid group movement"
+ },
+ {
+  "label": "#62 02:54.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker with backpack walking across dry rocky ground under open sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, lower-angle framing with rocks in foreground"
+ },
+ {
+  "label": "#63 02:56.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker on narrow path between shrubs with grassy hills behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Soft natural grade, path leads toward the camera center"
+ },
+ {
+  "label": "#64 02:57.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Small hiker on rocky slope below misty volcanic peak",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Muted desaturated grade with fog; subject small in lower frame"
+ },
+ {
+  "label": "#65 02:58.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hooded hikers with trekking poles walking on gravel path in mist",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cool overcast grade, group walking toward camera"
+ },
+ {
+  "label": "#66 02:60.0",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Glacier ice cliff on mountain slope under hazy grey sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Muted, desaturated grey-white grade; landscape establishing shot"
+ },
+ {
+  "label": "#67 03:02.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Trekkers with backpacks and poles hiking up a dusty volcanic slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mountain peak behind group; natural daylight, slightly warm grade"
+ },
+ {
+  "label": "#68 03:04.7",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Kilimanjaro Warriors flag by tents and gathered crowd on mountainside",
+  "text_on_screen": "KilimanjaroWarriorsExpedition",
+  "text_style": "Brand logo on white flag in red and dark blue sans-serif, flag mid-frame top-right",
+  "notes": "Bright blue sky; flag provides brand reveal"
+ },
+ {
+  "label": "#69 03:06.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Porters carrying loads through lush green forest path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Saturated green foliage; natural ambient sound implied"
+ },
+ {
+  "label": "#70 03:08.5",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Dusk camp with orange dome tent and snow-capped mountain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Purple-pink dusk grade; calm, slow establishing feel"
+ },
+ {
+  "label": "#71 03:10.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Cook preparing food inside tent with pot over flame, a second person beside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm orange interior light, tight framing, candid documentary feel"
+ },
+ {
+  "label": "#72 03:11.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hand reaching toward forest path with porter walking ahead",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand blurred in foreground, motion-based transition candidate"
+ },
+ {
+  "label": "#73 03:14.3",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Smiling porter with large bag on back, a hand reaching in from right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, green forest background, handoff-style transition"
+ },
+ {
+  "label": "#74 03:16.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand passing an item to a hiker wearing a pink jacket and backpack",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close framing on hands, bright natural green background"
+ },
+ {
+  "label": "#75 03:18.3",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Smiling person in blue jacket peering into green tent entrance, hand in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tent-opening framing; warm candid mood"
+ },
+ {
+  "label": "#76 03:20.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Large group of crew in dark uniforms standing before snowy mountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Group posed shot; flag visible at left; natural light"
+ },
+ {
+  "label": "#77 03:22.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Crew dancing and cheering on dusty road holding white flag",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Energetic celebratory moment; mountain in background"
+ },
+ {
+  "label": "#78 03:23.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of crew gathered on dusty plain with mountain behind, one woman in front",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide group shot, slight warm grade"
+ },
+ {
+  "label": "#79 03:26.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Group of trekkers waving and posing together on rocky ground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Friendly group pose; one person waving, cloud over mountain"
+ },
+ {
+  "label": "#80 03:28.8",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Top-down view of a lone person walking along a dusty path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overhead drone shot, neutral grey-tan grade; good transition point"
+ },
+ {
+  "label": "#81 03:31.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in patterned shirt walking on street in Arusha town with motorbikes",
+  "text_on_screen": "ARUSHA",
+  "text_style": "Bold white sans-serif capitals on red building signage, mid-frame, partially obscured",
+  "notes": "Urban street scene, bright daylight, town life, ends sequence"
+ },
+ {
+  "label": "#82 03:33.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "narrow market alley with stalls and shoppers under hanging cloth",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "dim, warm shadowed grade; crowded lane, shallow depth"
+ },
+ {
+  "label": "#83 03:35.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "man walking down street past parked cars and motorbikes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "street-level, slight shake; natural daylight; overhead awning on right"
+ },
+ {
+  "label": "#84 03:36.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "vendors with fruit stalls, man in foreground looking aside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "busy market, saturated colours; people partly framed at edges"
+ },
+ {
+  "label": "#85 03:36.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "man in yellow jersey at fruit stall beside bearded man",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "over-the-shoulder style framing; vivid produce colours"
+ },
+ {
+  "label": "#86 03:37.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "hands handling leafy greens at a vegetable stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "tight framing on produce; warm light"
+ },
+ {
+  "label": "#87 03:38.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "vendor cutting open a cassava or yam, potatoes in basin",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "hands-focused insert; shallow depth of field"
+ },
+ {
+  "label": "#88 03:39.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "pile of fresh ginger roots filling the frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "static texture insert; muted earthy grade"
+ },
+ {
+  "label": "#89 03:40.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "women selling bananas and produce in green-clad market",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "people in foreground, colourful market backdrop"
+ },
+ {
+  "label": "#90 03:41.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "woman with bag walking through market past banana stalls",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "follow shot from behind; subject centred-left"
+ },
+ {
+  "label": "#91 03:42.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "carrots, eggplants and citrus on display, vendor in green sleeve",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "colourful produce close-up; vendor partly visible at right edge"
+ },
+ {
+  "label": "#92 03:42.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "covered market hall with shoppers between vegetable stalls",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "wide establishing of interior; overhead lighting, slight haze"
+ },
+ {
+  "label": "#93 03:43.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "sacks of dried beans and grains, one with plastic bag",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "static detail shot; rich reds and browns"
+ },
+ {
+  "label": "#94 03:44.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "vendor in blue handling bunches of fresh herbs and greens",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "hands entering frame; green dominant palette"
+ },
+ {
+  "label": "#95 03:45.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "stall with cucumbers, tomatoes and carrots in plastic bag",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "stall-level framing; saturated reds and greens"
+ },
+ {
+  "label": "#96 03:45.9",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "bowls of lentils, chickpeas and split peas",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "overhead-angled pulse display; warm golden grade"
+ },
+ {
+  "label": "#97 03:46.4",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "carrots, tomatoes, cucumbers and eggplants in crates",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "dense produce close-up; vivid saturation, end-of-sequence feel"
+ },
+ {
+  "label": "#98 03:46.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Market stall with vendor surrounded by tomatoes, potatoes, and produce",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, warm colour grade, busy market ambience"
+ },
+ {
+  "label": "#99 03:47.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Aisle of spice and grain stalls with shoppers in yellow and colourful clothing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm, slightly saturated grade; walking pace movement through crowd"
+ },
+ {
+  "label": "#100 03:48.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women in purple and red wrappers at vegetable stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid observational framing, shallow depth of field"
+ },
+ {
+  "label": "#101 03:49.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor grilling meat over a charcoal grill in a tin-walled stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smoke visible, warm highlights"
+ },
+ {
+  "label": "#102 03:49.8",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hands turning grilled meat pieces over smoky grill",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight framing on food preparation, smoke haze"
+ },
+ {
+  "label": "#103 03:50.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Dried smoked fish piled on tray beside seated vendor in dark shirt",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Muted, earthy colour grade"
+ },
+ {
+  "label": "#104 03:51.4",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Heap of small dried fish filling the frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Macro-like texture shot, good as cutaway"
+ },
+ {
+  "label": "#105 03:52.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Whole smoked fish arranged on a metal tray",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus, warm tones"
+ },
+ {
+  "label": "#106 03:52.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Butcher in white coat working beside hanging raw meat, customer in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hanging carcass in right foreground; candid interaction"
+ },
+ {
+  "label": "#107 03:54.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor in yellow jersey gesturing beside shelves of jarred spices",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Vendor speaks to camera-side; natural light"
+ },
+ {
+  "label": "#108 03:56.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Pile of dried tree bark and roots on shop counter",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static-ish framing, muted palette"
+ },
+ {
+  "label": "#109 03:58.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Heap of dried roots and bark pieces filling frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Texture cutaway, warm beige tones"
+ },
+ {
+  "label": "#110 03:59.3",
+  "shot": "closeup",
+  "camera": "tripod",
+  "subject": "Wicker bowl of dried items and seeds on a cloth-covered table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overhead-angle still framing, neutral light"
+ },
+ {
+  "label": "#111 04:02.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Vendor in yellow jersey standing among dim shelves of jars",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Darker, low-key exposure compared with earlier shots"
+ },
+ {
+  "label": "#112 04:06.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman with dark hair speaking to camera in a stall",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Presenter-to-camera talking head, shallow depth of field, background shop clutter"
+ },
+ {
+  "label": "#113 04:09.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling at camera in busy market with fabrics behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close framing on presenter, bokeh background, likely outro or transition beat"
+ },
+ {
+  "label": "#114 04:11.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Market stall piled with green bananas, a vendor reaching in, dim indoor light",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm natural light, slightly shaky handheld feel"
+ },
+ {
+  "label": "#115 04:14.7",
+  "shot": "title_card",
+  "camera": "tripod",
+  "subject": "Overhead view of wooden floor with packing gear, empty center text",
+  "text_on_screen": "TIME TO PACK",
+  "text_style": "thin white sans-serif caps, small, centered on wood floor",
+  "notes": "Top-down flat lay; text appears as a title overlay"
+ },
+ {
+  "label": "#115 04:18.7",
+  "shot": "pov",
+  "camera": "tripod",
+  "subject": "Overhead flat lay of white puffer jacket, black clothes, hiking pack on wood floor",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Top-down static shot, items being laid out"
+ },
+ {
+  "label": "#115 04:22.8",
+  "shot": "pov",
+  "camera": "tripod",
+  "subject": "Overhead flat lay expanded: boots, water bottles, gloves, jacket, clothing, a cap",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Top-down, gear accumulating, warm wood tones"
+ },
+ {
+  "label": "#115 04:26.8",
+  "shot": "selfie",
+  "camera": "tripod",
+  "subject": "Woman lying on floor smiling among laid-out gear, arms spread",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overhead angle with presenter in frame, warm grade"
+ },
+ {
+  "label": "#115 04:30.9",
+  "shot": "selfie",
+  "camera": "tripod",
+  "subject": "Woman lying among gear wearing sunglasses, smiling, arms out",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same overhead setup as previous, slight reframe"
+ },
+ {
+  "label": "#115 04:34.9",
+  "shot": "aerial",
+  "camera": "drone",
+  "subject": "Drone view over dense green forest with clouds and mountain ridge",
+  "text_on_screen": "STARTING AT 2,100M (6,890FT)",
+  "text_style": "small white sans-serif caps, centered over forest, two lines with 'STARTING AT' above elevation",
+  "notes": "Transition from gear flat lay to forest; overlay appears mid-frame"
+ },
+ {
+  "label": "#116 04:38.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Person in cap at vehicle window looking out at dry plains and distant mountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hazy muted grade, shot through car window, slightly desaturated"
+ },
+ {
+  "label": "#117 04:40.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Crowd of porters and hikers gathering on grass near parked vehicles, black bags of gear",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, natural colour"
+ },
+ {
+  "label": "#118 04:43.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Wooden park entrance sign with text in forest clearing",
+  "text_on_screen": "",
+  "text_style": "sign text is carved/printed, not overlay",
+  "notes": "Establishing shot of trailhead sign"
+ },
+ {
+  "label": "#119 04:47.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with hands on hips in forest trail, backpack on, smiling",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Presenter to camera, natural daylight"
+ },
+ {
+  "label": "#119 04:51.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman gesturing with open hands while talking to camera on forest trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head style, natural light"
+ },
+ {
+  "label": "#119 04:55.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with sunglasses on head, hands raised, talking on forest path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head, slightly low angle"
+ },
+ {
+  "label": "#120 04:58.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Porters carrying heavy loads walking up a forest trail, hiker in cap in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, shallow depth, green tones"
+ },
+ {
+  "label": "#121 05:00.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Porters with large packs walking single file on forest trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot, rear view, natural colour"
+ },
+ {
+  "label": "#122 05:02.2",
+  "shot": "pov",
+  "camera": "gimbal",
+  "subject": "Porter carrying load on trail seen from behind, hiker's backpack in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder framing with foreground pack blur"
+ },
+ {
+  "label": "#123 05:03.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in black tank top walking on forest trail, backpacks at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, green muted grade, mossy trees framing"
+ },
+ {
+  "label": "#124 05:07.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Smiling man in black cap talking with woman beside him in forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Two-shot split framing, woman in profile at right edge, interview-style conversation"
+ },
+ {
+  "label": "#124 05:12.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Same man in cap laughing while woman listens at right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of previous conversation, same setup, cut mid-dialogue"
+ },
+ {
+  "label": "#125 05:16.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Porter carrying large green duffel bag on head along forest path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follows porter from behind, tree trunk in left foreground, warm light"
+ },
+ {
+  "label": "#126 05:17.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in cap gesturing while woman touches her face beside him",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight two-shot, blue backpack strap visible, candid talking-head feel"
+ },
+ {
+  "label": "#127 05:19.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group hiking single file on mossy forest trail under branches",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle through foreground branch, depth framing"
+ },
+ {
+  "label": "#128 05:21.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in cap speaking to camera, hand raised, backpack straps visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Direct address, forest background softly blurred"
+ },
+ {
+  "label": "#129 05:23.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman laughing, cropped at mouth, blue backpack strap",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Reaction insert, tight crop"
+ },
+ {
+  "label": "#130 05:25.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in cap smiling beside woman covering her mouth laughing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Reaction shot, warm natural tones"
+ },
+ {
+  "label": "#131 05:28.2",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Three hikers posing on fern-lined path, man raising arm and waving",
+  "text_on_screen": "BRETT",
+  "text_style": "small white sans-serif, semi-transparent, centre-right low in frame",
+  "notes": "Faded watermark-like name tag, lush green grade"
+ },
+ {
+  "label": "#131 05:32.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman and man in white shirt smiling and leaning toward camera on trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Posed group shot, same location as previous, slight push-in"
+ },
+ {
+  "label": "#132 05:35.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Porters with loads walking through ferns in dense forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Backlit foliage, sunlit tree trunk at centre"
+ },
+ {
+  "label": "#133 05:36.4",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in black tank top and blue backpack walking toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking walk-in shot, bright green background"
+ },
+ {
+  "label": "#134 05:37.6",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Two hikers with backpacks walking away on dirt trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, bush foliage both sides"
+ },
+ {
+  "label": "#135 05:39.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Woman with blue backpack walking on red dirt path through bushes",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot, warm red-earth tones, slight side angle"
+ },
+ {
+  "label": "#136 05:41.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Mossy tree trunk and branch close up with forest canopy",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static-feeling nature insert, bright highlights at top right, good as B-roll transition"
+ },
+ {
+  "label": "#137 05:42.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top drinking from hydration bladder tube in forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, green foliage, slightly warm grade"
+ },
+ {
+  "label": "#138 05:44.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Mossy trees and ferns along forest trail, no people visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing environmental shot, soft greens"
+ },
+ {
+  "label": "#139 05:47.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top bending down to tie or adjust gear on trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dappled forest light, muted greens"
+ },
+ {
+  "label": "#139 05:52.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in white shirt standing; woman in black top crouched beside him",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-the-shoulder style framing, dirt trail"
+ },
+ {
+  "label": "#139 05:57.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman seated on trail smiling, man's legs in frame at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of previous conversation scene"
+ },
+ {
+  "label": "#140 06:00.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top seated on ground adjusting shoe, man's hand holding boot",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight cut, slightly darker forest tones"
+ },
+ {
+  "label": "#141 06:05.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman sipping from hydration tube, hikers blurred in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, bright daylight background"
+ },
+ {
+  "label": "#142 06:09.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Tall slender palms and dense green forest understory, no people",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth gimbal move, B-roll transition"
+ },
+ {
+  "label": "#143 06:11.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Gnarled moss-covered branches arching over forest canopy",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Looking upward, cool green grade"
+ },
+ {
+  "label": "#144 06:14.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Small monkey perched in tree branches among leaves",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wildlife B-roll, sunlit leaves"
+ },
+ {
+  "label": "#145 06:16.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Dark backpack hanging on mossy tree trunk, sunlit green leaves",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close framing on trunk, saturated greens"
+ },
+ {
+  "label": "#146 06:18.6",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Large twisted tree trunk with leaves framing right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground leaf blur, soft focus"
+ },
+ {
+  "label": "#147 06:20.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling and talking to camera on forest trail, blue backpack strap",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Vlog-style direct address, natural light"
+ },
+ {
+  "label": "#148 06:21.3",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Forest canopy and trail ahead, hand edge visible at bottom",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Walking POV, bright overexposed sky"
+ },
+ {
+  "label": "#149 06:22.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Guide Gilbert in cap waving at camera, hikers walking trail behind",
+  "text_on_screen": "OUR OTHER GUIDE GILBERT",
+  "text_style": "Small white sans-serif caption, lower-left, semi-transparent",
+  "notes": "Lower-third style caption introducing guide; group walking shot"
+ },
+ {
+  "label": "#150 06:24.5",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Wide shot of forest path with small figure walking far ahead",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Blurred foreground leaves at top, closing wide establishing shot"
+ },
+ {
+  "label": "#151 06:26.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker walking down forest trail under tall trees, small figure in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, slightly green-warm grade, wide establishing feel"
+ },
+ {
+  "label": "#152 06:29.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dirt path winding through dense green vegetation",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Pathway leads into frame, empty trail as transition-friendly establishing shot"
+ },
+ {
+  "label": "#153 06:30.6",
+  "shot": "other",
+  "camera": "handheld",
+  "subject": "Black-and-white colobus monkeys sitting in tree branches",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wildlife insert, tilted upward angle, natural light filtering through leaves"
+ },
+ {
+  "label": "#154 06:32.0",
+  "shot": "other",
+  "camera": "handheld",
+  "subject": "Colobus monkey climbing among leafy branches overhead",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of wildlife sequence, bright backlit canopy"
+ },
+ {
+  "label": "#155 06:33.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Gnarled tree trunk beside path with foliage in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static-feeling framing, leaves in foreground for depth"
+ },
+ {
+  "label": "#156 06:34.5",
+  "shot": "other",
+  "camera": "handheld",
+  "subject": "Kilimanjaro National Park entrance sign with route information",
+  "text_on_screen": "KILIMANJARO NATIONAL PARK TANZANIA; MTI MKUBWA CAMP ELEVATION 2650M; SIMBA CAMP; BARANCO CAMP; BARAFU CAMP; MWEKA CAMP",
+  "text_style": "Serif-style white-on-dark-brown carved sign text, small size, centred on sign board",
+  "notes": "Informational signage insert, tents blurred behind sign"
+ },
+ {
+  "label": "#157 06:35.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with dark hair and blue backpack looking sideways near teal tent",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder profile framing, natural daylight, talking-head candid style"
+ },
+ {
+  "label": "#158 06:37.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman gesturing with hand near chin while speaking, hiker passing behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie-style close framing, shallow depth of field, bright greenery background"
+ },
+ {
+  "label": "#159 06:38.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with hand behind head smiling at camera, camp in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Arm-extended selfie angle, tilted frame, blurred campsite background"
+ },
+ {
+  "label": "#160 06:40.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling and talking to camera with hand on chest, hikers behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie vlog framing, warm natural grade, cut-friendly talking segment"
+ },
+ {
+  "label": "#161 06:40.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman making fist gesture while speaking to camera outdoors",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight selfie framing, quick cut from previous talking shot"
+ },
+ {
+  "label": "#162 06:41.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in cap and backpack sitting at camp table writing in notebook",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid observational shot, red gas canister in foreground, teal tent behind"
+ },
+ {
+  "label": "#163 06:43.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in cap and backpack gesturing with hands beside red gas canister",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-ish framing at camp table, teal tents in background, natural light"
+ },
+ {
+  "label": "#164 06:47.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in shorts walking past pink-red tent in forest campsite",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Walking-past transitional shot, tree trunk at right edge"
+ },
+ {
+  "label": "#165 06:53.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman inside red tent looking down, backpacks beside her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Strong red colour cast from tent interior, moody warm grade, low light"
+ },
+ {
+  "label": "#165 06:59.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman inside red tent speaking to camera, hands together",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same red-tent setting as previous shot, talking-to-camera wrap-up, label duplicates #165 as shown"
+ },
+ {
+  "label": "#166 07:03.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman sitting at small tent in forest campsite beside large tree trunk",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, green foliage, slightly warm grade"
+ },
+ {
+  "label": "#167 07:06.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman inside red tent grimacing and speaking, backpack beside her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm red tent interior lit by camera light, close framing"
+ },
+ {
+  "label": "#168 07:09.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in tent holding up a blue bag",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Red tent walls, warm saturated grade, medium framing"
+ },
+ {
+  "label": "#168 07:14.8",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in tent looking down at items, smiling slightly",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight framing, red tent background, warm grade"
+ },
+ {
+  "label": "#168 07:19.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in red tent holding snack packets and looking at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm red interior, orange sleeping bag visible, slight vignette"
+ },
+ {
+  "label": "#168 07:24.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in red tent holding blue packet with candy bag in foreground",
+  "text_on_screen": "WARHEADS",
+  "text_style": "Bold sans-serif brand logo on candy packet, yellow and red, lower right",
+  "notes": "Product visible in frame, warm red tent grade"
+ },
+ {
+  "label": "#169 07:29.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in dark jacket writing in notebook while sitting on orange sleeping bag",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dim low-light tent interior, orange bag as main colour"
+ },
+ {
+  "label": "#169 07:33.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman lying on orange sleeping bag in dark tent, bottle beside her",
+  "text_on_screen": "ONE FOOT FORWARD (on bottle, partly legible)",
+  "text_style": "Small white serif text on dark bottle label, lower right",
+  "notes": "Low-key dark exposure, orange bag dominant"
+ },
+ {
+  "label": "#169 07:37.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman lying on orange sleeping bag in dark tent, smiling and looking up",
+  "text_on_screen": "ONE FOOT FORWARD (on bottle, partly legible)",
+  "text_style": "Small white serif text on dark bottle label, lower centre",
+  "notes": "Dark background, orange bag, low-key grade"
+ },
+ {
+  "label": "#170 07:41.0",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Campsite scene with tents and people, title overlay",
+  "text_on_screen": "2880M 9,120FT MTI MKUBWA CAMP DAY",
+  "text_style": "Gold/yellow thin sans-serif, large centred title with circular altitude emblem top left, sits over darkened campsite footage",
+  "notes": "Title card over forest campsite, dimmed background for legibility"
+ },
+ {
+  "label": "#171 07:44.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two women sitting on ground by pink tent eating from bowls, man's legs at left edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, natural colours, pink tent backdrop"
+ },
+ {
+  "label": "#172 07:46.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Man and two women sitting on ground by pink tent with red and blue bowls",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, natural colours, group framing"
+ },
+ {
+  "label": "#173 07:48.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Red and blue bowls of water on ground with hands and small items nearby",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Top-down angle, muted earthy tones, shallow focus"
+ },
+ {
+  "label": "#174 07:50.4",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand holding white tube over blue bowl near red bowl",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close top-down framing, earthy ground tones"
+ },
+ {
+  "label": "#175 07:55.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Three people sitting on ground by pink tent, one holding bowl",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Daylight, natural colours, group framing"
+ },
+ {
+  "label": "#176 07:59.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Three people sitting by pink tent, one covering face with hands",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Daylight, natural colours, comedic moment"
+ },
+ {
+  "label": "#177 08:01.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman crouching by camp stove near pink tent, another person leaning over",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, slightly warm grade, handheld casual framing"
+ },
+ {
+  "label": "#178 08:02.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman eating from a bowl or plate, eyes closed, forest behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, green background blur"
+ },
+ {
+  "label": "#179 08:04.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman talking to camera while holding food item, trees behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie-style talking head, natural light"
+ },
+ {
+  "label": "#180 08:07.9",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman talking to camera holding a tube of sunscreen or cream",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Product-hold moment, shallow focus, tent visible in background"
+ },
+ {
+  "label": "#181 08:10.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hands serving fried eggs, tomato and meat onto a plate on teal table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Teal tent interior, warm food close framing"
+ },
+ {
+  "label": "#182 08:11.6",
+  "shot": "aerial",
+  "camera": "tripod",
+  "subject": "Overhead view of breakfast plate with eggs, toast, meat and tomato on patterned tablecloth",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Top-down flat lay, colourful African-print tablecloth, saturated colour"
+ },
+ {
+  "label": "#183 08:12.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Man in black cap sitting at table in tent with thermos and food",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright tent interior with white and teal dome walls, soft diffused light"
+ },
+ {
+  "label": "#184 08:13.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Man at tent table with red and pink thermoses and mugs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright overexposed tent, background figure in orange jacket"
+ },
+ {
+  "label": "#185 08:15.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Smiling man in black cap at table, blurred woman in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground blur used as framing device, teal and white tent"
+ },
+ {
+  "label": "#186 08:18.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman talking to camera inside tent",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie framing, slightly soft background, natural light"
+ },
+ {
+  "label": "#187 08:20.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman sipping from a mango juice carton",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing, tent background"
+ },
+ {
+  "label": "#188 08:22.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand holding up a mango Tropicana-style juice carton toward camera",
+  "text_on_screen": "FRUYI, MANGO",
+  "text_style": "Brand logo on carton, orange and white, small size, centred on carton",
+  "notes": "Product insert, blurred woman behind carton"
+ },
+ {
+  "label": "#189 08:23.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Person cooking at camp stove under trees with pots and gear laid out",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dappled forest light, low angle"
+ },
+ {
+  "label": "#190 08:25.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers walking down a forest trail, one wearing a sun hat",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Green forest, backlit, follow shot"
+ },
+ {
+  "label": "#191 08:27.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with backpack walking through forest, looking at phone",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural green tones, shallow depth"
+ },
+ {
+  "label": "#192 08:30.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand held up in front of blurred forest background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus transition shot, soft green bokeh"
+ },
+ {
+  "label": "#193 08:32.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman standing in green forest talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, green foliage, slightly soft focus, dappled light"
+ },
+ {
+  "label": "#194 08:33.9",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand pointing up toward dense forest canopy with moss",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Pointing gesture, likely guiding viewer's attention upward; bright backlit greenery"
+ },
+ {
+  "label": "#195 08:35.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Gnarled tree branches and trunks in misty forest",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing nature B-roll, bright sky patches through branches"
+ },
+ {
+  "label": "#196 08:36.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Forward walk along forest path between tall trees",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth movement, B-roll transition into trail walking"
+ },
+ {
+  "label": "#197 08:40.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman in black tee with arms crossed, speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Interview-style host segment, shallow depth, bright natural light"
+ },
+ {
+  "label": "#198 08:43.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers with large packs walking down green forested trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, teal and red jackets visible"
+ },
+ {
+  "label": "#199 08:45.5",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in green cap and khaki jacket walking toward camera with backpack",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking shot; red-jacket hiker in foreground partially framing left"
+ },
+ {
+  "label": "#200 08:46.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Back of a hiker's head on forest trail with twisted trees",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder follow perspective, muted greenish grade"
+ },
+ {
+  "label": "#201 08:48.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers walking away on forest trail, one with large pack",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, cool-toned forest"
+ },
+ {
+  "label": "#202 08:50.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dirt trail through tall shrubs toward distant hill",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Empty landscape B-roll, hazy sky, good transition shot"
+ },
+ {
+  "label": "#203 08:51.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers with packs climbing dirt trail through heathland",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, warm daylight"
+ },
+ {
+  "label": "#204 08:52.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers ascending a trail in dry heath vegetation",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Distant follow shot, wide framing"
+ },
+ {
+  "label": "#205 08:57.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Smiling woman adjusting hair with both hands, backpack straps visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Presenter-style frame, warm grade, shrubs on both sides"
+ },
+ {
+  "label": "#206 09:01.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Dirt trail winding uphill through shrubs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Forward-moving B-roll, slight low angle"
+ },
+ {
+  "label": "#207 09:03.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Lone hiker walking away on trail through shrubs toward hill",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Distant subject, hazy background, muted colours"
+ },
+ {
+  "label": "#208 09:07.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in black cap and grey shirt with backpack gesturing and talking",
+  "text_on_screen": "Cut the leaves",
+  "text_style": "small handwritten-style yellow text, bottom right, low contrast on dry grass",
+  "notes": "Guide speaking to camera, pointing sideways; small caption-like text in corner"
+ },
+ {
+  "label": "#209 09:11.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Man in sunglasses on dirt trail through shrubs, gesturing with arm",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle action cam look, natural daylight, bushy highland vegetation background"
+ },
+ {
+  "label": "#210 09:12.5",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Man in sunglasses and tank top holding a small plant, talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle, slight low angle, trail and shrubs behind"
+ },
+ {
+  "label": "#211 09:13.8",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hat-wearing woman and man with backpack, man holding a leaf toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close, wide-angle POV with hand intruding into frame, cheerful interaction"
+ },
+ {
+  "label": "#212 09:15.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman with ponytail smiling, touching her neck, backpack strap visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie framing, bright natural light"
+ },
+ {
+  "label": "#213 09:17.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in cap and mirrored sunglasses smiling, holding a leaf, backpack behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing, shallow crop of backpack at right edge"
+ },
+ {
+  "label": "#214 09:21.2",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Smiling woman with braids and cap, hand offering a leaf toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle POV with hand in foreground, trail background"
+ },
+ {
+  "label": "#215 09:22.6",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hands digging or inspecting in red dirt, screenshot-style social post overlay",
+  "text_on_screen": "this is what jordan is really like #! the ultimate travel vlog | Elena Taber",
+  "text_style": "Small sans-serif social media caption bar in white, black and grey text, bottom of frame",
+  "notes": "Embedded screen recording of a social post mid-vlog, overhead angle on red soil"
+ },
+ {
+  "label": "#216 09:23.8",
+  "shot": "screen",
+  "camera": "phone_screen",
+  "subject": "Screen recording of social post showing two women on red sand with hand gesture",
+  "text_on_screen": "this is what jordan is really like #! the ultimate travel vlog",
+  "text_style": "Small sans-serif white caption bar at bottom of a social media post screenshot",
+  "notes": "Picture-in-vlog insert of a phone screen, hand from left edge holding phone"
+ },
+ {
+  "label": "#217 09:27.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Pointing hand in foreground over green forested mountain valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hazy landscape, muted colours, hand gesture likely transition cue"
+ },
+ {
+  "label": "#218 09:31.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two women posing in front of a teal and red dome tent at campsite",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Full-body framing, warm daylight, people standing with hands on hips"
+ },
+ {
+  "label": "#219 09:34.0",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in black t-shirt speaking to camera on dirt trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head interview style, shrubs and hills behind, natural light"
+ },
+ {
+  "label": "#220 09:35.3",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in sunglasses and black t-shirt clasping hands, talking on trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head framing matching previous shot, slight zoom variation"
+ },
+ {
+  "label": "#221 09:36.4",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Overhead table spread of plates, thermos, bread and patterned tablecloth",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Top-down food shot, warm colours, patterned red tablecloth"
+ },
+ {
+  "label": "#222 09:37.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Overhead table with sliced bread-like dish, pink thermos and cups",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Top-down food shot continuing previous table, saturated pink tones"
+ },
+ {
+  "label": "#223 09:39.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in sunglasses and black t-shirt talking on dirt trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking-head interview, shrubs behind, similar to shot 219"
+ },
+ {
+  "label": "#224 09:41.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman washing dishes in red bowl beside teal tent, bucket nearby",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide camp scene, natural light, man in dark clothing at right edge"
+ },
+ {
+  "label": "#225 09:44.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black Nike tee talking to camera on dirt trail among shrubs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, natural colour, slight wide angle, talking-head vlog framing"
+ },
+ {
+  "label": "#225 09:49.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Same woman gesturing with both hands near her temples while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuous with previous talking-head take, jump-cut candidate"
+ },
+ {
+  "label": "#225 09:53.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in black tee smiling and pointing toward camera on trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup, cut between takes; gesture-based cut point"
+ },
+ {
+  "label": "#226 09:57.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker in grey trousers and boots stepping over rocky trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle following feet on rough stones, natural light"
+ },
+ {
+  "label": "#227 10:00.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in blue jacket and dark trousers walking on rocky path, another hiker ahead",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Trail follow shot, slightly muted colour, scrubby vegetation"
+ },
+ {
+  "label": "#228 10:05.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman beside a guide in black cap, gear on ground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie-arm framing, warm natural light, candid interaction"
+ },
+ {
+  "label": "#229 10:09.9",
+  "shot": "aerial",
+  "camera": "handheld",
+  "subject": "Green rolling hills and misty ridges under cloudy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape establishing shot, cool muted grade"
+ },
+ {
+  "label": "#230 10:12.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in navy Arc'teryx-style jacket walking through shrubland",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mid-stride walking shot, hills behind, natural grade"
+ },
+ {
+  "label": "#231 10:13.7",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hiker with backpack walking away down forest path, blurred foreground branches",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow depth of field, follow shot"
+ },
+ {
+  "label": "#232 10:15.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Distant mountain ridge framed by green shrubs under overcast sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Framed landscape insert, soft haze"
+ },
+ {
+  "label": "#233 10:16.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dirt trail winding through bushes toward distant plain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Forward-moving trail shot, good B-roll transition"
+ },
+ {
+  "label": "#234 10:17.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in black top with blue backpack eating a snack from hand",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close framing, shrubs in background, action-based cut"
+ },
+ {
+  "label": "#235 10:18.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in dark jacket standing on rocky slope among shrubs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cloudy sky, slightly low angle, natural colour"
+ },
+ {
+  "label": "#236 10:22.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker crouching on boulder with blue backpack over green valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright clouds, wide landscape with hiker as subject"
+ },
+ {
+  "label": "#237 10:27.5",
+  "shot": "aerial",
+  "camera": "handheld",
+  "subject": "Expansive view of rolling green valleys and cloud-dotted sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing landscape, long hold suitable for music bed"
+ },
+ {
+  "label": "#238 10:31.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Open savanna plain with distant snow-capped mountain under blue sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright saturated colour, strong closing or arrival shot"
+ },
+ {
+  "label": "#239 10:34.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Silhouetted hiker beside Kilimanjaro park gate sign, tents behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm daylight, snowy mountain backdrop, slight hazy grade"
+ },
+ {
+  "label": "#240 10:38.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers posing at Machame gate sign with Kilimanjaro behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Group framing, one person posing with arms out, similar wide framing to previous shot"
+ },
+ {
+  "label": "#241 10:42.0",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Two tents at dusk on scrubland with clouds and a tripod in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static establishing shot, muted blue-orange evening light"
+ },
+ {
+  "label": "#242 10:45.1",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Orange dome tent on trail with red-jacketed person walking away",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Moving tracking shot, slight motion blur, warm grade"
+ },
+ {
+  "label": "#243 10:49.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person in black standing by teal tent under cloudy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cool desaturated tones, low angle"
+ },
+ {
+  "label": "#244 10:52.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Orange dome tent with Kilimanjaro glowing pink at dusk, person nearby",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Sunset pink mountain glow, cool shadows"
+ },
+ {
+  "label": "#245 10:56.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person in tan jacket pouring from pink thermos beside metal pots",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm tent interior lighting, shallow depth of field"
+ },
+ {
+  "label": "#246 10:58.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Steaming pot of porridge on table with blurred person behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus, warm amber grade, soft foreground blur"
+ },
+ {
+  "label": "#247 10:59.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person in tan jacket stirring food in tent, smiling",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior, teal tent fabric at left, shallow focus"
+ },
+ {
+  "label": "#248 11:01.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Ladle pouring porridge into steaming metal bowls",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Steam visible, warm tones, tight framing on food"
+ },
+ {
+  "label": "#249 11:02.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman with long hair sipping from bowl inside tent",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight face and bowl framing, warm tent light"
+ },
+ {
+  "label": "#250 11:05.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black jacket eating from bowl at tent table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm interior, dome tent ceiling visible"
+ },
+ {
+  "label": "#251 11:10.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person in sleeping bag in tent, arm outstretched, eyes closed",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Teal and red tent interior, cool-warm contrast, selfie angle"
+ },
+ {
+  "label": "#251 11:14.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person in hooded sleeping bag grimacing in tent",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same selfie setup, slight change in pose"
+ },
+ {
+  "label": "#251 11:18.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person in hood shivering with eyes squeezed shut in tent",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same selfie setup, tight framing"
+ },
+ {
+  "label": "#251 11:22.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person in hooded bag with eyes closed, arm extended toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same selfie setup, dim tent light"
+ },
+ {
+  "label": "#251 11:26.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman lying in sleeping bag in tent, holding water bottle to face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie lens distortion, arm extended, teal and red tent interior, dim warm light"
+ },
+ {
+  "label": "#251 11:30.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sleeping bag drinking from bottle, arm reaching toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle selfie distortion, tent walls teal and red, slightly blurred motion"
+ },
+ {
+  "label": "#251 11:35.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sleeping bag waving hand toward camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie wide-angle, hand blurred in foreground, motion blur suggests casual handheld"
+ },
+ {
+  "label": "#251 11:39.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in tent holding phone or bottle, looking down, sleepy expression",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie wide-angle, same setup as previous clip, continuous take"
+ },
+ {
+  "label": "#251 11:43.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman lying in sleeping bag, arm extended toward camera, dim tent",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie wide-angle, dim low-light, teal tent walls, possibly jump cut from previous clip"
+ },
+ {
+  "label": "#252 11:46.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in sleeping bag gesturing with hand, yawning or talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie wide-angle, slight motion blur, same tent setup"
+ },
+ {
+  "label": "#253 11:49.2",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Sunset over pyramid-shaped mountain with silhouetted trees",
+  "text_on_screen": "SHIRA CAMP\nDAY 3",
+  "text_style": "Serif-style gold/yellow caps for SHIRA CAMP, smaller light sans-serif DAY 3 below, centered, over a glowing sunset backdrop",
+  "notes": "Cinematic title card, warm golden grade, lens flare, likely fade transition"
+ },
+ {
+  "label": "#254 11:54.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman sitting inside red tent wrapped in blanket, talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright red tent interior, warm saturated grade, fills frame with tent entrance edges"
+ },
+ {
+  "label": "#255 11:59.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dry frosty campsite with orange and white dome tent and shrubs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle on ground, early morning light, soft haze"
+ },
+ {
+  "label": "#256 12:01.6",
+  "shot": "closeup",
+  "camera": "unknown",
+  "subject": "Frost-covered tent fabric with ice crystal patterns",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Macro detail shot, shallow depth of field, cool blue and gold tones"
+ },
+ {
+  "label": "#257 12:03.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand held up showing three fingers in front of red tent, blurred woman behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shallow focus, red background, possibly counting gesture, saturated warm grade"
+ },
+ {
+  "label": "#258 12:05.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Sunrise over camp with pyramid mountain and tents, frosty ground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm backlit morning light, slight lens flare, tent edge in foreground"
+ },
+ {
+  "label": "#259 12:08.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with red curly hair inside red tent speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Red tent interior, front-facing talking head, warm grade"
+ },
+ {
+  "label": "#259 12:12.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Same woman inside red tent, mid-speech with head tilted",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuous talking head from previous clip, slight reframe"
+ },
+ {
+  "label": "#259 12:17.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in red tent pointing at her head and gesturing while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Talking head, animated gestures, same red tent setup"
+ },
+ {
+  "label": "#260 12:20.5",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Hand holding a tent pole or stick, looking out of tent at bright sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "POV from inside tent, bright overexposed exterior, red tent fabric at right edge"
+ },
+ {
+  "label": "#261 12:21.8",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Tent fabric edge with zipper, pale sky and dry brush outside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright, slightly overexposed; tent interior flap framing the shot"
+ },
+ {
+  "label": "#262 12:25.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top kneeling beside teal and red tents, holding blue bottle",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Natural daylight, shrubs and mountain slope behind"
+ },
+ {
+  "label": "#263 12:30.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man and woman in mustard jacket and green cap inside dome tent, holding plates",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm colours, candid group interaction"
+ },
+ {
+  "label": "#264 12:32.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Laughing woman in mustard jacket holding a silver plate near camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Reflective plate foreground, lively reaction"
+ },
+ {
+  "label": "#265 12:34.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand holding a steel bowl with reflected face and grey smudge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight object shot, cool highlights"
+ },
+ {
+  "label": "#266 12:37.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in dark jacket handing over orange packet at camp cooking table",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Pass-the-item action, teal tent behind"
+ },
+ {
+  "label": "#267 12:38.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Open palm holding a small white tablet above bowls on orange patterned mat",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Clean close composition, saturated orange pattern"
+ },
+ {
+  "label": "#268 12:39.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black top seated in camp chair inside dome tent, talking, companion behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Interview-style framing, neutral lighting"
+ },
+ {
+  "label": "#269 12:42.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black seated, looking down at yellow pulse oximeter, bowl beside her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cut from prior interview, same location"
+ },
+ {
+  "label": "#270 12:44.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman checking yellow pulse oximeter on her finger, bowls in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tighter than previous, companion in background"
+ },
+ {
+  "label": "#271 12:45.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Hand with yellow CheckMe pulse oximeter clipped on finger",
+  "text_on_screen": "CheckMed",
+  "text_style": "Small white sans-serif logo on yellow device, centre-right",
+  "notes": "Product close-up, dark green blurred foreground"
+ },
+ {
+  "label": "#272 12:47.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black gesturing with thumb raised while seated at camp",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mid-shot continuing seated interview"
+ },
+ {
+  "label": "#273 12:48.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in black holding both hands up, showing pulse oximeter reading",
+  "text_on_screen": "oxygen level sla...",
+  "text_style": "Small white lowercase sans-serif, bottom-left, partly cut off",
+  "notes": "Overlay caption appears to be a lower-third style on-screen label"
+ },
+ {
+  "label": "#274 12:50.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Wooden hut with people seated on bench under porch, arid landscape",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing shot of mountain camp, natural light"
+ },
+ {
+  "label": "#275 12:52.9",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with backpack smiling in front of a metal sign, hikers and mountain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Steady walking shot, clear sky"
+ },
+ {
+  "label": "#275 12:57.3",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman with backpack walking toward camera beside wooden sign, landscape behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same segment as previous, wider framing; label duplicates #275 as shown"
+ },
+ {
+  "label": "#276 13:00.3",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Brown sign reading Barafu Camp 4600m and Uhuru Peak 5895m, people hiking behind",
+  "text_on_screen": "BARAFU CAMP:28KM (18MI) UHURU PEAK:33KM (20MI)",
+  "text_style": "Embossed brown sign with raised gold-yellow lettering, top-center, sans-serif caps",
+  "notes": "Sign edge fills left and right foreground; hikers in distance on dry hillside; warm natural grade"
+ },
+ {
+  "label": "#277 13:01.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Stone cairn with Kilimanjaro National Park Tanzania sign, two hikers beside it",
+  "text_on_screen": "KILIMANJARO NATIONAL PARK TANZANIA / SHIRA II CAMP 3840M",
+  "text_style": "White serif-like caps on brown wooden sign, centered lower third",
+  "notes": "Cairn centered; hiker in teal jacket at right edge; mountain slopes behind"
+ },
+ {
+  "label": "#278 13:02.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hikers in yellow jacket and cap walking toward a camp hut on open plain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject framed right, camp buildings in background; natural light, slightly warm"
+ },
+ {
+  "label": "#279 13:04.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Wide moorland with scattered shrubs and small hiker line in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing wide shot; flat muted colours"
+ },
+ {
+  "label": "#280 13:05.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Close shrub foreground with distant mountain ridge and savanna",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shrub filling left side as foreground frame; clear blue sky"
+ },
+ {
+  "label": "#281 13:07.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker with backpack walking toward camera with Kilimanjaro summit behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject centered, large boulders right; snowy peak in background"
+ },
+ {
+  "label": "#282 13:09.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in blue jacket walking past large boulder on heath",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Boulder left foreground; wispy clouds; subject follows trail to right"
+ },
+ {
+  "label": "#283 13:12.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker from behind facing snowy Kilimanjaro summit with cairn at right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject centered, snowy peak fills upper frame; cool grade"
+ },
+ {
+  "label": "#284 13:14.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Field of stone cairns on dark volcanic ground with snowy peak in distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Large cairn foreground right; low angle; clean horizon"
+ },
+ {
+  "label": "#285 13:15.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Close-up of lichen-covered branches against bright sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Extreme close-up, shallow depth of field; pale overexposed sky"
+ },
+ {
+  "label": "#286 13:16.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two hikers with backpacks walking on dirt trail through shrubs toward snowy peak",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hikers centered on path; mountain behind trees; natural colour"
+ },
+ {
+  "label": "#287 13:17.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dark rocky ridge with hillside and cloudy sky, shrubs at lower right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rock in left foreground; open dramatic clouds"
+ },
+ {
+  "label": "#288 13:19.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two hikers with trekking poles on rocky trail, dark ridge behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Woman in front left with blue backpack; warm sunlit grade"
+ },
+ {
+  "label": "#289 13:21.8",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Close-up of lichen-draped branch against pale sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar to shot 285; macro, shallow focus, bright exposure"
+ },
+ {
+  "label": "#290 13:23.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hikers walking up rocky trail through shrubs, rock in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dark rock blurred in left foreground as transition element; subject centered"
+ },
+ {
+  "label": "#291 13:25.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with blue backpack smiling and walking on trail through shrubs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject lower right, looking toward camera; bright hazy landscape"
+ },
+ {
+  "label": "#292 13:27.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Man standing on volcanic rock ridge with mountain landscape behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, warm natural grade, rugged dark rock edge on right"
+ },
+ {
+  "label": "#293 13:30.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers resting on grass beside large rock arch, tent area distance",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing shot, sunlit grassy slope"
+ },
+ {
+  "label": "#294 13:32.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling and waving at camera while companion lies on grass behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie arm framing, wide-angle distortion, casual energetic feel"
+ },
+ {
+  "label": "#295 13:35.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Close smiling woman with backpack straps, lying on grass looking up",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overhead POV-style angle, fisheye-like wide distortion"
+ },
+ {
+  "label": "#296 13:37.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Woman with sunglasses on head looking toward companion lying on grass",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder style, candid interaction, bright highlights"
+ },
+ {
+  "label": "#297 13:39.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Red and green tents pitched on sandy campsite with other tents behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static-feeling establishing shot of camp, warm sunlight"
+ },
+ {
+  "label": "#298 13:41.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Misty barren mountain slopes fading into hazy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cool desaturated grade, atmospheric B-roll transition shot"
+ },
+ {
+  "label": "#299 13:43.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in dark clothing holding blue notebook while walking on rocky terrain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cropped at right edge, cool grade, mountain slope behind"
+ },
+ {
+  "label": "#300 13:46.0",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated on rock holding blue notebook, speaking to camera",
+  "text_on_screen": "so, you're entering right now",
+  "text_style": "small white sans-serif subtitle, yellow-ish tint, bottom center",
+  "notes": "Interview-style talking head with burned-in subtitles, bright overcast sky"
+ },
+ {
+  "label": "#301 13:49.6",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated on rock gesturing with hands while speaking",
+  "text_on_screen": "human desire to push yourself",
+  "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+  "notes": "Static interview framing, subtitles one line per shot"
+ },
+ {
+  "label": "#301 13:53.8",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated on rock looking up thoughtfully with hands together",
+  "text_on_screen": "to those physical and mental limits",
+  "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+  "notes": "Static framing, neutral daylight"
+ },
+ {
+  "label": "#301 13:58.0",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated on rock smiling and holding notebook",
+  "text_on_screen": "go on these adventures that force you",
+  "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+  "notes": "Static framing, subtitles follow speech"
+ },
+ {
+  "label": "#301 14:02.2",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated on rock looking to side holding notebook",
+  "text_on_screen": "f*ckin beautiful",
+  "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+  "notes": "Static framing, slightly off-center subject"
+ },
+ {
+  "label": "#301 14:06.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated on rock gesturing with one hand while talking",
+  "text_on_screen": "outline, I'm fine",
+  "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+  "notes": "Static framing, subtitles partly obscured by rock"
+ },
+ {
+  "label": "#301 14:10.6",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated on rock with hand on chest speaking earnestly",
+  "text_on_screen": "as someone who",
+  "text_style": "small yellow-ish sans-serif subtitle, bottom center",
+  "notes": "Static framing, cropped subject centre"
+ },
+ {
+  "label": "#301 14:14.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated on rock with expressive face speaking to camera",
+  "text_on_screen": "excited about the future but also feels a ton of anxiety",
+  "text_style": "small yellow-ish sans-serif subtitle, bottom center, longer line",
+  "notes": "Static framing, subtitle text small and partly hard to read"
+ },
+ {
+  "label": "#301 14:18.9",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman sitting on rocky terrain with notebook, looking off to the side",
+  "text_on_screen": "about not knowing where I'm going or who I'm going with",
+  "text_style": "small yellow sans-serif subtitle, bottom center",
+  "notes": "Subtitle-style captions; bright hazy sky, muted desert colour grade"
+ },
+ {
+  "label": "#301 14:23.1",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman sitting on rocks holding notebook, talking",
+  "text_on_screen": "Doing something like this reminds me",
+  "text_style": "small yellow sans-serif subtitle, bottom center",
+  "notes": "Same framing as previous shot, continuous interview-style take"
+ },
+ {
+  "label": "#301 14:27.3",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman gesturing with hand while seated on rocks",
+  "text_on_screen": "we are capable of so much more than we even imagine",
+  "text_style": "small yellow sans-serif subtitle, bottom center",
+  "notes": "Static framing, jump-free continuation"
+ },
+ {
+  "label": "#301 14:31.5",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated with notebook, looking to the right",
+  "text_on_screen": "Like we are only using our selves so much",
+  "text_style": "small yellow sans-serif subtitle, bottom center",
+  "notes": "Static framing"
+ },
+ {
+  "label": "#301 14:35.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman seated on rocks holding notebook, looking up",
+  "text_on_screen": "strong and empowering feelings",
+  "text_style": "small yellow sans-serif subtitle, bottom center",
+  "notes": "Static framing"
+ },
+ {
+  "label": "#301 14:39.9",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman with hand near chin, seated on rocks",
+  "text_on_screen": "Okay, that's enough for me",
+  "text_style": "small yellow sans-serif subtitle, bottom center",
+  "notes": "End of interview segment"
+ },
+ {
+  "label": "#302 14:43.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Snow-dusted volcanic mountain peak above dark lava rock ridge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Clear blue sky, warm sunlit peak contrasting with shadowed foreground"
+ },
+ {
+  "label": "#303 14:44.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dark rugged cliffs and ridgelines under bright sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Landscape establishing shot, slightly higher-contrast grade"
+ },
+ {
+  "label": "#304 14:46.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dark lava ridge with cloud cover over distant mountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overcast mood, cool tones"
+ },
+ {
+  "label": "#305 14:47.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Campsite with green tents and white flag on dark volcanic ground, red tent edge in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Campsite reveal, foreground tent partially framing shot"
+ },
+ {
+  "label": "#306 14:48.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Tan tent pitched below large rocky cliff face",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm sunlit grade, cliff dominates frame"
+ },
+ {
+  "label": "#307 14:49.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Cloud-covered mountain ridge with dark rock cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cool overcast tones, transition-friendly landscape"
+ },
+ {
+  "label": "#308 14:52.7",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Aerial view of volcanic terrain with title card and altitude gauge",
+  "text_on_screen": "MOIR HUT DAY 4 | 4,150 M 13,780 FT 69%",
+  "text_style": "MOIR HUT in large gold serif-style caps, DAY 4 in smaller white sans-serif below, altitude gauge in small white text top-left with orange ring graphic",
+  "notes": "Title overlay on aerial drone footage, orange progress-ring graphic"
+ },
+ {
+  "label": "#309 14:57.5",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Person in dark jacket with red mug and teal tent fabric in frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close, cropped framing, teal tent edge at left"
+ },
+ {
+  "label": "#310 15:02.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in dark hood sitting in front of coral and teal tent holding red bowl",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Campsite scene, bright daylight, slight warm grade"
+ },
+ {
+  "label": "#310 15:07.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman sitting in tent doorway with red bowl, coral and teal tents around",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of previous shot from a slightly different angle"
+ },
+ {
+  "label": "#310 15:11.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman sitting inside a teal and coral tent entrance with a red bowl",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Campsite setting, daylight, muted earthy grade; other tents visible behind"
+ },
+ {
+  "label": "#310 15:16.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in tent entrance eating from red bowl, head partly lowered",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Near-identical framing to previous shot, slight movement; likely jump-cut continuity"
+ },
+ {
+  "label": "#310 15:20.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman sitting at tent entrance looking toward camera with red bowl",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup as prior two shots, different moment; static framing"
+ },
+ {
+  "label": "#311 15:25.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers walking on dusty trail across rocky volcanic terrain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide landscape with path leading into distance; natural daylight"
+ },
+ {
+  "label": "#312 15:30.3",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Dark volcanic rock spire against blue sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, scenic establishing shot; dark contrast with sky"
+ },
+ {
+  "label": "#313 15:32.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Misty dark volcanic ridge with clouds over valley",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Moody overcast atmosphere, desaturated grade"
+ },
+ {
+  "label": "#314 15:35.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Narrow dirt trail winding up a dark grassy slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Trail leads eye upward; possible pan or tilt move"
+ },
+ {
+  "label": "#315 15:38.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker with poles walking on rocky trail with distant mountains",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind; hazy blue distance on right"
+ },
+ {
+  "label": "#316 15:40.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hazy sky over cloud layer and distant ridges",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Pale, bright sky; soft low-contrast grade; possible transition shot"
+ },
+ {
+  "label": "#317 15:41.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Large boulder beside stacked stone cairn on arid plain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground rock framing, depth layers; neutral daylight"
+ },
+ {
+  "label": "#318 15:43.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker with trekking poles climbing rocky path",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking side angle; natural colour"
+ },
+ {
+  "label": "#319 15:45.4",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Winding dirt trail climbing a dark hillside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth movement, low angle; trail as leading line"
+ },
+ {
+  "label": "#320 15:48.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers descending a rocky ridge under cloudy sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide landscape with distant plateau; slightly warm grade"
+ },
+ {
+  "label": "#321 15:51.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Silhouetted hikers walking along ridge above cloud sea",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Backlit silhouettes, high contrast blue sky; good for transitions"
+ },
+ {
+  "label": "#322 15:53.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Bird flying over dark volcanic slope under pale sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Small bird in frame adds motion; dark foreground"
+ },
+ {
+  "label": "#323 15:54.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker in beanie and backpack looking toward camera on barren slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close-to-medium framing, slightly off-centre; wind-swept feel"
+ },
+ {
+  "label": "#324 15:56.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "woman in navy jacket and beanie standing on barren volcanic plain, looking sideways",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Flat overcast daylight, muted brown-grey tones, subject placed left of center."
+ },
+ {
+  "label": "#325 15:57.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "woman in beanie raising both arms in celebration on barren plain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Upward-tilted framing, sky fills upper half; cheerful arrival or triumph moment."
+ },
+ {
+  "label": "#326 16:01.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "woman with sunglasses on head talking to camera, rocky terrain behind",
+  "text_on_screen": "like...what are you doing?",
+  "text_style": "small white sans-serif subtitle, bottom center, low contrast",
+  "notes": "Selfie arm angle, subtitle-style captions used for dialogue."
+ },
+ {
+  "label": "#326 16:05.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "smiling woman with windblown hair, hikers walking in distance on trail",
+  "text_on_screen": "...I realize...",
+  "text_style": "small white sans-serif subtitle, bottom right, partly cropped",
+  "notes": "Bright blue sky, saturated colours; wide-angle selfie distortion."
+ },
+ {
+  "label": "#326 16:09.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "woman pointing up and speaking, blue sky with clouds behind",
+  "text_on_screen": "We are like above the clouds",
+  "text_style": "small white sans-serif subtitle, bottom left, low contrast",
+  "notes": "Dialogue caption continuing the previous line."
+ },
+ {
+  "label": "#326 16:13.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "woman in profile looking left toward distant plain and clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side profile selfie; faint subtitle barely visible at bottom."
+ },
+ {
+  "label": "#327 16:17.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "two hikers standing on dark volcanic ground, one with hand on head",
+  "text_on_screen": "Proud of us",
+  "text_style": "small white sans-serif caption, bottom right-center",
+  "notes": "Cloud layer on horizon; emotional caption over wide shot."
+ },
+ {
+  "label": "#328 16:20.7",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "dark volcanic ridge stretching toward cloud-covered horizon",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low-contrast, desaturated grade; empty landscape suitable as transition."
+ },
+ {
+  "label": "#329 16:23.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "hikers climbing rocky slope with snowy peak above",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hikers small in frame; natural ambient sound likely."
+ },
+ {
+  "label": "#330 16:24.6",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "large volcanic cone under cloud, grassy slope in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing shot of mountain; bright blue sky contrasting clouds."
+ },
+ {
+  "label": "#331 16:25.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "hikers walking single file on dusty trail through shrubs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind; subject centered on path."
+ },
+ {
+  "label": "#332 16:27.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "woman in hooded jacket looking sideways, shrubs and rocks behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hood framing the face; tight crop, natural light."
+ },
+ {
+  "label": "#333 16:30.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "hiker climbing steep rocky gully with trekking poles",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle looking up; dark rock dominates frame."
+ },
+ {
+  "label": "#334 16:32.9",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "cloud-wrapped mountain peak above dark rock and green hut roof",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Brighter sky, clouds moving; possible transition candidate."
+ },
+ {
+  "label": "#335 16:34.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "hiker with large green backpack walking away on dusty trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind; sparse vegetation on both sides."
+ },
+ {
+  "label": "#336 16:36.0",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "silvery woolly plants with white daisy-like flowers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Macro detail shot; shallow depth of field, good B-roll cutaway."
+ },
+ {
+  "label": "#337 16:39.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Cloudy mountain slope with small tents and a distant hiker",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low cloud bank across frame, muted grey-green grade, hiker walking away from camera"
+ },
+ {
+  "label": "#338 16:44.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in navy Arc'teryx jacket and beanie talking to camera, tents behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hazy bright sky, washed-out pastel grade, slightly off-center framing"
+ },
+ {
+  "label": "#338 16:48.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman touching her beanie while talking, tents and mist behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup as previous shot, jump-cut continuation, hand gesture"
+ },
+ {
+  "label": "#338 16:52.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman raising index finger mid-sentence, tents behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuous talking-head take, pastel hazy grade"
+ },
+ {
+  "label": "#338 16:57.2",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman gesturing sideways with arm extended, misty hillside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Framed left of center, cut mid-gesture"
+ },
+ {
+  "label": "#338 17:01.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman standing with hands in pockets, talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Centered framing, tents visible at left edge"
+ },
+ {
+  "label": "#338 17:05.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with hands in pockets speaking animatedly, tents at left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slightly tighter framing than previous"
+ },
+ {
+  "label": "#338 17:10.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in beanie speaking, tents at left edge, misty background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Right-of-center framing, soft haze"
+ },
+ {
+  "label": "#338 17:14.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with hands on hips talking to camera, tents behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Centered, hazy pastel grade"
+ },
+ {
+  "label": "#338 17:18.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman making peace sign while talking, tents and mist behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Centered framing, pastel haze"
+ },
+ {
+  "label": "#339 17:23.2",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in beanie looking off to side, tents and mist behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight crop on subject, likely reaction or B-roll pause"
+ },
+ {
+  "label": "#340 17:26.6",
+  "shot": "other",
+  "camera": "handheld",
+  "subject": "Blurred close view of hand and orange sleeping gear inside tent",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Out-of-focus, warm orange against dark teal, shallow depth of field"
+ },
+ {
+  "label": "#341 17:28.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in dark puffer jacket filming herself in dim tent with headlamp light",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low-key night grade, harsh light from head lamp, wide-angle selfie distortion"
+ },
+ {
+  "label": "#342 17:31.4",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in tent covering mouth with hand, dim lantern light",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Fixed framing inside tent, teal tent interior, warm-cool contrast"
+ },
+ {
+  "label": "#342 17:35.7",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in tent speaking with wide eyes, lit from above",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static shot, dark surroundings, same tent setup"
+ },
+ {
+  "label": "#342 17:40.0",
+  "shot": "medium",
+  "camera": "tripod",
+  "subject": "Woman in tent talking to camera, puffer jacket, head lamp glow",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuous static take, night grade with teal and orange tones"
+ },
+ {
+  "label": "#342 17:44.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in dark puffer jacket inside tent, looking up and right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dim tent interior, teal-lined tent wall, cool low-key grade"
+ },
+ {
+  "label": "#342 17:48.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in dark jacket in tent, talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same tent setup, slight reframe, dim lighting"
+ },
+ {
+  "label": "#342 17:52.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in dark jacket in tent, looking at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static talking-head continuity from previous shot"
+ },
+ {
+  "label": "#342 17:57.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman gesturing with hand while speaking in tent",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand gesture, dim tent light"
+ },
+ {
+  "label": "#342 18:01.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in tent gesturing with hand, looking down-left",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tighter framing, cool tones"
+ },
+ {
+  "label": "#342 18:05.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman reaching toward camera with hand, close and wide-angle",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle distortion, hand blurred in foreground, transition into outdoor scene"
+ },
+ {
+  "label": "#343 18:08.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hazy snowy mountain trail with hikers in distance",
+  "text_on_screen": "3,900 M 12,700 FT 76%",
+  "text_style": "Thin white sans-serif small text inside orange circular progress ring, upper left, altitude HUD graphic",
+  "notes": "Overexposed washed-out pale grade, fog, graphic overlay ring indicating altitude and progress"
+ },
+ {
+  "label": "#344 18:09.6",
+  "shot": "title_card",
+  "camera": "handheld",
+  "subject": "Hikers on misty trail with title overlay",
+  "text_on_screen": "3,900 M 12,700 FT 76% THIRD CAVE DAY 5",
+  "text_style": "THIRD CAVE in large orange uppercase sans-serif at center right; DAY 5 in smaller white uppercase below; altitude ring HUD top left in orange and white",
+  "notes": "Location title card over hazy footage, hikers blurred in background, warm-cool grade"
+ },
+ {
+  "label": "#345 18:12.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of men sitting in orange geodesic dome tent eating",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm orange-tinted dome interior, bright central light, handheld"
+ },
+ {
+  "label": "#346 18:14.1",
+  "shot": "closeup",
+  "camera": "tripod",
+  "subject": "Overhead view of meal bowls, spoons and plates on patterned cloth",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Top-down food shot, red floral patterned tablecloth, warm grade"
+ },
+ {
+  "label": "#347 18:15.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Smiling man in beanie reaching toward camera in tent meal",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie-style close interaction, warm dome interior"
+ },
+ {
+  "label": "#348 18:17.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Man in plaid shirt leaning in to tent meal, gesturing",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foreground figure partially blurred, warm orange grade"
+ },
+ {
+  "label": "#349 18:19.7",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Hiker with backpack walking up rocky misty slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, foggy desaturated grade"
+ },
+ {
+  "label": "#350 18:21.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Rocky volcanic ground close-up in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle on loose stones, muted grey-brown tones"
+ },
+ {
+  "label": "#351 18:22.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Misty bare trees and dry grass on mountainside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Atmospheric fog, desaturated, slow pan feel"
+ },
+ {
+  "label": "#352 18:25.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in grey beanie and navy Arc'teryx jacket adjusting camera on trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing, brand logo visible on jacket, misty background"
+ },
+ {
+  "label": "#353 18:27.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Silver-grey frost-covered shrubs with yellow flowers in misty mountain terrain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foggy, desaturated cool grade; static-looking establishing nature shot"
+ },
+ {
+  "label": "#354 18:29.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman in beanie 'ARC'TERYX' waving one hand, talking to camera in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Arm-extended selfie framing, fog background, cool muted grade"
+ },
+ {
+  "label": "#355 18:32.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in ARC'TERYX beanie holding trekking pole, smiling, rocky slope behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing, warm-neutral tones, backpack straps visible"
+ },
+ {
+  "label": "#356 18:36.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Small hikers walking up a foggy rocky slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Heavy fog, muted brown-grey palette, small figures in distance"
+ },
+ {
+  "label": "#357 18:41.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two hikers posing on rocky hillside, one in hooded jacket, one in beanie",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Group-posing framing, pale rock background, neutral grade"
+ },
+ {
+  "label": "#358 18:45.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hikers in hoods and beanies standing on rocky trail, one bending over behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Casual group shot, pale rock backdrop"
+ },
+ {
+  "label": "#359 18:47.9",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Gloved hand reaching toward smiling woman in beanie on rocky ground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "POV hand-reach gesture, likely a handoff transition cue"
+ },
+ {
+  "label": "#360 18:50.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Misty hillside with low shrubs and trail fading into fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Atmospheric landscape, cool desaturated grade, lots of haze"
+ },
+ {
+  "label": "#361 18:51.5",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Open hand waving toward camera with rocky outcrop and distant hiker",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand-in-frame gesture, useful as a wipe or transition moment"
+ },
+ {
+  "label": "#362 18:52.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers with packs crossing a boulder ridge in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, dark rock foreground, misty background"
+ },
+ {
+  "label": "#363 18:54.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Bare dead tree silhouette against foggy rocky landscape",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Stark high-contrast mood shot, desaturated grey palette"
+ },
+ {
+  "label": "#364 18:56.0",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Hooded hiker in grey rain jacket with blue backpack walking through dry grass",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder walking follow, warm dry-grass tones against grey sky"
+ },
+ {
+  "label": "#365 18:57.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Misty rocky terrain with bare shrubs and lichen-covered boulders",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dense fog, muted green-grey grade"
+ },
+ {
+  "label": "#366 19:00.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers with yellow pack climbing rocky slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, rocky foreground, misty tones"
+ },
+ {
+  "label": "#367 19:04.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in black pack walking down dirt trail between rocks in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Rear follow shot, muted grey-brown grade"
+ },
+ {
+  "label": "#368 19:07.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker in hooded rain jacket crouching with hikers and packs behind in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Candid crouching moment, foggy background, cool grade"
+ },
+ {
+  "label": "#368 19:12.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hooded person in grey rain jacket sitting on rock, pulling on black rain pants; hikers behind in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Misty overcast daylight, muted desaturated colour grade, slightly cool tones"
+ },
+ {
+  "label": "#368 19:17.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hooded person in black rain gear sitting on boulder adjusting pant leg; orange bag and hikers in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foggy outdoor setting, muted colours"
+ },
+ {
+  "label": "#369 19:20.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person in black rain gear standing, another in teal poncho at left, pulling on rain trousers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Fog, desaturated grade"
+ },
+ {
+  "label": "#370 19:23.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person holding out teal poncho/tarp spread open on a foggy hillside with hikers behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wider framing, bushes and dirt terrain, misty background"
+ },
+ {
+  "label": "#370 19:28.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers in teal and grey rain ponchos stand on misty moorland, one using trekking pole",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Soft fog, muted green-grey palette"
+ },
+ {
+  "label": "#370 19:33.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Teal-poncho hiker walking away with two others in dark jackets and a green backpack in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Fog, desaturated tones"
+ },
+ {
+  "label": "#371 19:39.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person in black puffer jacket and cap adjusting a snack in hands, hikers blurred at sides",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foggy background, muted colours"
+ },
+ {
+  "label": "#372 19:42.9",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Close-up of cap and grey puffer jacket with teal item in foreground, pack straps visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Extreme close framing, fog background"
+ },
+ {
+  "label": "#373 19:44.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Smiling man in cap and black puffer jacket facing camera, teal fabric in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Foggy desert-like terrain, muted grade"
+ },
+ {
+  "label": "#374 19:47.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in teal poncho and another with trekking poles walking across foggy barren ground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide framing, fog"
+ },
+ {
+  "label": "#374 19:51.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group holding Kiliwarrior banner at summit-style stone sign, tents behind in fog",
+  "text_on_screen": "Kiliwarrior",
+  "text_style": "Bold sans-serif, red and black lettering on white banner, banner-printed not overlay",
+  "notes": "Misty, desaturated grade"
+ },
+ {
+  "label": "#374 19:56.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group holding Kiliwarrior banner at wooden summit sign, tent and hiker at right",
+  "text_on_screen": "Kiliwarrior",
+  "text_style": "Bold sans-serif, red and black lettering on white banner, banner-printed not overlay",
+  "notes": "Fog, muted tones"
+ },
+ {
+  "label": "#375 19:58.4",
+  "shot": "black",
+  "camera": "handheld",
+  "subject": "Mostly blank warm orange-beige frame, likely lens cover or overexposed view",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm flat tone, possible transition frame"
+ },
+ {
+  "label": "#376 20:00.2",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Tent in foreground with snowy mountain above and day title overlay",
+  "text_on_screen": "4,800 M 15,600 FT SCHOOL HUT DAY 6",
+  "text_style": "Orange-yellow sans-serif, large centre-left title 'SCHOOL HUT' with small 'DAY 6' beneath; small altitude gauge graphic top-left",
+  "notes": "Clear blue sky with mountain, graphic overlay treatment"
+ },
+ {
+  "label": "#377 20:05.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two hikers in orange and blue jackets beside a dome tent in a campsite",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, natural colours"
+ },
+ {
+  "label": "#378 20:09.9",
+  "shot": "aerial",
+  "camera": "unknown",
+  "subject": "Snow-capped mountain with cloud cap over dry highland plain, red object at bottom edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Clear blue sky, vivid natural colour, establishing shot"
+ },
+ {
+  "label": "#379 20:13.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman smiling beside tents, people in colorful jackets behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close framing on face, shallow depth of field, warm natural light"
+ },
+ {
+  "label": "#380 20:16.6",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman turning toward camera with campsite tents and two people behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight handheld selfie, slight motion, camp background blurred"
+ },
+ {
+  "label": "#381 20:20.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Woman in blue jacket and beanie standing before snowy mountain peak",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Full-body framing, bright blue sky, mountain as backdrop"
+ },
+ {
+  "label": "#381 20:24.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Same woman standing with hands clasped in front of mountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Continuation of previous setup, slightly different angle, vivid sky"
+ },
+ {
+  "label": "#382 20:27.7",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Woman in TERRA-branded beanie looking off to the side on dry hillside",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight close-up, shallow focus, natural daylight"
+ },
+ {
+  "label": "#383 20:31.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Large group of trekkers gathered on dusty slope under clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Crowd wide shot, muted earth tones, cloud cover"
+ },
+ {
+  "label": "#384 20:36.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in navy jacket gesturing to crowd holding a white flag",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject in foreground with crowd behind, flag visible"
+ },
+ {
+  "label": "#385 20:40.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Crowd with a white flag and woman in blue jacket walking through",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide group framing, mountain behind, movement"
+ },
+ {
+  "label": "#386 20:41.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group dancing and cheering on dirt ground, one person raising arms",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Energetic celebration, handheld movement"
+ },
+ {
+  "label": "#387 20:44.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Trekkers celebrating with a white flag held aloft",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Crowd energy, flag prominent, dusty ground"
+ },
+ {
+  "label": "#388 20:46.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Person in red jacket and crowd near white flag with red logo",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Flag foreground, people moving through frame"
+ },
+ {
+  "label": "#389 20:48.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in navy jacket and beanie dancing among crowd",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mid shot, crowd around subject, celebratory mood"
+ },
+ {
+  "label": "#390 20:51.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Smiling trekkers close to camera with white flag behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close group framing, shallow depth, flag partly visible"
+ },
+ {
+  "label": "#390 20:55.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Crowd dancing with flags under mountain slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide crowd shot, dusty tones, motion blur"
+ },
+ {
+  "label": "#391 20:58.3",
+  "shot": "aerial",
+  "camera": "gimbal",
+  "subject": "Snowy mountain peak with clouds under blue sky",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing landscape shot, no people, bright saturated colours"
+ },
+ {
+  "label": "#392 21:02.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Three people posing together, one covering eyes, mountain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Group pose ending the sequence, bright daylight, slight wide angle"
+ },
+ {
+  "label": "#393 21:06.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Distant hikers on rocky volcanic plain under cloud-covered mountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hazy overcast light, muted earthy grade"
+ },
+ {
+  "label": "#394 21:07.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Mountain peak poking through clouds over dark scrubby plain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright blue sky, clouds, landscape establishing shot"
+ },
+ {
+  "label": "#395 21:08.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Small hiker walking across barren slope toward cloud-capped mountain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar framing to #393, hazy grade"
+ },
+ {
+  "label": "#396 21:09.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in dark jacket walking toward camera on gravel track",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Full-body walking shot, rocky terrain background"
+ },
+ {
+  "label": "#397 21:11.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Three hikers walking up rocky trail below clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide landscape with clouds, muted colours"
+ },
+ {
+  "label": "#398 21:14.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in dark jacket standing on rocky plain smiling at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright overcast sky, subject centred"
+ },
+ {
+  "label": "#399 21:15.3",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Smiling woman in dark jacket close to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tight framing, bright white sky background, selfie-style talking to camera"
+ },
+ {
+  "label": "#400 21:17.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Line of hikers with backpacks trekking up slope toward distant peak",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Blue sky with cumulus clouds, vivid colour"
+ },
+ {
+  "label": "#401 21:19.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman with backpack and trekking poles smiling beside rock outcrop",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Mountain behind her, bright daylight"
+ },
+ {
+  "label": "#402 21:21.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker in green jacket waving while group walks across gravel plain",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hand raised in foreground, distant figures"
+ },
+ {
+  "label": "#403 21:24.9",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Guides helping hikers up steep rocky slope, one hand extended",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Action moment, candid assistance, dusty grade"
+ },
+ {
+  "label": "#404 21:27.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Lone hiker on dark volcanic rocks with mountain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, cloud-wrapped peak in distance"
+ },
+ {
+  "label": "#405 21:29.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of hikers walking along rocky ridge trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide framing, leading the group, earthy tones"
+ },
+ {
+  "label": "#406 21:32.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Valley with small hut and hikers on dirt path between rock cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Distant figures, hazy blue sky"
+ },
+ {
+  "label": "#407 21:33.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers in line approaching camp huts below rocky cliffs",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Green-roofed huts visible, wide establishing"
+ },
+ {
+  "label": "#408 21:36.1",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Wooden trail sign reading school hut at rocky site",
+  "text_on_screen": "SCHOOL HUT / NATIONAL PARK / ELEVATION 3,000 M (partially legible sign text)",
+  "text_style": "White and yellow serif-style sign lettering on dark brown board, mid-frame, slightly low angle",
+  "notes": "Sign landmark shot, natural light, likely used as location marker"
+ },
+ {
+  "label": "#409 21:39.6",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman in navy jacket sitting on rocks, smiling, mountain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, blue sky, haze on left; static framing with large boulder on right"
+ },
+ {
+  "label": "#409 21:43.7",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman in navy jacket sitting on rocks, gesturing with hands while talking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup as previous; subject slightly off-centre, hair moving"
+ },
+ {
+  "label": "#409 21:47.8",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman raising one hand mid-explanation, seated on rocks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same static framing; natural talking-head pacing"
+ },
+ {
+  "label": "#409 21:51.8",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated looking toward camera, hands together, mountain and cloud behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject shifted right; cloud bank visible on left"
+ },
+ {
+  "label": "#409 21:55.9",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated centred, hands clasped, speaking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Slightly lower angle; bright blue sky with white clouds"
+ },
+ {
+  "label": "#409 22:00.0",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated with hands together, mouth open mid-speech",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same framing; soft natural colour grade"
+ },
+ {
+  "label": "#409 22:04.1",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated gesturing with hands, cloud haze in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static shot; mountain slope visible behind"
+ },
+ {
+  "label": "#409 22:08.2",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated on boulders, hands moving while speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject on right third; large rock on far right"
+ },
+ {
+  "label": "#409 22:12.3",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated with legs crossed, hands near chest, speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Lower-angle framing; cloud drifting on left"
+ },
+ {
+  "label": "#409 22:16.3",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated, hands together, looking at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Clouds fill background left and centre"
+ },
+ {
+  "label": "#409 22:20.4",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated with hands raised, explaining",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static; mountain slope and cloud behind"
+ },
+ {
+  "label": "#409 22:24.5",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated, hands clasped, talking to camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject right of centre; large boulder at right edge"
+ },
+ {
+  "label": "#409 22:28.6",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated with hands in front, mouth open speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Clouds on left, rocky terrain foreground"
+ },
+ {
+  "label": "#409 22:32.7",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated with hands together, speaking",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same static framing as previous"
+ },
+ {
+  "label": "#410 22:35.2",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman standing up or shifting pose, hands at chest, cloud behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Subject moves to centre; cut point likely here, cloud backdrop visible"
+ },
+ {
+  "label": "#411 22:38.0",
+  "shot": "wide",
+  "camera": "unknown",
+  "subject": "Woman seated on rocks, hands in front, looking at camera",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Reframed slightly; large boulder right, blue sky left"
+ },
+ {
+  "label": "#411 22:42.7",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Woman in navy jacket seated on rocks, mountain and clouds behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, cool blue-white tones, hazy clouds across the slope"
+ },
+ {
+  "label": "#411 22:47.4",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Same woman seated on rocks gesturing with hands, large boulder at right",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Static framing similar to previous shot, likely a continuous interview-style segment"
+ },
+ {
+  "label": "#411 22:52.2",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Woman seated gesturing, lower-third caption over the bottom of frame",
+  "text_on_screen": "HEAD TO\nwww.bietlanthan.com/elenatabeh",
+  "text_style": "Thin white sans-serif, small, centered lower third, semi-transparent over rocks",
+  "notes": "Lower-third name/URL-style credit; partial visibility suggests a fade-in or fade-out"
+ },
+ {
+  "label": "#411 22:56.9",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Woman seated on rocks gesturing, mountain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Same setup as earlier thumbnails, slight shift in pose"
+ },
+ {
+  "label": "#412 23:00.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Close selfie of woman in hooded blue jacket on snowy plateau, other hiker behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide-angle phone lens distortion, bright overexposed sky, natural colour"
+ },
+ {
+  "label": "#413 23:02.3",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Selfie of woman in hood, volcanic peak and clouds in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hood framing, soft background blur, bright daylight"
+ },
+ {
+  "label": "#414 23:04.8",
+  "shot": "wide",
+  "camera": "gimbal",
+  "subject": "Dark jagged volcanic rock formation above a cloud sea, tiny figure at base",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Desaturated, dark moody grade with cloud layer; smooth stabilised movement"
+ },
+ {
+  "label": "#415 23:07.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two hikers in grey jackets, one in foreground near woman in hooded jacket smiling",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright, slightly overexposed; split framing between two people"
+ },
+ {
+  "label": "#416 23:08.5",
+  "shot": "black",
+  "camera": "unknown",
+  "subject": "Solid black frame",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Transition or pause between scenes"
+ },
+ {
+  "label": "#417 23:10.2",
+  "shot": "title_card",
+  "camera": "unknown",
+  "subject": "Title card over dark stormy clouds",
+  "text_on_screen": "4,800M | 15748 FT\nSUMMIT DAY",
+  "text_style": "Thin white geometric sans-serif, large centered title with small subtitle above, dark grey background",
+  "notes": "Chapter title card; dark moody grade"
+ },
+ {
+  "label": "#418 23:14.1",
+  "shot": "title_card",
+  "camera": "handheld",
+  "subject": "Same SUMMIT DAY title over teal tent interior blur",
+  "text_on_screen": "4,800M | 15748 FT\nSUMMIT DAY",
+  "text_style": "Thin white geometric sans-serif, large centered title with small subtitle above, overlaid on blurred footage",
+  "notes": "Title overlaid on footage, cross-dissolve transition from previous card"
+ },
+ {
+  "label": "#419 23:19.4",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Two people in sleeping bags inside a teal tent, one smiling, clock overlay",
+  "text_on_screen": "2:30 AM",
+  "text_style": "Small white sans-serif clock text, upper centre of frame",
+  "notes": "Low warm light from headlamp, night-time tent footage with warm orange bags"
+ },
+ {
+  "label": "#419 23:24.5",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Person in dark clothing and sleeping bag inside tent, face partly visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Dim, grainy low-light grade with orange sleeping bag accents"
+ },
+ {
+  "label": "#419 23:29.6",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Close blurred shot of person in sleeping bag inside tent, motion blur",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Shaky movement, strong motion blur suggests fast cut or wiggle"
+ },
+ {
+  "label": "#420 23:33.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers in headlamps and warm gear on night trail, one with orange backpack",
+  "text_on_screen": "3:00 AM",
+  "text_style": "Small white sans-serif clock text, centre-right of frame",
+  "notes": "Night scene lit by headlamps, grainy high-ISO look"
+ },
+ {
+  "label": "#421 23:36.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Single hiker walking up dark trail under night sky with headlamp",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Very dark frame, low light, minimal visible detail; likely a time-lapse or long walk sequence"
+ },
+ {
+  "label": "#422 23:42.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers with headlamps silhouetted against sunrise over mountain ridge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Warm orange sunrise grade, dark foreground, clouds below peak"
+ },
+ {
+  "label": "#423 23:47.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Silhouetted hiker with trekking poles facing sunrise over clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Strong backlight, lens flare, high contrast silhouette"
+ },
+ {
+  "label": "#424 23:51.1",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Group of climbers in red jacket at night with headlamps on rocky trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Night scene, warm artificial light, dim exposure"
+ },
+ {
+  "label": "#425 23:53.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Large boulder on dark volcanic slope at dawn",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cool blue pre-dawn tones, static landscape detail shot"
+ },
+ {
+  "label": "#426 23:55.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in headlamp and beanie drinking, sunrise glow behind her",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie framing, warm sunrise background, slightly tilted angle"
+ },
+ {
+  "label": "#427 23:58.1",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiker raising trekking poles in celebration at sunrise above clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Silhouette against orange sky, mountain in background"
+ },
+ {
+  "label": "#428 24:02.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Group of climbers with headlamps lit in dark, one face masked",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Very dark night grade, bright headlamp flare, shallow focus"
+ },
+ {
+  "label": "#429 24:06.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dim dawn sky over dark ridge and cloud layer",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Empty landscape, muted purple-orange gradient, possible B-roll transition"
+ },
+ {
+  "label": "#430 24:08.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Lone hiker with poles on rocky slope, large mountain peak behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Hazy morning light, cool blue tones, small figure for scale"
+ },
+ {
+  "label": "#431 24:10.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Silhouetted climber with poles walking up ridge at sunrise",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Pink and orange sky, backlit silhouette"
+ },
+ {
+  "label": "#432 24:11.8",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Golden rocky summit peak under clear blue sky with small sun",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, saturated blue sky, sun glare at top"
+ },
+ {
+  "label": "#433 24:13.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hazy pink-orange sky over cloud sea and dark rocks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Soft washed grade, empty landscape transition shot"
+ },
+ {
+  "label": "#434 24:15.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Foggy dusty trail with tiny distant hikers",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low contrast, desaturated grey haze, washed out"
+ },
+ {
+  "label": "#435 24:18.8",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Smiling hiker in orange jacket and sunglasses walking on scree with poles, group behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright daylight, walking toward camera, energetic vlog framing"
+ },
+ {
+  "label": "#435 24:23.2",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Hiker in orange jacket and sunglasses smiling, walking up scree slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Similar framing to previous, continuous walking shot, bright daylight"
+ },
+ {
+  "label": "#436 24:28.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman in grey jacket and beanie on scree, hikers behind",
+  "text_on_screen": "this is absolutely insane",
+  "text_style": "Small white sans-serif subtitle with yellow-tinted outline, bottom centre-right",
+  "notes": "Bright daylight, caption appears at bottom edge as subtitle-style text"
+ },
+ {
+  "label": "#437 24:33.8",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in grey hooded jacket, eyes closed, mountain haze behind her",
+  "text_on_screen": "the most ... ever done (small faint yellow subtitle-like text, partly illegible)",
+  "text_style": "small yellow sans-serif, bottom centre, low contrast",
+  "notes": "Tight selfie framing, cool washed-out grade, overcast bright sky"
+ },
+ {
+  "label": "#438 24:36.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Line of trekkers in hoods and backpacks climbing a misty volcanic slope",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow-style shot from behind the group, foreground figure partly cropped on right, muted cold grade"
+ },
+ {
+  "label": "#439 24:39.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Tiny distant hikers on a grey foggy ridge, red-clad figure at right edge",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Heavy fog, desaturated, subject small in frame to convey distance"
+ },
+ {
+  "label": "#440 24:42.6",
+  "shot": "closeup",
+  "camera": "handheld",
+  "subject": "Person lying on dark rock in orange jacket and grey pants, resting",
+  "text_on_screen": "10:00 AM",
+  "text_style": "small white clock-style timestamp overlay, centre-left",
+  "notes": "Low angle ground-level shot, timestamp overlay indicates time-of-day card"
+ },
+ {
+  "label": "#441 24:45.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers walking toward a rocky peak under blue sky and clouds",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright contrast, blue sky, low angle upward framing"
+ },
+ {
+  "label": "#442 24:47.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker in bright orange jacket leading up a rocky snowy path, others behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder follow shot, warm orange against grey rock"
+ },
+ {
+  "label": "#443 24:48.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Trekkers in orange, yellow and grey jackets ascending a steep rocky trail",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "High angle looking down the trail, snow patches, quick movement"
+ },
+ {
+  "label": "#444 24:50.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers in single file climbing boulders with snow patches",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Elevated angle, bright white sky at top, cut from previous shot"
+ },
+ {
+  "label": "#445 24:52.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dark volcanic slope with snow patches and drifting cloud",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Empty landscape shot, no people, moody grade; good B-roll transition"
+ },
+ {
+  "label": "#446 24:53.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Large glacier ice wall on a grey barren plain under fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing landscape, no people, desaturated"
+ },
+ {
+  "label": "#447 24:54.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Group in dark jackets and red hats walking with trekking poles on gravel",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side tracking shot, subjects moving left to right, cool tones"
+ },
+ {
+  "label": "#448 24:55.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Trekkers with backpacks and poles walking past rocks and snow",
+  "text_on_screen": "11:00 AM",
+  "text_style": "small white clock-style timestamp overlay, centre",
+  "notes": "Side tracking shot, timestamp matches time-card style in #440"
+ },
+ {
+  "label": "#449 24:57.0",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of hikers walking across dark gravel toward camera with rock outcrop behind",
+  "text_on_screen": "11:00 AM",
+  "text_style": "small white clock-style timestamp overlay, centre-left",
+  "notes": "Wide group shot, fog and snow at left edge"
+ },
+ {
+  "label": "#450 24:58.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Two hikers with trekking poles walking on a slope, one in dark jacket, one in orange",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, subjects fill frame, glacier haze in background"
+ },
+ {
+  "label": "#451 24:59.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Foggy slope with glacier edge and no people visible",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Empty transitional B-roll, muted grey grade"
+ },
+ {
+  "label": "#452 25:01.5",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers in red, orange and dark jackets walking on grey gravel near rocks",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide tracking shot closing the sequence, bright overcast light"
+ },
+ {
+  "label": "#453 25:04.4",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person in black hood and sunglasses, barren grey volcanic slope behind",
+  "text_on_screen": "nothing could have prepared me for this landscape",
+  "text_style": "small yellow sans-serif subtitle, bottom centre",
+  "notes": "Selfie framing, cool overcast grade, subtitle-style caption"
+ },
+ {
+  "label": "#453 25:08.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person in grey hooded jacket talking, flat grey terrain behind",
+  "text_on_screen": "i feel like we've transported to a whole different universe",
+  "text_style": "small yellow sans-serif subtitle, bottom centre",
+  "notes": "Tight selfie crop, overcast light"
+ },
+ {
+  "label": "#453 25:12.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person in hood pointing at snowfield on slope",
+  "text_on_screen": "now i'm surrounded by fields of snow sculptures",
+  "text_style": "small yellow sans-serif subtitle, bottom centre",
+  "notes": "Hand gesture toward snow patch"
+ },
+ {
+  "label": "#453 25:17.2",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person shouting excitedly with snow field on left",
+  "text_on_screen": "i've never seen anything like this in my life",
+  "text_style": "small yellow sans-serif subtitle, bottom right",
+  "notes": "Exclamatory expression, wind-blown look"
+ },
+ {
+  "label": "#453 25:21.5",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person in hood beside large snow mass, speaking",
+  "text_on_screen": "i literally have never seen anything like this in my life",
+  "text_style": "small yellow sans-serif subtitle, bottom left",
+  "notes": "Repeat-style caption over snow backdrop"
+ },
+ {
+  "label": "#454 25:24.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hiking group in single file on grey slope, snow below",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Group walking with trekking poles, medium-wide framing"
+ },
+ {
+  "label": "#455 25:26.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hikers with poles walking past snow bank, child in yellow pack",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Follow shot from behind, muted colours"
+ },
+ {
+  "label": "#456 25:28.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hikers from behind, orange and grey jackets, yellow backpack",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder follow shot, shallow depth"
+ },
+ {
+  "label": "#457 25:29.7",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of hikers with poles walking across grey gravel slope in mist",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Low angle, foggy desaturated grade"
+ },
+ {
+  "label": "#458 25:31.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers in line with large backpacks walking uphill on gravel",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Tracking shot from side, misty background"
+ },
+ {
+  "label": "#459 25:32.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Long line of hikers ascending gravel ridge in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide establishing view of the line, cool grade"
+ },
+ {
+  "label": "#460 25:34.9",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Person in hood and sunglasses talking, grey terrain behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie close crop, cut from group shot"
+ },
+ {
+  "label": "#461 25:36.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers walking across pale dusty slope in wind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Side tracking shot, hazy light"
+ },
+ {
+  "label": "#462 25:38.4",
+  "shot": "pov",
+  "camera": "handheld",
+  "subject": "Back of orange-jacketed hiker in foreground, snow patch ahead",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Over-shoulder POV, dark volcanic ground"
+ },
+ {
+  "label": "#463 25:39.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers walking along dark ground beside snow bank",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide shot, grey overcast palette"
+ },
+ {
+  "label": "#464 25:41.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Small group of hikers on dark ground beside snow field, ice formations in foreground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide closing shot, cool grade"
+ },
+ {
+  "label": "#465 25:43.4",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Dark volcanic rock edge meeting patchy snow on mountain ground",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Overcast, desaturated grey-white tones; static-looking establishing shot."
+ },
+ {
+  "label": "#466 25:45.9",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Three trekkers in dark jackets walking on snowy volcanic ground, one in red jacket",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Cold, muted colour grade; group walking across frame, tracking-style movement."
+ },
+ {
+  "label": "#467 25:48.7",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Mount Kilimanjaro summit wooden signpost in fog",
+  "text_on_screen": "MOUNT KILIMANJARO, CONGRATULATIONS, UHURU PEAK TANZANIA, AFRICA'S HIGHEST POINT, WORLD'S HIGHEST FREESTANDING MOUNTAIN",
+  "text_style": "White/cream sans-serif caps on dark green and brown wooden signs, small size, centred on boards",
+  "notes": "Foggy white background; sign is the key landmark shot."
+ },
+ {
+  "label": "#468 25:51.2",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of hikers near summit with one in red jacket, a yellow circle highlights a figure",
+  "text_on_screen": "",
+  "text_style": "Yellow circle graphic overlay around a small figure at top left",
+  "notes": "Bright overcast; yellow ring annotation suggests a highlight or callout effect."
+ },
+ {
+  "label": "#469 25:53.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker in navy jacket with arms out beside summit signposts",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Back-to-camera framing, cool muted grade, rocky ground."
+ },
+ {
+  "label": "#470 25:54.8",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker in navy jacket walking past Uhuru Peak signposts",
+  "text_on_screen": "UHURU PEAK TANZANIA, AFRICA'S HIGHEST POINT",
+  "text_style": "White caps on brown wooden signs, small, mid-frame",
+  "notes": "Follow-style shot moving left to right."
+ },
+ {
+  "label": "#471 25:57.6",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Hiker in navy jacket posing with arm raised at Kilimanjaro sign",
+  "text_on_screen": "MOUNT KILIMANJARO, CONGRATULATIONS, YOU ARE NOW AT, UHURU PEAK, AFRICA'S HIGHEST POINT",
+  "text_style": "White/cream caps on brown wooden boards, green Kilimanjaro sign on top",
+  "notes": "Pose shot; cool grey fog grade."
+ },
+ {
+  "label": "#472 26:01.0",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Smiling woman in black beanie and navy jacket, close to lens",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Selfie-arm framing, bright soft light, slight wide-angle distortion."
+ },
+ {
+  "label": "#473 26:03.0",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in navy jacket sitting with hand to face beside Uhuru Peak sign",
+  "text_on_screen": "UHURU PEAK TANZANIA 5895M 19341FT, AFRICA'S HIGHEST, WORLD'S HIGHEST FREESTANDING MOUNTAIN, ONE OF WORLD HERITAGE",
+  "text_style": "White caps on dark brown wooden signs, multiple lines, bottom and middle of frame",
+  "notes": "Playful pose; bright white sky, clean exposure."
+ },
+ {
+  "label": "#474 26:04.5",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in navy jacket cheering with fists raised beside summit sign",
+  "text_on_screen": "UHURU PEAK TANZANIA 5895M, AFRICA'S HIGHEST, WORLD'S HIGHEST FREESTANDING MOUNTAIN",
+  "text_style": "White caps on brown wooden signs, multiple lines",
+  "notes": "Celebration pose; same setup as previous shot, suggests jump-cut sequence."
+ },
+ {
+  "label": "#475 26:06.6",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Hikers hugging at summit crowd with tripods and colourful jackets",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Crowded summit background, misty grey tones."
+ },
+ {
+  "label": "#476 26:09.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Group of hikers posing with arms raised near tripods and summit crowd",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide group pose, muted grey grade with brighter red jacket accent."
+ },
+ {
+  "label": "#477 26:12.3",
+  "shot": "wide",
+  "camera": "handheld",
+  "subject": "Two hikers high-fiving with others walking in background",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Bright overcast, handheld feel, colourful jackets in background."
+ },
+ {
+  "label": "#478 26:14.7",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in navy jacket and black beanie grimacing with arm extended toward lens",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Close selfie, shallow depth, grey fog background."
+ },
+ {
+  "label": "#479 26:16.4",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in navy jacket with hands together beside Uhuru Peak sign",
+  "text_on_screen": "UHURU PEAK TANZANIA 5895M 19341FT, AFRICA'S HIGHEST, WORLD'S HIGHEST FREESTANDING MOUNTAIN, ONE OF WORLD HERITAGE",
+  "text_style": "White caps on brown wooden signs, multiple lines",
+  "notes": "Static pose shot, bright exposure."
+ },
+ {
+  "label": "#480 26:18.3",
+  "shot": "medium",
+  "camera": "handheld",
+  "subject": "Woman in navy jacket with arms spread wide under Kilimanjaro sign",
+  "text_on_screen": "MOUNT KILIMANJARO, UHURU PEAK TANZANIA, AFRICA'S HIGHEST POINT, WORLD'S HIGHEST FREESTANDING MOUNTAIN",
+  "text_style": "White caps on brown wooden signs, green Kilimanjaro board on top",
+  "notes": "Triumphant pose ending the sequence; bright, slightly warm grade."
+ },
+ {
+  "label": "#481 26:20.1",
+  "shot": "selfie",
+  "camera": "handheld",
+  "subject": "Woman in dark jacket and beanie arms outstretched beside Mount Kilimanjaro sign",
+  "text_on_screen": "MOUNT KILIMANJARO, UHURU PEAK TANZANIA, 4934",
+  "text_style": "Hand-painted wooden sign lettering, yellow and white, mixed sizes, top-left and bottom placement",
+  "notes": "Bright overcast daylight, slightly washed colours, subject centred-right, sign fills background"
+ },
+ {
+  "label": "#482 26:23.3",
+  "shot": "wide",
+  "camera": "tripod",
+  "subject": "Three people in dark jackets sitting on rocks beneath summit signpost in fog",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Wide static framing, misty grey sky, volcanic black rock foreground, subjects small in lower centre"
+ },
+ {
+  "label": "#483 26:27.1",
+  "shot": "medium",
+  "camera": "gimbal",
+  "subject": "Woman in navy jacket and beanie with hands behind head, smiling, summit sign behind",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Smooth handheld-stabilised framing, pale overcast background, subject centred, cool grade"
+ },
+ {
+  "label": "#484 26:30.7",
+  "shot": "wide",
+  "camera": "drone",
+  "subject": "Snow-capped volcanic mountain peak above dark clouds at dusk",
+  "text_on_screen": "",
+  "text_style": "",
+  "notes": "Establishing landscape shot, muted purple-grey grade, mountain upper-centre-right"
+ },
+ {
+  "label": "#485 26:35.9",
+  "shot": "title_card",
+  "camera": "drone",
+  "subject": "Aerial view over New York City skyline with title and handle overlay",
+  "text_on_screen": "ELENA TABER @ELENATABER",
+  "text_style": "Bold white sans-serif capitals, letter-spaced, centred top for name and bottom for handle, over hazy city image",
+  "notes": "Title card overlaid on aerial city footage, hazy warm grade, text fades in over sky area"
+ }
+]

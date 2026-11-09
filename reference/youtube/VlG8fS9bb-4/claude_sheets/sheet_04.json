@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#49 01:04.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman talking to camera on train beside bright window",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing, natural daylight, slight handheld movement"
+  },
+  {
+   "label": "#50 01:07.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman speaking to camera in station with yellow directional sign",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle selfie perspective, bright station interior"
+  },
+  {
+   "label": "#51 01:09.1",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Woman seated on green metro bench beside blue suitcase, Pudong sign",
+   "text_on_screen": "浦东1号2号 Pudong",
+   "text_style": "White Chinese characters on blue wall panel, large, centered, lower-third area of station signage; small yellow/white Vietnamese caption at bottom",
+   "notes": "Static observational shot, subject sitting with luggage"
+  },
+  {
+   "label": "#52 01:11.8",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Woman seated on metro bench with luggage, looking down at phone",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup as previous shot, continuous static framing"
+  },
+  {
+   "label": "#53 01:14.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Interior of moving subway car with passengers and window view",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Walking or panning perspective, cool bright grade"
+  },
+  {
+   "label": "#54 01:17.3",
+   "shot": "medium",
+   "camera": "tripod",
+   "subject": "Woman sitting on train seat with blue suitcase, smiling",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static medium shot, bright blue sky through window, cool tones"
+  },
+  {
+   "label": "#55 01:20.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Street with parked shared bikes and scooters beside red-brick wall",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand enters frame at right edge, possible transition cue, daylight"
+  },
+  {
+   "label": "#56 01:23.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Same street scene with bikes, scooters and kiosk",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of street location, slight pan"
+  },
+  {
+   "label": "#57 01:26.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman scanning QR code on shared bike with phone",
+   "text_on_screen": "Vui lòng quét mã QR",
+   "text_style": "Small white Vietnamese text, bottom area of frame, low contrast over bike",
+   "notes": "Tree trunk at right, natural daylight"
+  },
+  {
+   "label": "#58 01:29.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman speaking to camera on tree-lined street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close selfie framing, shallow depth, warm natural grade"
+  },
+  {
+   "label": "#59 01:33.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman gesturing with raised hand while talking, street behind",
+   "text_on_screen": "Verify xác thực cam vin",
+   "text_style": "Small white Vietnamese text, centre-low over subject's chest area, subtle",
+   "notes": "Hand gesture, selfie angle"
+  },
+  {
+   "label": "#60 01:35.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman talking to camera beside building entrance and trees",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing, warm grade"
+  },
+  {
+   "label": "#61 01:37.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman speaking with street and parked dark car behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slight low angle, urban background"
+  },
+  {
+   "label": "#62 01:40.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman looking up and speaking on tree-lined street",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Upward glance, handheld movement"
+  },
+  {
+   "label": "#63 01:44.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman gesturing while talking, street with pedestrian behind",
+   "text_on_screen": "Verify xác thực cam vin",
+   "text_style": "Small white Vietnamese text, centre-low over subject's chest area, subtle",
+   "notes": "Hand gesture, urban street background"
+  },
+  {
+   "label": "#64 01:48.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman touching her hair while talking outdoors",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing, green foliage, warm grade"
+  }
+ ]
+}

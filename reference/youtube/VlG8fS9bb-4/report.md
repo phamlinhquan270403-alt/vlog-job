@@ -1,0 +1,960 @@
+# 72 tiếng ở Thượng Hải quá ngắn 🪭 solo trip vlog
+
+- source: https://www.youtube.com/watch?v=VlG8fS9bb-4
+- channel: hà vy, uploaded 20261006, 305308 views
+- 1280x720, 2641.9s, video: `G:\Vlog-job\reference\youtube\VlG8fS9bb-4\video.mp4`
+- 603 shots (14/min), shot length p25/median/p75 1.57/2.27/4.08s, longest 122.5s
+- transcript: YouTube captions (video.en-orig.json3)
+
+## Contact sheets (`sheets/`, each label is `#shot mm:ss.s`)
+
+- `sheet_01.jpg`: shots 1–16
+- `sheet_02.jpg`: shots 17–32
+- `sheet_03.jpg`: shots 33–48
+- `sheet_04.jpg`: shots 49–64
+- `sheet_05.jpg`: shots 65–74
+- `sheet_06.jpg`: shots 75–89
+- `sheet_07.jpg`: shots 90–104
+- `sheet_08.jpg`: shots 104–105
+- `sheet_09.jpg`: shots 105–109
+- `sheet_10.jpg`: shots 109–113
+- `sheet_11.jpg`: shots 113–120
+- `sheet_12.jpg`: shots 121–128
+- `sheet_13.jpg`: shots 129–143
+- `sheet_14.jpg`: shots 144–153
+- `sheet_15.jpg`: shots 154–167
+- `sheet_16.jpg`: shots 167–181
+- `sheet_17.jpg`: shots 182–197
+- `sheet_18.jpg`: shots 198–213
+- `sheet_19.jpg`: shots 214–229
+- `sheet_20.jpg`: shots 230–244
+- `sheet_21.jpg`: shots 245–259
+- `sheet_22.jpg`: shots 260–275
+- `sheet_23.jpg`: shots 276–287
+- `sheet_24.jpg`: shots 288–303
+- `sheet_25.jpg`: shots 304–319
+- `sheet_26.jpg`: shots 320–334
+- `sheet_27.jpg`: shots 335–344
+- `sheet_28.jpg`: shots 345–348
+- `sheet_29.jpg`: shots 348–350
+- `sheet_30.jpg`: shots 350–352
+- `sheet_31.jpg`: shots 352–359
+- `sheet_32.jpg`: shots 359–364
+- `sheet_33.jpg`: shots 364–376
+- `sheet_34.jpg`: shots 377–392
+- `sheet_35.jpg`: shots 393–402
+- `sheet_36.jpg`: shots 403–418
+- `sheet_37.jpg`: shots 419–430
+- `sheet_38.jpg`: shots 430–445
+- `sheet_39.jpg`: shots 446–461
+- `sheet_40.jpg`: shots 461–473
+- `sheet_41.jpg`: shots 474–489
+- `sheet_42.jpg`: shots 490–504
+- `sheet_43.jpg`: shots 505–518
+- `sheet_44.jpg`: shots 519–524
+- `sheet_45.jpg`: shots 524–531
+- `sheet_46.jpg`: shots 532–547
+- `sheet_47.jpg`: shots 548–550
+- `sheet_48.jpg`: shots 550–550
+- `sheet_49.jpg`: shots 551–561
+- `sheet_50.jpg`: shots 562–577
+- `sheet_51.jpg`: shots 578–593
+- `sheet_52.jpg`: shots 594–603
+
+## Timeline (shot, start, length, speech during the shot)
+
+- #1 00:00.0 0.9s
+- #2 00:00.9 0.4s
+- #3 00:01.3 0.4s
+- #4 00:01.7 0.8s
+- #5 00:02.5 0.4s
+- #6 00:03.0 0.4s
+- #7 00:03.4 0.9s
+- #8 00:04.2 0.5s
+- #9 00:04.7 0.4s
+- #10 00:05.1 0.5s
+- #11 00:05.6 0.4s
+- #12 00:05.9 0.8s
+- #13 00:06.8 0.8s
+- #14 00:07.6 0.4s
+- #15 00:08.0 0.4s
+- #16 00:08.4 0.8s
+- #17 00:09.2 0.4s
+- #18 00:09.7 0.4s
+- #19 00:10.1 0.9s
+- #20 00:10.9 0.5s
+- #21 00:11.4 0.4s
+- #22 00:11.8 0.5s
+- #23 00:12.3 0.4s
+- #24 00:12.7 0.8s
+- #25 00:13.5 0.8s
+- #26 00:14.4 0.8s
+- #27 00:15.2 0.3s
+- #28 00:15.5 0.2s
+- #29 00:15.7 0.4s
+- #30 00:16.1 1.7s
+- #31 00:17.8 1.2s
+- #32 00:19.0 1.1s
+- #33 00:20.1 1.8s
+- #34 00:21.9 2.6s
+- #35 00:24.5 1.2s — We've landed at Pudong Airport, and yes
+- #36 00:25.7 3.8s — , we’ve officially arrived in / Shanghai, everyone. But now the problem
+- #37 00:29.5 1.7s
+- #38 00:31.2 5.9s — is, I don't know how to get to the / hotel, as this is my first time and it / feels quite different from other
+- #39 00:37.1 1.0s — countries I’ve visited. I need to
+- #40 00:38.1 1.0s
+- #41 00:39.1 2.6s — head out to this Metro. It seems like
+- #42 00:41.7 5.3s — here, you have to use their own / specific app, AMAP, not Google Maps or / Apple Maps. Is this Line 2 the Metro,
+- #43 00:47.0 2.4s — Apple Maps. Is this Line 2 the Metro, / right? I actually really wanted to try
+- #44 00:49.4 1.0s
+- #45 00:50.4 2.1s — the Maglev train. The Maglev is quite
+- #46 00:52.5 2.4s — similar to the Shinkansen, but it's / even faster. I think it can reach up to
+- #47 00:54.9 3.4s — 500 kilometers per hour. I think that's
+- #48 00:58.3 4.6s — just advertising, though; it seems the / top speed is about the same as the / Shinkansen, around 300 kilometers per
+- #49 01:02.9 3.7s — hour. But that train isn't very / convenient for getting to my hotel. I / can get straight to my hotel by taking
+- #50 01:06.6 1.6s — the metro. Just...
+- #51 01:08.2 1.8s — the metro. Just...
+- #52 01:10.0 3.6s
+- #53 01:13.6 1.7s
+- #54 01:15.3 4.0s
+- #55 01:19.3 3.2s — >> I'm going to grab a bike to go eat / since I can't check into my room yet.
+- #56 01:22.5 1.7s
+- #57 01:24.2 4.0s — >> I'm trying to scan this code. / >> Just a moment ago, for some reason, I
+- #58 01:28.1 3.1s — >> Just a moment ago, for some reason, I / couldn't unlock the bike. It’s asking
+- #59 01:31.3 3.5s — me to verify again, even though I / already verified my Alipay with my
+- #60 01:34.7 2.0s — passport from the start. But now it
+- #61 01:36.7 1.7s — suddenly needs me to verify my name and
+- #62 01:38.4 3.5s — face again, which I don't understand, / especially when everyone online says
+- #63 01:41.9 4.4s — just verifying on Alipay is enough. And / the bike app shouldn't need it. This
+- #64 01:46.3 4.7s — could take up to 24 hours. So, I'm just / walking for now. The weather today is
+- #65 01:51.1 3.0s — super beautiful. I'm inside the
+- #66 01:54.0 2.2s
+- #67 01:56.2 1.9s
+- #68 01:58.2 2.2s
+- #69 02:00.3 1.1s
+- #70 02:01.4 3.0s
+- #71 02:04.4 2.0s
+- #72 02:06.4 2.2s
+- #73 02:08.6 25.8s — restaurant now. Now, what I need to / figure out is how much 111 yuan is in / my currency. Earlier, I ordered without / even checking the prices, everyone. I / just ordered two dishes that looked / good, and then I swiped for 111 yuan. / But why does 111 yuan sound so / expensive? Wait, for lunch, 430...I / mean, it's not super expensive, but...I / don't know how much it is, and as I / said, I have no idea what's going on.
+- #74 02:34.4 11.8s — This whole trip is just completely / random. I'm going because I've never / been before, so I just decided to go. / Anyway, I hope it’s good. I ordered / two dishes that I think are quite / signature. This breaded pork cutlet
+- #75 02:46.2 1.0s — looks a bit like the Japanese style,
+- #76 02:47.2 2.3s — looks a bit like the Japanese style, / right? Even the smell is similar. Oh,
+- #77 02:49.6 4.0s
+- #78 02:53.5 0.7s — this chili sauce is delicious, and
+- #79 02:54.2 1.3s — this chili sauce is delicious, and / we’ve reached the main course,
+- #80 02:55.5 4.2s — we’ve reached the main course, / everyone, but I’ve just discovered / something expensive. This thing here is
+- #81 02:59.7 3.8s — expensive. Look, everyone, inside here
+- #82 03:03.5 0.8s
+- #83 03:04.3 1.4s
+- #84 03:05.6 0.9s — there’s crab and it's overflowing.
+- #85 03:06.6 3.2s — there’s crab and it's overflowing. / And there’s crab roe too. Getting
+- #86 03:09.8 2.6s
+- #87 03:12.4 1.6s
+- #88 03:14.1 5.7s — ready to check out the room. I’m / feeling nervous, quite nervous actually / . Earlier, I had a delay getting my
+- #89 03:19.8 9.5s — room, then when I went back, they said / they upgraded me for free, so I thought / , okay, my hour isn't worth that much / anyway. Oh, nice. It’s bigger than
+- #90 03:29.2 1.3s
+- #91 03:30.6 4.7s — the room I booked. The room I booked / didn't even have a desk, everyone, this
+- #92 03:35.3 3.0s — is way bigger than the room I booked. / The room I booked didn't even have a
+- #93 03:38.3 1.4s — The room I booked didn't even have a / big window. Oh my, suddenly, I was a
+- #94 03:39.7 1.2s — big window. Oh my, suddenly, I was a
+- #95 03:40.9 5.0s — bit sad about not having a room earlier / . Now I realize my hour didn't really / cost that much, guys. This is the room
+- #96 03:45.9 11.0s — I actually booked. Meaning the main / area didn't have a window. The window / was hidden behind the bathroom over / here. There. Oh, I love this window so
+- #97 03:56.8 4.5s — much. And actually, I've been walking / around and I really like this area too.
+- #98 04:01.3 1.1s — And there’s a big bed over here. Oh,
+- #99 04:02.4 4.1s — goodness me. And then, earlier was so
+- #100 04:06.5 3.9s — funny. I thought it was a mirror, I had / to slide my hand through like this.
+- #101 04:10.4 5.8s — Wait, is this only for skinny people to / go to the bathroom? Oh, I didn't know / it was a sliding door, just a second, / guys. I woke up at 4 or 5 AM, no, not 4
+- #102 04:16.2 2.1s — guys. I woke up at 4 or 5 AM, no, not 4
+- #103 04:18.3 1.9s — or 5 AM, 3 AM. This is basically being
+- #104 04:20.2 18.0s — trapped in the house. I still haven't / figured out how to use the bike yet, / I'm still a little bit annoyed by that. / But oh well, I'll figure it out later. / Because after this Shanghai trip, I'm / also going to Hangzhou. Oh, I think I / haven't mentioned anything since we / started, right? This is my very first / trip to China, and I decided to go / alone. And when I told people I was
+- #105 04:38.2 69.7s — alone. And when I told people I was / going to China, there were two schools / of thought, first. Wow. Hey, it's / actually really good. Oh, China is / totally fine to visit. It's very easy. / Easier than Japan. Easier than Korea. / Oh my god, are you crazy? Are you out / of your mind? China is so hard to / travel in, how can you go there alone? / Then I was like, wait, so do you guys / think it's easy or hard? I don't get it / anymore. Just go and try it out. But / honestly, I’ve found it quite easy to / get around. Part of the reason it’s / easy is because everything is on the / Alipay app. I mean, that's what I've / seen since this morning, I don't know / about later, but everything is on the / Alipay app. So it is quite easy to / navigate. What is "navigate" in / Vietnamese again? Like, to do this and / that. Plus, everyone is also very nice. / Earlier, when I was paying with Alipay / for the first time, I didn't know which / button to press. Because while the app / does have a button to translate the / entire webpage, some pages don't / translate and stay in Chinese, so I / couldn't figure out how to pay for a / while. Luckily, the lady there / understood I was having trouble. Then / she helped me out so I could finally / press the button to pay. It’s true / that people here don't speak much / English, but they still try to / translate, and I try to translate back / using this conversation app. You just
+- #106 05:47.9 26.2s — need to set two languages in it, and it / will automatically listen to both / languages without you needing to switch / back and forth. For example, you can / ask where the toilet is. It will / automatically translate it to Chinese, / and there's a button to press if you / want them to hear it, and they will / hear it in Chinese. For example, I just / need to press this button, I don't even / need to know which phrase, like even if
+- #107 06:14.1 17.2s — I say "ni hao," it still hears the / Chinese, I don't need to keep selecting / Chinese, English, or Vietnamese, it’s / very easy to use. I've been using this / shoulder bag the whole time. Alright, / now I think I'll sleep for a bit. Oh, / and also, I want to try vlogging with / my iPhone for this vlog. Oh my god, / everyone. Because, here it is. I'm
+- #108 06:31.3 2.8s — currently filming with my new phone. / It's a little bit strange. Because
+- #109 06:34.1 16.6s — It's a little bit strange. Because / lately, I've been watching a lot of / iPhone vlogs. I see everyone filming so / beautifully, so I want to try it since / I mostly take photos. But I think the / iPhone is still very convenient. When / it comes to filming and shooting, I / want to try doing a whole vlog on an / iPhone to see how it goes. And from / this morning until now, it’s really
+- #110 06:50.7 1.4s — this morning until now, it’s really
+- #111 06:52.1 1.0s — been convenient. Earlier I said I’d
+- #112 06:53.1 2.9s — sleep for a bit and then go, right? / It’s 7:51, everyone. I slept for
+- #113 06:56.1 53.6s — It’s 7:51, everyone. I slept for / three hours, excuse me for a second. My / three minutes were actually three hours / . Actually, I did wake up, but I just / kept falling back into a deep sleep. I / think I’m just severely / sleep-deprived. And I really need some / time sleeping in a bed. If I count all / the sleeping time, I also slept on the / plane. On the way to the airport, I / also slept a little, but I don't think / it was enough. Because sleeping on / those vehicles never really counts for / me; I need to really feel rested. I / need to sleep in a bed. Back then, when / I kept saying I needed 8 hours of sleep / , I was being serious, everyone. I / wasn't exaggerating even a little bit. / It’s like my body literally doesn't / function otherwise. Now it's actually / too late to do anything anyway. I'm not / that hungry, but I want to head out to / The Bund. The Bund is that beautiful / area where at night you can see the / Oriental Pearl Tower. Wait, what? / It’s called—anyway, I'm going to
+- #114 07:49.6 19.1s — use this shade from Misha. It's the / Vintage Rose shade; I really like this / area, but it's a bit far from The Bund. / But imagine, The Bund is kind of like / the Shibuya Crossing in Tokyo. It’s / just a spot you visit once, I guess. I / won't stay there because it's too / crowded and very touristy. I think so, / because it's true, I think that because
+- #115 08:08.7 11.4s — I'm sleepy. Hey, look here, look here! / Is Rakuma cute? Is it cute? I have a / Smiski too, but where is it? Sister, / that's enough, it's done but you're / still doing that. But the problem is my
+- #116 08:20.1 6.3s — bike still hasn't been approved yet. / I'm worried I won't be able to book a / bike tomorrow. Because I'm going to
+- #117 08:26.4 3.2s — switch from this bag to this bag to / make it compact. And it's funny that
+- #118 08:29.6 15.9s — this time in China, I still brought my / 28-inch suitcase, but it feels lighter / than usual. Half of the suitcase is / completely empty. That never happens; / usually, if I go for a week or 5 days, / it's always full and super heavy. So
+- #119 08:45.5 7.1s — I'm afraid that I forgot something. I / usually suspect it'll be true, everyone
+- #120 08:52.6 5.2s — . 30 yuan, huh? How much is 30 yuan?
+- #121 08:57.8 28.4s — Yes, yes, let's go! / >> Oh. Yes. Yes. / >> Today is my first day in China and my / first time in China. They're wearing
+- #122 09:26.2 2.5s
+- #123 09:28.8 2.3s
+- #124 09:31.1 2.2s
+- #125 09:33.3 4.7s
+- #126 09:38.0 14.1s
+- #127 09:52.1 1.7s
+- #128 09:53.8 1.6s
+- #129 09:55.5 2.1s
+- #130 09:57.5 2.2s
+- #131 09:59.8 4.3s — traditional Chinese outfits, oh my god, / each one has a set. Oh, this was my
+- #132 10:04.1 1.6s
+- #133 10:05.7 3.3s — lunch earlier. Pompompurin has this,
+- #134 10:09.0 4.2s — everyone. So cute, oh my, I love / Pompompurin the most. Where is my
+- #135 10:13.2 1.8s — Pompompurin? Oh, here, Pompompurin has
+- #136 10:15.0 4.2s — no horse. Why is it so orange? Its
+- #137 10:19.2 1.3s
+- #138 10:20.5 2.5s — pants are about to fall off. And it
+- #139 10:23.0 2.1s — doesn't even have its little butt hole. / Ah, this is the old version of
+- #140 10:25.1 8.1s — Ah, this is the old version of / Pompompurin, everyone. I think it's for / some anniversary. And they brought back / the old version. Can you guys see that / its face is different? It looks so old.
+- #141 10:33.2 2.3s
+- #142 10:35.5 1.9s — It really does. That means you have to
+- #143 10:37.4 4.8s
+- #144 10:42.2 3.6s
+- #145 10:45.7 2.7s
+- #146 10:48.4 2.0s
+- #147 10:50.4 3.4s
+- #148 10:53.8 2.5s
+- #149 10:56.3 2.1s
+- #150 10:58.4 1.1s
+- #151 10:59.5 17.2s — walk a lot, so if you take the metro or / the bus, you still have to walk home. / Everyone, there are so many bikes here, / countless bikes. You can rent one and / go anywhere. Like, I was supposed to / walk from the station to the hotel for / over ten minutes, but I rode the bike / and it was so fun. First is Pompompurin
+- #152 11:16.7 13.8s — . This is because whenever I go / anywhere, I always buy a Snoopy or a / Pompompurin or some character that I / like. I put my AirPods in here and they / fit perfectly. And then when I need
+- #153 11:30.5 10.3s — them, I can take them out right here, / Hbard. Yeah. Vietnam version, too. I / never find these cute. I like Hik,
+- #154 11:40.8 3.9s — Hinata, Kenma, and Kuro, you know. I / like them too. Why do these two guys
+- #155 11:44.8 4.8s — look so familiar, but I can't really / remember them? Okay, okay, okay. H Oh,
+- #156 11:49.5 0.7s
+- #157 11:50.2 14.1s — your hair, this hair is so...The guy I / don't remember, why does he look like / that? He looks so shady. Hello. Hello.
+- #158 12:04.3 1.0s
+- #159 12:05.2 1.4s
+- #160 12:06.7 2.3s
+- #161 12:09.0 3.6s
+- #162 12:12.5 1.8s
+- #163 12:14.4 2.5s
+- #164 12:16.8 1.6s
+- #165 12:18.5 1.4s
+- #166 12:19.9 3.1s
+- #167 12:23.0 8.7s — Instead of taking the train, I biked / here to the street I wanted to visit, / the one I’ve had saved on my phone / for a really long time. It's located in
+- #168 12:31.6 3.4s — the French Concession area. That's the / area that used to be under French rule,
+- #169 12:35.0 0.8s
+- #170 12:35.9 2.6s — directly administered by France. So,
+- #171 12:38.5 2.1s — the buildings and architecture / throughout this section really show a
+- #172 12:40.6 3.4s — throughout this section really show a / blend of French and Chinese styles. I
+- #173 12:44.0 0.8s — think it’s somewhat similar to the
+- #174 12:44.8 2.2s — architecture in District 1. But the
+- #175 12:47.0 6.6s — streets are really beautiful, everyone. / The trees line the streets all the way / through, I don't know if other parts / are like this too. And while I was
+- #176 12:53.6 10.5s — biking earlier...Do you see the traffic / light? This red light is actually for / the side over there. And the red, green / , and red lights on this side are for / those over there; they’re set much
+- #177 13:04.1 4.1s — further back, not right in front of you / like here. And when I first noticed, it
+- #178 13:08.2 4.4s — helped me slow down in time, or speed / up before I reached that point. Also,
+- #179 13:12.6 2.0s — up before I reached that point. Also,
+- #180 13:14.7 3.1s — when you're standing right at the stop / line, you don't have to crane your neck
+- #181 13:17.7 2.6s — to see where the light is.
+- #182 13:20.3 1.2s
+- #183 13:21.5 1.5s
+- #184 13:23.0 1.3s
+- #185 13:24.3 1.1s
+- #186 13:25.4 1.1s
+- #187 13:26.5 1.9s
+- #188 13:28.5 3.2s — >> I let everyone know I ordered a scone, / a lemon-flavored scone. I took a bite
+- #189 13:31.6 0.7s
+- #190 13:32.3 0.8s
+- #191 13:33.1 5.3s — and it tasted exactly like the dish / soap at my house, I swear, it tasted / just like it. I can't eat any more,
+- #192 13:38.4 2.2s — everyone. I have never wanted to
+- #193 13:40.5 0.9s
+- #194 13:41.4 1.8s — understand Chinese more than I do right / now. Earlier, in front of the café
+- #195 13:43.3 0.4s — now. Earlier, in front of the café
+- #196 13:43.7 3.9s — now. Earlier, in front of the café / where I'm sitting, four police officers / suddenly stopped four motorbikes, and
+- #197 13:47.6 4.9s — then they surrounded them. Then the / person on the motorbike just started / screaming so loud, like screaming at
+- #198 13:52.5 2.0s — the whole street and the entire cafe. I
+- #199 13:54.5 1.8s — stepped out to see what they were / screaming about, I was a bit nosy so I
+- #200 13:56.3 1.2s — screaming about, I was a bit nosy so I / thought about opening a translation app
+- #201 13:57.5 3.2s — thought about opening a translation app / just to stand there and gossip. But / from what I saw, it looked like the
+- #202 14:00.8 0.5s — from what I saw, it looked like the
+- #203 14:01.3 8.0s — motorbike ran a red light or something, / it was just so dramatic, seriously. And / the person who was the most dramatic / out of the four was the one screaming
+- #204 14:09.2 3.7s — the loudest. I wonder whose grandmother
+- #205 14:12.9 2.1s
+- #206 14:15.0 2.0s — this is. There are some on the fridge
+- #207 14:17.0 1.4s — this is. There are some on the fridge / too. So cute. There are some over here
+- #208 14:18.4 2.3s — too. So cute. There are some over here / as well. Are there any? No, this
+- #209 14:20.7 3.4s — as well. Are there any? No, this / material doesn't feel that great. Cute
+- #210 14:24.1 2.2s — dog. It's so weird. It's a dress with
+- #211 14:26.3 1.8s
+- #212 14:28.1 2.1s
+- #213 14:30.2 2.0s
+- #214 14:32.1 2.1s
+- #215 14:34.2 2.4s
+- #216 14:36.6 2.8s
+- #217 14:39.3 3.2s
+- #218 14:42.5 1.9s
+- #219 14:44.5 4.2s — an outer layer here. Oh, they have
+- #220 14:48.7 3.5s
+- #221 14:52.2 3.0s — A.P.C. bags here. When I was in Japan,
+- #222 14:55.2 1.7s
+- #223 14:56.9 1.1s — I used to look at this brand's leather
+- #224 14:58.0 2.1s — I used to look at this brand's leather / bags a lot, they have the kind with the
+- #225 15:00.1 7.6s — bags a lot, they have the kind with the / logo and the shapes are quite nice, but / why is the leather like this? The
+- #226 15:07.7 1.4s
+- #227 15:09.1 1.5s
+- #228 15:10.6 1.5s
+- #229 15:12.1 1.7s
+- #230 15:13.8 1.4s
+- #231 15:15.2 1.6s
+- #232 15:16.8 1.5s — weather is nice, everything is quiet,
+- #233 15:18.3 2.2s — weather is nice, everything is quiet, / I'm just walking and looking at things,
+- #234 15:20.5 3.1s — I'm just walking and looking at things, / this is what I call life. Oh, except
+- #235 15:23.5 6.5s — for that moment earlier. Earlier I went / into a shop and was so excited, the / clothes looked simple so I didn't think
+- #236 15:30.0 1.5s — much of it. Oh my god, I picked up the
+- #237 15:31.5 2.5s — first shirt, the thinnest one, and I / mean the absolute thinnest, probably
+- #238 15:34.0 2.3s — mean the absolute thinnest, probably / used the least amount of fabric too. 3
+- #239 15:36.3 7.8s — million dong, I turned around and / walked away, the smile on my face just / dropped instantly. I just looked at the / price tag and the smile froze right on / my lips. Wait, what? Oh, Brandy is here
+- #240 15:44.1 2.6s — my lips. Wait, what? Oh, Brandy is here / too. Hey, hey, hey, let's go, let's go,
+- #241 15:46.7 1.3s — guys. Everyone, remember this shop? We
+- #242 15:48.0 9.4s — guys. Everyone, remember this shop? We / went to it back in Korea too. And it's / Brandy Melville. Brandy Melville is an / American brand, I know it's new to shop / for American brands here, but most of / their stuff is 100%cotton so I really
+- #243 15:57.4 6.1s — their stuff is 100%cotton so I really / like it. But one thing to note is that / this brand only has one size, so it's / hit or miss if it fits. Wait, let me go
+- #244 16:03.5 1.2s
+- #245 16:04.7 2.9s — in here first, this cat is so cute. / What's this? I thought they sold cats,
+- #246 16:07.6 3.0s — What's this? I thought they sold cats, / why are they selling random stuff and
+- #247 16:10.6 1.3s — with those prices? Buying this to get
+- #248 16:11.9 3.5s — that is just ridiculous. There's a Row / bag too? Why is it so random? Wait guys
+- #249 16:15.4 1.0s
+- #250 16:16.4 1.8s
+- #251 16:18.2 3.6s — , it’s a bookstore, everyone. I / thought they sold cat stuff. Comics.
+- #252 16:21.8 4.1s
+- #253 16:25.9 1.7s
+- #254 16:27.6 1.5s
+- #255 16:29.1 1.7s
+- #256 16:30.8 1.6s — >> If this had an English version, I’d
+- #257 16:32.4 8.3s — >> If this had an English version, I’d / buy it immediately. It's a book about / gardens in China. Oh my, it’s like
+- #258 16:40.7 4.1s — they want to compile those gardens for
+- #259 16:44.8 2.8s — people to revisit, right? It’s so
+- #260 16:47.6 5.0s — beautiful. I really want to go to / Hangzhou to visit those gardens.
+- #261 16:52.6 5.1s — Walking up these stairs, there are so / many expensive brands, I feel a bit / pressured. A whole bunch of Vivienne
+- #262 16:57.7 1.4s
+- #263 16:59.2 1.9s — Westwood bags, everyone. So pretty, huh
+- #264 17:01.0 4.2s — Westwood bags, everyone. So pretty, huh / ? Gosh, what is this place? I want that
+- #265 17:05.3 1.3s
+- #266 17:06.6 1.2s
+- #267 17:07.9 1.2s
+- #268 17:09.1 3.4s — Vivienne Westwood bag so bad. I really / like the Nana bag, but 5 million is a
+- #269 17:12.5 1.8s — bit expensive and I’m not crazy about
+- #270 17:14.2 1.6s — glossy leather. Oh my god, this is so
+- #271 17:15.8 4.8s — glossy leather. Oh my god, this is so / cute, are you kidding me? Are you / kidding me? It’s a black paradise,
+- #272 17:20.7 2.7s — everyone. This is JW Anderson, wow.
+- #273 17:23.4 2.3s
+- #274 17:25.7 2.4s
+- #275 17:28.1 5.0s — This would suit someone who wears silk / outfits. I don’t wear that. Sometimes
+- #276 17:33.0 2.5s
+- #277 17:35.6 3.2s — I can't tell if this brand is actually / dirty or if it’s styled that way. I
+- #278 17:38.8 5.2s — dirty or if it’s styled that way. I / hope one day I can wear it, I don't / know when that will be. I feel like my
+- #279 17:44.0 2.9s — aura isn't strong enough to pull this / off. Here, this is from the shop I just
+- #280 17:46.9 8.5s — off. Here, this is from the shop I just / visited. Don’t ask me the name, I / have no idea what it's called, guys; / it’s like I just stumbled into a gold / mine. I came in looking for cats, but I / didn't see any cats at all. But if you
+- #281 17:55.4 8.4s — come here, remember to download WeChat / and Alipay beforehand, because you have / to use those apps to scan the codes to / check the prices. I think the prices
+- #282 18:03.8 11.9s — fluctuate based on demand, which is why / they list them online instead of on the / products. So you have to scan every / single item to see the price, otherwise / you’ll have no idea how much it costs
+- #283 18:15.7 1.1s — . Ah, déjà vu right here. We are a
+- #284 18:16.8 8.1s — recycled store, recycled books and / recycled clothes—I realized all the / books were second-hand. And there are
+- #285 18:24.9 1.3s — second-hand clothes, and the cat image
+- #286 18:26.2 1.6s — seems to be the icon of this place.
+- #287 18:27.9 1.3s
+- #288 18:29.2 5.8s — There are some "Shanghai" shirts I want / to buy. But damn, are there no easier / colors to wear? And the buttons here.
+- #289 18:35.0 1.4s
+- #290 18:36.5 2.2s
+- #291 18:38.7 1.4s
+- #292 18:40.2 1.9s — This short skirt is so cute. But the
+- #293 18:42.1 5.4s — black color is a bit faded; it’s not / solid black, but it’s still pretty.
+- #294 18:47.5 1.4s
+- #295 18:48.9 1.4s
+- #296 18:50.3 1.4s
+- #297 18:51.7 2.5s
+- #298 18:54.2 3.5s — I'm at the place everyone's been asking / me to film, the cheap cosmetics
+- #299 18:57.7 3.9s — warehouse. They just leave everything / scattered all over the place here, not
+- #300 19:01.6 2.6s — sorted by brand at all, just a total / mess. Over here is a huge stack of
+- #301 19:04.2 2.6s — mess. Over here is a huge stack of / masks; it feels like nowadays with
+- #302 19:06.8 4.9s — Shopee discount codes, it's just so / cheap. Aha, here it is, the famous mini
+- #303 19:11.7 5.1s — stall, a whole row of mini items. Vi's
+- #304 19:16.8 2.1s
+- #305 19:18.9 1.7s
+- #306 19:20.6 3.0s — love, CO. I love using this so much, / guys. If anyone has dry lips, look for
+- #307 19:23.6 3.4s — guys. If anyone has dry lips, look for / this jar, but oh my god, I need to pee
+- #308 19:27.0 4.2s — so bad. I really need to pee, I don't / know how I'm going to find a restroom
+- #309 19:31.2 2.2s — here. Thanks to IM for letting me
+- #310 19:33.3 1.0s
+- #311 19:34.3 5.5s — relieve myself successfully, and Hello / for bringing me here. The Chinese
+- #312 19:39.8 2.3s
+- #313 19:42.1 3.0s
+- #314 19:45.1 1.8s
+- #315 19:46.9 3.5s — shopping malls are so massive, it’s
+- #316 19:50.4 3.2s — just exhausting. Oh my. It's getting
+- #317 19:53.5 2.0s
+- #318 19:55.6 2.0s
+- #319 19:57.5 3.0s — late now, guys, so Vi is booking a ride / to go eat. Today's shopping was quite
+- #320 20:00.5 2.9s — to go eat. Today's shopping was quite / successful, I found a lot of nice
+- #321 20:03.4 1.9s — things, but Vi didn't buy anything. I
+- #322 20:05.3 1.4s
+- #323 20:06.7 1.3s
+- #324 20:08.0 1.6s
+- #325 20:09.7 3.9s
+- #326 20:13.5 2.0s
+- #327 20:15.5 2.1s
+- #328 20:17.7 2.3s
+- #329 20:19.9 2.3s
+- #330 20:22.2 2.0s
+- #331 20:24.2 2.0s
+- #332 20:26.2 11.6s — was planning to eat duck, but then I / saw on the menu that the goose is the / best. I saw online that people say this
+- #333 20:37.8 4.9s
+- #334 20:42.7 2.1s
+- #335 20:44.8 2.1s
+- #336 20:46.9 4.0s
+- #337 20:51.0 3.2s
+- #338 20:54.2 2.2s
+- #339 20:56.3 3.3s — is delicious. The weather is also very
+- #340 20:59.6 5.7s — beautiful today. Now I'm going to eat / noodles, then continue tomorrow. As you
+- #341 21:05.3 28.9s — can see, I just went shopping for... / wait, not shopping for X, but hunting / for X at what must be the largest X / warehouse in Shanghai. I filmed a vlog / for TikTok. I think by the time this / vlog is posted, the TikTok one will be / up too. There are some super cute bags / here. Oh my god, I'm also looking for a / birthday gift for myself. Yeah. So my / birthday is October 31st, but today / seems to be only the 23rd. They have / this bag from Longchamp, it's so pretty
+- #342 21:34.2 7.5s — this bag from Longchamp, it's so pretty / , I've never seen this bag before. Not / only that, oh my god, this Longchamp / bag is also very beautiful, it's the Le
+- #343 21:41.7 4.1s — bag is also very beautiful, it's the Le / Pliage, sorry I know how to write it / but don't know how to pronounce it, Le
+- #344 21:45.8 2.3s — but don't know how to pronounce it, Le / Pliage, but it's like faux crocodile
+- #345 21:48.2 5.5s — leather, I don't know these terms, guys / . Guys, sorry, what, oh my god, sorry,
+- #346 21:53.6 2.5s — this bag is from Loulou, everyone, it's
+- #347 21:56.2 9.3s — super cute. It was back when I was / really into those cool, unique bags / from GWA. And if anyone plans to go
+- #348 22:05.5 69.6s — there, I want to warn you that it’s / not easy to find. It’s extremely hard / to find. Because you have to go to the / Hongqiao train station, and when I / arrived, I realized it’s a massive, / giant station in Shanghai. It’s not / just big in the normal sense, you guys. / It’s what they call a comprehensive / transportation hub. And the word " / comprehensive" literally means it / includes everything. It has taxis, / buses, the metro, suburban railways, it / has every type of transport. I swear, / except for airplanes, it has it all. / And I spent so much time lost in there. / But I noticed that it wasn't just me / asking for directions; even many / Chinese people were asking for help too / . Everywhere I went, I was stopped and / told to turn back because I think / everyone could tell I was lost. But / overall, there are a lot of police / officers there, and they are so nice. / Whenever you get stuck somewhere, just / open your translation app, the one / I’ve been showing you since the first / day. Open it up, show it to them, and / they will speak into the phone and it / will show you the directions. I think / they have a lot of experience giving / directions because they explain things / very carefully. I guess so many people / get lost, not just me. I really like
+- #349 23:15.0 10.0s — Shanghai, I think it’s amazing. And I / think among countries like Korea, Japan / , and China, China is actually the / easiest to travel to for us. I’m / saying this honestly because at first,
+- #350 23:25.0 89.6s — when I heard I had to download all / those apps, I was nervous, and hearing / that Chinese people don't speak English / made me even more scared. But actually, / everyone, first of all, just get the / apps. I just need to download all those / apps and set them up back in Vietnam. I / admit that the setup process is a bit / tiring, but once you've done it, you / won't have to worry about anything when / you arrive. And then, the map app for / finding directions is also very easy to / use. It has routes for bicycles, / walking, and driving as well. Oh my, / and the train stations, excluding the / one I mentioned earlier. Actually, even / for that station, finding the Metro is / still very easy because the signs are / so clear and the system is simpler. For / example, in Tokyo, as everyone knows, / the train system isn't run by just one / company; it includes Tokyo Metro, JR, / and all sorts of other lines. A single / station can be split into many / entrances, and each entrance can lead / to several different lines. So, when / traveling in Tokyo, you need to know / which train belongs to which line, and / which line belongs to which company, / and it’s very complicated. But, for / instance, in Shanghai or Xi'an, it's / different. The entire city is operated / by only one Metro company. You just / need to enter any gate, and it will / always lead you to the Metro you need; / if the map says take a certain line, / you just go to that line, and it’s / also very cheap. Wow, I don't mean it's / super, super cheap, but I mean the / price is very reasonable. I take the / train, and I travel so far, it only / costs a few yuan? I think I’ll try to
+- #351 24:54.6 5.1s — go tomorrow. Well, I don't know yet, / I'll think about it tomorrow, or I
+- #352 24:59.7 21.6s — might go again. Songmont is a Chinese / bag brand, it's a competitor that's / quite similar to Polene, it has a bit / of a Polene vibe, but I prefer Songmont / . So that’s a bag brand with good / quality leather and I think the price / is mid-range, right? A bag is around 8 / to 15 million, but here, I'm still / debating between these two. Also, this
+- #353 25:21.3 10.6s — one is from their new collection, the / Ltis, or is it pronounced ltice? It’s / like the leather is woven together, / like the leather is interlaced. I'll / decide tomorrow. This morning, I felt a
+- #354 25:31.9 1.0s
+- #355 25:32.8 4.9s
+- #356 25:37.7 13.8s
+- #357 25:51.5 1.1s — little anxious. Lately, I’ve been
+- #358 25:52.5 1.9s — little anxious. Lately, I’ve been
+- #359 25:54.5 37.2s — feeling anxious, I don’t know why. / Like, do you know the word for "anxious / " in Vietnamese? It’s like worrying, / people worry about everything even when / there’s nothing to worry about, but / sometimes the feeling that comes to me / just feels so huge in my head. Oh, / suddenly now that I've turned the / camera on, I feel much better, as if / I've vented it out, otherwise I just / keep thinking about it and those / feelings become too overwhelming in my / head. And then it makes me unable to do / anything at all. So. I’ve been / filming on and off for a while now, / it’s almost 10 or 11 in the morning. / And I usually listen to Em Shin’s / podcast. Whenever I feel that way. Yeah
+- #360 26:31.6 18.5s — . And I also have to limit listening to / music or watching YouTube, otherwise I / get too overloaded. Then I start not / being able to calm my mind down again. / But today's question, oh right, I / forgot my outfit today, it's pretty / mature. This shirt is from Into X, / pants from Mirita, the bag is Coach, / and these shoes I really love. You / can't see this part, hey, it goes so
+- #361 26:50.1 11.9s — well together, right? It's from Choon / Kid but the sole is coming off, guys. I / wear these quite a lot and I think / they're still okay. Is the front / attachment a bit too big? I bought this / when I went to Tokyo, do you guys
+- #362 27:02.0 1.5s — when I went to Tokyo, do you guys / remember? I’m thinking, I don’t
+- #363 27:03.5 8.6s — remember? I’m thinking, I don’t / know if I want to wear these glasses. / Ah, these glasses, I don't know if they / make me look cooler or not. These / glasses are from Uniqlo, they're really
+- #364 27:12.2 16.6s — glasses are from Uniqlo, they're really / good, they even have UV protection. I / got them on sale back then. Oh my god, / these glasses were discounted twice. / The original price was 499. I bought it / at 399, and a few weeks later it / dropped to 299. I should have waited a / bit longer. It looks black, but it's
+- #365 27:28.8 5.4s — actually taupe—is that the right word / ? It's a bit brownish, a dark brown.
+- #366 27:34.2 2.8s — Actually, the glasses match so well, / and look, here are the shoes too. Most
+- #367 27:36.9 12.2s — of my stuff is quite similar, my style / is pretty consistent, so whatever I buy / ends up matching everything else. I'm / quite grateful for that. Huy, stop,
+- #368 27:49.2 5.6s
+- #369 27:54.8 4.1s
+- #370 27:58.8 4.0s — this house is amazing. Oh my god, / everyone, look at the vines climbing it
+- #371 28:02.9 1.8s — . This house has all these tree roots
+- #372 28:04.7 4.4s — growing all over it. It feels like a / house out of a fairy tale. I just
+- #373 28:09.1 1.9s
+- #374 28:11.0 1.9s
+- #375 28:12.9 1.6s
+- #376 28:14.5 1.7s
+- #377 28:16.1 1.7s
+- #378 28:17.8 1.8s
+- #379 28:19.6 1.5s
+- #380 28:21.1 7.2s
+- #381 28:28.3 3.9s — ordered my food, and everyone, look at / the view of the street in front of me. / Such beautiful architecture. And there
+- #382 28:32.2 7.0s — Such beautiful architecture. And there / are trees covering the whole street. I / was cycling for twenty-something / minutes, but I'm not even tired because / it's so cool out. Let me show you a
+- #383 28:39.2 1.3s — little survival tip. This place only
+- #384 28:40.5 0.7s — little survival tip. This place only
+- #385 28:41.3 5.8s — accepts orders through WeChat. You just / go into WeChat, press scan, and scan
+- #386 28:47.0 5.9s — the code. Once you're in the app, / you'll notice there's no translate / button, right? There's nothing in / English anywhere. So, you just take a
+- #387 28:53.0 4.6s — English anywhere. So, you just take a / screenshot and then tap on the image. / Wait a second, a button will pop up
+- #388 28:57.6 2.7s — right here. Hold on. Here, you can
+- #389 29:00.3 1.5s — translate it directly. So cute. But did
+- #390 29:01.8 4.5s
+- #391 29:06.3 0.5s
+- #392 29:06.8 7.9s — you know a fun fact about China? The / whole country only uses one time zone, / even though it should span four or five / time zones because it's as big as the
+- #393 29:14.8 3.7s — US. And the US, if I remember correctly / , has five time zones. China should
+- #394 29:18.5 26.6s — have had about that many, but it / doesn't. I just found out that setting / a single time zone for the entire / country is also a way to show national / unity. I mean, that's what I read / online, I'm not an expert on this. I'm / just repeating what I heard. Did you / guys know that every country has one / time zone? India, I mean, back then I / thought there were only fixed time / zones like GMT + 7, GMT + 8, and GMT + / 9. But no, guys, India's GMT has a .5 / and I forgot what the .5 was. It’s so
+- #395 29:45.1 4.9s — funny. The other day, my friend and I / were talking about this, so we looked / it up online and realized that India is
+- #396 29:50.0 9.5s — it up online and realized that India is / GMT + 5: 30, and the country is / supposed to span three time zones, but / instead, it only has one. That middle / time is a bit scary, but it’s / actually pretty cool. Oh my, are
+- #397 29:59.5 1.6s
+- #398 30:01.1 1.2s
+- #399 30:02.2 2.5s — clothing stores this big now, guys?
+- #400 30:04.8 2.3s — What the? Why does it look so much
+- #401 30:07.1 1.5s — like Brandy Melville? I’m like a
+- #402 30:08.5 1.1s — like Brandy Melville? I’m like a
+- #403 30:09.6 1.1s
+- #404 30:10.7 2.8s
+- #405 30:13.5 1.2s
+- #406 30:14.8 1.6s — fortune teller.
+- #407 30:16.4 1.0s
+- #408 30:17.3 1.2s
+- #409 30:18.6 1.2s
+- #410 30:19.7 2.0s
+- #411 30:21.7 1.1s
+- #412 30:22.8 1.4s
+- #413 30:24.2 0.8s
+- #414 30:25.0 1.6s — >> Where am I right now, guys? I’m
+- #415 30:26.7 1.7s — trying to get to the park to ride my
+- #416 30:28.4 1.9s — bike, but I had to go to the subway
+- #417 30:30.3 4.0s — station, and there were one, two, three / escalators—it feels like I’m in a
+- #418 30:34.4 0.8s — movie, and now I’m getting ready to
+- #419 30:35.2 1.9s — movie, and now I’m getting ready to / head up. So now, I’m going to grab
+- #420 30:37.0 1.2s — head up. So now, I’m going to grab
+- #421 30:38.2 6.5s — this bike and ride to the park; I guess / this vlog will be a cycling vlog of / some sort. Here it is, Tintan Leisure
+- #422 30:44.7 19.3s — Park, and do you see that it says " / number one on the cycling list"? It’s / like the most ideal place for cycling. / I’ll ride from there and go straight / up for about ten kilometers or so to / reach the main city center before / heading back. The goal is that I’ll / be able to see some of the famous / landmarks of China—or rather, of / Shanghai. I found it, everyone!
+- #423 31:04.0 4.2s — Here’s the cycling path I’ll be / riding straight along. The weather is
+- #424 31:08.2 1.8s
+- #425 31:10.0 4.0s — cool and the air is so fresh here. And / there are so many people cycling here.
+- #426 31:14.0 2.3s — It looks like so much fun.
+- #427 31:16.3 1.7s
+- #428 31:18.0 2.0s
+- #429 31:20.0 3.4s — >> Wow. Do you guys remember the first
+- #430 31:23.4 15.4s — hotel we stayed at? The super famous / part of Shanghai is actually on one / side of the river, while I’m on the / other side—the river that splits / Shanghai right in half. I think most / people visiting Shanghai go to the / other side of the river more. But I / find this side is really beautiful, / emptier, and much quieter. What kind of
+- #431 31:38.8 6.4s
+- #432 31:45.2 2.5s
+- #433 31:47.7 2.8s
+- #434 31:50.5 2.4s
+- #435 31:52.9 2.1s
+- #436 31:55.0 5.1s
+- #437 32:00.1 3.2s — building is this? It’s stunning. Hold / on, let me look. Like a greenhouse.
+- #438 32:03.3 1.3s
+- #439 32:04.6 0.7s — Inside, it has a ton of plants like
+- #440 32:05.3 2.2s — Inside, it has a ton of plants like / this. Oh, my little brother would love
+- #441 32:07.5 2.7s — this. Oh, my little brother would love / this. Long for those quiet days when
+- #442 32:10.2 1.9s
+- #443 32:12.0 2.8s
+- #444 32:14.8 4.9s — the hour If I see another bridge, I
+- #445 32:19.7 1.8s
+- #446 32:21.4 1.6s
+- #447 32:23.0 1.8s
+- #448 32:24.8 2.2s
+- #449 32:27.0 2.3s
+- #450 32:29.3 2.3s
+- #451 32:31.6 2.5s
+- #452 32:34.1 5.0s
+- #453 32:39.1 2.4s — think I'll throw up. Thinking from the
+- #454 32:41.5 1.7s — point earlier to the point I want to
+- #455 32:43.2 5.1s — see, that tower—I don't know the / Vietnamese name—the Oriental Pearl / Tower, it's over ten kilometers away, I
+- #456 32:48.3 1.6s — don't know how many I've covered. Even
+- #457 32:49.9 1.6s
+- #458 32:51.5 2.4s
+- #459 32:53.8 2.1s
+- #460 32:55.9 3.2s — though I'm smiling, I'm still so tired.
+- #461 32:59.1 9.6s
+- #462 33:08.7 3.0s
+- #463 33:11.7 5.4s — Finally. It's so cold. Do you see it?
+- #464 33:17.1 1.8s
+- #465 33:18.8 2.4s — Can you see that building now? The
+- #466 33:21.3 5.3s — building is here. I'm standing right at / its base. Oh my god, over ten / kilometers, I'm exhausted. Oh yeah.
+- #467 33:26.6 6.3s
+- #468 33:32.9 18.6s — It's so beautiful. Do foreigners feel / anything when they go up Landmark 81? / God. So beautiful. Ok. I've returned
+- #469 33:51.5 5.4s — the bike, I rode for 2 hours and 12 / minutes. Ooh ooh. Wait, let me swipe / this. Ok. It says 2 hours and 9 minutes
+- #470 33:56.8 1.2s — this. Ok. It says 2 hours and 9 minutes
+- #471 33:58.0 0.5s
+- #472 33:58.5 1.3s — . One of the best experiences ever,
+- #473 33:59.8 3.6s — . One of the best experiences ever,
+- #474 34:03.4 1.4s
+- #475 34:04.8 7.7s — guys, cycling was super awesome. If / anyone goes to Shanghai, I swear, if / the weather is nice, you should cycle / like I just did, about ten kilometers
+- #476 34:12.5 4.7s — or so. Actually, it only takes about 1 / or 2 hours, depending on if you stop to / sightsee. Done, now I'm going to eat,
+- #477 34:17.2 1.8s — sightsee. Done, now I'm going to eat,
+- #478 34:18.9 1.1s — I'm so hungry. I'll go eat peanut
+- #479 34:20.0 0.7s
+- #480 34:20.8 1.2s
+- #481 34:21.9 2.4s — noodles; I saw online they're only a
+- #482 34:24.3 4.2s — dozen yuan, but with my ordering skills / , my meal is never the cheapest one. It
+- #483 34:28.6 3.3s — just notified me that I rode 15.7 / kilometers. Yes. Quite fun. This is
+- #484 34:31.9 0.9s
+- #485 34:32.8 1.5s
+- #486 34:34.2 1.4s
+- #487 34:35.7 1.6s
+- #488 34:37.2 1.3s
+- #489 34:38.6 1.9s
+- #490 34:40.4 2.8s — pork. I don't know what this is, why
+- #491 34:43.2 1.0s — are the noodles green? Earlier I
+- #492 34:44.2 1.9s
+- #493 34:46.1 9.3s — planned to eat peanut noodles, but I / ended up passing this shop, it looked / appealing, and there was an uncle / cooking right at the door, it looked so / good, but I can't eat spicy, I don't
+- #494 34:55.4 7.1s — know what I ordered.
+- #495 35:02.5 4.3s
+- #496 35:06.8 2.2s
+- #497 35:08.9 1.1s
+- #498 35:10.1 1.5s
+- #499 35:11.6 1.2s — >> This one is just like me, over here
+- #500 35:12.8 3.7s — they even have sleeping boxes. This one
+- #501 35:16.4 6.8s — here is the same too. God, the vibe / over here is like a whole different / system, guys. Oh, it's so cute, / everyone. Do you guys know what I just
+- #502 35:23.2 1.6s — everyone. Do you guys know what I just / saw? This Miniso store is about to be
+- #503 35:24.8 2.3s — saw? This Miniso store is about to be / wiped out by me. Here, you can see it
+- #504 35:27.2 2.7s — clearly now, it's me. Are you guys
+- #505 35:29.8 2.4s
+- #506 35:32.2 9.3s — ready to see the most beautiful Bomin / keychain ever? It’s carrying a Momin / bag. How much is this? 60 yuan. Oh my
+- #507 35:41.5 1.9s — god, is it okay? I just finished
+- #508 35:43.4 1.7s — god, is it okay? I just finished
+- #509 35:45.1 2.5s
+- #510 35:47.6 2.0s
+- #511 35:49.6 1.8s
+- #512 35:51.4 2.2s
+- #513 35:53.6 2.2s
+- #514 35:55.8 1.8s
+- #515 35:57.6 6.0s
+- #516 36:03.6 3.5s
+- #517 36:07.2 10.0s — filming an unboxing on TikTok, so I'm / showing it off to you all. My birthday / just passed, and this is the S-Mon bag. / Remember yesterday, I showed you guys,
+- #518 36:17.2 2.7s — I was indecisive between several bags, / but this one feels like it really suits
+- #519 36:19.9 1.8s — but this one feels like it really suits
+- #520 36:21.7 8.4s — me, and it's a brand from here, so I'm / very happy. It’s like a souvenir for / my first solo trip here, and not only / that, I'm a good sister, so I also
+- #521 36:30.1 5.6s — bought gifts for my younger brother, a
+- #522 36:35.7 28.4s — blind box for him, guys. The blind / boxes in China are insanely amazing, I / think they're super cool, I've never / seen these anywhere else. This is / Bocchi the Rock, but a plush version, / I've never seen this before. I went to / Japan before and I don't remember / seeing it either. This one is from / Funnism, wait, one of these brands. Oh, / that's right. Made in China. And it's / also authorized by China too. Meaning, / China makes these blind boxes so / beautiful and cool. Here. This is also
+- #523 37:04.1 11.3s — Bocchi the Rock. Inside this one is a / pretty big figure. And then. My younger / brother also really likes Miku. As well / . So, I also bought this. Here, this is / from Mo, wait no, from Blockies. Oh man
+- #524 37:15.4 51.0s — , you guys, honestly, this whole haul I / bought from so many different stores. I / don't remember which is which at all. I / just kept walking along the road in the / Tianhe area, the central part, the / shopping district, and saw this looking / so anime, looking so visually pleasing. / This is also a Miku blind box, inside / there will be three small figures. I / think he will like it a lot and I think / he'll like this one the best, this one / is from Bilibili. It's super pretty / merch, cute, right? And of course, I / bought it. Oh my god, it fell a few / times earlier, I don't know, it might / be a bit dirty. Cute Bomburin, carrying / a cute Bomburin bag. And I just bought / it at Miniso. Hey, that Miniso was a / total scam. They put out this huge / Snoopy box, but then there's this tiny / one; I’m not exaggerating, guys. / It’s honestly just this small. But I / bought this for my friend's birthday; / she really loves Snoopy. And now, well,
+- #525 38:06.3 1.2s — in a bit, I’ll pack my bags to head
+- #526 38:07.6 6.5s — in a bit, I’ll pack my bags to head / to Hangzhou tomorrow. The day we’re
+- #527 38:14.0 1.0s
+- #528 38:15.0 3.6s — leaving, the sun finally comes out. Bye
+- #529 38:18.6 1.7s — bye. There are too many people crossing
+- #530 38:20.3 1.6s
+- #531 38:21.9 1.4s
+- #532 38:23.3 1.6s
+- #533 38:24.9 4.0s — . Wait a second, I want to take a photo
+- #534 38:28.9 5.1s — here. Oh my god, my hair is so
+- #535 38:34.0 2.8s
+- #536 38:36.8 2.8s — voluminous, stop kidding around. Dad,
+- #537 38:39.6 2.6s — add some T-Pop music here for me. / That's why nobody takes Instagram
+- #538 38:42.2 6.1s — That's why nobody takes Instagram / photos. This one, okay. This shot, okay / . A million likes. If not a million, at / least 100 likes. Back to the morning
+- #539 38:48.3 1.6s — least 100 likes. Back to the morning
+- #540 38:49.8 3.2s
+- #541 38:53.0 2.6s
+- #542 38:55.6 1.9s
+- #543 38:57.5 1.6s
+- #544 38:59.1 1.5s
+- #545 39:00.6 1.7s
+- #546 39:02.3 1.6s
+- #547 39:03.9 1.6s
+- #548 39:05.4 1.2s
+- #549 39:06.6 2.1s
+- #550 39:08.8 122.5s — coffee routine, I ordered an oat latte. / I found this cafe on Red Note. Red Note / has this concept called "city walk," / which is like streets you can walk / along and stroll through. And this / street, the one we went shopping on the / other day, is also part of that series / of streets. But this street seems quite / new; there isn't much on TikTok about / it, but it seems pretty crowded here / and the cafes are really beautiful. But / there was an issue earlier that I think / I should mention so the girls watching / this video can stay alert. Earlier, you / guys saw that I was wearing a short / skirt, right? That short skirt / definitely had shorts underneath. But / the problem is that I was riding a bike / , everyone. Meaning the first time it / happened, I didn't think much of it. By / the second time, I thought, wait, this / isn't right. The first time, there was / this guy on a motorbike who kept / looking at me through his rearview / mirror. Then I thought, well, maybe / he's just looking at the road, but then / he cut me off, pulled over to wait for / me to pass, and then he sped up again, / looking back at me in his rearview / mirror. I still thought, well, maybe / he’s just looking at the road, but / then I realized, wait, this road is / about to turn right, why keep looking / at the left rearview mirror? I didn't / think much of it and just kept pedaling / until I met another guy, another man / doing the exact same thing. Wait, / everyone. At that point, I honestly / didn't feel ashamed or anything like / that anymore. I felt angry, just angry / at why girls have to go through things / like this. I really hate talking about / this online because there will always / be people saying, oh, this is my fault, / or because I wore a short skirt, or / because of this or that. But no, I want / every girl watching this video to know / that it is never our fault. Yes, we / need to be more vigilant and know how / to protect ourselves, but it is never / our fault. Then, when I met the second / guy earlier, I was just so angry that I / pulled over to the side. Then I started / walking to this cafe. Honestly, / traveling alone is really fun, everyone / . There are so many fun things to do. I / hope you all won't hear one or two / stories like this and feel scared to / travel. Yeah, that guy kind of ruined / my mood earlier. But this cafe, I see / in the back, everyone, it has these big / windows looking out at the greenery, / it’s so beautiful. I think one day if
+- #551 41:11.3 6.2s — I arrive earlier, I can sit on that / side, it will be so, so beautiful. But / this side is already very beautiful too / . Here, I’m sitting right by another
+- #552 41:17.5 6.4s — . Here, I’m sitting right by another / window. This window is smaller and / doesn't get as much light, but oh well, / it’s less sunny. Oh my god, guys, do
+- #553 41:23.9 3.1s
+- #554 41:27.0 1.8s — I look like a beauty? I just came out
+- #555 41:28.8 20.7s — of the coffee shop and finished editing / the video and I’ve already posted it. / So now, I’m going to walk along this / whole street to try and enjoy my final / days in Da Nang. Wait, what did I mess / up? What the? I was just talking / about my final days in Shanghai. Today / is the very first day it's actually / sunny. I want to stay here longer, and / I haven't bought my ticket to Hangzhou / yet, so I'll probably go tonight. Let's
+- #556 41:49.5 0.7s — go, guys. The leaves are starting to
+- #557 41:50.2 3.5s — go, guys. The leaves are starting to / fall now, too. I think autumn is almost
+- #558 41:53.7 1.9s — here. Wow, it's so beautiful here. Oh,
+- #559 41:55.6 3.0s — here. Wow, it's so beautiful here. Oh,
+- #560 41:58.6 8.2s — but I just noticed that this side has a / sign pointing East. There’s a West / direction here too. South and North, / and all that.
+- #561 42:06.8 7.2s — >> They have signs listing which buildings / on this street have been preserved from / the past. Here is one of those / buildings. I’ve just been wandering
+- #562 42:14.1 2.2s — buildings. I’ve just been wandering
+- #563 42:16.3 1.8s
+- #564 42:18.2 1.4s
+- #565 42:19.5 1.7s
+- #566 42:21.2 2.3s
+- #567 42:23.5 1.5s
+- #568 42:25.0 3.9s — around, and then I realized there are / all these little alleys too. I say "
+- #569 42:29.0 1.6s — little alleys," but they're actually
+- #570 42:30.6 1.3s — quite big, everyone. Friends about, it
+- #571 42:31.9 2.8s
+- #572 42:34.8 2.9s — feels like I'm in some kind of fairy / tale. Oh my god, guys, they’ve
+- #573 42:37.7 2.3s — tale. Oh my god, guys, they’ve
+- #574 42:40.0 1.9s
+- #575 42:41.9 2.4s
+- #576 42:44.2 1.8s
+- #577 42:46.1 1.9s
+- #578 42:48.0 0.8s
+- #579 42:48.8 3.9s — suddenly opened up a bunch of new shops / over here. Jellycat! Jellycat! I really
+- #580 42:52.7 1.4s — over here. Jellycat! Jellycat! I really
+- #581 42:54.1 1.5s — want a Jellycat, but they’re a bit
+- #582 42:55.6 4.3s — want a Jellycat, but they’re a bit / too expensive, so I haven't dared to / buy one yet. Isn't this dog so cute?
+- #583 42:59.9 1.5s
+- #584 43:01.3 5.5s — I've noticed people in China keep this / breed a lot. I don't know what breed / this is, but I've seen so many of them / lately. Oh, how cute, a dachshund! It
+- #585 43:06.8 3.8s — lately. Oh, how cute, a dachshund! It
+- #586 43:10.6 2.1s
+- #587 43:12.7 2.0s
+- #588 43:14.7 2.0s
+- #589 43:16.6 1.5s
+- #590 43:18.2 1.7s
+- #591 43:19.8 1.8s
+- #592 43:21.7 1.7s
+- #593 43:23.3 1.7s — looks like this is some kind of tomato
+- #594 43:25.0 18.5s — looks like this is some kind of tomato / sauce pasta, and I absolutely love / tomatoes. Why do I feel like this / portion isn't for one person, but for / two? Wow. Hey, this is delicious; I saw / this place on the way here and now I / see they have outdoor tables like this. / To this day, I still don't even know / what the dishes I'm eating are called. / I just eat them anyway.
+- #595 43:43.5 2.1s
+- #596 43:45.6 1.8s
+- #597 43:47.4 2.2s
+- #598 43:49.6 2.4s
+- #599 43:52.0 1.8s
+- #600 43:53.8 1.8s
+- #601 43:55.7 2.1s
+- #602 43:57.8 2.8s
+- #603 44:00.6 1.3s
+
+## Gemini (`gemini.json`, timestamps approximate ±1-2s)
+
+### Chunk from 00:00.0
+
+- **structure**: The clip follows the creator's first day in Shanghai. It opens with a high-energy montage (0:00-0:17), followed by the flight and arrival at the airport (0:17-1:18). She then navigates the city to find food (1:18-3:12), checks into her hotel and gives a room tour (3:12-4:18), shares travel reflections and app tips (4:18-6:52), and finally prepares for an evening out (6:52-end).
+- **pacing**: The pacing is very fast during the intro montage with rapid cuts. Once the vlog begins, it settles into a medium pace, alternating between direct address to the camera and illustrative b-roll or phone screen recordings.
+- **music**: Starts with upbeat jazz for the intro, then switches to a consistent, laid-back lo-fi beat that runs throughout the vlog, ducked appropriately under the creator's speech.
+- **voice**: The creator uses a friendly, conversational, and slightly humorous tone. She speaks directly to the camera for the majority of the clip, providing a personal and informative narrative of her experiences.
+- **sound_design**: Includes natural ambient sounds from the airport and metro, as well as emphasized eating sounds. Specific sound effects like a gulping sound and an iPhone alarm are used for emphasis and transition.
+- **text_style**: Uses a clean, sans-serif font. Location tags and translations are typically in yellow, while other contextual information is in white. Text is often placed in the lower thirds or near relevant objects.
+- **visual_style**: The visual style is typical of a high-quality travel vlog: handheld but stable shots, a mix of wide cityscapes and close-up details (especially of food and phone screens), and a bright, natural color grade.
+- **signature_moves**: Key signature moves include showing phone screens to explain specific apps or bookings, frequent mirror selfies to show outfits or room features, and providing on-screen translations for English terms used.
+
+- 00:00.0 music: Upbeat, jazzy instrumental music starts, setting an energetic tone for the intro.
+- 00:00.0 title: Title text 'Solo in Shanghai' appears in a stylized font.
+- 00:00.0 broll: Fast-paced montage of Shanghai cityscapes, food, and the creator.
+- 00:01.0 text: Text '2026' appears at the bottom left.
+- 00:03.0 text: Social media handle '@apinvy' appears at the bottom right.
+- 00:17.5 music: Music transitions to a chill, lo-fi beat.
+- 00:17.5 text: Text 'ngày một' (day one) appears over a shot of an airplane window.
+- 00:18.8 talk_to_camera: Creator speaks to the camera while seated on the plane, showing her t-shirt.
+- 00:19.8 text: Text 'album nghe trên chuyến bay hôm nay' (album listened to on today's flight) as she shows her phone screen.
+- 00:23.7 ambient: Sound of the pilot's announcement over the plane's intercom.
+- 00:28.1 talk_to_camera: Creator walks through Pudong Airport, talking to the camera about her arrival.
+- 00:29.0 text: Location tag '@ Pudong Airport' in yellow text.
+- 00:41.8 text: Text 'Amap' appears as she shows the navigation app on her phone.
+- 00:49.2 talk_to_camera: Creator continues walking, discussing transportation options like the Maglev.
+- 00:50.0 text: Translation text 'maglev = tàu đệm từ'.
+- 01:08.0 talk_to_camera: Creator is now on the metro, talking about the empty train.
+- 01:09.8 sfx: Exaggerated gulping sound effect as she drinks water.
+- 01:24.0 text: Contextual text 'Vy đang cố scan cái mã QR này...' (Vy is trying to scan this QR code...).
+- 01:28.0 talk_to_camera: Creator walks on the street, explaining issues with the bike-sharing app.
+- 01:32.0 text: Translation text 'verify = xác thực danh tính'.
+- 02:06.0 text: Location tag '@ Lailai Xiaolong' in yellow text.
+- 02:08.6 talk_to_camera: Creator sits at a restaurant table, talking about the food prices and her trip.
+- 02:49.5 sfx: Natural eating and slurping sounds are emphasized during the food montage.
+- 03:12.0 text: Text 'he he được check in rồi' (he he, checked in) as she walks down the hotel hallway.
+- 03:14.0 talk_to_camera: Creator walks to her room, expressing excitement about an upgrade.
+- 03:35.0 other: Mirror selfie shot showing the room's vanity and lighting.
+- 03:39.5 talk_to_camera: Creator sits in the room, showing the booking details on her phone.
+- 03:56.5 text: Location tag '@ The Treasury NOA Jing'an Temple' in yellow text.
+- 04:19.8 talk_to_camera: Creator sits on the bed, reflecting on the trip and sharing travel tips.
+- 05:11.8 text: Translation text 'navigate = xoay sở'.
+- 05:46.5 text: Contextual text '(app Translate có sẵn trong iphone)' as she demonstrates the app.
+- 06:52.0 sfx: Standard iPhone alarm sound effect.
+- 06:53.0 talk_to_camera: Creator gets ready for the evening, applying makeup while talking to the camera.
+
+### Chunk from 08:00.0
+
+- **structure**: The clip follows a travel itinerary over two days. Day 1 (Night) includes getting ready, a taxi ride using a translation app, visiting The Bund, shopping for plushies, biking, and a hotel unboxing. Day 2 features breakfast, exploring the French Concession, a cafe visit, and boutique shopping on Anfu Road.
+- **pacing**: The pacing is dynamic, alternating between steady talk-to-camera segments and fast-paced b-roll montages. Speed ramps are used effectively during repetitive actions like unboxing.
+- **music**: Two distinct tracks are used: an upbeat lo-fi pop track for the night-time city exploration and a more relaxed acoustic guitar track for the daytime shopping and cafe segments.
+- **voice**: The creator maintains a casual, high-energy, and relatable tone. She speaks directly to the camera in Vietnamese, often sharing personal thoughts and humorous observations.
+- **sound_design**: Sound design relies heavily on ambient city noise (traffic, bike bells) and natural foley (makeup brushes, bag zippers). Exaggerated sound effects are used during the fast-forward unboxing sequence.
+- **text_style**: Simple, clean sans-serif font is used for location tags, translations of terms, and humorous side-commentary. Location tags often include an '@' symbol.
+- **visual_style**: The visual style is classic handheld vlog, featuring a mix of wide-angle POV shots (especially while biking), medium talk-to-camera shots, and extreme close-ups of food and products.
+- **signature_moves**: Key signature moves include showing off bag keychains in close-up, filming the use of translation apps to navigate foreign environments, and high-angle POV biking shots.
+
+- 08:00.0 talk_to_camera: The creator talks to the camera while applying makeup in a hotel room.
+- 08:06.0 text: Text overlay: "navigate = xoay sở".
+- 08:09.0 cut: Cut to a close-up of the creator showing a Rilakkuma keychain on her bag.
+- 08:20.0 talk_to_camera: The creator continues talking to the camera while getting dressed.
+- 08:44.0 zoom: Punch-in zoom for emphasis during her talk-to-camera.
+- 08:57.0 cut: Cut to the interior of a taxi at night.
+- 08:58.0 text: Text overlay: "lộn server :)))))".
+- 09:01.0 text: Text overlay: "nhờ coi vlog Hà Thi tui đã là người đi taxi Trung chuyên nghiệp".
+- 09:08.0 cut: Close-up of a phone screen using a translation app to communicate with the driver.
+- 09:26.0 music: Upbeat lo-fi pop music with vocals starts, ducked under ambient sound.
+- 09:28.0 broll: Montage of the Shanghai skyline at night (The Bund).
+- 09:28.0 text: Location tag: "@ The Bund".
+- 09:33.0 broll: The creator dances in front of the illuminated skyline.
+- 09:37.0 text: Text overlay: "lần đầu được thấy con đường đã thấy trên mạng bấy lâu nay".
+- 09:59.0 voiceover: Voiceover begins as the creator browses a store full of plush keychains.
+- 10:04.0 text: Text overlay: "khúc này nhìu store cute lắm".
+- 10:36.0 broll: POV shots of the creator riding a rental bike through Shanghai streets at night.
+- 10:53.0 talk_to_camera: The creator talks to the camera while riding the bike, mixed with live ambient noise.
+- 11:16.0 talk_to_camera: Back in the hotel room, the creator shows her shopping haul.
+- 11:49.0 speed: Fast-forward speed ramp as she opens a Pop Mart blind box.
+- 11:49.0 sfx: Exaggerated crinkling and fast-motion sound effects.
+- 12:04.0 title: Title card: "ngày hai" (Day two).
+- 12:05.0 broll: Quick shots of breakfast: dim sum and coffee.
+- 12:22.0 talk_to_camera: The creator walks through the French Concession area, talking to the camera.
+- 12:32.0 text: Text overlay: "French Concession = Khu tổ giới Pháp".
+- 13:22.0 text: Location tag: "@ T12 Lab".
+- 13:23.0 broll: Close-ups of coffee and a scone at a cafe.
+- 14:08.0 music: Music changes to a softer, acoustic guitar-driven track.
+- 14:08.0 text: Location tag: "@ Anfu Road".
+- 14:13.0 broll: Montage of boutique shops and unique displays on Anfu Road.
+- 14:36.0 text: Text overlay: "dọc đường này rất nhiều tiệm xinh".
+- 14:43.0 text: Location tag: "@ LOOKNOW & FLOW".
+- 15:18.0 talk_to_camera: The creator concludes the segment while walking down a tree-lined street.
+
+### Chunk from 16:00.0
+
+- **structure**: The clip follows a day of shopping and dining in Shanghai. It starts with visits to 'Déjà Vu' (recycle store), 'Brandy Melville', and 'Harmay' (cosmetics). It then transitions to 'Gentle Monster' for sunglasses, followed by a bike ride to dinner at 'Birdhut'. The final segment is a 'get ready for bed' style talk-to-camera in a hotel room where she reflects on the day and shows photos of items she saw.
+- **pacing**: Fast-paced with frequent cuts (every 2-4 seconds) during b-roll sequences. Pacing slows down significantly during talk-to-camera segments, allowing the creator to tell stories.
+- **music**: Consistent lo-fi hip hop track throughout. It provides a relaxed, trendy atmosphere suitable for a lifestyle vlog. The volume is ducked whenever there is speech.
+- **voice**: The creator uses a mix of live talk-to-camera (often handheld or mirror shots) and voiceover. The tone is casual, friendly, and informative, typical of a personal vlog.
+- **sound_design**: Minimal sound design beyond the music and ambient noise from the streets and stores. Natural sounds like the bike rattling or restaurant chatter are kept low.
+- **text_style**: Uses a signature yellow font in the top right corner to identify locations ('@ Store Name'). Occasional white text appears in the center or near the creator to emphasize specific words or names.
+- **visual_style**: Handheld, slightly shaky camera work gives an authentic 'day in the life' feel. Includes many mirror selfies and POV shots. The color grade is natural with warm tones.
+- **signature_moves**: Identifying every location with a consistent text overlay style; showing phone screens to share photos or apps; talking to the camera while performing a mundane task (removing makeup).
+
+- 16:00.0 music: Upbeat, lo-fi hip hop music starts, instrumental with a steady beat.
+- 16:00.0 voiceover: Creator begins speaking in Vietnamese over b-roll of a Shanghai street.
+- 16:07.5 cut: Cut to interior of 'Déjà Vu' recycle store.
+- 16:16.0 text: '@ Déjà Vu' in yellow font, top right corner.
+- 16:21.5 broll: Creator looking at books in the store.
+- 16:32.0 speed: Fast-forwarding through flipping pages of a book.
+- 16:52.5 broll: Stairs with luxury brand names printed on each step.
+- 17:09.0 talk_to_camera: Creator talks to camera via a mirror reflection while trying on bags.
+- 17:46.5 talk_to_camera: Creator talks directly to camera while walking down stairs.
+- 17:57.5 text: 'Wechat' and 'Alipay' appear as white text on screen to emphasize spoken points.
+- 18:16.5 cut: Cut to a sign explaining the store is a recycle store.
+- 18:27.5 text: '@ Brandy Melville' in yellow font, top right corner.
+- 18:36.0 talk_to_camera: Mirror shots of the creator trying on clothes in Brandy Melville.
+- 18:50.0 text: '@ HARMAY' in yellow font, top right corner.
+- 18:54.0 voiceover: Voiceover resumes over b-roll of cosmetics in Harmay.
+- 19:26.5 talk_to_camera: Creator talks to camera while walking on the street.
+- 19:34.0 talk_to_camera: Creator in front of 'iapm' mall entrance.
+- 19:39.5 text: 'Wander through the park' in white serif font, center screen.
+- 19:45.0 text: '@ Gentle Monster' in yellow font, top right corner.
+- 19:45.0 talk_to_camera: Creator trying on various sunglasses in Gentle Monster.
+- 19:57.5 talk_to_camera: Creator talks to camera while sitting on a rental bike.
+- 20:05.0 broll: POV shot from the bike handlebars while riding.
+- 20:13.5 text: '@ BIRDHUT' in yellow font, top right corner.
+- 20:26.0 talk_to_camera: Creator talks to camera while eating roasted goose/duck.
+- 20:42.5 cut: Transition to evening/night shots of the city.
+- 20:50.5 broll: Nighttime POV bike riding.
+- 20:59.5 talk_to_camera: Creator talks to camera while riding the bike at night.
+- 21:05.0 talk_to_camera: Creator in hotel room, talking to camera while removing makeup with a cotton pad.
+- 21:15.5 text: 'ZZER Hongqiao Tiandi' appears as white text.
+- 21:33.5 photo: Creator shows photos of bags on her phone screen to the camera.
+- 22:26.5 text: 'Hongqiao Comprehensive Transportation Hub' appears as white text.
+- 23:02.5 broll: Close-up of a translation app on the phone.
+
+### Chunk from 24:00.0
+
+- **structure**: The clip follows a day in the life of a vlogger in Shanghai. It begins with a late-night reflection on metro systems (0:00-1:31), moves to a morning routine and outfit check (1:32-3:48), then transitions to outdoor activities including cycling to a tea shop (3:48-5:58), shopping (5:58-6:25), and finally cycling through a scenic park (6:25-7:59).
+- **pacing**: The pacing is relaxed and conversational during the talk-to-camera segments, interspersed with faster-paced b-roll montages that use rhythmic cuts to match the music.
+- **music**: Two distinct tracks are used: an upbeat lo-fi pop track for the indoor morning routine and a mellow, acoustic folk-pop song with vocals for the outdoor cycling and exploration segments. The music is ducked under speech but remains audible.
+- **voice**: The creator uses a very personal, intimate tone, sharing her struggles with anxiety alongside practical travel tips. She speaks directly to the camera as if talking to a friend.
+- **sound_design**: Minimal sound design; the focus is on the creator's voice and the background music. Natural ambient sounds from the city and park are kept at a low level.
+- **text_style**: Simple, clean sans-serif fonts. White text is used for translations, notes, and brand tags, while yellow text is consistently used for location markers.
+- **visual_style**: A classic handheld vlog aesthetic using natural lighting. The framing is mostly medium shots for talking segments and wide shots for b-roll. Color grading is bright and natural.
+- **signature_moves**: Key signature moves include holding the camera while cycling, showing the phone screen to explain local apps/services, and providing detailed on-screen brand tags for her outfits.
+
+- 24:00.0 talk_to_camera: Vy talks about the complexity of Tokyo's metro system compared to Shanghai while doing her skincare routine in her hotel room.
+- 24:35.0 text: White sans-serif text: 'Hongqiao Comprehensive Transportation Hub' at the bottom center.
+- 25:00.0 text: White sans-serif text: 'Songmont' at the top center.
+- 25:23.0 text: White sans-serif text: 'lattice = lưới' at the top center.
+- 25:27.0 text: White sans-serif text: 'weave = dệt da' at the top center.
+- 25:31.0 music: Upbeat, rhythmic lo-fi pop music starts.
+- 25:31.0 cut: Hard cut to a title card for the next day.
+- 25:32.0 text: White sans-serif text: 'ngày ba' (day three) in the center.
+- 25:32.0 talk_to_camera: Vy gets ready for the day, showing her outfit and talking about feeling anxious and listening to Emma Chamberlain's podcast.
+- 26:28.0 text: White sans-serif text: 'Anything goes của Emma Chamberlain' at the bottom center.
+- 26:43.0 text: Brand tags '@into.eight' and '@miaritta.hn' appear on the left.
+- 26:46.0 text: Brand tag '@coach' appears on the left.
+- 26:49.0 text: Brand tag '@charleskeithofficial' appears on the right.
+- 27:13.0 text: Brand tag '@uniqlovnam' appears on the right.
+- 27:30.0 text: White sans-serif text: 'tortoiseshell = họa tiết đồi mồi' center-right.
+- 27:36.0 text: White sans-serif text: 'rớt con mèo tui huhu' (dropped my cat [charm] huhu) in the center.
+- 27:48.0 music: Music changes to a mellow, acoustic folk-pop track with male vocals.
+- 27:48.0 broll: Montage of Vy getting a rental bike and cycling through the streets of Shanghai.
+- 27:54.0 talk_to_camera: Vy talks to the camera while cycling, commenting on the scenery.
+- 28:12.0 text: Yellow sans-serif text: '@ Zhen Shan Tea Valley' location tag on the right.
+- 28:28.0 talk_to_camera: Vy at the tea shop, explaining the WeChat ordering process to the audience.
+- 28:46.0 broll: Close-up of Vy's phone screen demonstrating how to use the translation feature in WeChat.
+- 29:13.0 text: White sans-serif text: '5 múi giờ' (5 time zones) note.
+- 29:17.0 text: White sans-serif text: '6 múi giờ (nếu tính cả 50 bang)' note.
+- 30:01.0 text: Yellow sans-serif text: '@ Basement FG' location tag on the right.
+- 30:13.0 text: Yellow sans-serif text: '@ Polette' location tag on the right.
+- 30:25.0 talk_to_camera: Vy at a metro station, showing the multiple escalators and heading to a park.
+- 30:44.0 text: White sans-serif text: 'Qiantan Leisure Park' appears over a phone screen shot.
+- 31:03.0 text: Yellow sans-serif text: '@ Qiantan Leisure Park' location tag on the right.
+- 31:08.0 talk_to_camera: Vy cycles through the park, enjoying the greenery and the river view.
+
+### Chunk from 32:00.0
+
+- **structure**: The video follows a solo trip to Shanghai. Part 1 (0:00-2:33): 15.7 km shared bicycle ride across parks, bridges, and city streets up to the Oriental Pearl Tower. Part 2 (2:34-3:06): Eating Shaanxi noodles at Ziwu Road Zhangji. Part 3 (3:07-4:06): Night walk on Nanjing East Road and shopping at Top Toy / Miniso Land. Part 4 (4:07-6:13): Hotel room unboxing haul showing a Songmont bag and anime blind boxes. Part 5 (6:14-8:00): Day 4 morning routine, street outfit photos, and visiting Saturnbird Into The Force cafe while sharing solo travel safety advice.
+- **pacing**: Dynamic mix of rhythmic montage cutting set to acoustic music during transit/cycling sequences (1-3 second shots) balanced with longer, candid handheld sit-down vlog chats (5-20+ seconds) during dining, unboxing, and cafe storytelling.
+- **music**: Warm, mellow acoustic indie folk and gentle instrumental background tracks under cycling montages and b-roll, ducked down or paused during direct-to-camera storytelling and haul presentations.
+- **voice**: Casual, bubbly, and candid Vietnamese travel vlog voiceover and live to-camera dialogue; witty self-deprecating remarks about exhaustion, hunger, and impulse shopping, shifting to an earnest, helpful advisory tone when warning female viewers about street harassment.
+- **sound_design**: Clean atmospheric audio captures including bicycle rolling noise, outdoor park ambiance, cafe acoustics, slumping/unboxing packaging sounds, and a subtle transition chime between travel days.
+- **text_style**: Minimalist white and yellow sans-serif text overlays for subtitles and casual commentary, lowercase italicized aesthetic captions ('you look good', 'ngày bốn'), and yellow location/brand tags ('@ Nanjing East Road', '@ Saturnbird Into The Force').
+- **visual_style**: Warm natural color grade, heavy use of ultra-wide front-facing POV and handheld selfie sticks while in motion, low-angle skyscraper perspectives, and lifestyle framing emphasizing streetscapes, food close-ups, and merchandise detail.
+- **signature_moves**: Showing exact rental bike app screens and receipts to document route and costs, showcasing plushies posed against iconic tourist landmarks, and seamlessly transitioning between energetic travel montage and intimate bedroom haul chat.
+
+- 32:00.0 talk_to_camera: Picture-in-picture selfie window of creator speaking over wide shot of Expo Culture Park Greenhouse Garden.
+- 32:02.8 cut: Cut to creator outdoors checking phone screen showing the botanical greenhouse listing.
+- 32:09.8 cut: Cut to POV cycling view riding along winding park path; natural bicycle rolling sounds.
+- 32:14.2 music: Soft indie acoustic folk song with male vocals begins playing gently in background.
+- 32:15.0 cut: Static wide shot of wooden deck near willow trees as creator walks toward lake edge.
+- 32:15.5 text: Lower-center subtitle in simple white sans-serif: 'chỗ nào đẹp Vy cũng dừng lại hết'.
+- 32:19.8 cut: Static shot of couple resting on wooden deck under trees beside the pond.
+- 32:21.0 cut: Close-up b-roll of lily pads and tree reflections on pond surface.
+- 32:22.7 cut: Wide shot of creator taking photos on phone at the edge of the dock.
+- 32:24.7 cut: Scenic pan across tranquil green lake lined with dense trees.
+- 32:26.7 cut: Downward POV shot of hands on handlebars pedaling blue shared city bike.
+- 32:29.0 cut: Forward POV smooth cycling tracking shot along quiet tree-lined parkway.
+- 32:32.0 cut: Forward POV shot riding along red paved trail between tall reed grasses.
+- 32:33.8 cut: Static long shot of creator cycling down shaded tree tunnel towards camera; subtitle: 'mỗi khúc cây cối một khác thích lắm'.
+- 32:38.8 cut: POV riding up curved pedestrian/bike bridge path.
+- 32:39.8 talk_to_camera: Selfie angle while riding across bridge, speaking to camera breathlessly about the distance to Oriental Pearl Tower.
+- 32:49.8 cut: POV cycling along landscaped pathway lined with low hedges.
+- 32:53.9 cut: Selfie angle cycling around bend laughing, subtitle: 'Cười vậy chứ vẫn mệt nha ba'.
+- 32:58.7 cut: Third-person tracking shot following creator cycling up white ramp under massive red suspension bridge.
+- 33:08.8 cut: Wide shot parked by outdoor vending machine buying bottled electrolyte drink.
+- 33:11.8 cut: Low-angle shot sitting on park bench showing chilled purple-capped bottle to camera and taking a big sip.
+- 33:16.9 cut: Selfie tracking shot cycling through Pudong skyscraper district, looking up in awe at tall towers.
+- 33:21.2 cut: Low-angle tilt up framing Jin Mao Tower and Oriental Pearl Tower piercing cloudy sky.
+- 33:23.0 talk_to_camera: Creator stops by bushes, exhausted and talking to camera about finishing the 15+ km bike ride.
+- 33:26.5 cut: Selfie cycling shots celebrating reaching directly beneath the Oriental Pearl Tower.
+- 33:34.9 broll: Low angle showing Chinese national flags hung along street beneath the tower.
+- 33:50.8 cut: Close-up of phone screen ending the shared bike ride session.
+- 33:57.6 talk_to_camera: Creator happily shows bike rental app screen showing 2h 12m ride costing 9.5 yuan.
+- 34:00.0 cut: Quick shot chugging water with subtitle 'khát kinh khủng'.
+- 34:03.2 talk_to_camera: Walking along sidewalk talking to camera reviewing cycling in Shanghai and heading to eat peanut noodles.
+- 34:29.0 cut: Phone screen tracking app display: '15.7 km' new personal record.
+- 34:34.0 cut: Exterior window of Shaanxi noodle shop 'Ziwu Road Zhangji' with chefs prepping food.
+- 34:36.2 broll: Chef slicing braised pork and staff serving hot noodle bowls.
+- 34:39.0 broll: Close-up overhead of green spinach noodles topped with diced potatoes, beans, and chili flakes.
+- 34:46.0 talk_to_camera: Sitting inside restaurant with large bowl, explaining why she picked this noodle dish.
+- 34:58.2 broll: Fast-paced clips eating spicy green noodles; subtitle: 'Lúc này đói chóng mặt lun r :))'.
+- 35:06.8 cut: Night exterior intersection view; subtitle: 'tới hiệu ứng starburst của camera iphone'.
+- 35:08.8 broll: Crowded bustling Nanjing East Road pedestrian street at night; yellow location pin '@ Nanjing East Road'.
+- 35:10.0 cut: Hands browsing plush doll keychains and blind boxes inside Top Toy store.
+- 35:23.0 talk_to_camera: Walking at night on Nanjing East Road pointing up excitedly at Miniso Land illuminated signage.
+- 35:29.8 talk_to_camera: Inside Miniso holding a black dog plush toy, then finding Pompompurin merchandise.
+- 35:45.0 broll: B-roll montage holding Pompompurin plush against night city lights, The Bund riverside promenade, and illuminated skyline.
+- 36:03.8 cut: Profile shot resting on street ledge editing TikTok on phone; subtitle: 'ngồi nghỉ post vid tic tóc'.
+- 36:06.8 talk_to_camera: Hotel room unboxing haul: showing off new black woven Songmont shoulder bag.
+- 36:22.0 broll: Mirror selfie in hotel bathroom modeling outfit and new black bag; handwritten font overlay 'you look good'.
+- 36:34.0 cut: Floor shot of scattered blind box toys and souvenirs bought for her brother and friends.
+- 36:36.0 talk_to_camera: Sitting on hotel floor detailing anime blind boxes (Bocchi the Rock plushies and figurines, Hatsune Miku, Monchhichi).
+- 38:14.0 transition: Black card title transition with gentle chime SFX: text 'ngày bốn' (Day 4) over bright morning hotel window view.
+- 38:19.0 broll: Bathroom mirror fit check waving goodbye ('ngày bốn').
+- 38:20.5 broll: Street exterior shot walking along sunlit European architecture sidewalk.
+- 38:29.2 photo: Street fashion photoshoot against illustrated storefront; onscreen tags '@ miaritta.hn' and '@ libeworkshop'.
+- 38:36.9 talk_to_camera: Walking along sidewalk fixing hair in wind, talking playfully about solo photoshoots in public.
+- 38:47.8 broll: Shaded sidewalk street scene with bicycles and green leafy plane trees.
+- 38:50.0 broll: Unlocking blue shared bicycle from glass booth reflection.
+- 38:53.0 broll: POV cycling along scenic tree-shaded urban street.
+- 38:56.0 cut: Ordering at coffee counter; location tag '@ Saturnbird Into The Force'.
+- 38:59.0 broll: Barista preparing pour-over coffee behind stylish wooden/stainless counter.
+- 39:01.0 broll: Interior wide pan of modern multi-level wood-paneled cafe space.
+- 39:04.8 broll: Iced oat latte on wooden windowsill next to black woven handbag.
+- 39:08.0 talk_to_camera: Creator sitting at cafe table drinking iced oat latte, talking to camera with earphones on about Shanghai 'citywalk' culture and sharing an important street safety advisory for female solo travelers.
+
+### Chunk from 40:00.0
+
+- **structure**: The clip follows a classic vlog structure: an introductory long-form talk-to-camera segment in a cafe (0:00-1:27), followed by an exploratory walk through a specific neighborhood (Yuyuan Road) featuring a mix of live talk and b-roll montages (1:27-3:21), a food segment (3:21-3:45), and a concluding travel transition (3:45-4:01).
+- **pacing**: The pacing is variable. It starts very slow with a long, single-shot conversation, then accelerates during the street exploration with faster cuts and a music-driven montage, before slowing down again for the meal.
+- **music**: Music is used selectively. The first half is silent (ambient only) to focus on the story. A gentle, acoustic instrumental track is introduced at 2:13 to provide energy and a cohesive feel to the b-roll montage and voiceover segments.
+- **voice**: The creator uses a very personal, conversational tone. She alternates between direct address (selfie-style) and voiceover, often sharing internal thoughts or humorous asides.
+- **sound_design**: Sound design is minimal, relying on high-quality ambient recordings of the cafe, street, and restaurant to ground the viewer in the location.
+- **text_style**: Text is used for three main purposes: location tagging (bottom right), translating/summarizing spoken points, and adding personality through humorous commentary (often with emojis or 'hahaha'). The font is a clean, white sans-serif.
+- **visual_style**: The visual style is 'elevated handheld.' It feels authentic and spontaneous but uses well-composed shots, close-ups of details (toys, food, signs), and natural lighting to create a pleasing aesthetic.
+- **signature_moves**: A key signature move is the use of long, uninterrupted 'storytime' segments at the beginning to build a connection with the audience before moving into more traditional travel b-roll.
+
+- 40:00.0 talk_to_camera: The creator talks directly to the camera in a cafe, sharing a personal story. No background music, just ambient cafe noise.
+- 41:06.0 cut: Cut to a wider angle of the creator in the cafe, still talking to the camera.
+- 41:17.0 cut: Cut to a close-up of her coffee and bag on the wooden table by a window.
+- 41:23.8 speed: Short timelapse of the creator sitting at the table, looking at her phone.
+- 41:23.8 text: Text overlay: "(edit video 1 xiu)" in a simple white sans-serif font.
+- 41:27.0 talk_to_camera: The creator is now walking outside on a city street, talking to the camera in a selfie-style shot.
+- 41:49.0 cut: Cut to a different angle of her walking and talking, showing more of the street behind her.
+- 41:58.5 cut: B-roll shot of a street sign: "Yuyuan Rd."
+- 42:03.8 cut: B-roll shot of another street sign: "Fenggang Rd."
+- 42:06.8 cut: B-roll shot of a neighborhood map on a wall.
+- 42:13.8 music: Soft, melodic acoustic guitar and piano music begins. It is upbeat and gentle.
+- 42:13.8 text: Location tag overlay: "@ Yuyuan Road" in white text with a slight shadow.
+- 42:13.8 cut: B-roll montage of the street: trees, buildings, and shop fronts.
+- 42:21.0 voiceover: The creator's voiceover starts over b-roll of laundry hanging on a balcony.
+- 42:21.0 text: Text overlay: "Vy rất thích đi bộ ngắm đường ngắm phố"
+- 42:23.0 text: Text overlay: "nên nguyên vlog cũng có từng đó hahahah"
+- 42:24.8 talk_to_camera: Returns to a selfie-style shot of her talking while walking.
+- 42:31.8 cut: Shot of her taking a photo of herself in a mirror decorated with stuffed animals.
+- 42:38.5 cut: Interior shots of a toy shop filled with plushies.
+- 42:41.8 text: Humorous text overlay: "chiikawa nổi bên này kinh khủng :))"
+- 42:48.0 talk_to_camera: The creator continues her walk, talking to the camera about the shops.
+- 42:59.5 voiceover: Voiceover returns as she shows various plush toys in a shop.
+- 43:10.5 text: Text overlay: "mn nhìn cái áo nó kìa :)))))" over a shot of a dog in a sweater.
+- 43:21.5 text: Location tag: "@ Yaojin Yuyuan Branch"
+- 43:24.8 talk_to_camera: The creator is inside a restaurant, talking to the camera while eating a large bowl of noodles.
+- 43:45.5 cut: Back outside, walking and talking as the sun begins to set.
+- 43:49.5 text: Text overlay: "lá bắt đầu chuyển màu cho thứ" over shots of trees.
+- 43:55.5 cut: View from a car window showing the city skyline at sunset.
+- 44:01.0 transition: Fade to black.
+

@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#310 16:24.5",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman with long dark hair in front of yellow wall, mid-speech, hand low",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm yellow wall, window with building view on left, natural daylight"
+  },
+  {
+   "label": "#311 16:28.6",
+   "shot": "split_screen",
+   "camera": "unknown",
+   "subject": "Woman speaking beside a map inset of route in upper left",
+   "text_on_screen": "",
+   "text_style": "Map graphic, small rectangular inset top-left with red and blue route markers",
+   "notes": "Map overlay pops in over talking head, picture-in-picture style"
+  },
+  {
+   "label": "#311 16:32.7",
+   "shot": "split_screen",
+   "camera": "unknown",
+   "subject": "Woman speaking beside a map showing blue dashed route, lower right caption",
+   "text_on_screen": "CAPANNA ALPINA",
+   "text_style": "White italic serif caption, small, centered lower area over yellow wall",
+   "notes": "Map inset top-left with blue dashed trail; location caption added under map"
+  },
+  {
+   "label": "#312 16:36.8",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman gesturing with raised hand near her head, talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Expressive hand gesture, framing slightly off-center right"
+  },
+  {
+   "label": "#312 16:40.9",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman speaking directly to camera, centered",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static talking-head framing"
+  },
+  {
+   "label": "#312 16:45.0",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman speaking with hand gesture at right edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand gesture enters frame from right"
+  },
+  {
+   "label": "#312 16:49.1",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman speaking, pointing right with thumb-like gesture",
+   "text_on_screen": "RIFUGIO LAGAZUOI",
+   "text_style": "White italic serif caption, medium size, mid-frame over yellow wall",
+   "notes": "Location caption overlaid at chest height; pointing gesture to the right"
+  },
+  {
+   "label": "#312 16:53.2",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman with eyes closed mid-speech, arm extended to right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Arm moving out of frame on right"
+  },
+  {
+   "label": "#312 16:57.3",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman speaking to camera, centered",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static talking-head framing"
+  },
+  {
+   "label": "#312 17:01.4",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman speaking with open hand gesture at lower right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand gesture entering from bottom right"
+  },
+  {
+   "label": "#312 17:05.5",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman listening with neutral expression, centered",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static talking-head framing"
+  },
+  {
+   "label": "#312 17:09.6",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman laughing, head tilted back, arm at right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Candid reaction moment"
+  },
+  {
+   "label": "#312 17:13.7",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman speaking to camera, mouth open, lower framing",
+   "text_on_screen": "@ELENATABER",
+   "text_style": "White italic serif watermark handle, bottom center, small",
+   "notes": "Handle watermark persistent across bottom of frame"
+  },
+  {
+   "label": "#312 17:17.8",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman speaking with slight squint, centered",
+   "text_on_screen": "@ELENATABER",
+   "text_style": "White italic serif watermark handle, bottom center, small",
+   "notes": "Watermark persists"
+  },
+  {
+   "label": "#312 17:21.9",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman speaking to camera, centered",
+   "text_on_screen": "@ELENATABER",
+   "text_style": "White italic serif watermark handle, bottom center, small",
+   "notes": "Watermark persists"
+  },
+  {
+   "label": "#312 17:26.0",
+   "shot": "medium",
+   "camera": "unknown",
+   "subject": "Woman speaking with head tilted, lower framing",
+   "text_on_screen": "@ELENATABER",
+   "text_style": "White italic serif watermark handle, bottom center, small",
+   "notes": "Watermark persists"
+  }
+ ]
+}

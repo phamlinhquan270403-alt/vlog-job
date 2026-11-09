@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#105 05:33.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in graphic tee on bed, talking to camera, hands gesturing",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior lighting, window with city view behind, slightly wide framing"
+  },
+  {
+   "label": "#105 05:37.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman on bed mid-sentence, hands moving, talking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup as previous shot, continuous talking segment"
+  },
+  {
+   "label": "#105 05:41.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman on bed with hand near mouth, mid-speech",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, jump cut likely between talking takes"
+  },
+  {
+   "label": "#105 05:45.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman on bed gesturing with both hands while speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, warm grade, window light on right"
+  },
+  {
+   "label": "#106 05:50.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman holding phone showing translation app toward camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Phone screen shown held near lens, tight framing, transition to phone demo"
+  },
+  {
+   "label": "#106 05:54.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman holding phone at chin, speaking, phone in lower hand",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Medium framing, reaction-style talking segment"
+  },
+  {
+   "label": "#106 05:58.8",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Translation app showing English phrase and Chinese translation",
+   "text_on_screen": "May may I ask where the mask where the toilet is\n请問廁所的口罩在哪裡",
+   "text_style": "Sans-serif UI text, black on white, teal translated line, small size, centered in app panel",
+   "notes": "Screen recording inserted over hand-held phone, clean white UI"
+  },
+  {
+   "label": "#106 06:03.2",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Translation app with phrase, woman's hand holding phone at edge",
+   "text_on_screen": "May may I ask where the mask where the toilet is\n請問廁所的口罩在哪裡",
+   "text_style": "Sans-serif UI text, black on white, teal translation, small size, right-side placement",
+   "notes": "Phone angled, partial face visible at left edge"
+  },
+  {
+   "label": "#106 06:07.6",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Translation app showing mic button, woman's face partly visible at left",
+   "text_on_screen": "May may I ask where the mask where the toilet is\n請問廁所的口罩在哪裡",
+   "text_style": "Sans-serif UI text, black on white, teal translation, small size, blue mic icon at bottom",
+   "notes": "Phone held up, blue microphone button visible, transition to face"
+  },
+  {
+   "label": "#106 06:11.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman on bed gesturing with one hand, phone in other hand showing screen",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Medium framing, phone displayed at lower right"
+  },
+  {
+   "label": "#107 06:16.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman on bed holding phone up, speaking expressively",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wider framing showing bed and window, warm grade"
+  },
+  {
+   "label": "#107 06:20.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman on bed with both hands raised, mid-explanation",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same wide framing, energetic gestures"
+  },
+  {
+   "label": "#107 06:24.9",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman sitting on bed, looking at camera, calm expression",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wider shot, bed and window visible, possible cut point"
+  },
+  {
+   "label": "#107 06:29.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman sitting on bed with hands on mattress, talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide framing, same location, continuous segment"
+  },
+  {
+   "label": "#108 06:32.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in hotel room mirror taking photo with phone",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Mirror shot, bright daylight from window, reflective framing"
+  },
+  {
+   "label": "#109 06:36.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman holding phone with triple camera toward lens, smiling",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close framing on phone and face, bright natural light, possible end-of-segment shot"
+  }
+ ]
+}

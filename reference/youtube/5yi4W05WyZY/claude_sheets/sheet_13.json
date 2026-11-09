@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#116 11:56.3",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Temple complex with red-roofed buildings and gardens surrounded by trees, from elevated view",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide establishing drone shot, natural daylight, slightly muted greens"
+  },
+  {
+   "label": "#117 11:59.0",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Temple pagoda roofs among trees with white stone balustrade in foreground",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Drone move forward/low angle, continuation of temple sequence"
+  },
+  {
+   "label": "#118 12:01.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Interior of restaurant with long tables and chairs under blue walls, signage above",
+   "text_on_screen": "BÚN CÁ CHÂU ĐỐC / PHỞ - BÒ KHO - BÚN LÒ HUẾ / ĐT: 0967 970 709",
+   "text_style": "Bold sans-serif, black and red on yellow banner, top of frame; small address line below",
+   "notes": "Establishing shot of restaurant exterior sign transitioning to interior"
+  },
+  {
+   "label": "#119 12:03.3",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Table with iced tea glasses, a yellow plate with bread, and bowl of braised stew",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overhead-angle food close-up, warm tones, shallow depth of field"
+  },
+  {
+   "label": "#120 12:05.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Hand reaching toward a bowl of noodle soup with bean sprouts and herbs on table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Top-down food shot with hand entering frame, warm lighting"
+  },
+  {
+   "label": "#121 12:07.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Street-side food stall area at night with tables, people and vendor counter",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Night ambient B-roll, warm artificial light, slight camera movement"
+  },
+  {
+   "label": "#122 12:09.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white top eating at restaurant table with bowls in front of her",
+   "text_on_screen": "",
+   "text_style": "Restaurant signage in yellow banner behind her, partly obscured",
+   "notes": "Host on-camera eating shot, medium framing, natural light"
+  },
+  {
+   "label": "#123 12:12.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Spoon lifting pieces of white bread-like food into a bowl of dark broth",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight food insert, fast cut style"
+  },
+  {
+   "label": "#124 12:14.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white top smiling while eating, restaurant interior behind her",
+   "text_on_screen": "NGA / BÚN CÁ CHÂU ĐỐC / BÒ KHO - BÚN LÒ HUẾ",
+   "text_style": "Bold sans-serif on yellow banner, partially cropped at top",
+   "notes": "Host reaction shot, warm interior lighting"
+  },
+  {
+   "label": "#125 12:17.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Hands with chopsticks and bowls of noodles, glasses of tea on table, host eating",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Over-the-shoulder table framing, slightly soft focus"
+  },
+  {
+   "label": "#126 12:21.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Chopsticks lifting noodles from a bowl with host seated at table",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Table-level framing with bowls of herbs and noodles"
+  },
+  {
+   "label": "#127 12:24.8",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Bowl of dark braised beef stew with onion and carrot, spoon in frame",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overhead food close-up, warm grade"
+  },
+  {
+   "label": "#128 12:28.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white top eating noodles with chopsticks at restaurant table",
+   "text_on_screen": "NGA / BÚN CÁ CHÂU ĐỐC / BÒ KHO - BÚN LÒ HUẾ / ĐT: 0967 970 709",
+   "text_style": "Bold sans-serif on yellow banner, top of frame",
+   "notes": "Host eating shot, consistent with earlier restaurant sequence"
+  },
+  {
+   "label": "#129 12:32.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in glasses talking to camera, close framing, interior background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie-style vlog talking head, slight motion blur, warm indoor light"
+  },
+  {
+   "label": "#129 12:37.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in glasses with white top talking to camera near wooden decor and lamp",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide selfie talking head with clip-on mic visible, warm interior"
+  },
+  {
+   "label": "#129 12:42.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in glasses talking to camera in front of ornate wooden wall panel",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close selfie talking head, warm colour grade, ends sequence"
+  }
+ ]
+}

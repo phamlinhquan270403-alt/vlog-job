@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#1 00:00.9",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Turquoise lake surface with distant yurt camp on far shore",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide drone shot, teal-green water, slightly hazy grade"
+  },
+  {
+   "label": "#2 00:04.6",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Lake shoreline with several white yurts on green grassland under cloudy sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low drone glide over water toward shore, bright sky, soft warm grade"
+  },
+  {
+   "label": "#3 00:07.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in black walking past two yurts across grassy field",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered horizontally near lower-middle of frame",
+   "notes": "Tracking side profile walk; title text overlaid on footage"
+  },
+  {
+   "label": "#4 00:07.7",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in long patterned dress walking across plaza before ornate madrasa facade",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, spanning frame width near middle-lower area",
+   "notes": "Smooth gimbal tracking, warm sunlit grade on brick architecture"
+  },
+  {
+   "label": "#5 00:08.1",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman in white top and black shorts walking under pointed brick arches",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Side tracking walk, same title overlay style repeated across shots"
+  },
+  {
+   "label": "#6 00:08.4",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in white hijab and white outfit walking across courtyard with tiled portal behind",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Side tracking walk, cooler grade"
+  },
+  {
+   "label": "#7 00:08.8",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in black walking on red rock dirt path with eroded sandstone formations",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Side tracking walk, saturated red-orange landscape"
+  },
+  {
+   "label": "#8 00:09.1",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in black walking under covered colonnade with marble edge and crowd",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Walking shot, neutral daylight grade"
+  },
+  {
+   "label": "#9 00:09.5",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in long dress walking across plaza with blue-domed madrasa and seated people",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Tracking side walk, warm sunlit grade"
+  },
+  {
+   "label": "#10 00:09.9",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman in white top and black skirt walking past brick arches",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Side tracking walk, warm grade"
+  },
+  {
+   "label": "#11 00:10.2",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in long dress walking toward camera across plaza before ornate facade",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Frontal approach walk, muted green-gold grade"
+  },
+  {
+   "label": "#12 00:10.6",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in black walking past white yurt on green hillside",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Side tracking walk, green-tinted grade"
+  },
+  {
+   "label": "#13 00:10.9",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in black walking under colonnade with marble ledge and people",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Side tracking walk, neutral grade"
+  },
+  {
+   "label": "#14 00:11.3",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in black dress and boots walking before geometric tiled wall",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Side tracking walk, warm grade"
+  },
+  {
+   "label": "#15 00:11.7",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman in black and white outfit walking toward camera under brick arches",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Frontal walk, warm grade"
+  },
+  {
+   "label": "#16 00:12.0",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in long dress walking across plaza toward blue-domed madrasa",
+   "text_on_screen": "SILK ROAD",
+   "text_style": "Bold white sans-serif, all caps, large, centered lower-middle",
+   "notes": "Side tracking walk, warm sunset grade"
+  }
+ ]
+}

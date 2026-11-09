@@ -1,0 +1,165 @@
+{
+ "start": 1920,
+ "events": [
+  {
+   "t": 1920.0,
+   "type": "talk_to_camera",
+   "what": "Vy eating noodles and talking to the camera. Music starts: upbeat acoustic pop, no vocals."
+  },
+  {
+   "t": 1941.0,
+   "type": "zoom",
+   "what": "Punch-in zoom on Vy eating noodles."
+  },
+  {
+   "t": 1981.5,
+   "type": "broll",
+   "what": "Night street food scene in Hanoi. Voiceover begins."
+  },
+  {
+   "t": 1988.0,
+   "type": "text",
+   "what": "Yellow script text identifying food: 'Nem nướng', 'Xoài', 'Trà quất'."
+  },
+  {
+   "t": 1991.0,
+   "type": "talk_to_camera",
+   "what": "Vy eating fried snacks at a sidewalk stall."
+  },
+  {
+   "t": 1995.0,
+   "type": "zoom",
+   "what": "Close-up shot of the fried snack on a stick."
+  },
+  {
+   "t": 2001.5,
+   "type": "broll",
+   "what": "Motorbike ride through Hanoi streets at night. Voiceover continues."
+  },
+  {
+   "t": 2015.5,
+   "type": "broll",
+   "what": "Exterior of the porridge shop. Voiceover continues."
+  },
+  {
+   "t": 2016.0,
+   "type": "text",
+   "what": "Location text: 'Cháo sườn sụn Huyền Anh', 'Chợ đêm Đồng Xuân'."
+  },
+  {
+   "t": 2019.5,
+   "type": "talk_to_camera",
+   "what": "Vy eating porridge at the night market."
+  },
+  {
+   "t": 2035.5,
+   "type": "zoom",
+   "what": "Close-up of adding pepper to the porridge."
+  },
+  {
+   "t": 2050.0,
+   "type": "transition",
+   "what": "Camera shutter flash effect with shutter sound."
+  },
+  {
+   "t": 2051.0,
+   "type": "broll",
+   "what": "Morning street scene. Music changes to cozy lo-fi jazz."
+  },
+  {
+   "t": 2051.0,
+   "type": "text",
+   "what": "Stylized text: 'A cozy morning', 'Tiệm nhà Bắp Bơ'."
+  },
+  {
+   "t": 2056.0,
+   "type": "talk_to_camera",
+   "what": "Vy sitting in a cafe, checking her phone."
+  },
+  {
+   "t": 2059.0,
+   "type": "zoom",
+   "what": "Close-up of coffee being stirred."
+  },
+  {
+   "t": 2068.0,
+   "type": "talk_to_camera",
+   "what": "Vy walking and talking to the camera about her next meal."
+  },
+  {
+   "t": 2094.5,
+   "type": "broll",
+   "what": "Steaming Banh Cuon being prepared. Voiceover begins."
+  },
+  {
+   "t": 2095.0,
+   "type": "text",
+   "what": "Location text: 'Bánh cuốn Hồng Anh', 'S74 Hàng Vải, Hoàn Kiếm'."
+  },
+  {
+   "t": 2106.5,
+   "type": "talk_to_camera",
+   "what": "Vy eating Banh Cuon and talking about the cold weather."
+  },
+  {
+   "t": 2198.5,
+   "type": "talk_to_camera",
+   "what": "Vy reacts to a train passing on the tracks above her."
+  },
+  {
+   "t": 2210.0,
+   "type": "talk_to_camera",
+   "what": "Outfit check segment showing her hoodie, jacket, and shoes."
+  },
+  {
+   "t": 2260.0,
+   "type": "transition",
+   "what": "Camera shutter flash effect with shutter sound."
+  },
+  {
+   "t": 2263.5,
+   "type": "broll",
+   "what": "Walking into a narrow alleyway restaurant. Voiceover begins."
+  },
+  {
+   "t": 2264.0,
+   "type": "text",
+   "what": "Location text: 'Bún đậu mẹt Tuấn Trọc', '23 Phan Huy Ích, Ba Đình'."
+  },
+  {
+   "t": 2277.0,
+   "type": "broll",
+   "what": "Close-up of the Bun Dau platter. Voiceover continues."
+  },
+  {
+   "t": 2299.0,
+   "type": "talk_to_camera",
+   "what": "Vy and her friend talking and joking while eating."
+  },
+  {
+   "t": 2387.0,
+   "type": "talk_to_camera",
+   "what": "Vy eating dessert on the sidewalk."
+  },
+  {
+   "t": 2387.5,
+   "type": "text",
+   "what": "Location text: 'Caramen Kim Yến', '21 Hàng Than, Ba Đình'."
+  },
+  {
+   "t": 2388.0,
+   "type": "broll",
+   "what": "Close-up of the caramel dessert. Voiceover begins."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a food-focused itinerary in Hanoi, moving from night snacks (noodles, porridge) to morning coffee, then lunch (Banh Cuon, Bun Dau), and finally dessert.",
+  "pacing": "The pacing is relaxed, typical of a lifestyle vlog. It balances long conversational segments with quick B-roll montages to introduce new locations.",
+  "music": "The music is used to set the mood: upbeat acoustic pop for the night and day segments, transitioning to a slower lo-fi jazz vibe for the morning cafe scene.",
+  "voice": "Vy uses a friendly, conversational tone, speaking directly to her audience. She mixes live commentary while eating with descriptive voiceovers during B-roll transitions.",
+  "sound_design": "Natural ambient sounds like street traffic, the train passing, and eating sounds are kept in the mix. A signature camera shutter sound is used for major transitions.",
+  "text_style": "Handwritten-style yellow and white text is used consistently to identify food items and restaurant locations, usually placed in the upper corners.",
+  "visual_style": "The visual style is handheld and intimate. It features many close-ups of food ('food porn' style) and wide shots of the bustling Hanoi streets.",
+  "signature_moves": "The editor uses a camera shutter flash effect and sound to transition between different times of day or major locations, creating a 'photo album' feel."
+ }
+}

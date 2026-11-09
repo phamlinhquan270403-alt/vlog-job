@@ -1,0 +1,180 @@
+{
+ "start": 1440,
+ "events": [
+  {
+   "t": 1440.0,
+   "type": "music",
+   "what": "Upbeat, lo-fi hip-hop track starts, no vocals, ducked under speech."
+  },
+  {
+   "t": 1440.0,
+   "type": "talk_to_camera",
+   "what": "The creator is eating at a street stall at night, talking to someone off-camera."
+  },
+  {
+   "t": 1442.8,
+   "type": "cut",
+   "what": "Cut to a slightly different angle of the same scene."
+  },
+  {
+   "t": 1455.0,
+   "type": "broll",
+   "what": "Close-up of the noodles being lifted with chopsticks."
+  },
+  {
+   "t": 1461.5,
+   "type": "cut",
+   "what": "Back to the main shot of the creator talking."
+  },
+  {
+   "t": 1468.5,
+   "type": "broll",
+   "what": "Close-up of the creator eating noodles."
+  },
+  {
+   "t": 1474.0,
+   "type": "cut",
+   "what": "Back to the main shot."
+  },
+  {
+   "t": 1508.0,
+   "type": "broll",
+   "what": "Close-up of a fried dough stick (quẩy)."
+  },
+  {
+   "t": 1510.0,
+   "type": "cut",
+   "what": "Back to the main shot."
+  },
+  {
+   "t": 1530.0,
+   "type": "broll",
+   "what": "Close-up of the creator dipping the dough stick into the soup."
+  },
+  {
+   "t": 1540.0,
+   "type": "cut",
+   "what": "Back to the main shot."
+  },
+  {
+   "t": 1547.5,
+   "type": "sfx",
+   "what": "Whoosh sound effect for transition."
+  },
+  {
+   "t": 1548.0,
+   "type": "music",
+   "what": "Music changes to a more upbeat, acoustic pop-style lo-fi track."
+  },
+  {
+   "t": 1548.0,
+   "type": "talk_to_camera",
+   "what": "The creator is getting ready in front of a mirror, applying makeup and talking to the camera."
+  },
+  {
+   "t": 1566.0,
+   "type": "zoom",
+   "what": "Punch-in for emphasis as she speaks."
+  },
+  {
+   "t": 1592.0,
+   "type": "zoom",
+   "what": "Punch-in for emphasis."
+  },
+  {
+   "t": 1621.0,
+   "type": "zoom",
+   "what": "Punch-in for emphasis."
+  },
+  {
+   "t": 1659.0,
+   "type": "cut",
+   "what": "Cut to a wider shot of her in the room, showing her outfit."
+  },
+  {
+   "t": 1690.5,
+   "type": "sfx",
+   "what": "Whoosh sound effect for transition."
+  },
+  {
+   "t": 1691.0,
+   "type": "music",
+   "what": "Music changes to a chill, jazzy lo-fi track."
+  },
+  {
+   "t": 1691.0,
+   "type": "text",
+   "what": "Yellow serif text: 'Pizza 4P's' (top left), 'Lotte Mall Tây Hồ' (top right)."
+  },
+  {
+   "t": 1691.0,
+   "type": "broll",
+   "what": "Montage of the restaurant interior and food."
+  },
+  {
+   "t": 1700.5,
+   "type": "talk_to_camera",
+   "what": "The creator and her guest are eating and talking at the restaurant."
+  },
+  {
+   "t": 1704.0,
+   "type": "talk_to_camera",
+   "what": "The guest introduces herself to the camera."
+  },
+  {
+   "t": 1728.5,
+   "type": "cut",
+   "what": "Wide shot of the two women eating and chatting."
+  },
+  {
+   "t": 1792.5,
+   "type": "talk_to_camera",
+   "what": "The guest presents a gift to the creator."
+  },
+  {
+   "t": 1861.5,
+   "type": "broll",
+   "what": "Short montage of them finishing their meal."
+  },
+  {
+   "t": 1880.5,
+   "type": "sfx",
+   "what": "Whoosh sound effect for transition."
+  },
+  {
+   "t": 1881.0,
+   "type": "music",
+   "what": "Music changes to a mellow lo-fi track."
+  },
+  {
+   "t": 1881.0,
+   "type": "text",
+   "what": "Yellow serif text: 'Phở Gà Nguyệt' (top left), '5b Phủ Doãn, Hoàn Kiếm' (top right)."
+  },
+  {
+   "t": 1881.0,
+   "type": "broll",
+   "what": "Shots of the restaurant exterior and menu."
+  },
+  {
+   "t": 1888.5,
+   "type": "talk_to_camera",
+   "what": "The creator is eating chicken pho with a friend."
+  },
+  {
+   "t": 1894.5,
+   "type": "broll",
+   "what": "Close-up shots of the pho bowls."
+  }
+ ],
+ "summary": {
+  "structure": "The clip follows a day in Hanoi: late-night street food (0:00-1:47), a morning 'get ready with me' segment (1:48-4:10), lunch at a modern pizza restaurant with a guest (4:11-7:20), and dinner at a famous chicken pho spot (7:21-end).",
+  "pacing": "The pacing is relaxed, matching the lifestyle vlog genre. Eating segments feature longer takes of conversation, while the morning routine uses quicker cuts and punch-ins to maintain energy.",
+  "music": "Lo-fi hip-hop and jazzy tracks are used throughout, providing a consistent, chill atmosphere. The music shifts slightly in mood to match the time of day or location.",
+  "voice": "The creator uses a casual, friendly tone, speaking directly to the camera or interacting naturally with her companions. The dialogue is captured live.",
+  "sound_design": "Natural ambient sounds of the city and restaurants are present. Whoosh sound effects are used consistently to signal transitions between different locations/times.",
+  "text_style": "Location and restaurant names are displayed in the top corners using an elegant, yellow serif font.",
+  "visual_style": "The video has a handheld, authentic feel. It mixes wide shots of the environment with close-ups of food and medium shots for talking segments. Lighting varies from the harsh night lights of the street to the soft natural light of the mall.",
+  "signature_moves": "The use of whoosh transitions combined with location text in the corners is a recurring stylistic choice. Frequent punch-ins during talking segments are used to emphasize points or reactions."
+ }
+}

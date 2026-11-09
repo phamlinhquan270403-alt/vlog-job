@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#304 19:17.8",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand reaching over shelves of dark maroon makeup boxes and yellow packaging",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Top-down angle at a retail display; warm-neutral colour grade"
+  },
+  {
+   "label": "#305 19:19.7",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand holding up a yellow shopping bag in front of makeup boxes display",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of the same store display shot, slight move"
+  },
+  {
+   "label": "#306 19:22.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand pulling a Curél lotion bottle out of a round basket of skincare products",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close top-down product haul; circular basket framing"
+  },
+  {
+   "label": "#307 19:25.3",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand holding up Curél lotion bottle over the basket of skincare products",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same basket setup as previous shot, product held up to camera"
+  },
+  {
+   "label": "#308 19:29.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman talking outdoors on a city street, looking off to the side",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, medium close framing, street background"
+  },
+  {
+   "label": "#309 19:32.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same woman speaking outdoors beside trees and a parked car",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of talking-head segment, slight reframe"
+  },
+  {
+   "label": "#310 19:33.8",
+   "shot": "black",
+   "camera": "unknown",
+   "subject": "Solid black frame",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Black transition or pause between segments"
+  },
+  {
+   "label": "#311 19:37.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in front of a building with a gold-patterned facade, arm raised pointing",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Storefront backdrop, bright daylight"
+  },
+  {
+   "label": "#312 19:41.0",
+   "shot": "other",
+   "camera": "unknown",
+   "subject": "Woman walking on a street, shown inside a green-framed screen with a city road behind",
+   "text_on_screen": "Wander throguh the park",
+   "text_style": "white sans-serif subtitle-style caption, centered at bottom of frame",
+   "notes": "Picture-in-frame or phone-screen insert showing the walk; caption typed with a misspelling"
+  },
+  {
+   "label": "#313 19:43.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Dense green tree canopy with a white security camera on a wall",
+   "text_on_screen": "",
+   "text_style": "small yellow burned-in subtitle text at bottom-left, mostly illegible",
+   "notes": "Nature establishing shot, tilted upward"
+  },
+  {
+   "label": "#314 19:46.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in striped tank top in a bright indoor exhibition hall, holding a phone",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle lens with slight distortion; indoor event setting"
+  },
+  {
+   "label": "#315 19:48.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black-rimmed glasses touching her hair, speaking in the hall",
+   "text_on_screen": "sao nhìn Vy giống mấy tổng tài quá phải ko TQ z yo?",
+   "text_style": "small yellow sans-serif subtitle, bottom-left of frame",
+   "notes": "Vietnamese subtitle burned in; same hall location as previous shot"
+  },
+  {
+   "label": "#316 19:52.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman adjusting sunglasses in a store with a phone in the other hand",
+   "text_on_screen": "sương sương thôi ko có gì đâu, Vy xin ạ",
+   "text_style": "small yellow sans-serif subtitle, bottom-left of frame",
+   "notes": "Store interior with shelves; shallow depth of field"
+  },
+  {
+   "label": "#317 19:54.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in glasses holding a phone up as a mirror in a bright shop",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright white interior, mirror-selfie framing"
+  },
+  {
+   "label": "#318 19:56.6",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Close-up of woman touching her glasses frame and speaking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight face framing, punchy cut from previous wider shot"
+  },
+  {
+   "label": "#319 19:59.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman leaning on a bicycle under green trees, smiling",
+   "text_on_screen": "đẹp ko Vy dẹp xe đạp ... ấy đã",
+   "text_style": "small yellow sans-serif subtitle, bottom-right of frame",
+   "notes": "Outdoor park setting with green foliage; ends the sequence"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#179 19:14.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses talking to camera in bedroom with wooden headboard",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm natural light, medium close framing, talking head"
+  },
+  {
+   "label": "#179 19:18.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same woman gesturing while speaking in bedroom, lapel mic visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuous talking head, slight reframing from previous"
+  },
+  {
+   "label": "#179 19:22.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with glasses speaking, bedroom with white bed behind her",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, jump-cut continuity"
+  },
+  {
+   "label": "#179 19:27.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman touching her hair while talking in bedroom",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Same setup, warm grade"
+  },
+  {
+   "label": "#180 19:31.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Close-up of woman with glasses talking, wood-ceiling room behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight crop, shallow depth, warm tones"
+  },
+  {
+   "label": "#181 19:35.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman walks into bedroom from sliding glass door toward bed",
+   "text_on_screen": "Just a video",
+   "text_style": "small white sans-serif, centered-left, semi-transparent watermark-like",
+   "notes": "Opens onto garden through open glass door, handheld walk"
+  },
+  {
+   "label": "#182 19:39.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman in white dress and man in dark coat carrying bag through wooden-screen room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Candid walking shot, moving through doorway toward bathroom"
+  },
+  {
+   "label": "#183 19:43.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white dress holding dark jacket in tiled hallway",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tilted, casual framing, warm light"
+  },
+  {
+   "label": "#184 19:45.7",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Bedroom with large white bed and carved wooden wall, woman enters holding paper",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth wide establishing shot, symmetrical composition"
+  },
+  {
+   "label": "#185 19:47.9",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Same bedroom, woman walks across room toward bed",
+   "text_on_screen": "Just a video",
+   "text_style": "small white sans-serif, centered-left, semi-transparent watermark-like",
+   "notes": "Continuation of previous wide shot, slow dolly"
+  },
+  {
+   "label": "#186 19:51.4",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black swimsuit raising arm in bedroom holding white towel",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Playful pose, warm grade"
+  },
+  {
+   "label": "#186 19:55.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black swimsuit with glasses, holding white shirt, bedroom",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Quick cut from previous, same framing"
+  },
+  {
+   "label": "#186 19:59.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with glasses holding tote bag up, bedroom with wood wall",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low angle, continuous with previous"
+  },
+  {
+   "label": "#187 20:04.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Exterior of villa, woman in white walking out through doorway into garden",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Establishing exterior, green foliage, natural light"
+  },
+  {
+   "label": "#188 20:08.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with glasses holding up a snack under large green trees, talking excitedly",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle selfie-style, bright outdoor daylight"
+  },
+  {
+   "label": "#189 20:10.6",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand pointing down a paved path lined with palm trees",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "POV walking shot, pointing guides viewer forward"
+  }
+ ]
+}

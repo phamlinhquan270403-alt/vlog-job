@@ -1,0 +1,341 @@
+# 3 days in hong kong ˚ a mini guide + vlog
+
+- source: https://www.youtube.com/watch?v=BY8iRc1leV0
+- channel: Isa Sung, uploaded 20250204, 257308 views
+- 1280x720, 1048.2s, video: `G:\Vlog-job\reference\youtube\BY8iRc1leV0\video.mp4`
+- 306 shots (18/min), shot length p25/median/p75 1.67/2.34/3.92s, longest 25.9s
+- transcript: YouTube captions (video.en-orig.json3)
+
+## Contact sheets (`sheets/`, each label is `#shot mm:ss.s`)
+
+- `sheet_01.jpg`: shots 1–16
+- `sheet_02.jpg`: shots 17–32
+- `sheet_03.jpg`: shots 33–48
+- `sheet_04.jpg`: shots 49–64
+- `sheet_05.jpg`: shots 65–78
+- `sheet_06.jpg`: shots 78–91
+- `sheet_07.jpg`: shots 92–107
+- `sheet_08.jpg`: shots 108–117
+- `sheet_09.jpg`: shots 118–129
+- `sheet_10.jpg`: shots 130–144
+- `sheet_11.jpg`: shots 145–160
+- `sheet_12.jpg`: shots 161–175
+- `sheet_13.jpg`: shots 176–191
+- `sheet_14.jpg`: shots 192–203
+- `sheet_15.jpg`: shots 204–214
+- `sheet_16.jpg`: shots 214–228
+- `sheet_17.jpg`: shots 229–243
+- `sheet_18.jpg`: shots 243–255
+- `sheet_19.jpg`: shots 256–268
+- `sheet_20.jpg`: shots 269–284
+- `sheet_21.jpg`: shots 285–296
+- `sheet_22.jpg`: shots 297–306
+
+## Timeline (shot, start, length, speech during the shot)
+
+- #1 00:00.0 1.2s
+- #2 00:01.2 0.3s
+- #3 00:01.5 0.3s
+- #4 00:01.8 1.0s
+- #5 00:02.8 0.8s
+- #6 00:03.7 0.9s
+- #7 00:04.6 1.3s — [Music]
+- #8 00:05.9 0.9s — [Music]
+- #9 00:06.8 1.1s
+- #10 00:07.8 0.9s
+- #11 00:08.8 0.8s
+- #12 00:09.6 1.0s
+- #13 00:10.6 1.0s
+- #14 00:11.5 1.2s
+- #15 00:12.7 1.0s — hey you're
+- #16 00:13.6 3.2s — eating I Haven been back to Hong Kong in
+- #17 00:16.8 2.8s — 12 years and it feels so different / experiencing a nostalgic place as a
+- #18 00:19.6 5.0s — experiencing a nostalgic place as a / tourist growing up in San Francisco the / meals I ate in my childhood were always
+- #19 00:24.6 2.1s — meals I ate in my childhood were always / influenced by Hong Kong Cuisine my
+- #20 00:26.7 1.2s — influenced by Hong Kong Cuisine my
+- #21 00:27.9 1.3s — grandma's hot dog maoni soup dim some
+- #22 00:29.2 1.5s — grandma's hot dog maoni soup dim some
+- #23 00:30.6 1.8s — every Sunday with my family and even
+- #24 00:32.4 4.1s — Cantonese being my first language even / though it's worn off but being back now
+- #25 00:36.5 3.9s — though it's worn off but being back now / the city feels both familiar and new at
+- #26 00:40.4 2.0s — the same time so there's so much to take
+- #27 00:42.4 3.3s — in from the food to the energy and I
+- #28 00:45.7 1.8s — can't wait to share it with you
+- #29 00:47.5 2.1s — [Music]
+- #30 00:49.5 1.9s
+- #31 00:51.4 1.7s
+- #32 00:53.1 1.6s
+- #33 00:54.7 1.9s — guys today is our first full day in Hong
+- #34 00:56.6 3.3s — Kong so we're going to some l spots by
+- #35 00:59.9 1.6s
+- #36 01:01.4 1.3s
+- #37 01:02.7 1.6s — [Music]
+- #38 01:04.3 1.4s
+- #39 01:05.7 1.7s
+- #40 01:07.4 1.8s
+- #41 01:09.2 2.5s — locals the first place we went to is
+- #42 01:11.7 2.9s — called Australia Dairy company and it's
+- #43 01:14.6 2.4s — such an iconic restaurant for even the
+- #44 01:17.0 1.6s — locals they're known for breakfast items
+- #45 01:18.6 2.0s — such as macaroni soup eggs and ham and
+- #46 01:20.6 2.0s — such as macaroni soup eggs and ham and
+- #47 01:22.5 2.1s — the meals are about $6
+- #48 01:24.7 1.8s — to7 we all ended up getting a set Meal
+- #49 01:26.5 1.8s — which included their super soft bread a
+- #50 01:28.3 1.3s — which included their super soft bread a
+- #51 01:29.6 1.4s — drink and also a Mane but if you guys go
+- #52 01:31.0 1.3s
+- #53 01:32.3 3.7s — the macaroni soup with ham the iced milk / tea and The Toasted milk bread with
+- #54 01:36.0 2.2s — tea and The Toasted milk bread with / butter is truly my
+- #55 01:38.1 1.5s — butter is truly my
+- #56 01:39.7 1.5s — favorite
+- #57 01:41.2 5.6s — hello
+- #58 01:46.8 1.8s
+- #59 01:48.6 1.3s — [Music]
+- #60 01:49.8 1.2s
+- #61 01:51.0 1.4s — you're I stumbled into this coffee shop
+- #62 01:52.4 1.7s
+- #63 01:54.1 1.9s — called halfway coffee and I loved all of
+- #64 01:55.9 1.2s — the porcelain teacups and mugs and the
+- #65 01:57.2 1.5s
+- #66 01:58.6 1.7s — detail that made it really retro but
+- #67 02:00.3 1.8s — comforting at the same time this is a
+- #68 02:02.1 1.5s — comforting at the same time this is a
+- #69 02:03.7 1.5s — perfect place to get some work done or
+- #70 02:05.2 1.6s — even just catch up with a friend which
+- #71 02:06.8 1.7s — is what I did but the menus were also
+- #72 02:08.5 1.4s — all in English so it was super easy to
+- #73 02:09.9 2.8s — all in English so it was super easy to / navigate okay we're headed to dinner and
+- #74 02:12.7 3.9s — this is what we're wearing my jacket and
+- #75 02:16.6 0.5s
+- #76 02:17.1 9.6s — my pants are actually both thrifted this / one is like a striped trouser and this / is like the most perfect suede material / Brown for jacket I'll insert a picture
+- #77 02:26.6 5.2s — and then my shoes are Tony Bianco but / we're going to go have some hot Po and / go meet the family uh my jacket is from
+- #78 02:31.9 12.8s — my brother my t-shirt is a baked black / tea you have to show it no do it / anyways and then belt is brother my belt / is not my brother's but he bought it for
+- #79 02:44.6 5.5s — is not my brother's but he bought it for / me it's diesel then Panther unique / clothes and busting
+- #80 02:50.1 1.5s — clothes and busting
+- #81 02:51.6 1.9s
+- #82 02:53.5 1.9s
+- #83 02:55.4 2.0s
+- #84 02:57.4 1.8s — clouds hey yo
+- #85 02:59.2 12.0s — Lucas you like car / hard uh yeah I / do me too we came to this hot pot place
+- #86 03:11.2 2.2s — after a really long day and this was
+- #87 03:13.4 1.4s
+- #88 03:14.8 1.1s — actually such a fun place to bring your
+- #89 03:15.9 1.4s — friends to it was definitely on the
+- #90 03:17.3 1.6s — friends to it was definitely on the
+- #91 03:18.9 2.2s — price year side which my parents weren't
+- #92 03:21.0 1.7s — the biggest fan of but personally I'd
+- #93 03:22.7 2.0s — love to come back because I just love
+- #94 03:24.8 1.5s — the Ambiance so much the beef is also
+- #95 03:26.3 1.3s
+- #96 03:27.5 1.9s — hand cut which makes it so speci
+- #97 03:29.5 2.3s — but if you're a hot pot lover let me
+- #98 03:31.8 1.8s — know if there's another place you try or
+- #99 03:33.5 2.0s — if you go to this one we're at the Hot
+- #100 03:35.5 4.8s — Pot Place calleda hot po / laa loia which means downstairs and to
+- #101 03:40.3 1.7s
+- #102 03:41.9 2.5s — get downstairs you have to go laa which
+- #103 03:44.4 0.7s
+- #104 03:45.1 2.6s — means down a flight of stairs that's how / you get here and kend people are very
+- #105 03:47.7 3.1s — blunt and literal
+- #106 03:50.8 3.7s
+- #107 03:54.5 2.3s — [Music]
+- #108 03:56.8 2.6s
+- #109 03:59.4 2.2s — CH Leo I'm Isa I basically just said
+- #110 04:01.6 5.0s — hello everybody in bootleg Cantonese
+- #111 04:06.6 5.1s — okay my voice is deep because my / siblings and I went out last night we / went out in L Fang with my friend seph
+- #112 04:11.8 4.1s — and so much fun we got home at 5:00 in / the morning that's how they do it in
+- #113 04:15.8 4.6s — Asia guys they are out till the sun / comes up but we're going to go eat and
+- #114 04:20.4 5.3s — try all the food that we've been wanting / to go to in Hong Kong and I just wanted
+- #115 04:25.7 25.9s — to say hi good morning and I hope you / guys really enjoy Joy because also we / don't play about these recommendations / if you guys use these travel Vlogs as a / guy I hope you really thoroughly enjoy / all the spots that I recommend if a / restaurant is booty cheeks I will say it / or I will take that shit out because / don't waste your vacation time on dooky / ass food just know you're getting the / best the best in these Vlogs IMO IO yeah
+- #116 04:51.7 3.3s — anyway let's go guys hey
+- #117 04:54.9 9.2s — Lucas good morning from my brother and I / Goot / TD it's really hot right now we're not
+- #118 05:04.1 1.5s
+- #119 05:05.6 5.0s — one I think it's strong one right say / one last time I was here when I was 11 I
+- #120 05:10.6 0.6s
+- #121 05:11.1 15.3s — went to Kon in Hong Kong and everything / in a continent in Asia was like marked / down compared to the US so I bought a / bunch of charms and then I brought it / back to school to make chokers and I / sold them I remember back then the kids
+- #122 05:26.5 12.2s — were really into on brand um they were / so excited saw coton on yeah we're / really excited to see like any American
+- #123 05:38.7 3.7s — [Music] / Store so for this next place it's 3.5
+- #124 05:42.4 2.0s
+- #125 05:44.4 1.2s — stars on Google for some reason but that
+- #126 05:45.6 1.5s — stars on Google for some reason but that
+- #127 05:47.1 3.0s — doesn't dictate anything because this / was by far my most memorable meal in
+- #128 05:50.1 1.5s — Hong Kong they're known for having the
+- #129 05:51.6 4.5s — Hong Kong they're known for having the / most tender beef brisket noodles and / each Bowl was around 10 bucks for the
+- #130 05:56.1 3.3s — each Bowl was around 10 bucks for the / quality and the flavor I don't think I
+- #131 05:59.4 1.7s — can find any place like it in the US and
+- #132 06:01.1 4.9s — I think about it very very
+- #133 06:06.0 11.4s — often my go
+- #134 06:17.4 3.0s
+- #135 06:20.4 5.9s
+- #136 06:26.3 2.9s
+- #137 06:29.2 1.6s — absolutely white
+- #138 06:30.8 3.4s — absolutely
+- #139 06:34.1 4.3s — empty
+- #140 06:38.4 3.9s — wish only
+- #141 06:42.3 2.1s — a guys we're at our second Lunch Spot
+- #142 06:44.4 1.8s
+- #143 06:46.2 0.7s
+- #144 06:46.9 3.6s — courtesy of our our dad why did you / shoot my tummy when you do that but
+- #145 06:50.5 5.0s — don't worry we walked here shirt you / like the shirt really puts everything / away you got a lot of space away I know
+- #146 06:55.5 1.2s
+- #147 06:56.7 1.4s — that the first meal of Al only filled up
+- #148 06:58.1 5.5s — to here we're about three three 30% / llama's so good got to fuck up some
+- #149 07:03.7 2.2s — geese it's the best geese go tank tops
+- #150 07:05.9 1.6s
+- #151 07:07.5 6.9s
+- #152 07:14.4 0.9s — backwards well it
+- #153 07:15.3 4.1s — just that says directly translates into
+- #154 07:19.4 0.7s
+- #155 07:20.1 2.4s — airplane roast duck who travel safe
+- #156 07:22.5 5.0s — package this just so you can fly with it
+- #157 07:27.5 4.5s — the duck is so good that people want to / bring / and they'll travel the
+- #158 07:32.0 2.1s — plane we got here too
+- #159 07:34.1 2.0s
+- #160 07:36.1 1.3s — once happy
+- #161 07:37.5 1.7s
+- #162 07:39.2 1.8s — Halloween
+- #163 07:41.0 2.0s — um duck my head no pun in pend this is
+- #164 07:43.0 2.7s — um duck my head no pun in pend this is
+- #165 07:45.6 1.5s
+- #166 07:47.1 9.1s — the best Goose because we had for 10 / years in a row but it's not a cat not / cat but imagine in
+- #167 07:56.2 7.8s — cat but imagine in / h one that they're known for and tend / one of the best this is your favorite
+- #168 08:03.9 2.6s
+- #169 08:06.6 3.0s — wow / go we're sharing a table by the
+- #170 08:09.6 2.2s — go we're sharing a table by the
+- #171 08:11.8 2.1s
+- #172 08:13.9 1.4s
+- #173 08:15.3 2.1s — way imagine traveling all the way back
+- #174 08:17.4 5.1s — and having this nice tender piece of / goose this real Tas you the thing about
+- #175 08:22.5 1.9s
+- #176 08:24.4 5.2s — traveling with my family is that we / always save room for more meals because / we don't have enough time in the day so
+- #177 08:29.6 3.2s — we went to our favorite place to have / roasted geese and it was so sweet with
+- #178 08:32.8 3.8s — roasted geese and it was so sweet with / the Umami flavor is just so like tender
+- #179 08:36.6 3.1s — and fatty in the best way but with the
+- #180 08:39.7 2.5s — Salted scallion sauce and The Salted egg
+- #181 08:42.2 1.6s — Salted scallion sauce and The Salted egg
+- #182 08:43.8 2.4s — my mouth is literally watering as I talk
+- #183 08:46.2 2.3s — about
+- #184 08:48.5 1.8s — [Applause]
+- #185 08:50.3 2.7s — it the neighborhood of this coffee shop
+- #186 08:53.0 2.2s — was actually so charming and I got to
+- #187 08:55.2 2.7s — explore for quite a bit one thing I
+- #188 08:57.9 2.2s — really love about h Hong Kong is how it
+- #189 09:00.0 3.0s — seamlessly Blends traditional Chinese / culture with modern Western
+- #190 09:03.0 2.3s — [Music]
+- #191 09:05.3 4.9s
+- #192 09:10.2 1.3s
+- #193 09:11.6 1.6s — influences I just made it to this Cafe
+- #194 09:13.1 22.8s — called Nook and in this little Nook in / Alle I ordered a honeycomb latte and / this fresh honeycomb on top I think it's / called do but you basically have this / like foamy milk and you stir in coffee / it's here where we
+- #195 09:36.0 2.8s
+- #196 09:38.8 3.8s
+- #197 09:42.6 2.0s
+- #198 09:44.6 2.1s — this dim some restaurant called L te
+- #199 09:46.7 2.0s — house is actually the one restaurant I
+- #200 09:48.7 2.1s — remember coming when I was 12 years old
+- #201 09:50.8 2.0s — it opened in 1933 and actually the first
+- #202 09:52.7 2.3s — it opened in 1933 and actually the first / floor is reserved for only longtime
+- #203 09:55.1 2.7s — floor is reserved for only longtime / customers so we got quite lucky that we
+- #204 09:57.7 3.0s — got to sit here for the first time
+- #205 10:00.7 2.8s — because the server recognized my dad's / face we are at
+- #206 10:03.5 9.8s — face we are at / look which is a tea house for dimsum / what you know about getting dimsum in / Hong / Kong OG's I believe this is the older
+- #207 10:13.3 3.4s — style going to get some chicken
+- #208 10:16.7 13.2s — feet / my when we were little we would go to / have dim suum every Sunday in San / Francisco San Francisco has a lot of CES / people and
+- #209 10:29.9 12.9s — cuz yesterday when I came he said to / come back and I I said every time we / came we were sent stood upstairs and / today he he remembers me he's like okay / I'm try to give you
+- #210 10:42.8 6.1s — downstairs kiss eats mustard by / itself indiv this what keeps going to
+- #211 10:48.9 1.2s
+- #212 10:50.1 3.3s — like random eyes and calling me S and
+- #213 10:53.4 0.3s
+- #214 10:53.8 11.1s — they keep laughing it's so annoying / that's how we relate / [Laughter]
+- #215 11:04.9 7.9s
+- #216 11:12.8 3.6s
+- #217 11:16.4 3.9s
+- #218 11:20.3 7.3s — we came for one thing and one thing only / [Music]
+- #219 11:27.6 8.9s — oh wa explosion of
+- #220 11:36.5 5.4s — flavor
+- #221 11:41.9 4.9s — flavor / happy think we should get another P
+- #222 11:46.8 5.5s — [Music] / oh don't know don't know
+- #223 11:52.3 6.4s — oh don't know don't know / flavor / M we'll see
+- #224 11:58.7 4.0s — e saucey
+- #225 12:02.7 2.5s
+- #226 12:05.2 2.6s — sauce you have to wash
+- #227 12:07.8 2.4s
+- #228 12:10.2 2.5s — it I don't want another trip to
+- #229 12:12.7 3.4s
+- #230 12:16.2 2.3s
+- #231 12:18.5 3.2s — be guys you have to help us we don't
+- #232 12:21.7 6.6s — be guys you have to help us we don't / have any more space in our stomach our / dad brought us to another meal for / yourself changed my outfit in the midst
+- #233 12:28.3 3.3s — yourself changed my outfit in the midst / of the Hong Kong
+- #234 12:31.5 0.5s
+- #235 12:32.1 1.6s — public I don't think so I actually don't
+- #236 12:33.7 10.9s — think it's supposed to be like / a whatever this is wait that's not my / why is mine all normal types tell caty / ass bro my cards are fire wait wait what
+- #237 12:44.6 2.0s — ass bro my cards are fire wait wait what
+- #238 12:46.5 2.5s — is mine my cards are fire giraffe rage I
+- #239 12:49.1 2.0s — don't want this shit what the this is
+- #240 12:51.0 1.6s
+- #241 12:52.6 3.4s — got to be the worst pack ever yo yo wait
+- #242 12:56.0 0.4s
+- #243 12:56.4 8.4s — and why are there only five cars aren't / there supposed to be like 14 feel like / they put all the best cards in your / pako / waito
+- #244 13:04.9 1.9s — what Gengar
+- #245 13:06.7 4.2s — G
+- #246 13:10.9 2.4s — [Music] / Gengar my parents love to roam around
+- #247 13:13.3 2.9s — and find Hole in the Wall Restaurant so
+- #248 13:16.2 1.6s — they stumbled across this grilled oyster
+- #249 13:17.8 2.0s — joint and there were a lot of locals
+- #250 13:19.8 1.3s — having bar bites and yummy grilled
+- #251 13:21.1 9.6s — having bar bites and yummy grilled / Seafood I can't remember the name of / this so if any of you guys who are local / in Hong Kong can pinpoint it please let / me know but it was so yummy and such a
+- #252 13:30.8 2.9s — nice little Hidden Gem our right yeah
+- #253 13:33.6 15.1s — you're holding hands every corer / garlic / me / no I know there's no foreigners here too / it's my fault it's only
+- #254 13:48.7 2.0s
+- #255 13:50.7 1.5s
+- #256 13:52.2 2.4s
+- #257 13:54.6 1.9s
+- #258 13:56.5 2.8s — locals m if I Liv in Hong Kong this
+- #259 13:59.3 3.0s — would be the perfect Friday night
+- #260 14:02.3 1.8s — spot I call this bite the everything
+- #261 14:04.1 4.8s — only one place all at
+- #262 14:08.8 3.6s — once you're in such a GL we just
+- #263 14:12.5 1.1s
+- #264 14:13.6 18.0s — finished having yummy BBQ oysters and / now we're going to the next spot to have / bon which is L Pot rice if you can't / hear my / ass got to eat Clay Pot rice okay let's / go this is all connected in the B ion
+- #265 14:31.6 3.6s — go this is all connected in the B ion / World pink Clay Pot rice was recommended
+- #266 14:35.2 2.5s — by my dad's Chef friend so we emptied
+- #267 14:37.8 5.1s — by my dad's Chef friend so we emptied / basically everything but this spot even
+- #268 14:42.8 1.8s — has some local high school students
+- #269 14:44.6 3.0s — because it's just a go-to place that's / really comforting
+- #270 14:47.7 5.2s
+- #271 14:52.9 1.8s
+- #272 14:54.7 2.6s
+- #273 14:57.4 6.0s — is me that's the the
+- #274 15:03.4 2.5s — P hey we are you know what's fire she
+- #275 15:05.9 2.5s
+- #276 15:08.5 2.8s
+- #277 15:11.3 4.8s — said CR the bottom good Bo I found live
+- #278 15:16.1 3.8s — on it's not going to stick to the bottom / it comes right off crispy it's going to
+- #279 15:20.0 2.3s — be the best crust that's the liver liver
+- #280 15:22.2 3.2s — intestine and that's the beef and the
+- #281 15:25.4 2.2s — chicken
+- #282 15:27.6 6.0s — chicken / try that thank you all right try it / taste test right now everybody look at
+- #283 15:33.6 7.4s — that look at that the spish calls it / whatat / Sarat it's a crunchy on the bottom and
+- #284 15:41.0 3.5s — then it's nice and warm with the rice so
+- #285 15:44.4 8.0s — I don't know if you guys saw but you / pour the dark soy sauce in and then it / like sizzles in cuz the clay pot is just / so hot this is Chinese sausage I want to
+- #286 15:52.5 4.3s — make a perfect bite mom Lucas's patience
+- #287 15:56.8 13.1s — will be rewarded cuz that's like a / perfect looking bite / cheers do the do the reaction
+- #288 16:09.9 5.9s — Ginger do the do the food bloger
+- #289 16:15.8 2.2s
+- #290 16:18.0 4.5s — reaction that's spared short / rib watch out cuz they're bones clean as
+- #291 16:22.5 2.9s — bone
+- #292 16:25.4 6.0s — bone / turn that's a big big piece of lob CH y
+- #293 16:31.4 2.1s — your
+- #294 16:33.5 4.8s — lips that sausage is / busting all right out of
+- #295 16:38.3 9.1s — busting all right out of / 10 top TI uh 7.3 7.3 it's kind of low
+- #296 16:47.4 4.4s — don't play with the songs don't play / don't don't play don't play
+- #297 16:51.8 1.8s — don't don't play don't play
+- #298 16:53.6 3.6s — [Music]
+- #299 16:57.3 2.3s
+- #300 16:59.5 4.8s
+- #301 17:04.3 2.5s — to end off this amazing foodie tour we / went to Paragon which is this new Speak
+- #302 17:06.8 2.1s — Easy opened by our family friend so if
+- #303 17:08.9 6.0s — you guys ever find yourself in Hong Kong / don't only try the traditional places / but also come to this cute little spot
+- #304 17:14.9 2.8s — but also come to this cute little spot / where you can have a nice drink with
+- #305 17:17.7 2.3s — your friends I hope you guys enjoyed
+- #306 17:20.0 8.2s — this video be sure to like comment and / subscribe and I'll see you in my next / one / [Music]

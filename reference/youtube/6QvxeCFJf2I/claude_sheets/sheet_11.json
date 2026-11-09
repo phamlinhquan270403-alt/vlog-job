@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#154 05:00.7",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Woman with backpack walking through airport hall, looking aside, ceiling and columns visible",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle lens, slight warm tones, handheld walking movement"
+  },
+  {
+   "label": "#155 05:01.9",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Hand holding phone showing a app screen with green and red panels, rolling suitcase beside",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close insert of phone UI, likely a flight or map app; cut on action"
+  },
+  {
+   "label": "#156 05:04.6",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white shirt and backpack gesturing in airport arrivals hall with carousel",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Handheld walking shot, warm daylight from windows"
+  },
+  {
+   "label": "#157 05:07.7",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Smiling woman in white shirt with backpack beside baggage carousel",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth gimbal follow, bright exposure, possibly continuation of previous shot"
+  },
+  {
+   "label": "#158 05:10.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman with backpack talking to camera outside airport, blurred light panel at left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Arm-length selfie, direct address, shallow depth of field"
+  },
+  {
+   "label": "#159 05:12.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same woman speaking to camera in front of airport entrance with signage",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Selfie continuation, jump cut style from previous talking shot"
+  },
+  {
+   "label": "#160 05:14.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Driver's view from inside car looking at Hamkor Bank building and traffic",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Windshield POV, dashboard visible, daylight, slight tilt"
+  },
+  {
+   "label": "#161 05:15.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Car interior windshield view of tree-lined road with white bus ahead",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Dashboard and steering wheel in frame, green natural tones"
+  },
+  {
+   "label": "#162 05:17.0",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Hotel room with bed, pillows and warm glowing light through frosted window",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Slow establishing interior shot, warm grade, muted tones"
+  },
+  {
+   "label": "#163 05:18.3",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Sunset view over trees toward a multi-storey building and mountains in distance",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Golden hour, slow reveal, soft haze, warm grade"
+  },
+  {
+   "label": "#164 05:19.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Dashboard view of tree-lined boulevard with car navigation screen",
+   "text_on_screen": "& THEN OFF TO...",
+   "text_style": "white uppercase sans-serif, medium size, centered in upper middle",
+   "notes": "Driving POV, text overlay as narration bridge, fades in and out"
+  },
+  {
+   "label": "#165 05:21.7",
+   "shot": "wide",
+   "camera": "drone",
+   "subject": "White minibus driving on road past green trees and a fence",
+   "text_on_screen": "& THEN OFF TO...",
+   "text_style": "white uppercase sans-serif, medium size, centered in upper middle",
+   "notes": "Continuation of same overlay across cut, exterior follow shot"
+  },
+  {
+   "label": "#166 05:23.4",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Woman in long dress walking along a park path lined with trees and lamps",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright daylight, soft green grade, slight low angle"
+  },
+  {
+   "label": "#167 05:24.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Pedestrians and a family walking in a plaza with a boy and a woman in headscarf",
+   "text_on_screen": "REGISTAN SQUARE",
+   "text_style": "white uppercase bold sans-serif, large, centered lower third",
+   "notes": "Location title caption, held for several seconds"
+  },
+  {
+   "label": "#168 05:25.7",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "People walking on a paved plaza with flower beds and benches",
+   "text_on_screen": "REGISTAN SQUARE",
+   "text_style": "white uppercase bold sans-serif, large, centered lower third",
+   "notes": "Same caption persists across cut, warm sunlit grade"
+  },
+  {
+   "label": "#169 05:26.9",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Two older women in headscarves sitting on a bench near flower planters",
+   "text_on_screen": "REGISTAN SQUARE",
+   "text_style": "white uppercase bold sans-serif, large, centered lower third",
+   "notes": "Caption ends on this shot, candid documentary feel, warm grade"
+  }
+ ]
+}

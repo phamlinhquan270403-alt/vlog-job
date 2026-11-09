@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#45 01:12.3",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Animated world map, dark blue continents on pale background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Map animation, paper-textured pale blue backdrop, likely zoom or pan transition"
+  },
+  {
+   "label": "#46 01:12.9",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Zoomed world map centred on Asia and Africa",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuation of map move, zooming toward destination region"
+  },
+  {
+   "label": "#47 01:15.1",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Map of Central Asia with highlighted Uzbekistan region",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Grey-blue muted palette, region highlighted in dark navy, stylised map graphic"
+  },
+  {
+   "label": "#47 01:19.3",
+   "shot": "title_card",
+   "camera": "unknown",
+   "subject": "Uzbekistan map with city markers Bukhara and Samarkand",
+   "text_on_screen": "BUKHARA SAMARKAND",
+   "text_style": "small serif caps, white, placed over map near centre-left",
+   "notes": "Map zoom in on Uzbekistan, city labels appear as pins"
+  },
+  {
+   "label": "#48 01:23.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women seated on a bench under a shaded courtyard with trees",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Natural daylight, warm tones, casual conversational framing"
+  },
+  {
+   "label": "#49 01:26.4",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in white adjusting her sandal or clothing on a bench",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tight cut from previous wide, same location, warm natural grade"
+  },
+  {
+   "label": "#50 01:27.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Market street with colourful textiles and tall turquoise minaret",
+   "text_on_screen": "OUR JOURNEY BEGINS",
+   "text_style": "white sans-serif caps, thin, centred lower-middle",
+   "notes": "Title overlay on establishing shot, bright sunny grade"
+  },
+  {
+   "label": "#51 01:28.8",
+   "shot": "aerial",
+   "camera": "drone",
+   "subject": "Aerial view over adobe rooftops of old Bukhara city",
+   "text_on_screen": "BUKHARA",
+   "text_style": "large white bold sans-serif caps, centred, drop shadow",
+   "notes": "Drone flyover, title card over footage, warm desert colour grade"
+  },
+  {
+   "label": "#52 01:30.1",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Narrow sunlit alley between pale walls",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth walking shot, strong shadows, high contrast"
+  },
+  {
+   "label": "#53 01:30.8",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Archway entrance to a plaza with shops and trees beyond",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Forward walking move through arch, warm grade"
+  },
+  {
+   "label": "#54 01:31.4",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Walking through the same archway with shop fronts on left",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continuous forward motion matching previous shot, good match-cut candidate"
+  },
+  {
+   "label": "#55 01:32.6",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Two women walking in a park, one pointing ahead, market tents behind",
+   "text_on_screen": "FT. OUR LOCAL GUIDE FOR THE MORNING: BEXRUZA",
+   "text_style": "small white sans-serif caps, centred lower area, two lines",
+   "notes": "Lower-third style caption introducing guide, bright daylight"
+  },
+  {
+   "label": "#56 01:34.3",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Smiling woman with dark hair turning, green garden behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Shallow depth of field, soft bokeh background"
+  },
+  {
+   "label": "#57 01:36.5",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Lyabi Khauz pond with madrasa and tree-lined banks",
+   "text_on_screen": "LYABI KHAUSE SQUARE",
+   "text_style": "white sans-serif caps, medium weight, centred lower-middle, slight shadow",
+   "notes": "Location caption over establishing shot of water and historic facade"
+  },
+  {
+   "label": "#58 01:38.4",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Pond edge with weeping willows and teahouse building",
+   "text_on_screen": "LYABI KHAUSE SQUARE",
+   "text_style": "white sans-serif caps, medium weight, centred lower-middle, slight shadow",
+   "notes": "Same caption repeated across consecutive shots, consistent placement"
+  },
+  {
+   "label": "#59 01:39.4",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Covered terrace restaurant beside willows along water",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Caption removed, slow lateral move, warm afternoon grade"
+  }
+ ]
+}

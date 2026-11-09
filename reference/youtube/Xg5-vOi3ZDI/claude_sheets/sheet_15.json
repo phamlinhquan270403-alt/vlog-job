@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#190 08:13.8",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Hiker on grassy rocky trail pointing ahead, mountain slopes behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand enters frame from lower left pointing; natural daylight, slightly warm grade"
+  },
+  {
+   "label": "#191 08:19.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Smiling woman with sunglasses on head, black top, grassy alpine valley behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Arm-length selfie with wide lens distortion; bright saturated greens"
+  },
+  {
+   "label": "#192 08:23.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman with trekking pole crossing boulder field under blue sky",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide landscape behind subject; bright high-contrast daylight"
+  },
+  {
+   "label": "#193 08:25.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Hiker with backpack walking across rocky slope beside snow patches",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Distant subject in scree; snow strips give strong white contrast"
+  },
+  {
+   "label": "#194 08:25.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Hiker in dark jacket walking down rocky slope with snow patches",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Short clip; cut on movement from previous shot"
+  },
+  {
+   "label": "#195 08:26.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Hiker descending scree slope with snow streaks",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Similar framing to previous, slight zoom; likely jump-cut continuity"
+  },
+  {
+   "label": "#196 08:27.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in sunglasses and black top smiling, rocky mountain behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close arm-length selfie, wide angle; hand visible at right edge"
+  },
+  {
+   "label": "#197 08:28.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in sunglasses with earbud talking to camera, valley behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head style selfie; backpack strap visible; bright daylight"
+  },
+  {
+   "label": "#198 08:30.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Wide mountain valley view with large rock tower and snow",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Establishing landscape shot; no subject visible"
+  },
+  {
+   "label": "#199 08:32.1",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Lone hiker walking through boulder field below tall rock face",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Subject small in frame; grey desaturated tones"
+  },
+  {
+   "label": "#200 08:34.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black outfit walking on snowfield toward camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright snow foreground; cloudy blue sky background"
+  },
+  {
+   "label": "#201 08:37.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Small hiker walking down snowy slope between rock walls",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Subject in distance right; snow foreground leads eye"
+  },
+  {
+   "label": "#202 08:39.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Rocky path climbing between cliffs toward distant hiker",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Low angle; cliff framing left, sky opening upper right"
+  },
+  {
+   "label": "#203 08:41.0",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Person in sun hat and dark jacket walking away on rocky trail",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Steady follow shot from behind; orange cliffs frame both sides"
+  },
+  {
+   "label": "#204 08:42.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Narrow rock gap opening onto snowy mountain plateau",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Symmetrical framing through rock gap; possible reveal transition"
+  },
+  {
+   "label": "#205 08:44.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in cap walking down rocky slope, lake and valley below",
+   "text_on_screen": "Lorem ipsum dolor sit amet",
+   "text_style": "Small italic white script-style font, centered near lower middle, low contrast",
+   "notes": "Caption overlay on footage; warm rock tones, slight sun flare"
+  }
+ ]
+}

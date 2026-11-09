@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#121 08:59.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman laughing close to camera in dark night setting",
+   "text_on_screen": "lon server ))))",
+   "text_style": "small white subtitle-style text, bottom center",
+   "notes": "Dark low-light footage, warm skin tones, subtitles in Vietnamese-style captions"
+  },
+  {
+   "label": "#121 09:03.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman smiling beside a phone screen showing a vlog thumbnail",
+   "text_on_screen": "nhờ coi vlog Hà Thi tui đã là người đi taxi Trung chuyên nghiệp",
+   "text_style": "small yellow-white subtitle, bottom center",
+   "notes": "Dark interior, phone screen partly visible at bottom"
+  },
+  {
+   "label": "#121 09:08.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman laughing in dark car interior, face lit by ambient light",
+   "text_on_screen": "rồi hết bít rồi",
+   "text_style": "small white subtitle, bottom center",
+   "notes": "Low light, slightly shaky, tight framing"
+  },
+  {
+   "label": "#121 09:12.0",
+   "shot": "screen",
+   "camera": "handheld",
+   "subject": "Phone screen showing dense text in cyan and white over dark background",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Close shot of phone display, blue-tinted glow, dark surroundings"
+  },
+  {
+   "label": "#121 09:16.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hands holding phone showing a chat or app screen at night",
+   "text_on_screen": "ảnh hỏi đi TQ bao nhiêu lần với đi được đâu rồi",
+   "text_style": "small white subtitle, bottom center",
+   "notes": "Night street lighting, phone glowing, over-shoulder POV"
+  },
+  {
+   "label": "#121 09:20.1",
+   "shot": "screen",
+   "camera": "handheld",
+   "subject": "Close view of phone screen with text messages in dark mode",
+   "text_on_screen": "đây là lần đầu với ngày đầu của cả tui rồi",
+   "text_style": "small white subtitle, bottom center",
+   "notes": "Screen-focused, dark mode UI, tilted framing"
+  },
+  {
+   "label": "#121 09:24.2",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Hand holding phone with map or app interface at night",
+   "text_on_screen": "(thật toa đã sinh thành đường dài )))",
+   "text_style": "small white subtitle, centre-left",
+   "notes": "Night scene, phone is focal point, blurred background"
+  },
+  {
+   "label": "#122 09:27.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Smiling woman looking up at the sky with city lights behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright exposure on face, outdoor night, shallow depth"
+  },
+  {
+   "label": "#123 09:29.9",
+   "shot": "wide",
+   "camera": "tripod",
+   "subject": "Shanghai Pudong skyline across river at night with Oriental Pearl Tower",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Establishing wide shot, water reflections, colourful building lights"
+  },
+  {
+   "label": "#124 09:32.2",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Oriental Pearl Tower lit red framed by buildings and crowd below",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Crowded waterfront foreground, vibrant red and orange lighting"
+  },
+  {
+   "label": "#125 09:35.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white top standing on plaza with skyline and crowd behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Full-body framing, people walking around, colourful skyline"
+  },
+  {
+   "label": "#126 09:40.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Smiling woman talking to camera with city street behind her",
+   "text_on_screen": "ăn đâu được thấy sơn đường đã thấy trên mạng bây giờ",
+   "text_style": "small white subtitle, bottom center",
+   "notes": "Blurred street lights and traffic in background, warm tones"
+  },
+  {
+   "label": "#126 09:45.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in profile with street lamp and city lights behind",
+   "text_on_screen": "lần đầu được thấy sơn đường đã thấy trên mạng bây giờ này",
+   "text_style": "small white subtitle, bottom left",
+   "notes": "Motion blur, moving camera along street"
+  },
+  {
+   "label": "#126 09:49.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Close smiling woman with Pudong skyline and pearl tower behind",
+   "text_on_screen": "lần đầu được thấy sơn đường đã thấy trên mạng bây giờ rồi",
+   "text_style": "small yellow subtitle, bottom center",
+   "notes": "Wide-angle selfie, skyline in background, slight motion blur"
+  },
+  {
+   "label": "#127 09:53.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Crowd on Bund waterfront with Oriental Pearl Tower and skyscrapers",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Dense crowd silhouettes in foreground, night city lights"
+  },
+  {
+   "label": "#128 09:54.6",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Busy illuminated street with pedestrians and large billboard",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm street lighting, colourful signage, crowded pedestrian area"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#402 13:31.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Three women in a car backseat, one gesturing while talking",
+   "text_on_screen": "And so many opportunities for small and mid-sized businesses to start",
+   "text_style": "white sans-serif subtitle, small, bottom centre",
+   "notes": "Interior car light, warm natural grade, subtitles used as narration"
+  },
+  {
+   "label": "#403 13:36.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Same three women in car, woman in middle looking ahead, one gesturing",
+   "text_on_screen": "A lot of people started moving back",
+   "text_style": "white sans-serif subtitle, small, bottom centre",
+   "notes": "Continuation of previous car interview shot, slightly different framing"
+  },
+  {
+   "label": "#404 13:39.1",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "View through car windshield of city street with white and grey cars",
+   "text_on_screen": "Like a lot of Uzbeks started moving back from the US to Tashkent",
+   "text_style": "white sans-serif subtitle, small, bottom centre",
+   "notes": "Dashboard visible at bottom, driving POV, daylight"
+  },
+  {
+   "label": "#405 13:41.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman walking along street past ornate cream building with cars parked",
+   "text_on_screen": "IT'S TIME FOR A PROPER LUNCH",
+   "text_style": "white bold sans-serif caps, medium, centre",
+   "notes": "Title-style overlay introducing lunch segment, bright daylight"
+  },
+  {
+   "label": "#406 13:42.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white walking through ornate restaurant doorway",
+   "text_on_screen": "IT'S TIME FOR A PROPER LUNCH",
+   "text_style": "white bold sans-serif caps, medium, centre",
+   "notes": "Overlay persists from previous shot, carries title across cuts"
+  },
+  {
+   "label": "#407 13:43.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Ornate dark wooden doors with gold carving opening to hallway with people",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm interior lighting, decorative architecture establishing shot"
+  },
+  {
+   "label": "#408 13:43.9",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Large decorated dining hall with tables, woman walking in",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Smooth gimbal movement, warm tungsten grade, ornate ceilings"
+  },
+  {
+   "label": "#409 13:44.9",
+   "shot": "wide",
+   "camera": "gimbal",
+   "subject": "Wide view of ornate restaurant hall with columns and balcony",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Continues dining hall sequence, warm grade"
+  },
+  {
+   "label": "#410 13:45.8",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Two women walking through restaurant past gold chairs",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Follow shot from behind, tracking movement"
+  },
+  {
+   "label": "#411 13:46.8",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Table with salad plates, glasses and hand reaching in",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Food insert, shallow depth of field"
+  },
+  {
+   "label": "#412 13:48.0",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Plate of fresh salad with cucumber and tomato",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Top-down food close-up, warm natural grade"
+  },
+  {
+   "label": "#413 13:49.3",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Hand with fork over salad plate with tomato and cucumber",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Eating insert, cut from previous food shot"
+  },
+  {
+   "label": "#414 13:51.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white shirt speaking at restaurant table gesturing",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head on location, ornate background"
+  },
+  {
+   "label": "#415 13:53.3",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Bowl of red soup with herbs and oil",
+   "text_on_screen": "MASTAVA",
+   "text_style": "white sans-serif caps, small, centre of bowl",
+   "notes": "Dish name label introducing food item"
+  },
+  {
+   "label": "#416 13:55.3",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Bowl of soup with meat pieces and spoon",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Second soup insert, same grade as previous"
+  },
+  {
+   "label": "#417 13:57.1",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in white shirt at table speaking with restaurant interior behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head continuation of restaurant segment"
+  }
+ ]
+}

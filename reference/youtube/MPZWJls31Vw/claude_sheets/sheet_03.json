@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#10 01:53.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Young person in hoodie in driver seat, hands gesturing while talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Interior car view, bright window light behind, natural daylight colour"
+  },
+  {
+   "label": "#10 01:57.5",
+   "shot": "screen",
+   "camera": "phone_screen",
+   "subject": "Phone held up showing lock screen reading 8:33",
+   "text_on_screen": "8:33",
+   "text_style": "white phone UI text, small, centre-top of phone screen",
+   "notes": "Phone filmed close to lens, bright white screen dominates frame"
+  },
+  {
+   "label": "#11 02:01.7",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie with hand touching cheek, talking to camera",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Tighter framing, steering wheel visible on right"
+  },
+  {
+   "label": "#11 02:06.0",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie with finger raised near mouth, mid-explanation",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hood up, same car interior framing"
+  },
+  {
+   "label": "#11 02:10.3",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie with both hands raised in gesture",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Medium-close framing, dark car interior"
+  },
+  {
+   "label": "#11 02:14.6",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie with hand spread open toward camera, arm extended",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide-angle arm reach distorts hand size"
+  },
+  {
+   "label": "#11 02:18.9",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie looking at camera, hand raised at left edge",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hood up, steady talking-head"
+  },
+  {
+   "label": "#11 02:23.2",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie with open palm gesture, arm extended right",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Steering wheel in right foreground"
+  },
+  {
+   "label": "#11 02:27.5",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie with hand raised palm facing camera, talking",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Hand in left foreground"
+  },
+  {
+   "label": "#11 02:31.8",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie with hand moving across chest area",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head with gesture"
+  },
+  {
+   "label": "#11 02:36.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie with both palms up, explaining",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Centred framing"
+  },
+  {
+   "label": "#11 02:40.4",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Person in hoodie looking at camera, neutral expression",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Static talking-head ending the segment"
+  },
+  {
+   "label": "#12 02:45.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Person in hoodie drinking from a silver water bottle in car",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bottle held near face, cool daylight tone"
+  },
+  {
+   "label": "#13 02:49.4",
+   "shot": "wide",
+   "camera": "unknown",
+   "subject": "Car dashboard with infotainment screen showing music and maps",
+   "text_on_screen": "",
+   "text_style": "infotainment UI, small, coloured tiles, centre dashboard",
+   "notes": "Interior dash shot, blue ring around screen; transition to driving footage"
+  },
+  {
+   "label": "#14 02:51.6",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Road view through windshield with grey car ahead and trees",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overcast daylight, muted colour, driver's-seat POV"
+  },
+  {
+   "label": "#15 02:54.9",
+   "shot": "pov",
+   "camera": "handheld",
+   "subject": "Highway through windshield with orange traffic cone and hills",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Overcast sky, slightly desaturated, road ahead"
+  }
+ ]
+}

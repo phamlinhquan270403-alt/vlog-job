@@ -1,0 +1,148 @@
+{
+ "frames": [
+  {
+   "label": "#1 00:01.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Interior room with window blinds, a person sitting by the window outside",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Warm daylight, bright interior, muted greens and beige tones"
+  },
+  {
+   "label": "#2 00:03.5",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black jacket and glasses eating from a bowl at a night street stall",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered on frame",
+   "notes": "Small watermark 'là không đủ' right side and '@opinvy' below center; night colour grade with warm light; a hand reaching in from left foreground"
+  },
+  {
+   "label": "#3 00:04.5",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Night street restaurant with people seated at tables under trees and a tall building",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered; small watermark '5 ngày ở' top left",
+   "notes": "Night scene, warm lights, watermark '@opinvy' below"
+  },
+  {
+   "label": "#4 00:05.3",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Two women posing by a lake with trees overhanging the water",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered; small watermark 'là không đủ' right",
+   "notes": "Daytime, soft natural light, slightly desaturated"
+  },
+  {
+   "label": "#5 00:06.1",
+   "shot": "selfie",
+   "camera": "handheld",
+   "subject": "Woman in sheer white top filming selfie with another woman in fluffy white jacket",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered; small watermark '5 ngày ở' left",
+   "notes": "Indoor cafe setting, warm tones, phone visible in hand"
+  },
+  {
+   "label": "#6 00:07.0",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman sitting at table with pizza, beer cans and a glass of drink by a window",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered; small watermark '5 ngày ở' and 'là không đủ'",
+   "notes": "Bright daylight through glass, green plants in background"
+  },
+  {
+   "label": "#7 00:08.0",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Woman smiling at camera beside a silhouetted man at a graffiti-covered shutter at night",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered; small watermark 'là không đủ' right",
+   "notes": "Night street, dark tones with warm street light"
+  },
+  {
+   "label": "#8 00:09.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Man and woman in glasses eating from bowls, close to camera",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, partially cut off at right edge; watermark '@opinvy' below",
+   "notes": "Close framing, tight crop, warm indoor light"
+  },
+  {
+   "label": "#9 00:10.3",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman in black cap and glasses speaking outdoors at night beside a road",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered; small watermark '5 ngày ở' and 'là không đủ'",
+   "notes": "Night street, dark background with trees and lights"
+  },
+  {
+   "label": "#10 00:11.4",
+   "shot": "wide",
+   "camera": "handheld",
+   "subject": "Lone figure in dark coat walking along misty lake shore under bare tree branches",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered; watermark '@opinvy' below",
+   "notes": "Overcast, cool desaturated grade, moody atmosphere"
+  },
+  {
+   "label": "#11 00:12.2",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in dark jacket seated at a casual street eatery with red baskets and food",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered; watermark '@opinvy' below",
+   "notes": "Warm indoor light, red and orange tones"
+  },
+  {
+   "label": "#12 00:13.1",
+   "shot": "closeup",
+   "camera": "handheld",
+   "subject": "Woman eating with chopsticks from a bowl of herbs and noodles at outdoor table",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered",
+   "notes": "Daylight, street visible behind with white van"
+  },
+  {
+   "label": "#13 00:14.3",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in black holding a cake with a candle at a night street cafe with lights",
+   "text_on_screen": "Hà Nội",
+   "text_style": "Yellow script font, large, centered; watermark '5 ngày ở' and '@opinvy'",
+   "notes": "Night, bokeh string lights, warm grade"
+  },
+  {
+   "label": "#14 00:17.6",
+   "shot": "medium",
+   "camera": "gimbal",
+   "subject": "Woman in glasses and denim jacket speaking to camera holding a small microphone in apartment",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Bright interior, white walls, wooden shelves; talking-head style"
+  },
+  {
+   "label": "#14 00:22.9",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Same woman speaking to camera holding microphone, window with street view behind",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Talking-head, bright daylight through window; likely a jump cut from previous shot"
+  },
+  {
+   "label": "#15 00:27.7",
+   "shot": "medium",
+   "camera": "handheld",
+   "subject": "Woman in denim jacket touching her chin in a bright apartment living room",
+   "text_on_screen": "",
+   "text_style": "",
+   "notes": "Wide room visible with TV and plants, natural light, soft tones"
+  }
+ ]
+}
